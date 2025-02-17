@@ -9,7 +9,10 @@ I don't have a database of the stock from these websites, so it's just a scraper
 ## Scraped pages so far:  
 - **CompraGamer**  
 - **HardGamers**  
-- **710tech**  
+- **710tech**
+- **Puerto Minero**
+- **NGTech**
+- *undertaker (attempt, not implemented)*
 
 ## Setup:  
 ```sh
