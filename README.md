@@ -1,10 +1,9 @@
 # AikeArmarUnSetup  
-Aike (my name) + "Armar un setup".  
-It makes sense in Spanish xD.  
+Aike (mi nombre) armar un setup (objetivo)!
 
-This is a personal project, not actively coding right now, but the goal is to get all the prices from the most popular Argentinian websites for setup-related products. From desktops and chairs to PC components.  
+projecto personal no activamente codeando por cuestiones de la vida, pero el objetivo es lograr conseguir el mejor precio posible de cualquier articulo de la manera más rapida posible, sin pasar de pagina en pagina buscando precio y todo la vuelta horrible. Solo argentina!
 
-I don't have a database of the stock from these websites, so it's just a scraper for now. You have to manually specify which page you want to scrape. It's too raw at the moment.  
+setup incluye lo que debería tener una "habitación gamer", desde escritorios, sillas, accesorios, muñecos, etc. hasta una pc, consolas, etc.
 
 ## Scraped pages so far:  
 - **CompraGamer**  
