@@ -115,7 +115,7 @@ export const siteConfigs = {
 			"cate=83",
 			"cate=31",
 			"cate=111",
-			//"cate=21", wtf
+			"cate=21", 
 			"cate=3",
 			"cate=24",
 		],

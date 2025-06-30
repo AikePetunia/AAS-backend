@@ -1,0 +1,7 @@
+[
+	".js-item-product",
+	".js-item-name",
+	"[data-product-price]",
+	".item-link",
+	".js-item-image-padding img"
+]

@@ -1,0 +1,7 @@
+[
+	".w-grid-item.product.type-product",
+	".woocommerce-loop-product__title a",
+	".woocommerce-Price-amount.amount bdi",
+	".post_image a",
+	".attachment-woocommerce_thumbnail"
+]
