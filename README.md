@@ -1,54 +1,33 @@
-# React + TypeScript + Vite
+# Aike armar un setup.
+> This project is part of my personal learning journey. I'm not an expert developer, but I built this to explore web scraping, automation, and machine learning in a way that lets me create anything I imagine.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web scraping project focused on finding the best prices across Argentinian tech/gaming stores. The goal is to automate the process of:
+- Discovering product paths dynamically
+- Identifying useful HTML classes (title, price, etc.)
+- Avoiding manual setup for every new store
 
-Currently, two official plugins are available:
+⚠️ This tool scrapes public product listings. It does not access private data or databases.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- JavaScript (Playwright)
+- Python (scikit-learn / future: TensorFlow)
+- JSON / CSV for data handling
+- Bash + terminal tools (grep, sed, etc.)
 
-## Expanding the ESLint configuration
+## General Roadmap
+- [x] Get routes from website (via Gourlex)
+- [x] Get DOM structure via Playwright
+- [x] Manual labeling of good/bad routes/classes
+- [ ] Train IA to predict valid paths
+- [ ] Automate DOM selector detection
+- [ ] Return final `SiteConfig` JSON like HardGamers
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 💡 Future Features
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## ✨ Creator
+Made by [Venuss] 🇦🇷  
+Feel free to reach out! (you could drop your socials or contact later)
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+https://trello.com/b/5mmnv7ed/mi-tablero-de-trello
+https://readme.so/es/editor
+https://readme.so/es/editor
