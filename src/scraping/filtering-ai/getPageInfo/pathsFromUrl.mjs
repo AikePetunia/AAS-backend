@@ -1,7 +1,7 @@
 import { spawn } from "child_process";
 import fs from "fs/promises";
 import os from "os";
-
+// TODO change to csv
 // requieres https://github.com/trap-bytes/gourlex
 
 const getPaths = [

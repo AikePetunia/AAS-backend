@@ -2,6 +2,7 @@ import { chromium } from "playwright";
 import fs from "fs/promises";
 
 const pathsData = JSON.parse(await fs.readFile("./resultsPaths/paths.json", "utf8"));
+// TODO change to csv
 
 export async function classesFromPaths() {
 	await fs.mkdir("./resultsClasses", { recursive: true });
