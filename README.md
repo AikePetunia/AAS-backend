@@ -1,25 +1,22 @@
 # Aike armar un setup.
-> This project is part of my personal learning journey. I'm not an expert developer, but I built this to explore web scraping, automation, and machine learning in a way that lets me create anything I imagine.
+> This project is part of my personal learning journey. I'm not an expert developer, sorry for bad code and those things. Avoided AI help, it's a learning project. 
 > ⚠️ This tool scrapes public product listings. It does not access private data or databases.
+> ⚠️ This page part from the idea of [HardGamers](https://www.hardgamers.com.ar/), but with more features and with a more setup vision, not only a gaming computer. It's not my intention to compite. 
 
-A web scraping project focused on finding the best prices across Argentinian tech/gaming stores. The goal is to automate the process of:
-- Discovering product paths dynamically
-- Identifying useful HTML classes (title, price, etc.)
-- Avoiding manual setup for every new store
+A web scraping project focused on finding the best prices across Argentinian tech/gaming stores. The goal is to automate the process of watching 
 
-## Tech Stack
-- JavaScript (Playwright)
-- Python (scikit-learn / future: TensorFlow)
-- JSON / CSV for data handling
-- Bash + terminal tools (grep, sed, etc.)
+## Tech Stack used so far
+- Html
+- Css  
+- React + Typescript
+- Node + playwright
+- Python + scikit-learn
 
 ## General Roadmap
-- [x] Get routes from website (via Gourlex)
-- [x] Get DOM structure via Playwright
-- [x] Manual labeling of good/bad routes/classes
-- [ ] Train IA to predict valid paths
-- [ ] Automate DOM selector detection
-- [ ] Return final `SiteConfig` JSON like HardGamers
+- [X] Very basic front-end to show products
+- [X] Get paths and classes from pages with playwright to get datasets to train AI
+- [ ] Train AI to predict valid paths, classes from pages to automate scrappig new pages. [50%]
+- [ ]
 
 ## 💡 Future Features
 
