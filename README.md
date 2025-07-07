@@ -27,15 +27,12 @@ A web scraping project focused on finding the best prices across Argentinian tec
 - [ ] A reputation system for companies, based on google reviews or a system like reddit (Basic, no acc)
 - [ ] Account creation, to save products.
 - [ ] Pc creator, along side setup creation.
-- [ ] Contador para saber cuando llegan ofertas (hot sale, prime day, black friday)
+- [ ] Countdown for sales (hot sale, prime day, black friday)
 
 ## Things learnt so far in the project 
-
+- Scikit-learn
 
 ## ✨ Creator
 Made by [Venuss] 🇦🇷  
-Feel free to reach out! (you could drop your socials or contact later)
+[Feel free to reach out!](https://venuss.me) 
 
-https://trello.com/b/5mmnv7ed/mi-tablero-de-trello
-https://readme.so/es/editor
-https://readme.so/es/editor
