@@ -38,3 +38,4 @@ Made by [Venuss](https://venuss.me) 🇦🇷
 
 si se que es algo argentino y hablo en inglés, pero tambien para practicar inglés ;)
 
+npm init playwright@latest
