@@ -1,5 +1,0 @@
-".product-box",
-".product-box-title a",
-".current-price",
-".product-box-title a",
-".thumb img",

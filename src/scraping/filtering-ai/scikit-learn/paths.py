@@ -1,25 +1,13 @@
-
-"""
-Paso 1: ¿Qué tipo de predicción querés?
-
-    ¿Querés decir si una ruta es útil o no? → clasificación binaria
-
-    ¿Querés identificar si un selector es título, precio o imagen? → clasificación multiclase2
-
-"""
 import pandas as pd                                         # reading csv files
 from sklearn.ensemble import RandomForestClassifier         # comparing from strings
 from sklearn.metrics import accuracy_score                  # accuracy
 from sklearn.feature_extraction.text import CountVectorizer # separate the '/'
 from sklearn.model_selection import train_test_split
 
-# actualmente, solo devuelve lo de test_size,
-# y devuelve mezclado con clasificiacion real
-
-#data loading
-r_csv = pd.read_csv('../x_paths.csv')
-x = r_csv["ruta"].values.astype('U') # gives NaN if it's not unicode
-y = r_csv["es_valida"]
+# data loading
+r_csv = pd.read_csv('./datasets/paths.csv')
+x = r_csv["path"].values.astype('U') # gives NaN if it's not Unicode
+y = r_csv["is_valid"]
 original_paths = x
 
 # split and prepares data, vectorization (representation of non-numerical input data)
@@ -28,7 +16,7 @@ vec_x = vectorizer.fit_transform(x)
 
 # train are the exercises, test is the test
 # Trees in the forest use the best split strategy
-vec_x_train, vec_x_test, y_train, y_test, rutas_train, rutas_test = train_test_split(
+vec_x_train, vec_x_test, y_train, y_test, paths_train, paths_test = train_test_split(
     vec_x, y, original_paths, test_size=0.1, random_state=42
 )
 
@@ -41,28 +29,28 @@ y_pred = model.predict(vec_x_test)
 acc = accuracy_score(y_test, y_pred)
 print("Accuracy", acc )
 
-# give all the paths
-def complete_output():
+# saves the correct data
+def complete_output(y_all_pred):
     complete = pd.DataFrame({
-        "ruta": rutas_test,
-        "prediccion": y_pred,
-        "valor_real": y_test.values
+        "path": x,
+        "prediction": y_all_pred,
+        "is_valid": y,
     })
-    complete.to_csv("complete_output.csv", index=False)
+    complete.to_csv("./response/paths/complete.csv", index=False)
     print("complete paths saved successfully")
 
-complete_output()
-
-
-# only save correct paths that gave 1
-def filter_fine():
-    path_fine = rutas_test[y_test == 1]
+def filter_fine(y_all_pred):
+    fine_paths = x[y_all_pred == 1]
     fine_output = pd.DataFrame({
-        "ruta": path_fine
+        "path": fine_paths
     })
-    fine_output.to_csv("fine_output.csv", index=False)
+    fine_output.to_csv("./response/paths/fine.csv", index=False)
     print("fine paths saved successfully")
-filter_fine()
+
+vec_x_total = vectorizer.transform(x)
+y_all_pred = model.predict(vec_x_total)
+filter_fine(y_all_pred)
+complete_output(y_all_pred)
 
 # es basico, pero concluimos que la manera de que se usa playwright para scrapear y dar un
 # un resultado es bastante mala, entonces deberiamos cambiar totalmente toda la clasificacion
