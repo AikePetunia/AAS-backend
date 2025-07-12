@@ -198,7 +198,7 @@ async function main() {
 			);
 		}
 
-		// TODO: how to handle errors
+		// TODO: how to handle errors y algo mas
 		if (stats.failedPagesNames.size > 0) {
 			const failedPagesContent = Array.from(stats.failedPagesNames).join(",");
 			await fs.writeFile(
