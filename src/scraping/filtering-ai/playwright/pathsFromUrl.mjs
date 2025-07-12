@@ -1,7 +1,7 @@
 import { spawn } from "child_process";
 import fs from "fs/promises";
 import os from "os";
-// requieres https://github.com/trap-bytes/gourlex
+// ! requieres https://github.com/trap-bytes/gourlex
 
 // this is manual sadly
 const getPaths = [
