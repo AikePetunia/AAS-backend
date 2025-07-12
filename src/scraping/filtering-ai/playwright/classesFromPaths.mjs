@@ -3,7 +3,6 @@ import fs from "fs/promises";
 
 const pathsData = JSON.parse(await fs.readFile("./resultsPaths/paths.csv"));
 
-// TODO the answer to csv
 export async function classesFromPaths() {
 	await fs.mkdir("./resultsClasses", { recursive: true });
 	for (const [domain, paths] of Object.entries(pathsData)) {
