@@ -99,23 +99,23 @@ export async function pathsFromPage(page) {
 		}, 50000);
 
 		let terminal;
-		if (os.type() === "windows_NT") {
-			terminal = spawn("terminal.exe", [
+		if (os.type() === "Windows_NT") {
+			terminal = spawn("powershell.exe", [
+				// ! Please check the path to gourlex
 				"-Command",
-				`C:/Users/Usuario/go/bin/gourlex.exe -t ${page} | Select-String -Pattern '${page}(.*)' | ForEach-Object {
-                $path = $_.Matches.Groups[1].Value
-                
-                if ($path -match '\\?(?!page=\\d+|p=\\d+)') {
-                    $path = $path -replace '\\?.*$', ''
-                }
-                
-                if ($path -notmatch '\\.(php|html|png|jpg|jpeg|gif|css|js|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg)$') {
-                    Write-Output $path
-                }
-            }`,
+				`C:\\Users\\mjhb4\\go\\bin\\gourlex.exe -t ${page} | Select-String -Pattern '${page}(.*)' | ForEach-Object {
+					$path = $_.Matches.Groups[1].Value
+					
+					if ($path -match '\\?(?!page=\\d+|p=\\d+)') {
+						$path = $path -replace '\\?.*$', ''
+					}
+					
+					if ($path -notmatch '\\.(php|html|png|jpg|jpeg|gif|css|js|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg)$') {
+						Write-Output $path
+					}
+				}`,
 			]);
-		} else {
-			// linux. why use mac?
+		} else if (os.type === "Linux") {
 			// changed the path !
 			terminal = spawn("bash", [
 				"-c",
@@ -126,6 +126,9 @@ export async function pathsFromPage(page) {
 				fi
 				done`,
 			]);
+		} else {
+			console.error("Please check the selected path");
+			return;
 		}
 
 		terminal.stdout.on("data", (data) => {
@@ -160,7 +163,6 @@ export async function pathsFromPage(page) {
 
 async function main() {
 	try {
-		// await fs.mkdir("./src/scraping/filtering-ai/getPageInforesultsPaths", { recursive: true });
 		const allResults = {};
 		const errors = [];
 
@@ -191,7 +193,7 @@ async function main() {
 			}
 			const csvContent = allPaths.join(", \n");
 			await fs.writeFile(
-				"./src/scraping/filtering-ai/getPageInfo/resultsPaths/paths.csv",
+				"./src/scraping/filtering-ai/playwright/resultsPaths/paths.csv",
 				csvContent
 			);
 		}
@@ -200,7 +202,7 @@ async function main() {
 		if (stats.failedPagesNames.size > 0) {
 			const failedPagesContent = Array.from(stats.failedPagesNames).join(",");
 			await fs.writeFile(
-				"./src/scraping/filtering-ai/getPageInfo/resultsPaths/errorPaths.csv",
+				"./src/scraping/filtering-ai/playwright/resultsPaths/errorPaths.csv",
 				failedPagesContent
 			);
 		}

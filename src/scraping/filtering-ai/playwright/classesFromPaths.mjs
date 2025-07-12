@@ -1,9 +1,12 @@
 import { chromium } from "playwright";
 import fs from "fs/promises";
 
-const pathsData = JSON.parse(await fs.readFile("./resultsPaths/paths.json", "utf8"));
-// TODO change to csv
+const pathsData = JSON.parse(await fs.readFile("./resultsPaths/paths.csv"));
+// receives a json {["domain":, "compragamer.com", "path": "/products/"]}
+// returns a csv with all the classes, then i qualify in correct or incorrects. "class,is_valid" 
 
+// TODO the answer to csv
+// returns two rtas
 export async function classesFromPaths() {
 	await fs.mkdir("./resultsClasses", { recursive: true });
 	for (const [domain, paths] of Object.entries(pathsData)) {
