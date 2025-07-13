@@ -1,0 +1,1497 @@
+[
+  {
+    "tag": "div",
+    "class": "announcement-bar",
+    "text_preview": "DESPACHAMOS en 24 HORAS HÁBILES 📦"
+  },
+  {
+    "tag": "p",
+    "class": "announcement-bar__message",
+    "text_preview": "DESPACHAMOS en 24 HORAS HÁBILES 📦"
+  },
+  {
+    "tag": "div",
+    "class": "site-header__inner",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "site-header__logo-wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "site-header__logo-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "site-header__logo",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "site-header__icons",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "site-header__icon account-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "site-header__icon js-cart-trigger",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "main-menu",
+    "text_preview": "Productos\n                \n                  ▼\n                \n              \n              \n      "
+  },
+  {
+    "tag": "li",
+    "class": "main-menu__item has-submenu",
+    "text_preview": "Productos\n                \n                  ▼\n                \n              \n              \n      "
+  },
+  {
+    "tag": "a",
+    "class": "main-menu__link has-submenu-link",
+    "text_preview": "Productos\n                \n                  ▼"
+  },
+  {
+    "tag": "span",
+    "class": "submenu-arrow",
+    "text_preview": "▼"
+  },
+  {
+    "tag": "div",
+    "class": "submenu",
+    "text_preview": "Productos\n                  \n                  \n                    \n                      \n        "
+  },
+  {
+    "tag": "div",
+    "class": "submenu-header",
+    "text_preview": "Productos"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-title",
+    "text_preview": "Productos"
+  },
+  {
+    "tag": "ul",
+    "class": "submenu-list",
+    "text_preview": "📦 Todos los productos\n                      \n                    \n                    \n            "
+  },
+  {
+    "tag": "li",
+    "class": "submenu-item",
+    "text_preview": "📦 Todos los productos"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link all-products",
+    "text_preview": "📦 Todos los productos"
+  },
+  {
+    "tag": "li",
+    "class": "submenu-item",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "img",
+    "class": "submenu-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "submenu-item",
+    "text_preview": "Audio"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Audio"
+  },
+  {
+    "tag": "img",
+    "class": "submenu-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "submenu-item",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "img",
+    "class": "submenu-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "submenu-item",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "img",
+    "class": "submenu-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "submenu-item",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "img",
+    "class": "submenu-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "main-menu__item",
+    "text_preview": "Cuenta"
+  },
+  {
+    "tag": "a",
+    "class": "main-menu__link",
+    "text_preview": "Cuenta"
+  },
+  {
+    "tag": "div",
+    "class": "sticky-placeholder",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "h1",
+    "class": "collection-title",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "Scyrox"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "Scyrox"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "Scyrox V8 Wireless 8k Superlight"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$104.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$104.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "Scyrox"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "Scyrox"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "Scyrox V6 Wireless 8k Superlight"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$104.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$104.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-sale-badge",
+    "text_preview": "Oferta"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "VXE"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "VXE"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "VXE MAD R Major"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$129.999\n            $105.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-original-price",
+    "text_preview": "$129.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price pc-sale",
+    "text_preview": "$105.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sale-badge",
+    "text_preview": "Oferta"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "VXE"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "VXE"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "VXE R1 SE Gaming"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$58.999\n            $44.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-original-price",
+    "text_preview": "$58.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price pc-sale",
+    "text_preview": "$44.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-in-stock ",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sale-badge",
+    "text_preview": "Oferta"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "Lamzu"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "Lamzu"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "Lamzu Maya X"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$159.999\n            $150.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-original-price",
+    "text_preview": "$159.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price pc-sale",
+    "text_preview": "$150.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-in-stock ",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sale-badge",
+    "text_preview": "Oferta"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "Lamzu"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "Lamzu"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "Lamzu Inca"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$169.999\n            $150.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-original-price",
+    "text_preview": "$169.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price pc-sale",
+    "text_preview": "$150.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-in-stock ",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "ATK FIERCE X"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$129.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$129.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-sale-badge",
+    "text_preview": "Oferta"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "MCHOSE"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "MCHOSE"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "Mchose L7 Ultra"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$119.999\n            $99.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-original-price",
+    "text_preview": "$119.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price pc-sale",
+    "text_preview": "$99.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "MCHOSE"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "MCHOSE"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "Mchose G3"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$45.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$45.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "ATK X1"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$69.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$69.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sale-badge",
+    "text_preview": "Oferta"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "ATK Blazing Sky Z1 Ultra"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$130.000\n            $109.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-original-price",
+    "text_preview": "$130.000"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price pc-sale",
+    "text_preview": "$109.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-in-stock ",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "ATK F1 Extreme x Leviatan"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$119.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$119.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "ATK"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "ATK A9 Plus"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$51.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$51.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sale-badge",
+    "text_preview": "Oferta"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "WL Mouse"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "WL Mouse"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "WLMouse Ying Carbon Fiber"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$234.999\n            $219.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-original-price",
+    "text_preview": "$234.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price pc-sale",
+    "text_preview": "$219.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-in-stock ",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "WL Mouse"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "WL Mouse"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "WLMouse Beast x Mini Edicion Limitada Tempered"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$209.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$209.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-sold-out-badge",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "WL Mouse"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "WL Mouse"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "WLMouse Beast x Max Edicion Limitada Tempered"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$209.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$209.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-out-of-stock ",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "Agotado"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image pc-has-hover-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-hover-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "WL Mouse"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "WL Mouse"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "WLMouse Sword x"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$205.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$205.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-in-stock ",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "pc-image ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "pc-main-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pc-meta",
+    "text_preview": "Lamzu"
+  },
+  {
+    "tag": "p",
+    "class": "pc-vendor",
+    "text_preview": "Lamzu"
+  },
+  {
+    "tag": "h3",
+    "class": "pc-title",
+    "text_preview": "Lamzu Paro 8k"
+  },
+  {
+    "tag": "div",
+    "class": "pc-price-wrapper",
+    "text_preview": "$150.999"
+  },
+  {
+    "tag": "p",
+    "class": "pc-price",
+    "text_preview": "$150.999"
+  },
+  {
+    "tag": "div",
+    "class": "pc-stock-status  pc-in-stock ",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pc-stock-text",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "button",
+    "class": "view-more-button",
+    "text_preview": "Ver más"
+  },
+  {
+    "tag": "div",
+    "class": "pagination-indicator",
+    "text_preview": "Mostrando 12 de 18 productos"
+  },
+  {
+    "tag": "div",
+    "class": "footer-logo",
+    "text_preview": "Gold Gaming\n        Tu destino premium para gaming y esports"
+  },
+  {
+    "tag": "span",
+    "class": "gold-text",
+    "text_preview": "Gold Gaming"
+  },
+  {
+    "tag": "div",
+    "class": "footer-social",
+    "text_preview": "Síguenos"
+  },
+  {
+    "tag": "div",
+    "class": "social-icons",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "legal-links",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "whatsapp-button",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "shopify-block shopify-app-block",
+    "text_preview": "console.log(\"dark mode script loaded\");"
+  },
+  {
+    "tag": "div",
+    "class": "spb-p-[12px] spb-flex spb-justify-between spb-items-center spb-bg-[#F3F3F3] spb-rounded-t-[16px]",
+    "text_preview": "Pre-order item"
+  },
+  {
+    "tag": "p",
+    "class": "spb-text-[14px] spb-font-bold spb-m-0",
+    "text_preview": "Pre-order item"
+  },
+  {
+    "tag": "div",
+    "class": "spb-cursor-pointer spb-flex spb-justify-between spb-items-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "spb-flex spb-gap-[8px]",
+    "text_preview": "Soft armchair\n            \n            \n              $420.00"
+  },
+  {
+    "tag": "img",
+    "class": "spb-object-center spb-object-fit spb-h-[104px] spb-w-[104px]",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "spb-flex spb-flex-col spb-gap-[12px]",
+    "text_preview": "Soft armchair\n            \n            \n              $420.00"
+  },
+  {
+    "tag": "div",
+    "class": "spb-flex spb-flex-col spb-gap-[2px]",
+    "text_preview": "Soft armchair\n            \n            \n              $420.00"
+  },
+  {
+    "tag": "p",
+    "class": "spb-font-medium spb-text-[14px] spb-m-0 spb-text-black",
+    "text_preview": "Soft armchair"
+  },
+  {
+    "tag": "p",
+    "class": "spb-text-[#616161] spb-text-[13px] spb-m-0 spb",
+    "text_preview": "$420.00"
+  },
+  {
+    "tag": "p",
+    "class": "spb-text-[#616161] spb-text-[13px] spb-m-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "spb-flex spb-items-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "spb-w-[28px] spb-h-[28px] spb-flex spb-items-center spb-justify-center spb-bg-[#EEE] spb-rounded-full spb-border-0 spb-cursor-pointer",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "spb-w-[28px] spb-h-[28px] spb-flex spb-items-center spb-justify-center spb-bg-[#EEE] spb-rounded-full spb-border-0 spb-cursor-pointer",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "spb-font-medium spb-text-[14px] spb-m-0 spb-text-black",
+    "text_preview": "Select variant"
+  },
+  {
+    "tag": "div",
+    "class": "spb-grid spb-grid-cols-2 spb-gap-x-[16px] spb-gap-y-[8px] spb-*:col-span-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "spb-font-medium spb-text-[14px] spb-0 spb-m-0 spb-text-black",
+    "text_preview": "Select purchase option"
+  },
+  {
+    "tag": "div",
+    "class": "spb-rounded-xl spb-flex spb-flex-col",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "spb-flex spb-gap-[8px]",
+    "text_preview": "Cancel\n        \n        \n          Pre-order now"
+  },
+  {
+    "tag": "button",
+    "class": "spb-shadow-shopify-card spb-flex-1 spb-py-[6px] spb-px-[12px] spb-rounded-lg spb-border-0 spb-cursor-pointer spb-bg-white",
+    "text_preview": "Cancel"
+  },
+  {
+    "tag": "button",
+    "class": "spb-shadow-shopify-card spb-flex-1 spb-py-[6px] spb-px-[12px] spb-rounded-lg spb-border-0 spb-cursor-pointer",
+    "text_preview": "Pre-order now"
+  },
+  {
+    "tag": "div",
+    "class": "spb-font-medium spb-text-[13px] spb-text-black spb-font-[550]",
+    "text_preview": "Your pre-order item has reached its limit."
+  },
+  {
+    "tag": "button",
+    "class": "spb-border-none spb-bg-transparent spb-flex spb-items-center spb-justify-center spb-text-[16px]",
+    "text_preview": "×"
+  },
+  {
+    "tag": "div",
+    "class": "spb-fixed spb-shadow-md spb-inset-0 spb-bg-black/25 spb-flex spb-items-center spb-justify-center spb-z-[9999] spb-m-0 spb-p-0",
+    "text_preview": "Don't show this message again"
+  },
+  {
+    "tag": "div",
+    "class": "spb-flex spb-items-center spb-justify-between spb-bg-[#F3F3F3] spb-p-[12px] spb-border-b spb-border-[#E3E3E3]",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "spb-text-[14px] spb-font-semibold spb-p-0 spb-m-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "spb-p-[12px] spb-flex spb-flex-col spb-bg-white spb-text-[13px]",
+    "text_preview": "Don't show this message again"
+  },
+  {
+    "tag": "p",
+    "class": "spb-p-0 spb-m-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "label",
+    "class": "spb-flex spb-items-center spb-gap-2 spb-rounded",
+    "text_preview": "Don't show this message again"
+  },
+  {
+    "tag": "span",
+    "class": "spb-p-0 spb-m-0",
+    "text_preview": "Don't show this message again"
+  },
+  {
+    "tag": "div",
+    "class": "spb-fixed spb-bottom-4 spb-left-1/2 spb-transform -spb-translate-x-1/2 spb-bg-[#000] spb-text-white spb-py-[4px] spb-pl-[12px] spb-rounded-lg spb-opacity-0 spb-transition-opacity spb-duration-500 spb-z-[9999] spb-flex spb-items-center spb-shadow-lg",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "spb-border-none spb-bg-transparent spb-flex spb-items-center spb-justify-center spb-cursor-pointer",
+    "text_preview": ""
+  }
+]

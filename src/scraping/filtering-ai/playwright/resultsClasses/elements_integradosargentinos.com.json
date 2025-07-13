@@ -1,0 +1,4677 @@
+[
+  {
+    "tag": "div",
+    "class": "d-flex justify-content-between",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "border border-white p-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "tp-user-logo text-bg-primary fw-bold rounded d-inline-block text-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "flex-shrink-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "mx-1",
+    "text_preview": "•"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex align-items-center fw-bold",
+    "text_preview": "Shop By Categories"
+  },
+  {
+    "tag": "span",
+    "class": "ms-2",
+    "text_preview": "Shop By Categories"
+  },
+  {
+    "tag": "div",
+    "class": "o_colored_level col-lg-2 offset-lg-1",
+    "text_preview": "Equipos Hogar OficinaEquipos GamersEquipos Gamers ProMini PCsKit Actualización PCNotebooks\n         "
+  },
+  {
+    "tag": "div",
+    "class": "card border-0",
+    "text_preview": "Equipos Hogar OficinaEquipos GamersEquipos Gamers ProMini PCsKit Actualización PCNotebooks\n         "
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid rounded o_we_custom_image mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body",
+    "text_preview": "Equipos Hogar OficinaEquipos GamersEquipos Gamers ProMini PCsKit Actualización PCNotebooks\n         "
+  },
+  {
+    "tag": "div",
+    "class": "o_colored_level col-lg-2",
+    "text_preview": "Mothers\n                                    Procesadores\n                                    Memoria"
+  },
+  {
+    "tag": "div",
+    "class": "card border-0",
+    "text_preview": "Mothers\n                                    Procesadores\n                                    Memoria"
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid rounded o_we_custom_image mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body",
+    "text_preview": "Mothers\n                                    Procesadores\n                                    Memoria"
+  },
+  {
+    "tag": "div",
+    "class": "o_colored_level col-lg-2",
+    "text_preview": "Teclados\n                                    Mouses\n                                    Kit Teclado "
+  },
+  {
+    "tag": "div",
+    "class": "card border-0",
+    "text_preview": "Teclados\n                                    Mouses\n                                    Kit Teclado "
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid o_we_custom_image rounded mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body",
+    "text_preview": "Teclados\n                                    Mouses\n                                    Kit Teclado "
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid rounded o_we_custom_image mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "o_colored_level col-lg-2",
+    "text_preview": "CocinaClimatizaciónOtros ElectrosMedia StreamingSmartwatchesAccesorios CelularesOtros"
+  },
+  {
+    "tag": "div",
+    "class": "card border-0",
+    "text_preview": "CocinaClimatizaciónOtros ElectrosMedia StreamingSmartwatchesAccesorios CelularesOtros"
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid rounded o_we_custom_image mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body",
+    "text_preview": "CocinaClimatizaciónOtros ElectrosMedia StreamingSmartwatchesAccesorios CelularesOtros"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex align-items-center",
+    "text_preview": "My Cart (0)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex align-items-center",
+    "text_preview": "My Cart (0)"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ms-2",
+    "text_preview": "My Cart"
+  },
+  {
+    "tag": "span",
+    "class": "ms-2",
+    "text_preview": "(0)"
+  },
+  {
+    "tag": "span",
+    "class": "my_cart_quantity",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "ms-2",
+    "text_preview": "(0)"
+  },
+  {
+    "tag": "span",
+    "class": "tp-wishlist-counter",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex justify-content-between align-items-center bg-white border-bottom p-3",
+    "text_preview": "Guest"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex align-items-center",
+    "text_preview": "Guest"
+  },
+  {
+    "tag": "h5",
+    "class": "mb-0",
+    "text_preview": "Guest"
+  },
+  {
+    "tag": "span",
+    "class": "ms-2",
+    "text_preview": "(0)"
+  },
+  {
+    "tag": "span",
+    "class": "my_cart_quantity",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "ms-2",
+    "text_preview": "(0)"
+  },
+  {
+    "tag": "span",
+    "class": "tp-wishlist-counter",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex justify-content-around border-bottom",
+    "text_preview": "Filters \n                        \n                    \n                \n                \n           "
+  },
+  {
+    "tag": "div",
+    "class": "py-2 w-50 text-center d-flex justify-content-center align-items-center",
+    "text_preview": "Filters"
+  },
+  {
+    "tag": "span",
+    "class": "text-body",
+    "text_preview": "Filters"
+  },
+  {
+    "tag": "div",
+    "class": "py-2 w-50 border-start text-center d-flex justify-content-center align-items-center",
+    "text_preview": "Destacado"
+  },
+  {
+    "tag": "h6",
+    "class": "d-inline me-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "text-body py-2 h6",
+    "text_preview": "Destacado"
+  },
+  {
+    "tag": "a",
+    "class": " ",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": " ",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "list-inline-item text-center tp-bottom-action-btn tp-drawer-action-btn align-items-center d-flex justify-content-center rounded-circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "o_wsale_my_wish tp-force-d-block ",
+    "text_preview": "0"
+  },
+  {
+    "tag": "sup",
+    "class": "my_wish_quantity o_animate_blink badge text-bg-primary",
+    "text_preview": "0"
+  },
+  {
+    "tag": "li",
+    "class": "list-inline-item o_not_editable tp-bottom-action-btn",
+    "text_preview": "Account"
+  },
+  {
+    "tag": "div",
+    "class": "tp-action-btn-label",
+    "text_preview": "Account"
+  },
+  {
+    "tag": "hr",
+    "class": "mx-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "list-inline d-flex my-2 px-5 tp-bottombar-secondary-element justify-content-between",
+    "text_preview": "Offers\n        \n        \n            \n                \n            \n            Brands\n        \n    "
+  },
+  {
+    "tag": "li",
+    "class": "list-inline-item o_not_editable position-relative tp-bottom-action-btn text-center  ",
+    "text_preview": "Offers"
+  },
+  {
+    "tag": "a",
+    "class": " ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-action-btn-label",
+    "text_preview": "Offers"
+  },
+  {
+    "tag": "li",
+    "class": "list-inline-item o_not_editable position-relative tp-bottom-action-btn text-center  ",
+    "text_preview": "Brands"
+  },
+  {
+    "tag": "a",
+    "class": " ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-action-btn-label",
+    "text_preview": "Brands"
+  },
+  {
+    "tag": "li",
+    "class": "list-inline-item o_not_editable position-relative tp-bottom-action-btn text-center tp-category-action ",
+    "text_preview": "Category"
+  },
+  {
+    "tag": "a",
+    "class": " ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-action-btn-label",
+    "text_preview": "Category"
+  },
+  {
+    "tag": "li",
+    "class": "list-inline-item o_not_editable position-relative tp-bottom-action-btn text-center  ",
+    "text_preview": "Orders"
+  },
+  {
+    "tag": "a",
+    "class": " ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-action-btn-label",
+    "text_preview": "Orders"
+  },
+  {
+    "tag": "li",
+    "class": "list-inline-item o_not_editable position-relative tp-bottom-action-btn text-center ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid",
+    "text_preview": ""
+  },
+  {
+    "tag": "sup",
+    "class": "my_cart_quantity badge text-bg-primary",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "o_colored_level col-lg-2 offset-lg-1",
+    "text_preview": "Equipos Hogar OficinaEquipos GamersEquipos Gamers ProMini PCsKit Actualización PCNotebooks\n         "
+  },
+  {
+    "tag": "div",
+    "class": "card border-0",
+    "text_preview": "Equipos Hogar OficinaEquipos GamersEquipos Gamers ProMini PCsKit Actualización PCNotebooks\n         "
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid rounded o_we_custom_image mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body",
+    "text_preview": "Equipos Hogar OficinaEquipos GamersEquipos Gamers ProMini PCsKit Actualización PCNotebooks\n         "
+  },
+  {
+    "tag": "div",
+    "class": "o_colored_level col-lg-2",
+    "text_preview": "Mothers\n                                    Procesadores\n                                    Memoria"
+  },
+  {
+    "tag": "div",
+    "class": "card border-0",
+    "text_preview": "Mothers\n                                    Procesadores\n                                    Memoria"
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid rounded o_we_custom_image mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body",
+    "text_preview": "Mothers\n                                    Procesadores\n                                    Memoria"
+  },
+  {
+    "tag": "div",
+    "class": "o_colored_level col-lg-2",
+    "text_preview": "Teclados\n                                    Mouses\n                                    Kit Teclado "
+  },
+  {
+    "tag": "div",
+    "class": "card border-0",
+    "text_preview": "Teclados\n                                    Mouses\n                                    Kit Teclado "
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid o_we_custom_image rounded mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body",
+    "text_preview": "Teclados\n                                    Mouses\n                                    Kit Teclado "
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid rounded o_we_custom_image mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "o_colored_level col-lg-2",
+    "text_preview": "CocinaClimatizaciónOtros ElectrosMedia StreamingSmartwatchesAccesorios CelularesOtros"
+  },
+  {
+    "tag": "div",
+    "class": "card border-0",
+    "text_preview": "CocinaClimatizaciónOtros ElectrosMedia StreamingSmartwatchesAccesorios CelularesOtros"
+  },
+  {
+    "tag": "a",
+    "class": "d-block tp-animation-scale",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img img-fluid rounded o_we_custom_image mx-auto d-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body",
+    "text_preview": "CocinaClimatizaciónOtros ElectrosMedia StreamingSmartwatchesAccesorios CelularesOtros"
+  },
+  {
+    "tag": "ul",
+    "class": "list-inline my-3 d-none d-lg-block tp-account-info",
+    "text_preview": "0\n                \n            \n        \n\n        \n            \n                \n                   "
+  },
+  {
+    "tag": "li",
+    "class": "list-inline-item o_not_editable ",
+    "text_preview": ""
+  },
+  {
+    "tag": "sup",
+    "class": "my_cart_quantity badge text-bg-primary",
+    "text_preview": "0"
+  },
+  {
+    "tag": "sup",
+    "class": "my_wish_quantity o_animate_blink badge text-bg-primary",
+    "text_preview": "0"
+  },
+  {
+    "tag": "li",
+    "class": "list-inline-item o_not_editable ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "o_wsale_products_grid_table_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-lg-none d-flex align-items-center justify-content-between",
+    "text_preview": "Tienda\n                            33 items found."
+  },
+  {
+    "tag": "h5",
+    "class": "mb-0",
+    "text_preview": "Tienda"
+  },
+  {
+    "tag": "div",
+    "class": "col-auto",
+    "text_preview": "Productos\n                                        \n                                            \n    "
+  },
+  {
+    "tag": "div",
+    "class": "d-flex align-items-lg-center",
+    "text_preview": "Productos\n                                        \n                                            \n    "
+  },
+  {
+    "tag": "li",
+    "class": "breadcrumb-item",
+    "text_preview": "Productos"
+  },
+  {
+    "tag": "li",
+    "class": "breadcrumb-item",
+    "text_preview": "Auriculares\n                                                - 33 items"
+  },
+  {
+    "tag": "span",
+    "class": "d-inline-block",
+    "text_preview": "Auriculares"
+  },
+  {
+    "tag": "span",
+    "class": "h6 me-1",
+    "text_preview": "Pricelist :"
+  },
+  {
+    "tag": "span",
+    "class": "switcher_pricelist",
+    "text_preview": "Consumidor final"
+  },
+  {
+    "tag": "span",
+    "class": "d-none d-lg-inline",
+    "text_preview": "Destacado"
+  },
+  {
+    "tag": "div",
+    "class": "btn-group ms-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-light border bg-white shadow-none text-muted active text-primary",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-light border bg-white shadow-none text-muted ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "custom-control form-check mb-1 d-inline-block",
+    "text_preview": "Todos los productos"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Todos los productos"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Accesorios Celulares\n                \n                    (12)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Accesorios Celulares\n                \n                    (12)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Cargadores\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Cargadores\n                \n                    (4)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Cargadores\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Almacenamiento\n                \n                    (49)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Almacenamiento\n                \n                    (49)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Discos Externos\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Discos Externos\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Discos Externos\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Discos Rígidos PC\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Discos Rígidos PC\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Discos Rígidos PC\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Discos Rígidos Vigilancia"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Discos Rígidos Vigilancia"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Discos Rígidos Vigilancia"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Discos Sólidos Sata\n                \n                    (11)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Discos Sólidos Sata\n                \n                    (11)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Discos Sólidos Sata\n                \n                    (11)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Discos Sólidos M.2\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Discos Sólidos M.2\n                \n                    (10)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Discos Sólidos M.2\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Tarjetas de Memoria"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Tarjetas de Memoria"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Tarjetas de Memoria"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Otros\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Otros\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Otros\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Auriculares\n                \n                    (66)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Auriculares\n                \n                    (66)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Con cable\n                \n                    (20)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Con cable\n                \n                    (20)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Con cable\n                \n                    (20)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Inalámbrico\n                \n                    (13)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Inalámbrico\n                \n                    (13)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Inalámbrico\n                \n                    (13)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Cables y Adaptadores\n                \n                    (162)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Cables y Adaptadores\n                \n                    (162)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Adaptadores\n                \n                    (18)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Adaptadores\n                \n                    (18)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Adaptadores\n                \n                    (18)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Audio\n                \n                    (9)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Audio\n                \n                    (9)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Audio\n                \n                    (9)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "PC\n                \n                    (13)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "PC\n                \n                    (13)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "PC\n                \n                    (13)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Tipo C\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Tipo C\n                \n                    (7)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Tipo C\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "USB\n                \n                    (15)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "USB\n                \n                    (15)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "USB\n                \n                    (15)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Video\n                \n                    (18)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Video\n                \n                    (18)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Video\n                \n                    (18)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Access Point\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Access Point\n                \n                    (6)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Access Point\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Adaptadores\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Adaptadores\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Adaptadores\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Cables\n                \n                    (18)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Cables\n                \n                    (18)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Cables\n                \n                    (18)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Fichas\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Fichas\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Fichas\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Placas de Red\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Placas de Red\n                \n                    (5)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Placas de Red\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Routers\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Routers\n                \n                    (7)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Routers\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Switches\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Switches\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Switches\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Tester\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Tester\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Tester\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Electro Climatización\n                \n                    (10)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Electro Climatización\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Caloventores"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Caloventores"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Caloventores"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Ventiladores\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Ventiladores\n                \n                    (5)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Ventiladores\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Electro Cocina\n                \n                    (26)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Electro Cocina\n                \n                    (26)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Batidoras"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Batidoras"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Batidoras"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Cafeteras\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Cafeteras\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Cafeteras\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Freidoras de Aire\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Freidoras de Aire\n                \n                    (7)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Freidoras de Aire\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Hornos Eléctricos\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Hornos Eléctricos\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Hornos Eléctricos\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Licuadoras\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Licuadoras\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Licuadoras\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Minipimer"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Minipimer"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Minipimer"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Parrillas"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Parrillas"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Parrillas"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Pavas Eléctricas\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Pavas Eléctricas\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Pavas Eléctricas\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Sandwicheras\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Sandwicheras\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Sandwicheras\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Electro Otros\n                \n                    (15)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Electro Otros\n                \n                    (15)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Aspiradoras"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Aspiradoras"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Aspiradoras"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Pilas y Cargadores\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Pilas y Cargadores\n                \n                    (5)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Pilas y Cargadores\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Planchas\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Planchas\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Planchas\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Planchitas de Pelo"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Planchitas de Pelo"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Planchitas de Pelo"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Rizadores"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Rizadores"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Rizadores"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Tiras LED"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Tiras LED"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Tiras LED"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Equipos Gamer\n                \n                    (74)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Equipos Gamer\n                \n                    (74)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 5\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 5\n                \n                    (5)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 5\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 7\n                \n                    (15)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 7\n                \n                    (15)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 7\n                \n                    (15)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i5\n                \n                    (11)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i5\n                \n                    (11)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i5\n                \n                    (11)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i7\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i7\n                \n                    (7)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i7\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Equipos Gamers Pro\n                \n                    (15)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Equipos Gamers Pro\n                \n                    (15)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 7"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 7"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 7"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i7\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i7\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i7\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Equipos Oficina\n                \n                    (54)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Equipos Oficina\n                \n                    (54)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Athlon\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Athlon\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Athlon\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 3\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 3\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 3\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 5"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 5"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 5"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 7"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 7"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 7"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Celeron\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Celeron\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Celeron\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Pentium\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Pentium\n                \n                    (6)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Pentium\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i3\n                \n                    (13)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i3\n                \n                    (13)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i3\n                \n                    (13)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i5\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i5\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i5\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Fuentes de PC\n                \n                    (32)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Fuentes de PC\n                \n                    (32)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "500w a 600w\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "500w a 600w\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "500w a 600w\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "600w a 800w\n                \n                    (9)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "600w a 800w\n                \n                    (9)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "600w a 800w\n                \n                    (9)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "800w a 1000w\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "800w a 1000w\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "800w a 1000w\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "+1000w\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "+1000w\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "+1000w\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Gabinetes\n                \n                    (74)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Gabinetes\n                \n                    (74)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Gabinetes Kit\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Gabinetes Kit\n                \n                    (10)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Gabinetes Kit\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Gabinetes Gamers con Fuente\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Gabinetes Gamers con Fuente\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Gabinetes Gamers con Fuente\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Gabinetes Gamers sin Fuente\n                \n                    (25)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Gabinetes Gamers sin Fuente\n                \n                    (25)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Gabinetes Gamers sin Fuente\n                \n                    (25)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Impresoras\n                \n                    (84)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Impresoras\n                \n                    (84)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Impresora Láser\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Impresora Láser\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Impresora Láser\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Impresora Multifunción Láser\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Impresora Multifunción Láser\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Impresora Multifunción Láser\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Impresora Multifunción Tinta\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Impresora Multifunción Tinta\n                \n                    (6)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Impresora Multifunción Tinta\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Impresoras Tinta\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Impresoras Tinta\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Impresoras Tinta\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Papel\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Papel\n                \n                    (6)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Papel\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Tintas\n                \n                    (24)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Tintas\n                \n                    (24)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Tintas\n                \n                    (24)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Joysticks y Volantes\n                \n                    (20)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Joysticks y Volantes\n                \n                    (20)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Joysticks\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Joysticks\n                \n                    (6)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Joysticks\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Volantes\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Volantes\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Volantes\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Kit Actualización PC"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Kit Actualización PC"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 3"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 3"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 3"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 5"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 5"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 5"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 7"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 7"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 7"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Celeron"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Celeron"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Celeron"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Pentium"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Pentium"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Pentium"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i3"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i3"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i3"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i5"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i5"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i5"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Kit Teclado y Mouse\n                \n                    (29)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Kit Teclado y Mouse\n                \n                    (29)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Teclados y Mouses USB\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Teclados y Mouses USB\n                \n                    (4)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Teclados y Mouses USB\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Teclados y Mouses Inalámbricos\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Teclados y Mouses Inalámbricos\n                \n                    (10)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Teclados y Mouses Inalámbricos\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Media Streaming\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Media Streaming\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Chromecast"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Chromecast"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Chromecast"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Streaming\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Streaming\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Streaming\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Otros"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Otros"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Otros"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Memorias\n                \n                    (54)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Memorias\n                \n                    (54)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "DDR3"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "DDR3"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "DDR3"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "DDR4\n                \n                    (18)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "DDR4\n                \n                    (18)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "DDR4\n                \n                    (18)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "DDR5\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "DDR5\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "DDR5\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "SO-DIMM DDR3"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "SO-DIMM DDR3"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "SO-DIMM DDR3"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "SO-DIMM DDR4\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "SO-DIMM DDR4\n                \n                    (4)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "SO-DIMM DDR4\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "SO-DIMM DDR5\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "SO-DIMM DDR5\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "SO-DIMM DDR5\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Mini PC"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Mini PC"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Monitores\n                \n                    (41)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Monitores\n                \n                    (41)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "19\" 60Hz a 75Hz\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "19\" 60Hz a 75Hz\n                \n                    (4)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "19\" 60Hz a 75Hz\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "22\" 60Hz a 75Hz\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "22\" 60Hz a 75Hz\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "22\" 60Hz a 75Hz\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "24\" 60Hz a 75Hz"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "24\" 60Hz a 75Hz"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "24\" 60Hz a 75Hz"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "24\" +75Hz\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "24\" +75Hz\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "24\" +75Hz\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "24\" +144Hz\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "24\" +144Hz\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "24\" +144Hz\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "27\" 60Hz a 75Hz"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "27\" 60Hz a 75Hz"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "27\" 60Hz a 75Hz"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "27\" +75Hz\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "27\" +75Hz\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "27\" +75Hz\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "27\"+180Hz\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "27\"+180Hz\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "27\"+180Hz\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "32\" 60Hz a 75Hz\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "32\" 60Hz a 75Hz\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "32\" 60Hz a 75Hz\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "34\""
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "34\""
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "34\""
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Motherboards\n                \n                    (84)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Motherboards\n                \n                    (84)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Socket AM4\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Socket AM4\n                \n                    (10)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Socket AM4\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Socket AM5\n                \n                    (12)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Socket AM5\n                \n                    (12)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Socket AM5\n                \n                    (12)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Socket 1151\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Socket 1151\n                \n                    (4)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Socket 1151\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Socket 1200\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Socket 1200\n                \n                    (7)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Socket 1200\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Socket 1700\n                \n                    (8)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Socket 1700\n                \n                    (8)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Socket 1700\n                \n                    (8)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Socket Intel 1851\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Socket Intel 1851\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Socket Intel 1851\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Mouses\n                \n                    (162)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Mouses\n                \n                    (162)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Mouses USB\n                \n                    (25)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Mouses USB\n                \n                    (25)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Mouses USB\n                \n                    (25)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Mouses Inalámbricos\n                \n                    (52)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Mouses Inalámbricos\n                \n                    (52)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Mouses Inalámbricos\n                \n                    (52)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Pad Mouses\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Pad Mouses\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Pad Mouses\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Pad Mouses Largos\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Pad Mouses Largos\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Pad Mouses Largos\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Notebooks\n                \n                    (28)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Notebooks\n                \n                    (28)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 3"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 3"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 3"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 5"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 5"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 5"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 7\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 7\n                \n                    (7)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 7\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 9"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Celeron\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Celeron\n                \n                    (6)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Celeron\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Pentium"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Pentium"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Pentium"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i3\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i3\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i3\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i5"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i5"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i5"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i9"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Parlantes y Micrófonos\n                \n                    (24)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Parlantes y Micrófonos\n                \n                    (24)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Parlantes Portátiles\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Parlantes Portátiles\n                \n                    (6)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Parlantes Portátiles\n                \n                    (6)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Parlantes para PC\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Parlantes para PC\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Parlantes para PC\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Micrófonos\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Micrófonos\n                \n                    (5)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Micrófonos\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Placas de Video\n                \n                    (19)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Placas de Video\n                \n                    (19)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Nvidia\n                \n                    (8)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Nvidia\n                \n                    (8)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Nvidia\n                \n                    (8)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Procesadores\n                \n                    (54)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Procesadores\n                \n                    (54)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Celeron\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Celeron\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Celeron\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Pentium\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Pentium\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Pentium\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i3\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i3\n                \n                    (5)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i3\n                \n                    (5)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i5\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i5\n                \n                    (7)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i5\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i7"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Intel Core i9\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Intel Core i9\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Intel Core i9\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Athlon\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Athlon\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Athlon\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 3\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 3\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 3\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 5\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 5\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 5\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 7\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 7\n                \n                    (3)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 7\n                \n                    (3)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "AMD Ryzen 9\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "AMD Ryzen 9\n                \n                    (2)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "AMD Ryzen 9\n                \n                    (2)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Refrigeración PC\n                \n                    (23)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Refrigeración PC\n                \n                    (23)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Coolers Fan Gabiente"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Coolers Fan Gabiente"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Coolers Fan Gabiente"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Coolers Procesador\n                \n                    (11)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Coolers Procesador\n                \n                    (11)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Coolers Procesador\n                \n                    (11)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Pasta Térmica"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Pasta Térmica"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Pasta Térmica"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Smartwatches\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Smartwatches\n                \n                    (10)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Smartwatches\n                \n                    (10)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Tabletas Gráficas\n                \n                    (13)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Tabletas Gráficas\n                \n                    (13)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Tabletas Gráficas\n                \n                    (13)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Tablets y Accesorios\n                \n                    (16)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Tablets y Accesorios\n                \n                    (16)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Accesorios\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Accesorios\n                \n                    (1)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Accesorios\n                \n                    (1)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Estuches"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Estuches"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Estuches"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Tablets\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Tablets\n                \n                    (7)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Tablets\n                \n                    (7)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Teclados\n                \n                    (106)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Teclados\n                \n                    (106)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Teclados USB\n                \n                    (34)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Teclados USB\n                \n                    (34)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Teclados USB\n                \n                    (34)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Teclados Inalámbricos\n                \n                    (20)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Teclados Inalámbricos\n                \n                    (20)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Teclados Inalámbricos\n                \n                    (20)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "UPS y Estabilizadores\n                \n                    (24)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "UPS y Estabilizadores\n                \n                    (24)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "UPS\n                \n                    (8)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "UPS\n                \n                    (8)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "UPS\n                \n                    (8)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Estabilizadores\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Estabilizadores\n                \n                    (4)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Estabilizadores\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Webcams\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Webcams\n                \n                    (4)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Webcams\n                \n                    (4)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap justify-content-between align-items-center",
+    "text_preview": "Otros\n                \n                    (30)"
+  },
+  {
+    "tag": "div",
+    "class": "form-check d-inline-block",
+    "text_preview": "Otros\n                \n                    (30)"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label fw-normal",
+    "text_preview": "Otros\n                \n                    (30)"
+  },
+  {
+    "tag": "div",
+    "class": "mb-3 ",
+    "text_preview": "RESETEAR"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-dark w-100 my-3",
+    "text_preview": "RESETEAR"
+  },
+  {
+    "tag": "div",
+    "class": "row row-cols-2 row-cols-md-3 row-cols-lg-4 g-2 g-lg-3 mt-0",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular LOGITECH G733 LIGHTSPEED WIRELESS RGB GAMING HEADSET WHITE (981-000882)\n                  "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular LOGITECH G733 LIGHTSPEED WIRELESS RGB GAMING HEADSET WHITE (981-000882)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular LOGITECH G733 LIGHTSPEED WIRELESS RGB GAMING HEADSET WHITE (981-000882)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 293,900.00\n            293900.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 293,900.00\n            293900.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 293,900.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "293,900.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular LOGITECH G733 LIGHTSYNC RGB AZUL (981-000942)\n                    \n                    \n  "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular LOGITECH G733 LIGHTSYNC RGB AZUL (981-000942)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular LOGITECH G733 LIGHTSYNC RGB AZUL (981-000942)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 277,900.00\n            277900.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 277,900.00\n            277900.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 277,900.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "277,900.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Inpods I12 Bt Metallic Golden (Fk-Tws-M1-Gld)\n                    \n                    \n        \n   "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Inpods I12 Bt Metallic Golden (Fk-Tws-M1-Gld)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Inpods I12 Bt Metallic Golden (Fk-Tws-M1-Gld)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 5,070.00\n            5070.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 5,070.00\n            5070.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 5,070.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "5,070.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Noganet True Wireless Stereo Bt Earbuds Amarillo (Ng-Btwins 5 S Am)\n                    \n           "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Noganet True Wireless Stereo Bt Earbuds Amarillo (Ng-Btwins 5 S Am)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Noganet True Wireless Stereo Bt Earbuds Amarillo (Ng-Btwins 5 S Am)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 5,782.00\n            5782.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 5,782.00\n            5782.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 5,782.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "5,782.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Inpods I12 Bt Pink (16993) Rosa\n                    \n                    \n        \n            $ 5,5"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Inpods I12 Bt Pink (16993) Rosa"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Inpods I12 Bt Pink (16993) Rosa"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 5,539.99\n            5539.99\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 5,539.99\n            5539.99\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 5,539.99"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "5,539.99"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Logitech H151 (981-000587)\n                    \n                    \n        \n            $ 22,200.0"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Logitech H151 (981-000587)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Logitech H151 (981-000587)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 22,200.00\n            22200.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 22,200.00\n            22200.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 22,200.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "22,200.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular LOGITECH H111 (981-000612)\n                    \n                    \n        \n            "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular LOGITECH H111 (981-000612)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular LOGITECH H111 (981-000612)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 17,500.00\n            17500.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 17,500.00\n            17500.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 17,500.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "17,500.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular LOGITECH H390 HEADSET (981-000014)\n                    \n                    \n        \n    "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular LOGITECH H390 HEADSET (981-000014)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular LOGITECH H390 HEADSET (981-000014)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 43,100.00\n            43100.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 43,100.00\n            43100.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 43,100.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "43,100.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Logitech H390 Headset Rose (981-001280)\n                    \n                    \n        \n         "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Logitech H390 Headset Rose (981-001280)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Logitech H390 Headset Rose (981-001280)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 47,600.00\n            47600.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 47,600.00\n            47600.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 47,600.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "47,600.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Noganet Rosa (NG 903BT)\n                    \n                    \n        \n            $ 990.01\n    "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Noganet Rosa (NG 903BT)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Noganet Rosa (NG 903BT)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 990.01\n            990.01\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 990.01\n            990.01\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 990.01"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "990.01"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular LOGITECH HEADSET INALAMBRICO G735 AURORA GAMING BLANCO (981-001082)\n                    \n "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular LOGITECH HEADSET INALAMBRICO G735 AURORA GAMING BLANCO (981-001082)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular LOGITECH HEADSET INALAMBRICO G735 AURORA GAMING BLANCO (981-001082)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 410,000.00\n            410000.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 410,000.00\n            410000.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 410,000.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "410,000.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular LOGITECH H390 HEADSET WHITE (981-001285)\n                    \n                    \n       "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular LOGITECH H390 HEADSET WHITE (981-001285)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular LOGITECH H390 HEADSET WHITE (981-001285)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 48,000.00\n            48000.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 48,000.00\n            48000.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 48,000.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "48,000.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular LOGITECH GAMING G335 MINT (981-001023)\n                    \n                    \n        \n"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular LOGITECH GAMING G335 MINT (981-001023)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular LOGITECH GAMING G335 MINT (981-001023)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 85,000.00\n            85000.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 85,000.00\n            85000.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 85,000.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "85,000.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "NETMAK AURICULAR BLUETOOTH AIR 5 PRO C/ESTUCHE GREEN (NM-AIR5-G)\n                    \n              "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "NETMAK AURICULAR BLUETOOTH AIR 5 PRO C/ESTUCHE GREEN (NM-AIR5-G)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "NETMAK AURICULAR BLUETOOTH AIR 5 PRO C/ESTUCHE GREEN (NM-AIR5-G)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 12,300.00\n            12300.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 12,300.00\n            12300.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 12,300.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "12,300.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular REDRAGON PELOPS WIRELESS-WIRE CONNECTION BLACK (H818) (6950376772480)\n                    "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular REDRAGON PELOPS WIRELESS-WIRE CONNECTION BLACK (H818) (6950376772480)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular REDRAGON PELOPS WIRELESS-WIRE CONNECTION BLACK (H818) (6950376772480)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 125,400.00\n            125400.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 125,400.00\n            125400.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 125,400.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "125,400.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular REDRAGON ZEUS X USB WIRE CONNECTION RGB BLACK (H510-RGB) (6950376705914)\n                 "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular REDRAGON ZEUS X USB WIRE CONNECTION RGB BLACK (H510-RGB) (6950376705914)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular REDRAGON ZEUS X USB WIRE CONNECTION RGB BLACK (H510-RGB) (6950376705914)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 91,900.00\n            91900.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 91,900.00\n            91900.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 91,900.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "91,900.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Logitech G435 Azul (981-001061)\n                    \n                    \n        \n            $ 140"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Logitech G435 Azul (981-001061)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Logitech G435 Azul (981-001061)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 140,000.00\n            140000.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 140,000.00\n            140000.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 140,000.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "140,000.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Logitech Gaming G335 Negro (981-000977)\n                    \n                    \n        \n         "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Logitech Gaming G335 Negro (981-000977)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Logitech Gaming G335 Negro (981-000977)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 97,000.00\n            97000.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 97,000.00\n            97000.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 97,000.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "97,000.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular LOGITECH GAMING G335 WHITE (981-001017)\n                    \n                    \n        "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular LOGITECH GAMING G335 WHITE (981-001017)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular LOGITECH GAMING G335 WHITE (981-001017)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 78,000.00\n            78000.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 78,000.00\n            78000.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 78,000.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "78,000.00"
+  },
+  {
+    "tag": "div",
+    "class": "col tp-product-item tp-product-item-grid-2",
+    "text_preview": "Add to Cart\n                        \n                    \n                \n                \n        "
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid h-100 w-100 tp-product-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-column position-absolute tp-action-buttons tp-action-buttons-rounded o_wsale_product_btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tp-add-to-cart-btn o_wsale_product_btn d-none d-lg-block p-2",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "a",
+    "class": "a-submit btn btn-primary w-100 shadow-none rounded-pill",
+    "text_preview": "Add to Cart"
+  },
+  {
+    "tag": "div",
+    "class": "tp-product-content p-2 text-center text-lg-start",
+    "text_preview": "Auricular HYPERX CLOUD STINGER II GAMING HEADSET DTSX BLACK (519T1AA)\n                    \n         "
+  },
+  {
+    "tag": "h6",
+    "class": "mb-1 tp-product-title",
+    "text_preview": "Auricular HYPERX CLOUD STINGER II GAMING HEADSET DTSX BLACK (519T1AA)"
+  },
+  {
+    "tag": "a",
+    "class": "tp-link-dark text-truncate d-block",
+    "text_preview": "Auricular HYPERX CLOUD STINGER II GAMING HEADSET DTSX BLACK (519T1AA)"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex flex-wrap flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center position-relative",
+    "text_preview": "$ 96,300.00\n            96300.0\n            ARS"
+  },
+  {
+    "tag": "div",
+    "class": "product_price me-2",
+    "text_preview": "$ 96,300.00\n            96300.0\n            ARS"
+  },
+  {
+    "tag": "span",
+    "class": "h6 text-primary mb-0 d-inline-block",
+    "text_preview": "$ 96,300.00"
+  },
+  {
+    "tag": "span",
+    "class": "oe_currency_value",
+    "text_preview": "96,300.00"
+  },
+  {
+    "tag": "li",
+    "class": "page-item active",
+    "text_preview": "1"
+  },
+  {
+    "tag": "a",
+    "class": "page-link ",
+    "text_preview": "1"
+  },
+  {
+    "tag": "li",
+    "class": "page-item ",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "page-link ",
+    "text_preview": "2"
+  },
+  {
+    "tag": "div",
+    "class": "offcanvas-body p-0",
+    "text_preview": "Destacado\n                            \n                                Llegadas más recientes\n      "
+  },
+  {
+    "tag": "ul",
+    "class": "list-group",
+    "text_preview": "Destacado\n                            \n                                Llegadas más recientes\n      "
+  },
+  {
+    "tag": "a",
+    "class": "list-group-item list-group-item-action border-start-0 border-end-0 py-3 active",
+    "text_preview": "Destacado"
+  },
+  {
+    "tag": "a",
+    "class": "list-group-item list-group-item-action border-start-0 border-end-0 py-3 ",
+    "text_preview": "Llegadas más recientes"
+  },
+  {
+    "tag": "a",
+    "class": "list-group-item list-group-item-action border-start-0 border-end-0 py-3 ",
+    "text_preview": "Nombre (A-Z)"
+  },
+  {
+    "tag": "a",
+    "class": "list-group-item list-group-item-action border-start-0 border-end-0 py-3 ",
+    "text_preview": "Precio - bajo a alto"
+  },
+  {
+    "tag": "a",
+    "class": "list-group-item list-group-item-action border-start-0 border-end-0 py-3 ",
+    "text_preview": "Precio - alto a bajo"
+  },
+  {
+    "tag": "h5",
+    "class": "mb-3",
+    "text_preview": "Enlaces de interés"
+  },
+  {
+    "tag": "lt-div",
+    "class": "lt-highlighter__wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "lt-div",
+    "class": "lt-highlighter__scroll-element",
+    "text_preview": ""
+  },
+  {
+    "tag": "lt-div",
+    "class": "lt-highlighter__wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "lt-div",
+    "class": "lt-highlighter__scroll-element",
+    "text_preview": ""
+  },
+  {
+    "tag": "lt-div",
+    "class": "lt-highlighter__wrapper",
+    "text_preview": "​"
+  },
+  {
+    "tag": "lt-div",
+    "class": "lt-highlighter__scroll-element",
+    "text_preview": ""
+  },
+  {
+    "tag": "lt-div",
+    "class": "lt-highlighter__wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "lt-div",
+    "class": "lt-highlighter__scroll-element",
+    "text_preview": ""
+  },
+  {
+    "tag": "h5",
+    "class": "mb-3",
+    "text_preview": "Acerca de"
+  },
+  {
+    "tag": "h5",
+    "class": "mb-3",
+    "text_preview": "Contáctenos"
+  },
+  {
+    "tag": "div",
+    "class": "s_social_media o_not_editable text-start",
+    "text_preview": "Siganos"
+  },
+  {
+    "tag": "a",
+    "class": "s_social_media_facebook",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "s_social_media_linkedin",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "s_social_media_instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "s_social_media_whatsapp",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cy_whatsapp_web",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cy_whatsapp_web",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "o_colored_level o_grid_item g-col-lg-4 g-height-1 col-lg-4",
+    "text_preview": "Av. Forest 365, Chacarita, CABA."
+  },
+  {
+    "tag": "h5",
+    "class": "mb-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "list-unstyled",
+    "text_preview": "Av. Forest 365, Chacarita, CABA."
+  },
+  {
+    "tag": "div",
+    "class": "col-sm text-center text-sm-end o_not_editable",
+    "text_preview": "Con tecnología de \n            \n                \n            \n        - \n                    El #1 C"
+  },
+  {
+    "tag": "div",
+    "class": "o_brand_promotion",
+    "text_preview": "Con tecnología de \n            \n                \n            \n        - \n                    El #1 C"
+  },
+  {
+    "tag": "a",
+    "class": "badge text-bg-light",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tp-back-to-top tp-icon-center-2 dr-p-icon o_not_editable shadow-tp position-fixed d-none",
+    "text_preview": ""
+  }
+]

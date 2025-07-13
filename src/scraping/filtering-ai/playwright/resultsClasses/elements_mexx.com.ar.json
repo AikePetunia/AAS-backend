@@ -1,0 +1,3042 @@
+[
+  {
+    "tag": "li",
+    "class": "w-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-mexx btn-raised btn-fab",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "p-2 open",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left mini-cart",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "monto",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xl-3 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
+    "text_preview": "Notebooks PCs All in One  PCs Mini  Motherboards Procesadores Memorias Ram Almacenamiento"
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0  col-12",
+    "text_preview": "Notebooks PCs All in One  PCs Mini  Motherboards Procesadores Memorias Ram Almacenamiento"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "PCs All in One"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "PCs Mini"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Procesadores"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Almacenamiento"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xl-3 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
+    "text_preview": "Placas de Video Fuentes de Poder Gabinetes Refrigeración PC Combos Actualización PC Teclados, Mouses"
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0  col-12",
+    "text_preview": "Placas de Video Fuentes de Poder Gabinetes Refrigeración PC Combos Actualización PC Teclados, Mouses"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Fuentes de Poder"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Refrigeración PC"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Combos Actualización PC"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Teclados, Mouses y Pads"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Auriculares y Micrófonos"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Cámaras Web e IP"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Impresoras y Plotters"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Ups y Estabilizadores"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Sillas Gamers"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Consolas"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xl-3 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
+    "text_preview": "Volantes y Gamepads Parlantes y Audio Proyectores  Software Tablets y eBooks Tabletas Gráficas Outle"
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0  col-12",
+    "text_preview": "Volantes y Gamepads Parlantes y Audio Proyectores  Software Tablets y eBooks Tabletas Gráficas Outle"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Volantes y Gamepads"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Parlantes y Audio"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Proyectores"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Software"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Tablets y eBooks"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Tabletas Gráficas"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Outlet"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xl-3 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0  col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": "AMD\n                \t \n               \t\t\n                       \n                        INTEL"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 sub-menu",
+    "text_preview": "AMD\n                \t \n               \t\t\n                       \n                        INTEL"
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0",
+    "text_preview": "AMD\n                \t \n               \t\t\n                       \n                        INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "AMD"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "AMD"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "INTEL"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "INTEL"
+  },
+  {
+    "tag": "div",
+    "class": "row mx-md-4 mx-1",
+    "text_preview": "Hogar y OficinaGamersPro Gamers"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
+    "text_preview": "Hogar y OficinaGamersPro Gamers"
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0 pr-0 col-12",
+    "text_preview": "Hogar y OficinaGamersPro Gamers"
+  },
+  {
+    "tag": "li",
+    "class": "PC Armadas",
+    "text_preview": "Hogar y Oficina"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Hogar y Oficina"
+  },
+  {
+    "tag": "li",
+    "class": "PC Armadas",
+    "text_preview": "Gamers"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Gamers"
+  },
+  {
+    "tag": "li",
+    "class": "PC Armadas",
+    "text_preview": "Pro Gamers"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Pro Gamers"
+  },
+  {
+    "tag": "div",
+    "class": "row mx-md-4 mx-1",
+    "text_preview": "Hogar y OficinaGamersPro Gamers"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
+    "text_preview": "Hogar y OficinaGamersPro Gamers"
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0 pr-0 col-12",
+    "text_preview": "Hogar y OficinaGamersPro Gamers"
+  },
+  {
+    "tag": "li",
+    "class": "PCs Escritorio",
+    "text_preview": "Hogar y Oficina"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Hogar y Oficina"
+  },
+  {
+    "tag": "li",
+    "class": "PCs Escritorio",
+    "text_preview": "Gamers"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Gamers"
+  },
+  {
+    "tag": "li",
+    "class": "PCs Escritorio",
+    "text_preview": "Pro Gamers"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Pro Gamers"
+  },
+  {
+    "tag": "div",
+    "class": "row mx-md-4 mx-1",
+    "text_preview": "Gabinetes Motherboards Procesadores Memorias Ram Almacenamiento Placas de Video Fuentes de Poder Ref"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
+    "text_preview": "Gabinetes Motherboards Procesadores Memorias Ram Almacenamiento Placas de Video Fuentes de Poder Ref"
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0 pr-0 col-12",
+    "text_preview": "Gabinetes Motherboards Procesadores Memorias Ram Almacenamiento Placas de Video Fuentes de Poder Ref"
+  },
+  {
+    "tag": "li",
+    "class": "Componentes de pc",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "li",
+    "class": "Componentes de pc",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "li",
+    "class": "Componentes de pc",
+    "text_preview": "Procesadores"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Procesadores"
+  },
+  {
+    "tag": "li",
+    "class": "Componentes de pc",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "li",
+    "class": "Componentes de pc",
+    "text_preview": "Almacenamiento"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Almacenamiento"
+  },
+  {
+    "tag": "li",
+    "class": "Componentes de pc",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "li",
+    "class": "Componentes de pc",
+    "text_preview": "Fuentes de Poder"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Fuentes de Poder"
+  },
+  {
+    "tag": "li",
+    "class": "Componentes de pc",
+    "text_preview": "Refrigeración PC"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Refrigeración PC"
+  },
+  {
+    "tag": "div",
+    "class": "row mx-md-4 mx-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0 pr-0 col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": "Hannever\n                \t  \n                    \n\t\t\t\t\t\n                   \n    \t\t\t\tAMD\n            "
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 sub-menu",
+    "text_preview": "Hannever\n                \t  \n                    \n\t\t\t\t\t\n                   \n    \t\t\t\tAMD\n            "
+  },
+  {
+    "tag": "ul",
+    "class": "caret-style pl-0",
+    "text_preview": "Hannever\n                \t  \n                    \n\t\t\t\t\t\n                   \n    \t\t\t\tAMD\n            "
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Hannever"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Hannever"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "AMD"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "AMD"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Nvidia"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Nvidia"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Logitech"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Logitech"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "seagate"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "seagate"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Intel"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Intel"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Asus Notebooks"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Asus Notebooks"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Asus"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Asus"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Kingston"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Kingston"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Hyperx"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Hyperx"
+  },
+  {
+    "tag": "li",
+    "class": "pl-0",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "li",
+    "class": "pl-0",
+    "text_preview": "Registrarse"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Registrarse"
+  },
+  {
+    "tag": "li",
+    "class": "pl-0",
+    "text_preview": "Facturas"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Facturas"
+  },
+  {
+    "tag": "li",
+    "class": "pl-0",
+    "text_preview": "Preguntas"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Preguntas"
+  },
+  {
+    "tag": "li",
+    "class": "pl-0",
+    "text_preview": "Favoritos"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Favoritos"
+  },
+  {
+    "tag": "li",
+    "class": "pl-0",
+    "text_preview": "Canje de juegos"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Canje de juegos"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Quiero Preguntar"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Quiero Preguntar"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Quiero que me llamen"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Quiero que me llamen"
+  },
+  {
+    "tag": "li",
+    "class": "col-12",
+    "text_preview": "Quiero solicitar un turno"
+  },
+  {
+    "tag": "a",
+    "class": "pl-3",
+    "text_preview": "Quiero solicitar un turno"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-3 pr-3 pull-left ml-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "monto",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon  btn-facebook ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "section-space",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12",
+    "text_preview": "Pro Gamers"
+  },
+  {
+    "tag": "h2",
+    "class": "section-title col-lg-12",
+    "text_preview": "Pro Gamers"
+  },
+  {
+    "tag": "div",
+    "class": "panel panel-default panel-rose",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "panel-heading pt-0 mt-0 pr-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "panel panel-default panel-rose panel-carac",
+    "text_preview": "Subcategoría"
+  },
+  {
+    "tag": "div",
+    "class": "panel-heading pt-0 mt-0 pr-0",
+    "text_preview": "Subcategoría"
+  },
+  {
+    "tag": "h4",
+    "class": "panel-title",
+    "text_preview": "Subcategoría"
+  },
+  {
+    "tag": "div",
+    "class": "panel-body pl-0 pr-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "panel panel-default panel-rose panel-marca",
+    "text_preview": "Subcategoría\n\t\t\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t"
+  },
+  {
+    "tag": "div",
+    "class": "panel-heading pt-0 mt-0 pr-0",
+    "text_preview": "Subcategoría"
+  },
+  {
+    "tag": "h4",
+    "class": "panel-title",
+    "text_preview": "Subcategoría"
+  },
+  {
+    "tag": "div",
+    "class": "panel-body pl-0 pr-0",
+    "text_preview": "Intel Core i5 (4)\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group is-filled",
+    "text_preview": "Intel Core i5 (4)"
+  },
+  {
+    "tag": "div",
+    "class": "radio",
+    "text_preview": "Intel Core i5 (4)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-radio",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "check-material",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "fillNumCount",
+    "text_preview": "(4)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group is-filled",
+    "text_preview": "Intel Core i7 (1)"
+  },
+  {
+    "tag": "div",
+    "class": "radio",
+    "text_preview": "Intel Core i7 (1)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-radio",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "check-material",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "fillNumCount",
+    "text_preview": "(1)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group is-filled",
+    "text_preview": "Amd Ryzen 5 (4)"
+  },
+  {
+    "tag": "div",
+    "class": "radio",
+    "text_preview": "Amd Ryzen 5 (4)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-radio",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "check-material",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "fillNumCount",
+    "text_preview": "(4)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group is-filled",
+    "text_preview": "Amd Ryzen 7 (7)"
+  },
+  {
+    "tag": "div",
+    "class": "radio",
+    "text_preview": "Amd Ryzen 7 (7)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-radio",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "check-material",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "fillNumCount",
+    "text_preview": "(7)"
+  },
+  {
+    "tag": "div",
+    "class": "panel panel-default panel-rose panel-marca",
+    "text_preview": "Categoría:\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "panel-heading pt-0 mt-0 pr-0",
+    "text_preview": "Categoría:"
+  },
+  {
+    "tag": "h4",
+    "class": "panel-title",
+    "text_preview": "Categoría:"
+  },
+  {
+    "tag": "div",
+    "class": "panel-body pl-0 pr-0",
+    "text_preview": "Pc Hogar y Oficina (27)\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group is-filled",
+    "text_preview": "Pc Hogar y Oficina (27)"
+  },
+  {
+    "tag": "div",
+    "class": "radio",
+    "text_preview": "Pc Hogar y Oficina (27)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-radio",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "check-material",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "fillNumCount",
+    "text_preview": "(27)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group is-filled",
+    "text_preview": "Gamers (12)"
+  },
+  {
+    "tag": "div",
+    "class": "radio",
+    "text_preview": "Gamers (12)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-radio",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "check-material",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "fillNumCount",
+    "text_preview": "(12)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group is-filled",
+    "text_preview": "Pro Gamers (16)"
+  },
+  {
+    "tag": "div",
+    "class": "radio",
+    "text_preview": "Pro Gamers (16)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-radio",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "check-material",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "fillNumCount",
+    "text_preview": "(16)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group is-filled",
+    "text_preview": "Precios Killers (2)"
+  },
+  {
+    "tag": "div",
+    "class": "radio",
+    "text_preview": "Precios Killers (2)"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-radio",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "check-material",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "fillNumCount",
+    "text_preview": "(2)"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 mb-2 pull-right",
+    "text_preview": "12Todo"
+  },
+  {
+    "tag": "ul",
+    "class": "pagination pagination-info mb-0 mt-2 float-right",
+    "text_preview": "12Todo"
+  },
+  {
+    "tag": "li",
+    "class": "active",
+    "text_preview": "1"
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Intel Core i5 14600K-B760-16Gb-RTX4060-Ssd 1TB"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard 1700 14°Gen - Msi B760M-P PRO DDR4 • Procesador Intel Core i5 14600K 5.3 Ghz Raptor La"
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$1.569.819Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$1.569.819Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$1.569.819Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Intel Core i5 14600K-32Gb-RTX 5060TI- 2TB- 750W"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard 1700 14°Gen - Msi B760M-P PRO DDR4 • Procesador Intel Core i5 14600K 5.3 Ghz Raptor La"
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$1.812.039Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$1.812.039Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$1.812.039Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Amd Ryzen 5 5600X-A520-8Gb-RTX5060ti - 750W"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard AM4 - Gigabyte A520M-K V2 • Procesador Amd Ryzen 5 5600X 3.7 Ghz - AM4 Sin Gpu • Memor"
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$1.350.619Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$1.350.619Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$1.350.619Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Amd Ryzen 5 5600X-A520-16Gb-RTX4060 8GB"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard AM4 - Gigabyte A520M-K V2 • Procesador Amd Ryzen 5 5600X 3.7 Ghz - AM4 Sin Gpu • Memor"
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$1.111.569Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$1.111.569Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$1.111.569Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Intel Core i5 10400-H510-16Gb-RTX3050-1TB"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard 1200 10° Gen - Msi PRO H510M-B II • Procesador Intel Core i5 10400 4.3 Ghz Comet Lake "
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$921.939Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$921.939Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$921.939Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Intel Core i7 12700-B760-32Gb-RTX5060ti-1Tb"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard 1700 14°Gen - Msi Pro H610M-S DDR4 • Procesador Intel Core i7 12700 4.4 Ghz Alder Lake"
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$1.605.809Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$1.605.809Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$1.605.809Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Amd Ryzen 7 8700F-B620-32GB-RTX4060"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard AM5 - Msi PRO A620M-E • Procesador Amd Ryzen 7 8700F 5.0 Ghz - AM5 Sin Video • Memoria"
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$1.530.169Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$1.530.169Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$1.530.169Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "GP9900  Amd Ryzen 5 8500G-B620-16Gb-1tb"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard AM5 - Biostar A620MH Aurora  • Procesador Amd Ryzen 5 8500G 5.0 Ghz - AM5 • Memoria Ra"
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stars etiquetaEnvioNormal",
+    "text_preview": "Envío rápido"
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envionormal ",
+    "text_preview": "Envío rápido"
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$697.569Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$697.569Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$697.569Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Amd Ryzen 5 5600GT-A520-32Gb-RTX4060"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard AM4 - Gigabyte A520M-K V2 • Procesador Amd Ryzen 5 5600GT 4.6 Ghz - AM4 • Memoria Ram "
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$1.166.859Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$1.166.859Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$1.166.859Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Amd Ryzen 7 8700F-32Gb-RTX4060-2TB-700W"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard AM5 - Msi PRO A620M-E • Procesador Amd Ryzen 7 8700F 5.0 Ghz - AM5 Sin Video • Memoria"
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$1.559.149Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$1.559.149Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$1.559.149Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc Intel Core Ultra 5 245K-32Gb-RTX5080-1TB-850W"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard Intel Socket LGA1851 - Asus Prime Z890-P WIFI  • Procesador Intel Core Ultra 5 245K 5."
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$3.834.089Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$3.834.089Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$3.834.089Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "en_stock",
+    "text_preview": "11% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 btn btn-success btn-xs enstocklistado",
+    "text_preview": "EN STOCK"
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 mi-h-200",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid px-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-a",
+    "text_preview": "Pc AMD Ryzen 7 5700X-32Gb-RTX4060-1TB-700W"
+  },
+  {
+    "tag": "div",
+    "class": "card-description combos lh-18",
+    "text_preview": "• Motherboard AM4 - Asus Prime A520M-K CSM • Procesador Amd Ryzen 7 5700X 4.6 Ghz - AM4 Sin Cooler •"
+  },
+  {
+    "tag": "p",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "enviodivider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "¡12 cuotas sin interés!$1.368.549Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "¡12 cuotas sin interés!$1.368.549Precio Especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 c-w lh-24",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 mb-0",
+    "text_preview": "$1.368.549Precio Especial"
+  },
+  {
+    "tag": "div",
+    "class": "favcontent ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fav-ID fav",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "stats",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-link btn-mexx",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "clearfix",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 mb-2 pull-right",
+    "text_preview": "12Todo"
+  },
+  {
+    "tag": "ul",
+    "class": "pagination pagination-info mb-0 mt-2 float-right",
+    "text_preview": "12Todo"
+  },
+  {
+    "tag": "li",
+    "class": "active",
+    "text_preview": "1"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3",
+    "text_preview": "PC ARMADAS\n                        \n                            HOGAR Y EMPRESA\n                    "
+  },
+  {
+    "tag": "div",
+    "class": "card card-background hovereffect",
+    "text_preview": "PC ARMADAS\n                        \n                            HOGAR Y EMPRESA\n                    "
+  },
+  {
+    "tag": "div",
+    "class": "card-content",
+    "text_preview": "PC ARMADAS\n                        \n                            HOGAR Y EMPRESA\n                    "
+  },
+  {
+    "tag": "h6",
+    "class": "category text-info",
+    "text_preview": "PC ARMADAS"
+  },
+  {
+    "tag": "h3",
+    "class": "card-title",
+    "text_preview": "HOGAR Y EMPRESA"
+  },
+  {
+    "tag": "p",
+    "class": "card-description",
+    "text_preview": "Los mejores equipos para tu hogar u oficina"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-mexx btn-sm",
+    "text_preview": "ver todas"
+  },
+  {
+    "tag": "h6",
+    "class": "category text-info",
+    "text_preview": "PC ARMADAS"
+  },
+  {
+    "tag": "h3",
+    "class": "card-title",
+    "text_preview": "ENTRETENIMIENTO"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-mexx btn-sm",
+    "text_preview": "ver todas"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3",
+    "text_preview": "PC ARMADAS\n                        \n                      \n                            GAMERS\n      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-background hovereffect",
+    "text_preview": "PC ARMADAS\n                        \n                      \n                            GAMERS\n      "
+  },
+  {
+    "tag": "div",
+    "class": "card-content",
+    "text_preview": "PC ARMADAS\n                        \n                      \n                            GAMERS\n      "
+  },
+  {
+    "tag": "h6",
+    "class": "category text-info",
+    "text_preview": "PC ARMADAS"
+  },
+  {
+    "tag": "h3",
+    "class": "card-title",
+    "text_preview": "GAMERS"
+  },
+  {
+    "tag": "p",
+    "class": "card-description",
+    "text_preview": "Todo el poder que necesitas para tus juegos!"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-mexx btn-sm",
+    "text_preview": "ver todas"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3",
+    "text_preview": "PC ARMADAS\n                     \n                        \n                            GAMERS XTREME\n"
+  },
+  {
+    "tag": "div",
+    "class": "card card-background hovereffect",
+    "text_preview": "PC ARMADAS\n                     \n                        \n                            GAMERS XTREME\n"
+  },
+  {
+    "tag": "div",
+    "class": "card-content",
+    "text_preview": "PC ARMADAS\n                     \n                        \n                            GAMERS XTREME\n"
+  },
+  {
+    "tag": "h6",
+    "class": "category text-info",
+    "text_preview": "PC ARMADAS"
+  },
+  {
+    "tag": "h3",
+    "class": "card-title",
+    "text_preview": "GAMERS XTREME"
+  },
+  {
+    "tag": "p",
+    "class": "card-description",
+    "text_preview": "Nadie te puede parar, armado hasta los dientes!"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-mexx btn-sm",
+    "text_preview": "ver todas"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 ml-auto mr-auto caja4segunda col-sm-offset-1",
+    "text_preview": "QUIERO PREGUNTAR"
+  },
+  {
+    "tag": "div",
+    "class": "card card-signup m-0 mt-2 mb-2",
+    "text_preview": "QUIERO PREGUNTAR"
+  },
+  {
+    "tag": "div",
+    "class": "card-header-data card-header-mexx text-center",
+    "text_preview": "QUIERO PREGUNTAR"
+  },
+  {
+    "tag": "h5",
+    "class": "card-title",
+    "text_preview": "QUIERO PREGUNTAR"
+  },
+  {
+    "tag": "h5",
+    "class": "txtcaja4T mt-0 mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 ml-auto mr-auto ",
+    "text_preview": "QUIERO QUE ME LLAMEN"
+  },
+  {
+    "tag": "div",
+    "class": "card card-signup m-0 mt-2 mb-2",
+    "text_preview": "QUIERO QUE ME LLAMEN"
+  },
+  {
+    "tag": "div",
+    "class": "card-header-data card-header-mexx text-center",
+    "text_preview": "QUIERO QUE ME LLAMEN"
+  },
+  {
+    "tag": "h5",
+    "class": "card-title",
+    "text_preview": "QUIERO QUE ME LLAMEN"
+  },
+  {
+    "tag": "h3",
+    "class": "caja-subtitulo mt-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "h5",
+    "class": " mt-0 mb-0 emailcaja3",
+    "text_preview": ""
+  },
+  {
+    "tag": "h5",
+    "class": " mt-0 mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 ml-auto mr-auto",
+    "text_preview": "MEXX EMPRESAS"
+  },
+  {
+    "tag": "div",
+    "class": "card card-signup m-0 mt-2 mb-2",
+    "text_preview": "MEXX EMPRESAS"
+  },
+  {
+    "tag": "div",
+    "class": "card-header-data card-header-mexx text-center",
+    "text_preview": "MEXX EMPRESAS"
+  },
+  {
+    "tag": "h5",
+    "class": "card-title",
+    "text_preview": "MEXX EMPRESAS"
+  },
+  {
+    "tag": "h5",
+    "class": "txtcaja4T mt-0 mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "hr",
+    "class": "p-0 m-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row slick-initialized slick-slider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-list draggable",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-track",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-current slick-active",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "aslik",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid mh-130",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-active",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "aslik",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid mh-130",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-active",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "aslik",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid mh-130",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-active",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "aslik",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid mh-130",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-active",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "aslik",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid mh-130",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-active",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "aslik",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid mh-130",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-active",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "aslik",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid mh-130",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-active",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "aslik",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid mh-130",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-1",
+    "text_preview": "INGRESAR"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 ",
+    "text_preview": "Mantener iniciado"
+  },
+  {
+    "tag": "label",
+    "class": "form-check-label",
+    "text_preview": "Mantener iniciado"
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-blue px-5 mt-1 mb-3",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-1",
+    "text_preview": "REGISTRARSE"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "invalid-feedback",
+    "text_preview": "Correo electrónico no válido"
+  },
+  {
+    "tag": "div",
+    "class": "valid-feedback",
+    "text_preview": "Correo electrónico válido"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 ml-0 pl-0 mr-0 pr-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-blue px-5 mt-3 mb-3 submit_registro",
+    "text_preview": "REGISTRARME"
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-social btn-fill btn-google",
+    "text_preview": "Ingresar con  Google"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "loadingModal",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": "Calculador de cuotas"
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title mt-0 b",
+    "text_preview": "Calculador de cuotas"
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": "Tarjeta\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tBanco\n\t\t\t\t\t\t\t\t\t\t\t\n         "
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6 col-xs-12",
+    "text_preview": "Tarjeta"
+  },
+  {
+    "tag": "div",
+    "class": "form-group",
+    "text_preview": "Tarjeta"
+  },
+  {
+    "tag": "label",
+    "class": "control-label",
+    "text_preview": "Tarjeta"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6 col-xs-12",
+    "text_preview": "Banco"
+  },
+  {
+    "tag": "div",
+    "class": "form-group",
+    "text_preview": "Banco"
+  },
+  {
+    "tag": "label",
+    "class": "control-label",
+    "text_preview": "Banco"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-2",
+    "text_preview": "Cuotas"
+  },
+  {
+    "tag": "div",
+    "class": "form-group",
+    "text_preview": "Cuotas"
+  },
+  {
+    "tag": "label",
+    "class": "control-label",
+    "text_preview": "Cuotas"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-10",
+    "text_preview": "Precios finales\n\t\t\t\t\t\t\t\t\t\tCuotas de: \t\n                                         \t\t\t\t\t\t\t\t\t\n          "
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6 ta-c mt-2",
+    "text_preview": "Precios finales\n\t\t\t\t\t\t\t\t\t\tCuotas de:"
+  },
+  {
+    "tag": "label",
+    "class": "control-label ml-0 pl-0 pull-left mb-2",
+    "text_preview": "Precios finales"
+  },
+  {
+    "tag": "label",
+    "class": "control-label btns",
+    "text_preview": "Cuotas de:"
+  },
+  {
+    "tag": "span",
+    "class": "btn-success-link b",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6  ta-c",
+    "text_preview": "Total:"
+  },
+  {
+    "tag": "label",
+    "class": "control-label btns",
+    "text_preview": "Total:"
+  },
+  {
+    "tag": "span",
+    "class": "btn-success-link b",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6 mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-12 mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "result",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "resultNote small mb-4",
+    "text_preview": "Costo calculado por una unidad."
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content bg-none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect waves-light bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-mexx btn-raised btn-fab /*btn-round*/",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "my-0",
+    "text_preview": "Calculá tu cuota abonando en el local sobre el precio de lista"
+  },
+  {
+    "tag": "tbody",
+    "class": "opciones",
+    "text_preview": "3\n                                       Sin interés\n                                   \n           "
+  },
+  {
+    "tag": "span",
+    "class": "col-md-12 px-0 mt-2 titulo px-0 pull-left",
+    "text_preview": "PRECIO ESPECIAL $"
+  },
+  {
+    "tag": "span",
+    "class": "col-md-12 px-0 a12-vigente pull-left",
+    "text_preview": "Efectivo Transferencia o deposito bancarioTarjeta de débito o Crédito en 1 pago."
+  },
+  {
+    "tag": "span",
+    "class": "col-md-12 mt-0 titulo px-0 pull-left mt-3",
+    "text_preview": "¡PAGANDO EN NUESTRA WEB!"
+  },
+  {
+    "tag": "img",
+    "class": "cuotas_img mr-0 pr-3 ml-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 pl-0",
+    "text_preview": "* campos obligatorios"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-6 pull-left mt-4 pl-0",
+    "text_preview": "*Nombre"
+  },
+  {
+    "tag": "label",
+    "class": "control-label w-100 mt-0",
+    "text_preview": "*Nombre"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-6 pull-left mt-4 pl-0",
+    "text_preview": "*Cod área:\n                                                        \n                                "
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-5 pull-left mt-4 pl-0",
+    "text_preview": "*Cod área:"
+  },
+  {
+    "tag": "label",
+    "class": "control-label w-100 mt-0",
+    "text_preview": "*Cod área:"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-7 pull-left mt-4 pl-0",
+    "text_preview": "*Celular:"
+  },
+  {
+    "tag": "label",
+    "class": "control-label w-100 mt-0",
+    "text_preview": "*Celular:"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 pull-left mt-4 pl-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-3 pull-left mt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 mt-3 pl-0",
+    "text_preview": "Quiero que me llamen"
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-mexx",
+    "text_preview": "Quiero que me llamen"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-3 pull-left mt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": "Seleccione el área\n                \n                    \n                \n            \n            \n"
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": "Seleccione el área\n                \n                    \n                \n            \n            \n"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": "Seleccione el área"
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title mt-0 b",
+    "text_preview": "Seleccione el área"
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": "Venta\n                            \n                            \n                                  \n "
+  },
+  {
+    "tag": "div",
+    "class": "card-content",
+    "text_preview": "Venta\n                            \n                            \n                                  \n "
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": "Venta\n                            \n                            \n                                  \n "
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-6 pull-left mt-4 pl-0",
+    "text_preview": "Venta\n                            \n                            \n                                  \n "
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 mt-3 pl-0",
+    "text_preview": "Solicitar Turno"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-mexx",
+    "text_preview": "Solicitar Turno"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-6 pull-left mt-4 pl-0",
+    "text_preview": "Post Venta\n                            \n\t\t\t\t\t\t\t\n                                  \n                 "
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 mt-3 pl-0",
+    "text_preview": "Solicitar Turno"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-mexx",
+    "text_preview": "Solicitar Turno"
+  },
+  {
+    "tag": "div",
+    "class": "cerrarchat",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "typing-field",
+    "text_preview": "Enviar"
+  },
+  {
+    "tag": "div",
+    "class": "input-data",
+    "text_preview": "Enviar"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 pl-0",
+    "text_preview": "* campos obligatorios"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-6 pull-left mt-4 pl-0",
+    "text_preview": "*Nombre y Apellido"
+  },
+  {
+    "tag": "label",
+    "class": "control-label w-100 mt-0",
+    "text_preview": "*Nombre y Apellido"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-6 pull-left mt-4 pl-0",
+    "text_preview": "*Tel:"
+  },
+  {
+    "tag": "label",
+    "class": "control-label w-100 mt-0",
+    "text_preview": "*Tel:"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-6 pull-left mt-4 pl-0",
+    "text_preview": "*N° de Orden"
+  },
+  {
+    "tag": "label",
+    "class": "control-label w-100 mt-0",
+    "text_preview": "*N° de Orden"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 pl-0 mt-4 mb-4",
+    "text_preview": "AdjuntarFactura:"
+  },
+  {
+    "tag": "label",
+    "class": "pull-left",
+    "text_preview": "AdjuntarFactura:"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 pull-left mt-4 pl-0",
+    "text_preview": "Comentarios:"
+  },
+  {
+    "tag": "label",
+    "class": "control-label w-100 mt-0",
+    "text_preview": "Comentarios:"
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group is-filled",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-3 pull-left mt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 mt-3 pl-0",
+    "text_preview": "Enviar"
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-mexx",
+    "text_preview": "Enviar"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-3 pull-left mt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "quieroQMeLlamen",
+    "text_preview": "Quiero que me llamen"
+  },
+  {
+    "tag": "a",
+    "class": "social-insta btn btn-just-icon btn-round",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-face btn btn-just-icon btn-round",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-twich btn btn-just-icon btn-round",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-youtu btn btn-just-icon btn-round",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-facebook",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-twitter",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "col-md-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "icon_whats",
+    "text_preview": ""
+  }
+]

@@ -1,0 +1,5827 @@
+[
+  {
+    "tag": "a",
+    "class": "sub-mob",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "sub-mob",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "sub-mob",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "sub-mob",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "sub-mob",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "items",
+    "text_preview": "0 ITEMS - $0.00"
+  },
+  {
+    "tag": "ul",
+    "class": "labels",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels",
+    "text_preview": "."
+  },
+  {
+    "tag": "div",
+    "class": "area-logo",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "btn sep",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-user",
+    "text_preview": "Registrarse\n\t\t\t\t\t\t\t\t\tIngresar\n\t\t\t\t\t\t\t\t\tVer mi pedido"
+  },
+  {
+    "tag": "div",
+    "class": "item-cart",
+    "text_preview": "0\n          \n\n          \n            \n              No hay elementos"
+  },
+  {
+    "tag": "div",
+    "class": "number",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "mini-cart-footer",
+    "text_preview": "No hay elementos"
+  },
+  {
+    "tag": "div",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cols",
+    "text_preview": "Ver todas las computadoras\n\n\t\t\t\t\t\t\tPC Gamer\n\t\t\t\t\t\t\tPC Oficina\n\t\t\t\t\t\t\tPC Workstation"
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "text_preview": "Ver todas las computadoras\n\n\t\t\t\t\t\t\tPC Gamer\n\t\t\t\t\t\t\tPC Oficina\n\t\t\t\t\t\t\tPC Workstation"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Ver todas las computadoras"
+  },
+  {
+    "tag": "div",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "text",
+    "text_preview": "PC Armadas"
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "text_preview": "Placas de Video\n\n\t\t\t\t\t\t\tAMD RADEON\n\t\t\t\t\t\t\tNVIDIA GEFORCE\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t Procesadores\n\t\t\t\t\t\t\t\n\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "div",
+    "class": "martop",
+    "text_preview": "Procesadores"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Procesadores"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Componentes"
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "text_preview": "Almacenamiento\n\n\t\t\t\t\t\t\tDiscos SATA\n\t\t\t\t\t\t\tDiscos Externos\n\t\t\t\t\t\t\tDiscos SSD"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Almacenamiento"
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "text_preview": "Memorias Ram\n\n\t\t\t\t\t\t\tDDR3\n\t\t\t\t\t\t\tDDR4\n\t\t\t\t\t\t\tDDR5\n\t\t\t\t\t\t\tSODIM DDR4\n\t\t\t\t\t\t\tSODIM DDR5"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "text",
+    "text_preview": "Hardware"
+  },
+  {
+    "tag": "div",
+    "class": "cols",
+    "text_preview": "Teclados \n\t\t\t\t\t\t\tTeclado Inalámbrico\n\t\t\t\t\t\t\tTeclado Gamer\n\t\t\t\t\t\t\tTeclado USB\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMouses\n"
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "text_preview": "Teclados \n\t\t\t\t\t\t\tTeclado Inalámbrico\n\t\t\t\t\t\t\tTeclado Gamer\n\t\t\t\t\t\t\tTeclado USB\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMouses\n"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "div",
+    "class": "martop",
+    "text_preview": "Mouses"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Mouses"
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "text_preview": "Auriculares\n\n\t\t\t\t\t\t\tAuriculares Gamer\n\t\t\t\t\t\t\tAuriculares Bluetooth\n\t\t\t\t\t\t\tAuriculares con Microfono\n"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Auriculares"
+  },
+  {
+    "tag": "div",
+    "class": "martop",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "text_preview": "Streaming\n\n\t\t\t\t\t\t\tWebcam\n\t\t\t\t\t\t\tMicrófonos\n\t\t\t\t\t\t\tCapturadora de video\n\t\t\t\t\t\t\tStream Deck\n\t\t\t\t\t\t\tTir"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Streaming"
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "text_preview": "Otros\n\n\t\t\t\t\t\t\tPendrives\n\t\t\t\t\t\t\tSillas Gamer\n\t\t\t\t\t\t\tImpresoras\n\t\t\t\t\t\t\tProyectores"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Otros"
+  },
+  {
+    "tag": "div",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "text",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "item",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "div",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "text",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "a",
+    "class": "bold megatitle",
+    "text_preview": "Otros"
+  },
+  {
+    "tag": "div",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "text",
+    "text_preview": "Otros"
+  },
+  {
+    "tag": "div",
+    "class": "item",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "div",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "text",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "div",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "title",
+    "text_preview": "Ver pedido"
+  },
+  {
+    "tag": "div",
+    "class": "form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mt-1",
+    "text_preview": "Enviar"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-accent",
+    "text_preview": "Enviar"
+  },
+  {
+    "tag": "ul",
+    "class": "cats",
+    "text_preview": "Menor precio\n\t\t\t\t\tMayor precio\n\t\t\t\t\tNombre"
+  },
+  {
+    "tag": "div",
+    "class": "meta",
+    "text_preview": "perifericos"
+  },
+  {
+    "tag": "div",
+    "class": "meta-tags",
+    "text_preview": "perifericos"
+  },
+  {
+    "tag": "a",
+    "class": "active",
+    "text_preview": "perifericos"
+  },
+  {
+    "tag": "h2",
+    "class": "cat",
+    "text_preview": "Marca"
+  },
+  {
+    "tag": "div",
+    "class": "meta",
+    "text_preview": "logitech\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\ttp-link\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tredragon\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\thyperx\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "meta-tags",
+    "text_preview": "logitech\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\ttp-link\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tredragon\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\thyperx\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "h2",
+    "class": "cat",
+    "text_preview": "Tipo"
+  },
+  {
+    "tag": "div",
+    "class": "meta",
+    "text_preview": "webcam\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tteclado\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tmouse\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tauriculares\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "meta-tags",
+    "text_preview": "webcam\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tteclado\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tmouse\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tauriculares\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "h2",
+    "class": "cat",
+    "text_preview": "Detalle"
+  },
+  {
+    "tag": "div",
+    "class": "more more-desk",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "button",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "plus",
+    "text_preview": ""
+  },
+  {
+    "tag": "h2",
+    "class": "cat",
+    "text_preview": "Seleccionados"
+  },
+  {
+    "tag": "div",
+    "class": "meta",
+    "text_preview": "perifericos"
+  },
+  {
+    "tag": "div",
+    "class": "meta-tags",
+    "text_preview": "perifericos"
+  },
+  {
+    "tag": "a",
+    "class": "active",
+    "text_preview": "perifericos"
+  },
+  {
+    "tag": "h2",
+    "class": "cat",
+    "text_preview": "Marca"
+  },
+  {
+    "tag": "div",
+    "class": "meta",
+    "text_preview": "logitech\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\ttp-link\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tredragon\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\thyperx\n\n\t\t\t\t\t\t\t\t\n"
+  },
+  {
+    "tag": "div",
+    "class": "meta-tags",
+    "text_preview": "logitech\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\ttp-link\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tredragon\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\thyperx\n\n\t\t\t\t\t\t\t\t\n"
+  },
+  {
+    "tag": "h2",
+    "class": "cat",
+    "text_preview": "Tipo"
+  },
+  {
+    "tag": "div",
+    "class": "meta",
+    "text_preview": "webcam\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tteclado\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tmouse\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tauriculares\n\n\t\t\t\t\t\t\t\t\n"
+  },
+  {
+    "tag": "div",
+    "class": "meta-tags",
+    "text_preview": "webcam\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tteclado\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tmouse\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tauriculares\n\n\t\t\t\t\t\t\t\t\n"
+  },
+  {
+    "tag": "h2",
+    "class": "cat",
+    "text_preview": "Detalle"
+  },
+  {
+    "tag": "div",
+    "class": "more air mobcatdiv",
+    "text_preview": "Ver Tags"
+  },
+  {
+    "tag": "a",
+    "class": "btn-clean-air mobcatcat",
+    "text_preview": "Ver Tags"
+  },
+  {
+    "tag": "span",
+    "class": "sep",
+    "text_preview": "/"
+  },
+  {
+    "tag": "span",
+    "class": "sep",
+    "text_preview": "/"
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$115.909,10 $127.500,00"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$127.500,00"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$28.821,76 $31.703,90"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$31.703,90"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$30.448,28 $33.493,10"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$33.493,10"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$33.381,80 $36.720,00"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$36.720,00"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$44.634,69 $49.098,21"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$49.098,21"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$17.748,77 $19.523,69"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$19.523,69"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14.804,15 $16.284,56"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$16.284,56"
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$28.353,58 $31.188,92"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$31.188,92"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$18.656,31 $20.521,89"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$20.521,89"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$29.793,69 $32.773,11"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$32.773,11"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$50.777,39 $55.855,07"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$55.855,07"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$75.660,03 $83.226,01"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$83.226,01"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$26.004,01 $28.604,37"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$28.604,37"
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$65.412,98 $71.954,24"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$71.954,24"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$124.869,04 $137.356,01"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$137.356,01"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$53.005,58 $58.306,13"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$58.306,13"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$93.896,23 $103.285,84"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$103.285,84"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$54.946,38 $60.440,99"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$60.440,99"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$42.291,75 $46.520,93"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$46.520,93"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$44.564,31 $49.020,69"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$49.020,69"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$64.450,49 $70.895,48"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$70.895,48"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$42.813,74 $47.095,06"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$47.095,06"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.829,20 $13.012,14"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$13.012,14"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$19.912,95 $21.904,25"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$21.904,25"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$295.457,28 $325.002,98"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$325.002,98"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$17.225,12 $18.947,65"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$18.947,65"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$21.050,51 $23.155,53"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$23.155,53"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$80.994,76 $89.094,20"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$89.094,20"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$117.370,51 $129.107,52"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$129.107,52"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$84.417,75 $92.859,53"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$92.859,53"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$110.803,62 $121.884,01"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$121.884,01"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$25.319,46 $27.851,36"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$27.851,36"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$18.837,74 $20.721,56"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$20.721,56"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$295.126,55 $324.639,23"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$324.639,23"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$54.517,98 $59.969,75"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$59.969,75"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$28.120,89 $30.933,03"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$30.933,03"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$123.763,49 $136.139,78"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$136.139,78"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.069,27 $5.576,21"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$5.576,21"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$42.664,18 $46.930,58"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$46.930,58"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$19.062,78 $20.969,03"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$20.969,03"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.151,15 $12.266,27"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$12.266,27"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$23.658,65 $26.024,54"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$26.024,54"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.341,83 $8.075,98"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$8.075,98"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.736,63 $12.910,27"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$12.910,27"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.819,92 $10.801,93"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$10.801,93"
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$12.664,96 $13.931,42"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$13.931,42"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$12.669,42 $13.936,39"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$13.936,39"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$12.446,42 $13.691,08"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$13.691,08"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$52.619,00 $57.880,92"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$57.880,92"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$26.286,17 $28.914,83"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$28.914,83"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$26.911,04 $29.602,19"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$29.602,19"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$109.045,27 $119.949,83"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$119.949,83"
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14.078,17 $15.486,02"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$15.486,02"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$94.096,91 $103.506,67"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$103.506,67"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$39.569,37 $43.526,33"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$43.526,33"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$147.587,50 $162.346,26"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$162.346,26"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$42.777,53 $47.055,28"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$47.055,28"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$33.499,48 $36.849,41"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$36.849,41"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$51.406,22 $56.546,89"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$56.546,89"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$20.566,26 $22.622,84"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$22.622,84"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$39.392,02 $43.331,26"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$43.331,26"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$36.859,10 $40.545,00"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$40.545,00"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$41.253,52 $45.378,91"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$45.378,91"
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$34.923,91 $38.416,26"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$38.416,26"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.988,35 $10.987,19"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$10.987,19"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$23.197,61 $25.517,34"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$25.517,34"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$87.294,66 $96.024,08"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$96.024,08"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$121.523,18 $133.675,46"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$133.675,46"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$129.457,13 $142.402,84"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$142.402,84"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$367.532,65 $404.285,93"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$404.285,93"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$427.125,00 $469.837,50"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$469.837,50"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$23.802,85 $26.183,15"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$26.183,15"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$22.686,97 $24.955,70"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$24.955,70"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$141.960,16 $156.156,14"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$156.156,14"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$208.055,39 $228.860,97"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$228.860,97"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$143.495,51 $157.845,13"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$157.845,13"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$180.340,46 $198.374,57"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$198.374,57"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$41.646,60 $45.811,26"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$45.811,26"
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$106.236,06 $116.859,62"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$116.859,62"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$425.941,04 $468.535,09"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$468.535,09"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$16.575,00 $18.232,50"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$18.232,50"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$17.687,95 $19.456,76"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$19.456,76"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14.836,41 $16.320,00"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$16.320,00"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$38.174,39 $41.991,87"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$41.991,87"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$31.416,38 $34.557,98"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$34.557,98"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14.399,85 $15.839,84"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$15.839,84"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$30.539,57 $33.593,57"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$33.593,57"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$32.998,79 $36.298,61"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$36.298,61"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$119.748,89 $131.723,82"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$131.723,82"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$124.647,57 $137.112,35"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$137.112,35"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$77.366,75 $85.103,45"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$85.103,45"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$37.399,96 $41.139,92"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$41.139,92"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$37.947,57 $41.742,35"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$41.742,35"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$60.040,90 $66.045,00"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$66.045,00"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.628,71 $8.391,54"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$8.391,54"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14.987,50 $16.486,26"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$16.486,26"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$107.876,09 $118.663,74"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$118.663,74"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$141.858,92 $156.044,83"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$156.044,83"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$133.896,80 $147.286,47"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$147.286,47"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$82.723,15 $90.995,48"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$90.995,48"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$110.095,23 $121.104,73"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$121.104,73"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$22.476,34 $24.724,04"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$24.724,04"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$17.203,58 $18.923,93"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$18.923,93"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$189.494,58 $208.444,01"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$208.444,01"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$175.049,47 $192.554,45"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$192.554,45"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14.733,39 $16.206,78"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$16.206,78"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$47.210,32 $51.931,39"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$51.931,39"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$91.516,70 $100.668,39"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$100.668,39"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$50.330,12 $55.363,18"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$55.363,18"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$50.281,54 $55.309,76"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$55.309,76"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$90.993,31 $100.092,60"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$100.092,60"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$189.924,38 $208.916,78"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$208.916,78"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$109.992,72 $120.992,02"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$120.992,02"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.988,35 $10.987,19"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$10.987,19"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.819,92 $10.801,93"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$10.801,93"
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.628,71 $8.391,54"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$8.391,54"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$139.106,58 $153.017,21"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$153.017,21"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$201.824,21 $222.006,70"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$222.006,70"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$193.537,99 $212.891,85"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$212.891,85"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$188.396,42 $207.236,08"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$207.236,08"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$310.108,31 $341.119,11"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$341.119,11"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$20.924,15 $23.016,56"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$23.016,56"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$81.692,44 $89.861,75"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$89.861,75"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$80.994,76 $89.094,20"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$89.094,20"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$38.327,01 $42.159,66"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$42.159,66"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$99.502,02 $109.452,25"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$109.452,25"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$119.151,81 $131.066,94"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$131.066,94"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$27.898,28 $30.688,10"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$30.688,10"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$43.001,80 $47.301,99"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$47.301,99"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$69.493,49 $76.442,88"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$76.442,88"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$234.201,31 $257.621,40"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$257.621,40"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$72.222,76 $79.445,00"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$79.445,00"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$97.524,88 $107.277,35"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$107.277,35"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$252.624,29 $277.886,76"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$277.886,76"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$238.565,51 $262.422,03"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$262.422,03"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$236.853,69 $260.539,11"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$260.539,11"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$306.600,14 $337.260,20"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$337.260,20"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$270.812,04 $297.893,30"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$297.893,30"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$208.737,14 $229.610,80"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$229.610,80"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$238.903,76 $262.794,20"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$262.794,20"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$248.149,43 $272.964,37"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$272.964,37"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$215.906,84 $237.497,57"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$237.497,57"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$462.830,10 $509.113,11"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$509.113,11"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$462.825,00 $509.107,50"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$509.107,50"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.628,71 $8.391,54"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$8.391,54"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$57.921,47 $63.713,66"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$63.713,66"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$62.570,75 $68.827,82"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$68.827,82"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$685.423,81 $753.966,15"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$753.966,15"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$105.582,11 $116.140,39"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$116.140,39"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$3.512,50 $3.863,76"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$3.863,76"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.444,49 $7.089,00"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$7.089,00"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$96.874,50 $106.561,95"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$106.561,95"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$168.562,01 $185.418,28"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$185.418,28"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$170.832,79 $187.916,13"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$187.916,13"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$161.586,87 $177.745,58"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$177.745,58"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$81.407,73 $89.548,48"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$89.548,48"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$81.407,73 $89.548,48"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$89.548,48"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$175.909,71 $193.500,63"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$193.500,63"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$441.508,40 $485.659,23"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$485.659,23"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$174.705,35 $192.175,91"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$192.175,91"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$27.736,22 $30.509,86"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$30.509,86"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$260.980,77 $287.078,87"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$287.078,87"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$179.397,09 $197.336,85"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$197.336,85"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$329.279,33 $362.207,23"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$362.207,23"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$409.360,04 $450.296,09"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$450.296,09"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$284.682,77 $313.151,09"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$313.151,09"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$212.768,81 $234.045,76"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$234.045,76"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$230.431,01 $253.474,08"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$253.474,08"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$259.485,96 $285.434,51"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$285.434,51"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$17.774,27 $19.551,74"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$19.551,74"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$35.999,63 $39.599,59"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$39.599,59"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$193.150,13 $212.465,11"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$212.465,11"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$90.661,04 $99.727,19"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$99.727,19"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$228.956,47 $251.852,15"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$251.852,15"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$86.737,87 $95.411,69"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$95.411,69"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$75.951,75 $83.546,93"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$83.546,93"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$70.598,54 $77.658,34"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$77.658,34"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$76.658,61 $84.324,42"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$84.324,42"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$78.573,15 $86.430,47"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$86.430,47"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$38.326,88 $42.159,53"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$42.159,53"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$71.227,11 $78.349,77"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$78.349,77"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$49.996,70 $54.996,36"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$54.996,36"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$248.786,93 $273.665,62"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$273.665,62"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$248.786,93 $273.665,62"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$273.665,62"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$220.817,89 $242.899,74"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$242.899,74"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$13.387,50 $14.726,25"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$14.726,25"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$13.435,31 $14.778,91"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$14.778,91"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$136.923,91 $150.616,26"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$150.616,26"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$133.358,88 $146.694,74"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$146.694,74"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$151.467,96 $166.614,71"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$166.614,71"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$50.503,52 $55.553,92"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$55.553,92"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$62.846,54 $69.131,14"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$69.131,14"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$86.337,26 $94.971,05"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$94.971,05"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$63.528,53 $69.881,35"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$69.881,35"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$561.361,21 $617.497,29"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$617.497,29"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$15.533,71 $17.087,04"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$17.087,04"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$283.299,77 $311.629,76"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$311.629,76"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$69.703,49 $76.673,78"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$76.673,78"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$68.171,45 $74.988,62"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$74.988,62"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$130.111,46 $143.122,58"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$143.122,58"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$42.704,47 $46.974,95"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$46.974,95"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$45.004,70 $49.505,19"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$49.505,19"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$70.799,86 $77.879,81"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$77.879,81"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$70.504,70 $77.555,19"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$77.555,19"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$41.860,93 $46.047,01"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$46.047,01"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$32.038,20 $35.242,02"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$35.242,02"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.538,75 $12.692,63"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$12.692,63"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$29.507,20 $32.457,93"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$32.457,93"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$26.279,15 $28.907,06"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$28.907,06"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$57.289,07 $63.018,02"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$63.018,02"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$97.998,54 $107.798,45"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$107.798,45"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$21.003,59 $23.103,89"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$23.103,89"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$70.504,70 $77.555,19"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$77.555,19"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-pocostock",
+    "text_preview": "Poco stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$189.337,50 $208.271,25"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$208.271,25"
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$15.129,02 $16.641,94"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$16.641,94"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$50.999,87 $56.099,87"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$56.099,87"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.707,78 $7.378,55"
+  },
+  {
+    "tag": "span",
+    "class": "price-promo",
+    "text_preview": "$7.378,55"
+  },
+  {
+    "tag": "div",
+    "class": "tags",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "span",
+    "class": "tag tag-stock",
+    "text_preview": "En stock."
+  },
+  {
+    "tag": "div",
+    "class": "item",
+    "text_preview": ""
+  }
+]

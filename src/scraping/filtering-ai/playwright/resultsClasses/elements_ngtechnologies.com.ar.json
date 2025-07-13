@@ -1,0 +1,1917 @@
+[
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "js-modal-open-private header-utility",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "logo-img  transition-soft",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group position-relative m-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-header-utility-icon js-header-utility-icon-only header-utility   ",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "font-medium",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "js-modal-open-private header-utility",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "js-header-utility-icon  ",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-widget-amount badge  ",
+    "text_preview": "0"
+  },
+  {
+    "tag": "img",
+    "class": "js-cart-notification-item-image-private notification-cart-image img-absolute-centered-vertically",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mb-2 mb-md-1",
+    "text_preview": "()"
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-name-private",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-variant-private",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mb-2 mb-md-1",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-quantity-private",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-price-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "desktop-list-subitems list-subitems",
+    "text_preview": "Motherboard\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tProcesadores\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tCoolers\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tMemorias Ram\n\t\t\n\t\t\n"
+  },
+  {
+    "tag": "ul",
+    "class": " list-subitems",
+    "text_preview": "SSD\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tHDD"
+  },
+  {
+    "tag": "ul",
+    "class": " list-subitems",
+    "text_preview": "OUTLET / Usadas\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tNuevas"
+  },
+  {
+    "tag": "ul",
+    "class": "desktop-list-subitems list-subitems",
+    "text_preview": "OUTLET / Usadas\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tNuevas"
+  },
+  {
+    "tag": "ul",
+    "class": "desktop-list-subitems list-subitems",
+    "text_preview": "Teclados\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tTeclados\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tMouses\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tMousepads\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tA"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header no-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "Hardware"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "Discos"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "js-modal-private modal modal-bottom modal-md-bottom modal-width-small modal-md-width-small ",
+    "text_preview": "Idiomas y monedas\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tArgentina"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "Idiomas y monedas"
+  },
+  {
+    "tag": "span",
+    "class": "modal-title ",
+    "text_preview": "Idiomas y monedas"
+  },
+  {
+    "tag": "div",
+    "class": "modal-body ",
+    "text_preview": "Argentina"
+  },
+  {
+    "tag": "ul",
+    "class": "list list-unstyled",
+    "text_preview": "Argentina"
+  },
+  {
+    "tag": "li",
+    "class": "list-item  font-weight-bold",
+    "text_preview": "Argentina"
+  },
+  {
+    "tag": "a",
+    "class": "btn-link",
+    "text_preview": "Argentina"
+  },
+  {
+    "tag": "div",
+    "class": "js-ajax-cart-list",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn-link font-small ml-1",
+    "text_preview": "ver otros acá"
+  },
+  {
+    "tag": "div",
+    "class": "js-visible-on-cart-filled",
+    "text_preview": "Subtotal\n        \n         (sin envío)\n        :\n      \n      $0,00"
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto mb-2",
+    "text_preview": "Subtotal\n        \n         (sin envío)\n        :\n      \n      $0,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-subtotal-shipping-wording",
+    "text_preview": "(sin envío)"
+  },
+  {
+    "tag": "span",
+    "class": "js-ajax-cart-total js-cart-subtotal text-right",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-promo-in",
+    "text_preview": "en"
+  },
+  {
+    "tag": "span",
+    "class": "js-promo-all",
+    "text_preview": "todos los productos"
+  },
+  {
+    "tag": "span",
+    "class": "js-promo-units-or-more",
+    "text_preview": "o más"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-calculator-with-zipcode  mb-4 w-100 transition-up position-absolute",
+    "text_preview": "Entregas para el CP:\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tCambiar CP"
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto align-items-center",
+    "text_preview": "Entregas para el CP:\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tCambiar CP"
+  },
+  {
+    "tag": "span",
+    "class": "font-small mr-3",
+    "text_preview": "Entregas para el CP:"
+  },
+  {
+    "tag": "strong",
+    "class": "js-shipping-calculator-current-zip",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "js-shipping-calculator-change-zipcode btn btn-link font-small",
+    "text_preview": "Cambiar CP"
+  },
+  {
+    "tag": "span",
+    "class": "js-calculating-shipping-wording",
+    "text_preview": "Calculando"
+  },
+  {
+    "tag": "span",
+    "class": "float-right loading ml-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": " btn btn-link font-small",
+    "text_preview": "No sé mi código postal"
+  },
+  {
+    "tag": "div",
+    "class": "js-ship-calculator-error js-ship-calculator-external-error alert alert-danger mb-0",
+    "text_preview": "El calculo falló por un problema con el medio de envío. Por favor intentá de nuevo en unos segundos."
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-calculator-spinner pb-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto mb-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mr-5 pr-5",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shine position-relative mb-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shine position-relative w-50",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shipping-price placeholder-shine position-relative",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mr-5 pr-5",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shine position-relative mb-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shine position-relative w-50",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shipping-price placeholder-shine position-relative",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-calculator-response mb-4 pb-1 transition-soft  radio-buttons-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto mb-3 h6 font-family-body",
+    "text_preview": "Total:\n      \n        $0,00\n          \n\n\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\tO\n\t\t\t\t$0,00\n\t\tcon\n\t\tTransferencia / Efecti"
+  },
+  {
+    "tag": "span",
+    "class": "text-right",
+    "text_preview": "$0,00\n          \n\n\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\tO\n\t\t\t\t$0,00\n\t\tcon\n\t\tTransferencia / Efectivo"
+  },
+  {
+    "tag": "div",
+    "class": "js-cart-total  ",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-cart payment-discount-price-cart ",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "div",
+    "class": "js-ajax-cart-submit",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "text-center",
+    "text_preview": "Ver más productos"
+  },
+  {
+    "tag": "div",
+    "class": "category-banner",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": " img-fluid w-100 mb-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "separator",
+    "text_preview": ">"
+  },
+  {
+    "tag": "span",
+    "class": "crumb active",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "grid grid-1-auto align-items-end",
+    "text_preview": "Periféricos\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t39 productos"
+  },
+  {
+    "tag": "h1",
+    "class": "h4 mb-0",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "d-md-none text-right font-small mb-1",
+    "text_preview": "39 productos"
+  },
+  {
+    "tag": "p",
+    "class": "font-small mt-1 mb-0",
+    "text_preview": "Periféricos esenciales para optimizar tu setup. Desde teclados y mouse especiales para gaming hasta "
+  },
+  {
+    "tag": "div",
+    "class": "form-select-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "font-smallest font-weight-bold",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "div",
+    "class": "js-category-controls-prev category-controls-sticky-detector",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Precio: menor a mayor"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Precio: menor a mayor"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Precio: menor a mayor"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Precio: menor a mayor"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Precio: mayor a menor"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Precio: mayor a menor"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Precio: mayor a menor"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Precio: mayor a menor"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "A - Z"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "A - Z"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "A - Z"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "A - Z"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Z - A"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Z - A"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Z - A"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Z - A"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Más nuevo al más viejo"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Más nuevo al más viejo"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Más nuevo al más viejo"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Más nuevo al más viejo"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Más viejo al más nuevo"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Más viejo al más nuevo"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Más viejo al más nuevo"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Más viejo al más nuevo"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button selected",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "span",
+    "class": "font-big mr-2",
+    "text_preview": "Ordenando productos"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "Combo Gamer 3 en 1 QBox - AURICULAR + TECLADO + MOUSE\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$76.909,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Combo Gamer 3 en 1 QBox - AURICULAR + TECLADO + MOUSE\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$76.909,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Combo Gamer 3 en 1 QBox - AURICULAR + TECLADO + MOUSE"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$76.909,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$12.818,17\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$12.818,17"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$65.372,65"
+  },
+  {
+    "tag": "div",
+    "class": "js-last-product text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "js-latest-products-available text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 14 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "14"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "Adaptador Wifi Usb Placa Red Mercusys Mu6h Ac650 Dual Band\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$13.030,00\n\t\t\t\t\t\n\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Adaptador Wifi Usb Placa Red Mercusys Mu6h Ac650 Dual Band\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$13.030,00\n\t\t\t\t\t\n\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Adaptador Wifi Usb Placa Red Mercusys Mu6h Ac650 Dual Band"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$13.030,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$2.171,67\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$2.171,67"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$11.075,50"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 61 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "61"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "KIT GAMER MECÁNICO T-DAGGER MAIN FORCE NEGRO 60% F 2 EN 1 TGS008W - NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$81.552,0"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "KIT GAMER MECÁNICO T-DAGGER MAIN FORCE NEGRO 60% F 2 EN 1 TGS008W - NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$81.552,0"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "KIT GAMER MECÁNICO T-DAGGER MAIN FORCE NEGRO 60% F 2 EN 1 TGS008W - NG"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$81.552,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$124.264,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "34% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "34"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$13.592,00\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$13.592,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$69.319,20"
+  },
+  {
+    "tag": "div",
+    "class": "js-last-product text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "js-latest-products-available text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 25 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "25"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "AURICULAR QBOX H039 GAMER NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$18.233,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t$0,00\n\t\t\t\t\t\t\n\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "AURICULAR QBOX H039 GAMER NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$18.233,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t$0,00\n\t\t\t\t\t\t\n\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "AURICULAR QBOX H039 GAMER NG"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$18.233,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$3.038,83\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$3.038,83"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$15.498,05"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 70 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "70"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "TECLADO QBOX MK07 RGB USB MEC GAMER\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$33.943,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t$0,00\n\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "TECLADO QBOX MK07 RGB USB MEC GAMER\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$33.943,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t$0,00\n\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "TECLADO QBOX MK07 RGB USB MEC GAMER"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$33.943,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$5.657,17\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$5.657,17"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$28.851,55"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 16 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "16"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "Gamepad Redragon JUNO Bluetooth gamepad G818 PE16142\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$77.062,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Gamepad Redragon JUNO Bluetooth gamepad G818 PE16142\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$77.062,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Gamepad Redragon JUNO Bluetooth gamepad G818 PE16142"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$77.062,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$113.802,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "32% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "32"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$12.843,67\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$12.843,67"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$65.502,70"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 5 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "5"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "MOUSE QBOX GAMER M993 RGB USB NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$23.569,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t$0,00\n\t\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "MOUSE QBOX GAMER M993 RGB USB NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$23.569,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t$0,00\n\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "MOUSE QBOX GAMER M993 RGB USB NG"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$23.569,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$3.928,17\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$3.928,17"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$20.033,65"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 96 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "96"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "WEBCAM TRUST TANOR FULL HD - NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$45.679,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t$0,00\n\t\t\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "WEBCAM TRUST TANOR FULL HD - NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$45.679,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t$0,00\n\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "WEBCAM TRUST TANOR FULL HD - NG"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$45.679,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$7.613,17\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$7.613,17"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$38.827,15"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 1 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "1"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "TECLADO REDRAGON KUMARA NEGRO (RED SWITCH) ESPAÑOL RAINBOW K552-KR-SP PE1621 - NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "TECLADO REDRAGON KUMARA NEGRO (RED SWITCH) ESPAÑOL RAINBOW K552-KR-SP PE1621 - NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "TECLADO REDRAGON KUMARA NEGRO (RED SWITCH) ESPAÑOL RAINBOW K552-KR-SP PE1621 - NG"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$70.776,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$81.731,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "13% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "13"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$11.796,00\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$11.796,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$60.159,60"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 2 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "Mouses Redragon Storm Pro Negro M808-KS PE1665\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$76.735,86\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Mouses Redragon Storm Pro Negro M808-KS PE1665\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$76.735,86\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Mouses Redragon Storm Pro Negro M808-KS PE1665"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$76.735,86"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$12.789,31\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$12.789,31"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$65.225,48"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 7 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "7"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "TECLADO T-DAGGER ARENA VERDE/BLANCO (BROWN SWITCH) T-TGK321W-BR-SP PE1627 - NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "TECLADO T-DAGGER ARENA VERDE/BLANCO (BROWN SWITCH) T-TGK321W-BR-SP PE1627 - NG\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "TECLADO T-DAGGER ARENA VERDE/BLANCO (BROWN SWITCH) T-TGK321W-BR-SP PE1627 - NG"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$55.797,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$69.067,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "19% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "19"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$9.299,50\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$9.299,50"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$47.427,45"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 1 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "1"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "div",
+    "class": "product-item-information d-flex flex-column pt-3 pb-2",
+    "text_preview": "TECLADOS REDRAGON FIZZ PRO ESPAÑOL WIRELESS K616-RGB B SP PE1616\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$101.569,00\n\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "TECLADOS REDRAGON FIZZ PRO ESPAÑOL WIRELESS K616-RGB B SP PE1616\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$101.569,00\n\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "TECLADOS REDRAGON FIZZ PRO ESPAÑOL WIRELESS K616-RGB B SP PE1616"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$101.569,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$16.928,17\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$16.928,17"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$86.333,65"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 5 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "5"
+  },
+  {
+    "tag": "span",
+    "class": "js-load-more-spinner ml-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "my-4 text-center w-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn-whatsapp",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "pb-4",
+    "text_preview": "NG Technologies - Los Reyes del Hardware"
+  },
+  {
+    "tag": "img",
+    "class": " js-footer-logo-img footer-logo-img mb-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-footer-institutional mt-0 mb-3",
+    "text_preview": "NG Technologies - Los Reyes del Hardware"
+  },
+  {
+    "tag": "div",
+    "class": "mb-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "mr-4 mb-4 d-inline-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mb-3 font-medium ",
+    "text_preview": "5491134922372"
+  },
+  {
+    "tag": "li",
+    "class": "mb-3 font-medium ",
+    "text_preview": "01134922372"
+  },
+  {
+    "tag": "li",
+    "class": "mb-3 font-medium ",
+    "text_preview": "Art Gallery Office, Oficina 115, Pilar, Buenos Aires"
+  },
+  {
+    "tag": "span",
+    "class": "d-inline-block align-middle",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "d-inline-block align-middle",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "icon-logo lazyload ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "custom-seal custom-seal-code",
+    "text_preview": "(function (c, s, q, u, a, r, e) {\n        c.hj=c.hj||function(){(c.hj.q=c.hj.q||[]).push(arguments)}"
+  },
+  {
+    "tag": "span",
+    "class": "d-block d-md-inline-block mb-2 mb-md-0 mr-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "powered-by-logo",
+    "text_preview": ""
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "tag": "andes-modal",
+    "class": "andes-modal--iframe",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cookie-consent-snackbar__message",
+    "text_preview": "¡Listo! Guardamos tus preferencias."
+  },
+  {
+    "tag": "div",
+    "class": "cookie-consent-snackbar__message",
+    "text_preview": "Algo salió mal. Por favor, vuelve a intentarlo."
+  },
+  {
+    "tag": "a",
+    "class": "cart-button",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "target-subCategory-1",
+    "text_preview": "AMD\n                        \n                      \n                      \n                        \n"
+  },
+  {
+    "tag": "div",
+    "class": "target-subCategory-2",
+    "text_preview": "Notebooks\n                        \n                      \n                      \n                   "
+  },
+  {
+    "tag": "div",
+    "class": "target-subCategory-3",
+    "text_preview": "AMD\n                        \n                      \n                      \n                        \n"
+  },
+  {
+    "tag": "div",
+    "class": "target-subCategory-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "target-subCategory-5",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "grid-list",
+    "text_preview": "AMD\n                    \n                      \n                    \n                  \n            "
+  },
+  {
+    "tag": "ul",
+    "class": "grid-list",
+    "text_preview": "Notebooks\n                    \n                      \n                    \n                  \n      "
+  },
+  {
+    "tag": "ul",
+    "class": "grid-list",
+    "text_preview": "AMD\n                    \n                      \n                    \n                  \n            "
+  },
+  {
+    "tag": "li",
+    "class": "andes-breadcrumb__item shops__breadcrumb-item",
+    "text_preview": "Computación"
+  },
+  {
+    "tag": "a",
+    "class": "andes-breadcrumb__link",
+    "text_preview": "Computación"
+  },
+  {
+    "tag": "li",
+    "class": "andes-breadcrumb__item shops__breadcrumb-item",
+    "text_preview": "Periféricos de PC"
+  },
+  {
+    "tag": "a",
+    "class": "andes-breadcrumb__link",
+    "text_preview": "Periféricos de PC"
+  },
+  {
+    "tag": "span",
+    "class": "andes-switch__label",
+    "text_preview": "Envío gratis"
+  },
+  {
+    "tag": "div",
+    "class": "andes-form-control andes-form-control--textfield",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-form-control__control",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-form-control andes-form-control--textfield",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-form-control__control",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-tooltip__trigger",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-floating-menu",
+    "text_preview": "Más relevantes"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__content",
+    "text_preview": "5% OFFTeclado Inalámbrico Con Touchpad K400 Plus Logitech Color Del Teclado Negro Idioma Español$57."
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Teclado Inalámbrico Con Touchpad K400 Plus Logitech Color Del Teclado Negro Idioma Español"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$57.229$54.3675% OFF6 cuotas de $12.442"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$57.229"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "57.229"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$54.3675% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$54.367"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "54.367"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $12.442"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$12.442"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "12.442"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Envío gratis"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__content",
+    "text_preview": "5% OFFMouse Gamer De Juego Logitech Gg Series G203 Lightsync Negro$49.439$46.9675% OFF"
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Mouse Gamer De Juego Logitech Gg Series G203 Lightsync Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$49.439$46.9675% OFF"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$49.439"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "49.439"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$46.9675% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$46.967"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "46.967"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__content",
+    "text_preview": "5% OFFKit Teclado Y Mouse Logitech Usb Multimedia Pc Escritorio$28.719$27.2835% OFFEnvío gratis"
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Kit Teclado Y Mouse Logitech Usb Multimedia Pc Escritorio"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$28.719$27.2835% OFF"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$28.719"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "28.719"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$27.2835% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$27.283"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "27.283"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Envío gratis"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__content",
+    "text_preview": "5% OFFMouse Inalambrico Logitech Notebook Pc Usb Calidad$17.429$16.5575% OFFEnvío gratis"
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Mouse Inalambrico Logitech Notebook Pc Usb Calidad"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$17.429$16.5575% OFF"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$17.429"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "17.429"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$16.5575% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$16.557"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "16.557"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Envío gratis"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__content",
+    "text_preview": "5% OFFMouse Gamer Usb Con Botones Rgb Ergonomico$36.279$34.4655% OFFEnvío gratis"
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Mouse Gamer Usb Con Botones Rgb Ergonomico"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$36.279$34.4655% OFF"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$36.279"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "36.279"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$34.4655% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$34.465"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "34.465"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Envío gratis"
+  },
+  {
+    "tag": "div",
+    "class": "shops__listing-disclaimer",
+    "text_preview": "El envío gratis está sujeto al peso, precio y la distancia del envío."
+  },
+  {
+    "tag": "div",
+    "class": "shops__listing-shops__listing-disclaimer-card andes-message andes-message--accent andes-message--loud",
+    "text_preview": "El envío gratis está sujeto al peso, precio y la distancia del envío."
+  },
+  {
+    "tag": "div",
+    "class": "andes-badge andes-badge--pill andes-badge--accent andes-message__badge andes-message__badge--accent andes-badge--pill-icon andes-badge--small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-badge__icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-message__content andes-message__content--untitled",
+    "text_preview": "El envío gratis está sujeto al peso, precio y la distancia del envío."
+  },
+  {
+    "tag": "div",
+    "class": "andes-message__text andes-message__text--accent",
+    "text_preview": "El envío gratis está sujeto al peso, precio y la distancia del envío."
+  },
+  {
+    "tag": "p",
+    "class": "standard-footer__logo-caption",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "standard-footer-divider",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "PC de Escritorio"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Combos"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Envío Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Cuotas sin interés"
+  },
+  {
+    "tag": "div",
+    "class": "standard-footer-divider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "standard-footer-divider",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Tel:\n                1171127475"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Tiendatrade  -"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Buenos Aires,"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Capital Federal."
+  },
+  {
+    "tag": "li",
+    "class": "standard-list--spacing",
+    "text_preview": "Escribinos"
+  },
+  {
+    "tag": "a",
+    "class": "standard-list--contact header--custom-text",
+    "text_preview": "Escribinos"
+  },
+  {
+    "tag": "li",
+    "class": "standard-list--spacing standard-list--afip-img",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "standard-footer-divider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "standard-footer-info standard-footer-info--desktop",
+    "text_preview": "Tiendatrade.com.ar es una tienda creada con"
+  },
+  {
+    "tag": "a",
+    "class": "standard-footer-info__brand header--custom-text",
+    "text_preview": "Tiendatrade.com.ar es una tienda creada con"
+  },
+  {
+    "tag": "span",
+    "class": "footer-power-by",
+    "text_preview": "Tiendatrade.com.ar es una tienda creada con"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Avisos legales"
+  },
+  {
+    "tag": "span",
+    "class": "standard-footer-help__separator header--custom-text",
+    "text_preview": "|"
+  },
+  {
+    "tag": "span",
+    "class": "standard-footer-help__separator header--custom-text",
+    "text_preview": "|"
+  },
+  {
+    "tag": "span",
+    "class": "standard-footer-help__separator header--custom-text",
+    "text_preview": "|"
+  },
+  {
+    "tag": "span",
+    "class": "standard-footer-help__separator header--custom-text",
+    "text_preview": "|"
+  },
+  {
+    "tag": "a",
+    "class": "standard-footer-info__brand header--custom-text",
+    "text_preview": "Tiendatrade.com.ar es una tienda creada con"
+  },
+  {
+    "tag": "span",
+    "class": "footer-power-by",
+    "text_preview": "Tiendatrade.com.ar es una tienda creada con"
+  }
+]

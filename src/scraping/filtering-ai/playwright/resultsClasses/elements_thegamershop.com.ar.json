@@ -1,0 +1,4437 @@
+[
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-red btn-raised btn-fab btn-buscar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "p-2 open",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left btn-mi-cuenta",
+    "text_preview": "ingresar"
+  },
+  {
+    "tag": "span",
+    "class": "mt-2 d-i-b ml-1 txt-ingresar",
+    "text_preview": "ingresar"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left mini-cart",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "modo-oscuro",
+    "text_preview": "MODO OSCURO"
+  },
+  {
+    "tag": "span",
+    "class": "modo-claro none",
+    "text_preview": "MODO CLARO"
+  },
+  {
+    "tag": "label",
+    "class": "theme-switch",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slider-theme round",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "section-space",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "ml-1 camioncito",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "panel panel-default panel-rose ",
+    "text_preview": "Accesorios y Conectividad Wifi (5)\n\t\t\t\t\t\t\t\t\t\t Conectividad Wi-Fi  (5)\n\t\t\t\t\t\t\t\t\t\t Coolers (5)\n\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "panel-body pl-0 pr-0 pt-0",
+    "text_preview": "Accesorios y Conectividad Wifi (5)\n\t\t\t\t\t\t\t\t\t\t Conectividad Wi-Fi  (5)\n\t\t\t\t\t\t\t\t\t\t Coolers (5)\n\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Accesorios y Conectividad Wifi (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Conectividad Wi-Fi  (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Coolers (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Disco Hdd (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Discos Ssd (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Fuentes de Poder (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Gabinetes (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Memorias Ram (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Motherboards (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Outlet (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Placas De Video (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Procesadores (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Stream (5)"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 marcas_filtros ta-c mb-3 cate slick-initialized slick-slider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-list draggable",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-track",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "precio Menor a Mayor"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "precio Mayor a Menor"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135926                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135926                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135926                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135926                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135926"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE SATA MOTHER"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$1.694$1.694$1.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$1.694$1.694$1.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$1.694"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$1.499Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "EFCA500BWEGW"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Accesorios Samsung S View Cover A5 Blanco"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$2.635$2.635$2.332Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$2.635$2.635$2.332Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$2.635"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$2.332Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3622 ",
+    "text_preview": "135928                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135928                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135928                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135928                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135928"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "SWITCH RED REDRAGON KUMARA X1"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$2.824$2.824$2.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$2.824$2.824$2.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$2.824"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$2.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "150803                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "150803                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "150803                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "150803                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "150803"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "LAPIZ OPTICO TOUCH"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$2.824$2.824$2.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$2.824$2.824$2.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$2.824"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$2.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135916                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135916                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135916                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135916                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135916"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR JACK 3.5M A 6.5M"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$2.824$2.824$2.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$2.824$2.824$2.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$2.824"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$2.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135917                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135917                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135917                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135917                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135917"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR JACK 6.5M A 3.5M"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$2.824$2.824$2.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$2.824$2.824$2.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$2.824"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$2.499Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "CPU B30 BLANCA"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Grasa Siliconada Pastermax Para Cpu B30 (blanca) Pasta Termica"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$3.441$3.441$3.045Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$3.441$3.441$3.045Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$3.441"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$3.045Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "CPU G60 GRIS"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Grasa Siliconada  Pastermax Para Cpu G60 (gris) Pasta Termica"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$3.830$3.830$3.390Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$3.830$3.830$3.390Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$3.830"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$3.390Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "32590002400"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Genius Adaptador Usb-c A Usb-a Assy Rs2 Acc-c2a"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$3.890$3.890$3.443Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$3.890$3.890$3.443Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$3.890"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$3.443Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135898                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135898                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135898                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135898                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135898"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR HDMI L"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$4.519$4.519$3.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$4.519$4.519$3.999Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$4.519"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$3.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135940                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135940                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135940                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135940                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135940"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE RCA AUDIO"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$4.555$4.555$4.031Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$4.555$4.555$4.031Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$4.555"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.031Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135876                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135876                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135876                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135876                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135876"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE PLUG JACK"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$4.555$4.555$4.031Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$4.555$4.555$4.031Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$4.555"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.031Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135877                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135877                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135877                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135877                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135877"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE RCA AUDIO Y VIDEO"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$4.555$4.555$4.031Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$4.555$4.555$4.031Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$4.555"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.031Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135878                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135878                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135878                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135878                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135878"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE ADAPTADOR AUX A RCA"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$4.555$4.555$4.031Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$4.555$4.555$4.031Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$4.555"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.031Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135888                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135888                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135888                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135888                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135888"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE POWER INTERLOCK"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.083$5.083$4.498Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.083$5.083$4.498Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.083"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.498Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "149835                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "149835                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "149835                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "149835                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "149835"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR RJ54 a RJ45 (hembra a hembra)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.466$5.466$4.837Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.466$5.466$4.837Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.466"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.837Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135856                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135856                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135856                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135856                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135856"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE HDMI 4k"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.648"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "149836                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "149836                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "149836                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "149836                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "149836"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE MINI USB (PARA CARGADOR)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.648"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135875                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135875                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135875                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135875                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135875"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE DE RED 2M"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.648"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135895                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135895                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135895                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135895                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135895"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE VGA 1.5 METROS"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.648"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135918                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135918                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135918                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135918                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135918"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR HDMI A MINI HDMI"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.648"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135919                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135919                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135919                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135919                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135919"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR HDMI A MICRO HDMI"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.648$5.648$4.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.648"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.998Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "PASTERMAX A90"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Grasa Siliconada Pastermax Para Cpu A90 (gris) Pasta Termica"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.753$5.753$5.091Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.753$5.753$5.091Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.753"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.091Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135849                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135849                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135849                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135849                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135849"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR USB A TIPO C"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.213$6.213$5.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.213$6.213$5.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.213"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135871                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135871                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135871                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135871                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135871"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE POWER TREBOL"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.213$6.213$5.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.213$6.213$5.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.213"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "163027                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "163027                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "163027                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "163027                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "163027"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR USB-A a MICRO"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.213$6.213$5.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.213$6.213$5.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.213"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "159999                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "159999                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "159999                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "159999                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "159999"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR USB C A TIPO A"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.213$6.213$5.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.213$6.213$5.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.213"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.499Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "32590003400"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Genius Adaptador Usb-a A Usb-c"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.484$6.484$5.738Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.484$6.484$5.738Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.484"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.738Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135879                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135879                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135879                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135879                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135879"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE MICRO (PARA CARGADOR)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.778$6.778$5.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.778$6.778$5.999Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.778"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135885                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135885                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135885                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135885                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135885"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE LIGHTNING"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.778$6.778$5.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.778$6.778$5.999Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.778"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135886                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135886                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135886                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135886                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135886"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE C A C"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.778$6.778$5.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.778$6.778$5.999Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.778"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135899                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135899                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135899                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135899                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135899"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR DE PARED UNIVERSAL"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.778$6.778$5.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.778$6.778$5.999Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.778"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.999Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "149838                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "149838                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "149838                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "149838                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "149838"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CARGADOR PARA AUTO PUXIDA 3.1A TIPO A DOBLE"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7.288$7.288$6.450Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.288$7.288$6.450Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$7.288"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$6.450Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135870                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135870                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135870                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135870                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135870"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE VGA 3 METROS"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7.343$7.343$6.499Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.343$7.343$6.499Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$7.343"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$6.499Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "NGA-520 BL"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Accesorios Noganet Cargador 2a Micro Usb"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7.826$7.826$6.926Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.826$7.826$6.926Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$7.826"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$6.926Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "152838                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "152838                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "152838                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "152838                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "152838"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE ADAPTADOR LIGHTNINE A JACK IPHONE"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7.907$7.907$6.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.907$7.907$6.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$7.907"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$6.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135855                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135855                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135855                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135855                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135855"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE USB ALARGUE 3M"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7.907$7.907$6.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.907$7.907$6.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$7.907"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$6.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "152817                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "152817                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "152817                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "152817                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "152817"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR RJ45 A DOS RJ45 (red a 2 red)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7.907$7.907$6.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.907$7.907$6.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$7.907"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$6.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3622 ",
+    "text_preview": "135929                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135929                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135929                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135929                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135929"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "HERRAMIENTA ESTRACTPORA DE SWITCHES PULLER"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7.907$7.907$6.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.907$7.907$6.998Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$7.907"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$6.998Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "163028                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "163028                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "163028                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "163028                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "163028"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE LIGHTNING MALLADO"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7.926$7.926$7.015Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.926$7.926$7.015Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$7.926"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.015Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "PSF32GT200S2U"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Pen Drive Patriot Tab200 32gb Usb 2.0 Usb 2.0 Type-a Silver Ps001692"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7.998$7.998$7.078Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7.998$7.998$7.078Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$7.998"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.078Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "M022-10-000178"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Accesorios Evga Bracket Io Intel Lga1700 Retention Kit"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$8.324$8.324$7.367Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$8.324$8.324$7.367Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$8.324"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.367Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "152839                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "152839                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "152839                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "152839                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "152839"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "CABLE C a A MALLADO"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$8.472$8.472$7.498Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$8.472$8.472$7.498Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$8.472"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.498Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "959709"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Anbyte Cable Alimentacion Trebol/mickey 1.50m"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$8.765$8.765$7.757Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$8.765$8.765$7.757Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$8.765"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.757Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "150805                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "150805"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9.019$9.019$7.982Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.019$9.019$7.982Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$9.019"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.982Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-3121 marca_3621 ",
+    "text_preview": "135854                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "135854                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "135854                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "135854                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "135854"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "ADAPTADOR PCI-E 4 A 8 PINES"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9.019$9.019$7.982Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.019$9.019$7.982Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$9.019"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.982Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-2946 marca_4179 ",
+    "text_preview": "180734                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "180734                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "180734                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "180734                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "180734"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "GABINETE KIT SENTEY TM40 C/FUENTE LNZ FB600-LX 600W"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$47.916$47.916$42.406Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$47.916$47.916$42.406Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$47.916"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$42.406Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-2946 marca_4179 ",
+    "text_preview": "180735                                                    \n                                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "180735                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "180735                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "180735                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "180735"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "GABINETE KIT SENTEY TM50 C/FUENTE LNZ FB600-LX 600W"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$54.576$54.576$48.300Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$54.576$54.576$48.300Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$54.576"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$48.300Precio especial"
+  },
+  {
+    "tag": "li",
+    "class": "active",
+    "text_preview": "1"
+  },
+  {
+    "tag": "h3",
+    "class": "t-shadow mt-2",
+    "text_preview": "1148704101"
+  },
+  {
+    "tag": "a",
+    "class": "text-white",
+    "text_preview": "1148704101"
+  },
+  {
+    "tag": "h5",
+    "class": "t-shadow mt-0 mb-0",
+    "text_preview": "1148704101 (solo texto)"
+  },
+  {
+    "tag": "a",
+    "class": "text-white",
+    "text_preview": "1148704101 (solo texto)"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "result",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "social-buttons",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-facebook",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-google",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-tiktok",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group nombre",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group email",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "copyright pull-right col-md-6 ta-l dataFiscal",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content bg-none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect waves-light bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-red btn-raised btn-fab p-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title ta-l titulo",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "col-6 pl-0 pull-left captcha mt-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "py-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  }
+]

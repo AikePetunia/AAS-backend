@@ -1,0 +1,4542 @@
+[
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "w-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-red btn-raised btn-fab btn-buscar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "p-2 open",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mr-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": " pr-0 pl-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-0 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left btn-mi-cuenta",
+    "text_preview": "ingresar"
+  },
+  {
+    "tag": "span",
+    "class": "mt-2 d-i-b ml-1 txt-ingresar",
+    "text_preview": "ingresar"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left mini-cart",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "icon-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "arma-tu-pc-button pr-0 pl-0 show-res",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-0 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mr-2 pl-4 mt-0 promocion-btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mr-2 pl-4 mt-0 promocion-btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mr-2 pl-4 mt-0 promocion-btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mr-2 pl-4 mt-0 promocion-btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "section-space",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "panel panel-default panel-rose ",
+    "text_preview": "Alfombra gamer (2)\n\t\t\t\t\t\t\t\t\t\t Camaras Web (2)\n\t\t\t\t\t\t\t\t\t\t Combo Gamer Auricular - Mouse - Mouse Pad ("
+  },
+  {
+    "tag": "div",
+    "class": "panel-body pl-0 pr-0 pt-0",
+    "text_preview": "Alfombra gamer (2)\n\t\t\t\t\t\t\t\t\t\t Camaras Web (2)\n\t\t\t\t\t\t\t\t\t\t Combo Gamer Auricular - Mouse - Mouse Pad ("
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Alfombra gamer (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Camaras Web (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Combo Gamer Auricular - Mouse - Mouse Pad (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Combo Gamer Mouse - Teclado - Auricular - Pad (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Combo Mouse Y Mouse Pad Gamer (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Kit Teclado Y Mouse (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Microfonos (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Mouse (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Mouse Gamer (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Mouse Pad Gamer (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Pad Mouse (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Palanca De Cambio (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Tabletas Graficas (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Teclados (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Teclados Gamer (2)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Volantes (2)"
+  },
+  {
+    "tag": "div",
+    "class": "card-content p-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 marcas_filtros ta-c mb-3 cate",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "precio Menor a Mayor"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "precio Mayor a Menor"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "de la A  a la  Z"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "de la Z  a la  A"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "más nuevos"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "más viejos"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 px-0 mansory **",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6380 marca_2409 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "70                                                    \n                                             "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "70                                                    \n                                             "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "70"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Pad Mouse Lisos Antideslizante Escritorio Pc Gtc Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$3213$3213$2892Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$3213$3213$2892Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$2892Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2528 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "img",
+    "class": "w-100 thumbZoom",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "6971071740246                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "6971071740246                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "6971071740246"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Wesdar Cerberus X4 Blanco 2400 Dpi"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$4922$4922$4430Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$4922$4922$4430Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4430Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2528 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "img",
+    "class": "w-100 thumbZoom",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "6971071744060                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "6971071744060                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "6971071744060"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Wesdar Gm2 Rgb Verde Megasoft"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6142$6142$5528Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6142$6142$5528Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5528Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_ ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "6971071740239                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "6971071740239                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "6971071740239"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Wesdar 6 Botones Usb Pc Oficina 2400 Dpi Optico"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6425$6425$5783Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6425$6425$5783Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5783Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6510 marca_2528 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "180552                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "180552                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "180552"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "MOUSE GAMER Y PAD GAMER WESDAR MEGASOFT"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6541$6541$5887Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6541$6541$5887Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5887Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6510 marca_2528 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "6971071745388                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "6971071745388                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "6971071745388"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Combo Gamer Mouse Usb Wesdar 2400 Dpi + Pad Negro Megasoft"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6554$6554$5899Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6554$6554$5899Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5899Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2528 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "img",
+    "class": "w-100 thumbZoom",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "7798333606152                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "7798333606152                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "7798333606152"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Para Pc Game Pro 12000dpi Con Rgb Cable 1.5 Mts Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$7389$7389$6650Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$7389$7389$6650Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$6650Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855102355                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855102355                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855102355"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech M90 Optico Usb 1000dpi Pc Notebook Megasoft"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$8995$8995$8096Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$8995$8995$8096Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8096Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2409 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8072023053105                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8072023053105                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8072023053105"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Inalámbrico Usb Gtc Mig-122 Rosa Megasoft Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$8995$8995$8096Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$8995$8995$8096Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8096Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2409 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8072023053129                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8072023053129                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8072023053129"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Inalámbrico Usb Gtc Mig-122 Blanco Megasoft Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$8995$8995$8096Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$8995$8995$8096Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8096Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6412 marca_2537 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "img",
+    "class": "w-100 thumbZoom",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "179549                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "179549                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "179549"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse pad Gamer Rgb Gtc Luz 795 x 300 x 4 Antideslizante"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9830$9830$8847Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9830$9830$8847Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8847Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6412 marca_2537 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "img",
+    "class": "w-100 thumbZoom",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8072022092808                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8072022092808                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8072022092808"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mousepad Xl Gtc Pad-013d Negro 79.5x30 Megasoft Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9830$9830$8847Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9830$9830$8847Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8847Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2409 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8072018224336                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8072018224336                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8072018224336"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Inalambrico Optico Usb Gtc Economico 1200 Dpi Color Rosa"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$14135$14135$12722Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14135$14135$12722Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$12722Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2409 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8072018224336                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8072018224336                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8072018224336"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Inalambrico Usb Rosa Mig-116 Gtc Megasoft Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$14135$14135$12722Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14135$14135$12722Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$12722Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6379 marca_2537 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "img",
+    "class": "w-100 thumbZoom",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8072023060226                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8072023060226                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8072023060226"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Combo Inalámbrico Teclado + Mouse Gtc Kbg-024 Negro Megasoft"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$14135$14135$12722Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14135$14135$12722Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$12722Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6375 marca_2477 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "7798162837000                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "7798162837000                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "7798162837000"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Set De Keycaps Nisuta Nskbgz108 Megasoft Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$14500$14500$13050Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14500$14500$13050Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$13050Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855200655                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855200655                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855200655"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Bluetooth Logitech M196 Color Rosa"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$14700$14700$13230Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$14700$14700$13230Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$13230Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6412 marca_1353 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855177575                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855177575                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855177575"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Pad Gaming Logitech G240 Negro Megasoft Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$17500$17500$15750Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$17500$17500$15750Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$15750Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6412 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855169433                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855169433                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855169433"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mousepad Logitech Rosa 200 X 230mm Megasoft Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$17797$17797$16017Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$17797$17797$16017Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$16017Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855183453                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855183453                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855183453"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse M170 Logitech Inalámbrico Color Blue Grey"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$20560$20560$18504Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$20560$20560$18504Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$18504Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6498 marca_2537 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "img",
+    "class": "w-100 thumbZoom",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8072019110829                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8072019110829                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8072019110829"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Combo Gaming Gtc Cbg-014 Teclado Mouse Auricular Y Pad"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$24582$24582$22124Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$24582$24582$22124Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$22124Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855185624                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855185624                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855185624"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Inalámbrico Logitech Pebble 2 M350 Negro Megasoft"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$29555$29555$26600Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$29555$29555$26600Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$26600Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6376 marca_2578 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "180434                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "180434                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "180434"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Raptor Fireclaw M87 Mecanico Retroiluminado Switch Red Outemu"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$30198$30198$27178Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$30198$30198$27178Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$27178Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6498 marca_2537 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "img",
+    "class": "w-100 thumbZoom",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8072021022608                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8072021022608                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8072021022608"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Combo Gaming Gtc Cbg-021 Teclado Mouse Auricular Y Pad"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$30737$30737$27663Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$30737$30737$27663Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$27663Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "cucardahot",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6381 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "img",
+    "class": "w-100 thumbZoom",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855070739                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855070739                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855070739"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Camara Web Cam Logitech C270 720p Hd Twitch Skype Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$36263$36263$32637Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$36263$36263$32637Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$32637Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6380 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855171627                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855171627                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855171627"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mousepad Logitech Xl 70x30cm Rosa Megasoft Caballito"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$37265$37265$33539Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$37265$37265$33539Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$33539Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6376 marca_2578 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "180580                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "180580                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "180580"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Raptor Fireclaw M68 Wireless Mecanico Retroiluminado Red Outemu"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$38550$38550$34695Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$38550$38550$34695Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$34695Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2544 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8886419333326                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8886419333326                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8886419333326"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Razer Deathadder Essential White Edition Color Blanco"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$39835$39835$35852Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$39835$39835$35852Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$35852Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_2578 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "180427                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "180427                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "180427"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Microfono Raptor Vox RGB USB p/Streaming"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$41763$41763$37587Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$41763$41763$37587Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$37587Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6375 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855186355                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855186355                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855186355"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Logitech Pebble 2 K380s White/blanco Bluetooth"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$47545$47545$42791Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$47545$47545$42791Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$42791Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6375 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855186379                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855186379                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855186379"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Bluetooth Logitech Pebble Keys 2 K380s Rosa Megasoft"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$48316$48316$43484Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$48316$48316$43484Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$43484Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6375 marca_1526 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "177989                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "177989                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "177989"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Trust Lyra Bluetooth Recargable Español - Pc Celular"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$52685$52685$47417Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$52685$52685$47417Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$47417Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2540 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "178487                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "178487                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "178487"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "MOUSE GAMER CORSAIR HARPOON RGB PRO FPS/MOBA BLACK"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$53970$53970$48573Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$53970$53970$48573Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$48573Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2544 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "8886419334095                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8886419334095                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8886419334095"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Razer Cobra Lightweight Chroma Rgb"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$55255$55255$49730Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$55255$55255$49730Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$49730Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_1526 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "179785                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "179785                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "179785"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "MICROFONO TRUST YUNIX USB PURPLE GXT234P"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$57825$57825$52043Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$57825$57825$52043Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$52043Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-120703 marca_ ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "179283                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "179283                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "179283"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Tableta Gráfica Wacom One Small CTL472"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$57825$57825$52043Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$57825$57825$52043Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$52043Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_1526 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "179786                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "179786                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "179786"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "MICROFONO TRUST YUNIX USB BLACK GXT234"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$57825$57825$52043Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$57825$57825$52043Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$52043Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2540 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "178506                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "178506                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "178506"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "MOUSE GAMER CORSAIR M55 PRO RGB MULTIGRIP AMBIDIESTRO BLACK"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$60395$60395$54356Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$60395$60395$54356Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$54356Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6376 marca_2477 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "7798162836584                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "7798162836584                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "7798162836584"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Mecánico Gamer Nisuta Usb Rosa Rgb Megasoft"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$66111$66111$59500Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$66111$66111$59500Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$59500Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_1526 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "179003                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "179003                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "179003"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Trust Ozaa+multi-connect Wireless White"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$77100$77100$69390Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$77100$77100$69390Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$69390Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_1526 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "179004                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "179004                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "179004"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Trust Ozaa+multi-connect Wireless Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$77100$77100$69390Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$77100$77100$69390Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$69390Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855176899                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855176899                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855176899"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Micrófono Para Pc Logitech Blue Snowball Ice Negro Megasoft"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$77100$77100$69390Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$77100$77100$69390Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$69390Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855192318                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855192318                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855192318"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech G309 Inalámbrico Gaming Lightspeed Negro"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$83525$83525$75173Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$83525$83525$75173Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$75173Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855192325                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855192325                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855192325"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Inalámbrico Logitech G309 Lightspeed Hero Blanco"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$83525$83525$75173Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$83525$83525$75173Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$75173Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2544 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "94038588027                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "94038588027                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "94038588027"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Razer Basilisk V3 26000 Dpi Rgb 11 Zonas Cable Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$92392$92392$83153Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$92392$92392$83153Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$83153Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_1526 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "178155                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "178155                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "178155"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "MICROFONO TRUST VELICA STREAMING GXT241"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$96375$96375$86738Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$96375$96375$86738Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$86738Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6379 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "3113                                                    \n                                           "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "3113                                                    \n                                           "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "3113"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Combo Teclado Y Mouse Logitech Pop Icon  Español  Blanco"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$96375$96375$86738Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$96375$96375$86738Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$86738Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6379 marca_2536 ",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c",
+    "text_preview": "Llega el Lunes                                           \n                                        \n "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "envioRapido -----",
+    "text_preview": "Llega el Lunes"
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "097855199874                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "097855199874                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "097855199874"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Combo Teclado Y Mouse Logitech Pop Icon  Español  Rosado"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$98945$98945$89051Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$98945$98945$89051Precio especial"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$89051Precio especial"
+  },
+  {
+    "tag": "li",
+    "class": "active",
+    "text_preview": "1"
+  },
+  {
+    "tag": "h5",
+    "class": "t-shadow mt-0 mb-0",
+    "text_preview": "1167950226 (solo texto)"
+  },
+  {
+    "tag": "a",
+    "class": "text-white",
+    "text_preview": "1167950226 (solo texto)"
+  },
+  {
+    "tag": "h5",
+    "class": "t-shadow mt-0 mb-0",
+    "text_preview": "Lunes a Viernes de 10:00 a 18:00"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "result",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "social-buttons",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-facebook",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group nombre",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group email",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "copyright pull-right col-md-6 ta-r dataFiscal",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fb-customerchat",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content bg-none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect waves-light",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-red btn-raised btn-fab p-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title ta-l titulo",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "col-6 pl-0 pull-left captcha mt-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "py-3",
+    "text_preview": ""
+  }
+]

@@ -1,0 +1,2617 @@
+[
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "js-modal-open-private header-utility",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "logo-img logo-big transition-soft",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group position-relative m-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-header-utility-icon js-header-utility-icon-only header-utility d-md-none utility-icon-md-colors ",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "font-medium",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-header-utility-with-text header-utility d-none d-md-grid",
+    "text_preview": "Entrá /\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tRegistráte"
+  },
+  {
+    "tag": "span",
+    "class": "js-header-utility-icon utility-icon-md-colors",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "utility-text",
+    "text_preview": "Entrá /\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tRegistráte"
+  },
+  {
+    "tag": "div",
+    "class": "font-weight-bold",
+    "text_preview": "Entrá /"
+  },
+  {
+    "tag": "span",
+    "class": "js-header-utility-icon utility-icon-md-colors ",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-widget-amount badge  d-md-none",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-widget-amount",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-cart-widget-total ",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "img",
+    "class": "js-cart-notification-item-image-private notification-cart-image img-absolute-centered-vertically",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mb-2 mb-md-1",
+    "text_preview": "()"
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-name-private",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-variant-private",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mb-2 mb-md-1",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-quantity-private",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-price-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "desktop-list-subitems list-subitems",
+    "text_preview": "NOTEBOOKS\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tSMARTWATCH\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tPARLANTES\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tPERIFERICOS\n\t\t\n\t\t\t\t\t\n\t\t\t"
+  },
+  {
+    "tag": "ul",
+    "class": "list-subitems",
+    "text_preview": "ADAPTADORES Y CABLES\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tAURICULARES\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tJOYSTICKS\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tMOUSE\n\t\t\n\t\t\t"
+  },
+  {
+    "tag": "ul",
+    "class": "list-subitems",
+    "text_preview": "MEMORIAS RAM\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\n\t\t\tDIMM\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tSODIMM\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tDISCOS SOLIDOS\n\t"
+  },
+  {
+    "tag": "ul",
+    "class": "list-subitems",
+    "text_preview": "DIMM\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tSODIMM"
+  },
+  {
+    "tag": "ul",
+    "class": "list-subitems",
+    "text_preview": "NVME\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\tSATA"
+  },
+  {
+    "tag": "ul",
+    "class": "desktop-list-subitems list-subitems",
+    "text_preview": "MEMORIAS RAM\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\n\t\n\t\t\t\t\t\t\t\n\t\t\t\n\t\t\tDIMM\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\n\t\t\tSODIMM\n\t\t\n\t\t\t\t\t"
+  },
+  {
+    "tag": "ul",
+    "class": " list-subitems",
+    "text_preview": "DIMM\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\n\t\t\tSODIMM"
+  },
+  {
+    "tag": "ul",
+    "class": " list-subitems",
+    "text_preview": "NVME\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\n\t\t\tSATA"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header no-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "COMPONENTES PC"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "MEMORIAS RAM"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "DISCOS SOLIDOS"
+  },
+  {
+    "tag": "div",
+    "class": "js-modal-private modal modal-bottom modal-md-bottom modal-width-small modal-md-width-small ",
+    "text_preview": "Idiomas y monedas\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tArgentina"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header ",
+    "text_preview": "Idiomas y monedas"
+  },
+  {
+    "tag": "span",
+    "class": "modal-title ",
+    "text_preview": "Idiomas y monedas"
+  },
+  {
+    "tag": "div",
+    "class": "modal-body ",
+    "text_preview": "Argentina"
+  },
+  {
+    "tag": "ul",
+    "class": "list list-unstyled",
+    "text_preview": "Argentina"
+  },
+  {
+    "tag": "li",
+    "class": "list-item  font-weight-bold",
+    "text_preview": "Argentina"
+  },
+  {
+    "tag": "a",
+    "class": "btn-link",
+    "text_preview": "Argentina"
+  },
+  {
+    "tag": "div",
+    "class": "js-ajax-cart-list",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn-link font-small ml-1",
+    "text_preview": "ver otros acá"
+  },
+  {
+    "tag": "div",
+    "class": "js-visible-on-cart-filled",
+    "text_preview": "Subtotal\n        \n         (sin envío)\n        :\n      \n      $0,00"
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto mb-2",
+    "text_preview": "Subtotal\n        \n         (sin envío)\n        :\n      \n      $0,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-subtotal-shipping-wording",
+    "text_preview": "(sin envío)"
+  },
+  {
+    "tag": "span",
+    "class": "js-ajax-cart-total js-cart-subtotal text-right",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-promo-in",
+    "text_preview": "en"
+  },
+  {
+    "tag": "span",
+    "class": "js-promo-all",
+    "text_preview": "todos los productos"
+  },
+  {
+    "tag": "span",
+    "class": "js-promo-units-or-more",
+    "text_preview": "o más"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-calculator-with-zipcode  mb-4 w-100 transition-up position-absolute",
+    "text_preview": "Entregas para el CP:\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tCambiar CP"
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto align-items-center",
+    "text_preview": "Entregas para el CP:\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tCambiar CP"
+  },
+  {
+    "tag": "span",
+    "class": "font-small mr-3",
+    "text_preview": "Entregas para el CP:"
+  },
+  {
+    "tag": "strong",
+    "class": "js-shipping-calculator-current-zip",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "js-shipping-calculator-change-zipcode btn btn-link font-small",
+    "text_preview": "Cambiar CP"
+  },
+  {
+    "tag": "span",
+    "class": "js-calculating-shipping-wording",
+    "text_preview": "Calculando"
+  },
+  {
+    "tag": "span",
+    "class": "float-right loading ml-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": " btn btn-link font-small",
+    "text_preview": "No sé mi código postal"
+  },
+  {
+    "tag": "div",
+    "class": "js-ship-calculator-error js-ship-calculator-external-error alert alert-danger mb-0",
+    "text_preview": "El calculo falló por un problema con el medio de envío. Por favor intentá de nuevo en unos segundos."
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-calculator-spinner pb-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto mb-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mr-5 pr-5",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shine position-relative mb-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shine position-relative w-50",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shipping-price placeholder-shine position-relative",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mr-5 pr-5",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shine position-relative mb-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shine position-relative w-50",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "placeholder placeholder-line placeholder-shipping-price placeholder-shine position-relative",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-calculator-response mb-4 pb-1 transition-soft  radio-buttons-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-grid grid-1-auto mb-3 h6 font-family-body",
+    "text_preview": "Total:\n      \n        $0,00\n          \n\n\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\tO\n\t\t\t\t$0,00\n\t\tcon\n\t\tTransferencia o depósi"
+  },
+  {
+    "tag": "span",
+    "class": "text-right",
+    "text_preview": "$0,00\n          \n\n\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\tO\n\t\t\t\t$0,00\n\t\tcon\n\t\tTransferencia o depósito bancario / Efectivo"
+  },
+  {
+    "tag": "div",
+    "class": "js-cart-total  ",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-cart payment-discount-price-cart ",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "div",
+    "class": "js-ajax-cart-submit",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "text-center",
+    "text_preview": "Ver más productos"
+  },
+  {
+    "tag": "span",
+    "class": "separator",
+    "text_preview": ">"
+  },
+  {
+    "tag": "span",
+    "class": "crumb active",
+    "text_preview": "PERIFERICOS"
+  },
+  {
+    "tag": "div",
+    "class": "grid grid-1-auto align-items-end",
+    "text_preview": "PERIFERICOS\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t14 productos"
+  },
+  {
+    "tag": "h1",
+    "class": "h4 mb-0",
+    "text_preview": "PERIFERICOS"
+  },
+  {
+    "tag": "div",
+    "class": "d-md-none text-right font-small mb-1",
+    "text_preview": "14 productos"
+  },
+  {
+    "tag": "div",
+    "class": "form-select-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "font-smallest font-weight-bold",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "div",
+    "class": "js-category-controls-prev category-controls-sticky-detector",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "my-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "ADAPTADORES Y CABLES"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "ADAPTADORES Y CABLES"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "JOYSTICKS"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "JOYSTICKS"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "PADS"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "PADS"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "TECLADOS"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "TECLADOS"
+  },
+  {
+    "tag": "div",
+    "class": "my-1 pr-3 d-flex align-items-center",
+    "text_preview": "Color"
+  },
+  {
+    "tag": "div",
+    "class": "mb-0",
+    "text_preview": "Color"
+  },
+  {
+    "tag": "div",
+    "class": "my-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Blanco (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Blanco (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-color",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox m-0",
+    "text_preview": "Negro (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Negro (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "my-1 pr-3 d-flex align-items-center",
+    "text_preview": "Marca"
+  },
+  {
+    "tag": "div",
+    "class": "mb-0",
+    "text_preview": "Marca"
+  },
+  {
+    "tag": "div",
+    "class": "my-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Aon (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Aon (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Checkpoint (6)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Checkpoint (6)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Redragon (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Redragon (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Skullcandy (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Skullcandy (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox m-0",
+    "text_preview": "Tp-Link (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Tp-Link (1)"
+  },
+  {
+    "tag": "div",
+    "class": "mb-3",
+    "text_preview": "Precio"
+  },
+  {
+    "tag": "div",
+    "class": "form-group",
+    "text_preview": "Desde\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t  \n\t\t\t\n\t\t\t\n\t\t\t\tHasta\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tAplicar"
+  },
+  {
+    "tag": "label",
+    "class": "form-label",
+    "text_preview": "Desde"
+  },
+  {
+    "tag": "label",
+    "class": "form-label",
+    "text_preview": "Hasta"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Precio: menor a mayor"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Precio: menor a mayor"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Precio: menor a mayor"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Precio: menor a mayor"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Precio: mayor a menor"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Precio: mayor a menor"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Precio: mayor a menor"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Precio: mayor a menor"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "A - Z"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "A - Z"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "A - Z"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "A - Z"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Z - A"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Z - A"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Z - A"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Z - A"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Más nuevo al más viejo"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Más nuevo al más viejo"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Más nuevo al más viejo"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Más nuevo al más viejo"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Más viejo al más nuevo"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button ",
+    "text_preview": "Más viejo al más nuevo"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Más viejo al más nuevo"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Más viejo al más nuevo"
+  },
+  {
+    "tag": "li",
+    "class": "radio-button-item",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "a",
+    "class": "js-apply-sort-private radio-button selected",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-content",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon unchecked",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icon checked",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "radio-button-label",
+    "text_preview": "Más vendidos"
+  },
+  {
+    "tag": "span",
+    "class": "font-big mr-2",
+    "text_preview": "Ordenando productos"
+  },
+  {
+    "tag": "ul",
+    "class": " mb-4 pb-4 list-unstyled bottom-line",
+    "text_preview": "ADAPTADORES Y CABLES\n\n                                                                            AU"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "ADAPTADORES Y CABLES"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "ADAPTADORES Y CABLES"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "JOYSTICKS"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "JOYSTICKS"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "PADS"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "PADS"
+  },
+  {
+    "tag": "li",
+    "class": "mb-2",
+    "text_preview": "TECLADOS"
+  },
+  {
+    "tag": "a",
+    "class": "font-small",
+    "text_preview": "TECLADOS"
+  },
+  {
+    "tag": "h6",
+    "class": "font-small font-family-body text-uppercase mb-3",
+    "text_preview": "Color"
+  },
+  {
+    "tag": "div",
+    "class": " mb-4 pb-4 list-unstyled bottom-line",
+    "text_preview": "Blanco (1)\n                                            \n                                            "
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Blanco (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Blanco (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-color",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox m-0",
+    "text_preview": "Negro (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Negro (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-color",
+    "text_preview": ""
+  },
+  {
+    "tag": "h6",
+    "class": "font-small font-family-body text-uppercase mb-3",
+    "text_preview": "Marca"
+  },
+  {
+    "tag": "div",
+    "class": " mb-4 pb-4 list-unstyled bottom-line",
+    "text_preview": "Aon (1)\n                                            \n                                               "
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Aon (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Aon (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Checkpoint (6)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Checkpoint (6)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Redragon (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Redragon (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox ",
+    "text_preview": "Skullcandy (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Skullcandy (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox m-0",
+    "text_preview": "Tp-Link (1)"
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": " checkbox-text",
+    "text_preview": "Tp-Link (1)"
+  },
+  {
+    "tag": "div",
+    "class": "font-small font-family-body text-uppercase mb-3",
+    "text_preview": "Precio"
+  },
+  {
+    "tag": "div",
+    "class": "form-group",
+    "text_preview": "Desde\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t  \n\t\t\t\n\t\t\t\n\t\t\t\tHasta\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tAplicar"
+  },
+  {
+    "tag": "label",
+    "class": "form-label",
+    "text_preview": "Desde"
+  },
+  {
+    "tag": "label",
+    "class": "form-label",
+    "text_preview": "Hasta"
+  },
+  {
+    "tag": "div",
+    "class": "last-page",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "MOUSE PAD CHECKPOINT MEDIUM RAINBOW SIEGE MP200\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$7.500,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "MOUSE PAD CHECKPOINT MEDIUM RAINBOW SIEGE MP200"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$7.500,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$1.250,00\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$1.250,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$6.375,00"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 30 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "30"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Adaptador WIFI Nano Wireless USB Tp-link Archer T2U 2.4/5GHz AC600\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$13.563,00\n\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Adaptador WIFI Nano Wireless USB Tp-link Archer T2U 2.4/5GHz AC600"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$13.563,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$15.517,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "13% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "13"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$2.260,50\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$2.260,50"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$11.528,55"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 4 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "4"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "MOUSE PAD CHECKPOINT MP300 LARGE RAINBOW SIX SIEGE\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$14.999,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "MOUSE PAD CHECKPOINT MP300 LARGE RAINBOW SIX SIEGE"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$14.999,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$2.499,83\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$2.499,83"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$12.749,15"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 21 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "21"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Gaming Mouse MX200 RAINBOX SIX SIEGE CHECKPOINT\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$17.241,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Gaming Mouse MX200 RAINBOX SIX SIEGE CHECKPOINT"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$17.241,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$2.873,50\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$2.873,50"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$14.654,85"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 4 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "4"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "HUB Adaptador Multipuerto AON USB-C a USB 3.0/ HDMI 2.0/ USB-C\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$15.550,00\n\t\t\t\t\t\n"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "HUB Adaptador Multipuerto AON USB-C a USB 3.0/ HDMI 2.0/ USB-C"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$15.550,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$2.591,67\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$2.591,67"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$13.217,50"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 5 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "5"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "AURICULARES WIRELESS RAINBOW SIX SIEGE CHECKPOINT HX-300\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$86.750,00\n\t\t\t\t\t\n\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "AURICULARES WIRELESS RAINBOW SIX SIEGE CHECKPOINT HX-300"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$86.750,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$14.458,33\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$14.458,33"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$73.737,50"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 8 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "8"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Teclado Redragon Harpe PRO K503A\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$27.000,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t$33.448,00\n"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Teclado Redragon Harpe PRO K503A"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$27.000,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$33.448,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "19% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "19"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$4.500,00\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$4.500,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$22.950,00"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 4 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "4"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Auriculares Skullcandy Inalámbricos Riff 2 On-Ear Negro\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$90.230,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Auriculares Skullcandy Inalámbricos Riff 2 On-Ear Negro"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$90.230,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$92.069,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "2% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "2"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$15.038,33\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$15.038,33"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$76.695,50"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 2 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Auriculares inalambricos Skullcandy Hesh EVO Over-Ear Negro\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$128.736,00\n\t\t\t\t\t\n\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Auriculares inalambricos Skullcandy Hesh EVO Over-Ear Negro"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$128.736,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$133.793,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "4% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "4"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$21.456,00\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$21.456,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$109.425,60"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 2 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Auriculares Skullcandy Hesh ANC Wireless Over-Ear Negro\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$184.828,00\n\t\t\t\t\t\n\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Auriculares Skullcandy Hesh ANC Wireless Over-Ear Negro"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$184.828,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$191.264,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "3% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "3"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$30.804,67\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$30.804,67"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$157.103,80"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 2 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Auriculares Skullcandy Inalámbricos Dime 3 Auriculares In-ear\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$78.851,00\n\t\t\t\t\t\n\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Auriculares Skullcandy Inalámbricos Dime 3 Auriculares In-ear"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$78.851,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$80.920,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "3% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "3"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$13.141,83\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$13.141,83"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$67.023,35"
+  },
+  {
+    "tag": "div",
+    "class": "js-last-product text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "js-latest-products-available text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 3 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "3"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-product-variants js-product-quickshop-variants  mb-4",
+    "text_preview": "Color\n        \n        \t\t\t\t\t\t\t\t\t\t\t\t\tBlanco\n\t\t\t\t\t\t\t\t\t\t\t\t\tNegro\n\t\t\t\t\t\t\t\t\t\t\t    \n    \n        \n    \n\n\n\n"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Color\n        \n        \t\t\t\t\t\t\t\t\t\t\t\t\tBlanco\n\t\t\t\t\t\t\t\t\t\t\t\t\tNegro\n\t\t\t\t\t\t\t\t\t\t\t    \n    \n        \n    \n\n\n\n"
+  },
+  {
+    "tag": "div",
+    "class": "form-group  d-none",
+    "text_preview": "Color\n        \n        \t\t\t\t\t\t\t\t\t\t\t\t\tBlanco\n\t\t\t\t\t\t\t\t\t\t\t\t\tNegro"
+  },
+  {
+    "tag": "label",
+    "class": "form-label ",
+    "text_preview": "Color"
+  },
+  {
+    "tag": "div",
+    "class": "form-select-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "label",
+    "class": "form-label",
+    "text_preview": "Color: Blanco"
+  },
+  {
+    "tag": "strong",
+    "class": "js-insta-variation-label",
+    "text_preview": "Blanco"
+  },
+  {
+    "tag": "a",
+    "class": "js-insta-variant btn btn-variant selected btn-variant-color",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-variant-content ",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "js-insta-variant btn btn-variant btn-variant-color",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-variant-content ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group js-quantity form-quantity",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "grid grid-3-auto grid-no-gap align-items-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-quantity-down form-quantity-icon btn icon-45px",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-quantity-up form-quantity-icon btn icon-45px",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-item-colors-variation",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-item-colors",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-product-item-colors-bullet product-item-colors-bullet js-variation-option js-color-variant",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-product-item-colors-bullet product-item-colors-bullet js-variation-option js-color-variant",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "Memoria 256GB Kingston USB3.2 Data Traveler Exodia DTX/256GB\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$27.011,00\n\t\t\t\t\t\n\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "Memoria 256GB Kingston USB3.2 Data Traveler Exodia DTX/256GB"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$27.011,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$4.501,83\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$4.501,83"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$22.959,35"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 2 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$31.249,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$5.208,17\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$5.208,17"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$26.561,65"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 42 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "42"
+  },
+  {
+    "tag": "a",
+    "class": "js-product-item-image-link-private ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels product-labels",
+    "text_preview": "Sin stock\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGratis"
+  },
+  {
+    "tag": "div",
+    "class": "js-stock-label-private label mb-2",
+    "text_preview": "Sin stock"
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-label-private js-free-shipping-minimum-label label shipping-label",
+    "text_preview": "Gratis"
+  },
+  {
+    "tag": "a",
+    "class": "product-item-link ",
+    "text_preview": "TECLADO RGB RAINBOW SIX SIEGE CHECKPOINT R6-KB-1001\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$55.050,00\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name product-item-name mb-2",
+    "text_preview": "TECLADO RGB RAINBOW SIX SIEGE CHECKPOINT R6-KB-1001"
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display product-item-price ",
+    "text_preview": "$55.050,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display product-item-price-compare order-first mb-1",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "product-item-discount text-accent font-medium ml-2",
+    "text_preview": "0% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "js-offer-percentage",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "js-max-installments product-installments installment-no-interest",
+    "text_preview": "6\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tx\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t$9.175,00\n\n"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-amount product-installment-amount",
+    "text_preview": "6"
+  },
+  {
+    "tag": "span",
+    "class": "installment-short-separator",
+    "text_preview": "x"
+  },
+  {
+    "tag": "span",
+    "class": "js-installment-price product-installment-value",
+    "text_preview": "$9.175,00"
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product ",
+    "text_preview": "$46.792,50"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡No te lo pierdas, es el último!"
+  },
+  {
+    "tag": "div",
+    "class": "text-stock font-small mt-2",
+    "text_preview": "¡Solo quedan 1 en stock!"
+  },
+  {
+    "tag": "span",
+    "class": "js-product-stock",
+    "text_preview": "1"
+  },
+  {
+    "tag": "div",
+    "class": "d-flex justify-content-center align-items-center my-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-modal-private modal modal-bottom modal-md-bottom modal-width-full modal-md-width-large ",
+    "text_preview": "$0,00\n\t\tcon\n\t\tTransferencia o depósito bancario / Efectivo"
+  },
+  {
+    "tag": "div",
+    "class": "modal-body ",
+    "text_preview": "$0,00\n\t\tcon\n\t\tTransferencia o depósito bancario / Efectivo"
+  },
+  {
+    "tag": "div",
+    "class": "grid grid-md-2",
+    "text_preview": "$0,00\n\t\tcon\n\t\tTransferencia o depósito bancario / Efectivo"
+  },
+  {
+    "tag": "div",
+    "class": "js-quickshop-image-padding",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "js-product-item-image-private js-quickshop-img img-fluid w-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-item-variants pt-3",
+    "text_preview": "$0,00\n\t\tcon\n\t\tTransferencia o depósito bancario / Efectivo"
+  },
+  {
+    "tag": "div",
+    "class": "js-item-name h4 mb-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-compare-price-display price-compare font-medium",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex align-items-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-price-display h3 font-family-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-payment-discount-price-product payment-discount-price-product h5 font-family-body",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "div",
+    "class": "mr-md-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn-whatsapp",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mb-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "mr-4 mb-4 d-inline-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "mr-4 mb-4 d-inline-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mb-3 font-medium ",
+    "text_preview": "543518781986"
+  },
+  {
+    "tag": "li",
+    "class": "mb-3 font-medium ",
+    "text_preview": "Ituzaingo 94,  Córdoba."
+  },
+  {
+    "tag": "li",
+    "class": "mb-3",
+    "text_preview": "NOTEBOOKS"
+  },
+  {
+    "tag": "li",
+    "class": "mb-3",
+    "text_preview": "TABLETS"
+  },
+  {
+    "tag": "li",
+    "class": "mb-3",
+    "text_preview": "COMPONENTES PC"
+  },
+  {
+    "tag": "li",
+    "class": "mb-3",
+    "text_preview": "APPLE"
+  },
+  {
+    "tag": "li",
+    "class": "mb-3",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "li",
+    "class": "mb-3",
+    "text_preview": "OUTLET"
+  },
+  {
+    "tag": "div",
+    "class": "js-footer-news-description mt-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "input-append",
+    "text_preview": "No completar este campo"
+  },
+  {
+    "tag": "div",
+    "class": "form-group mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "winnie-pooh",
+    "text_preview": "No completar este campo"
+  },
+  {
+    "tag": "div",
+    "class": "footer-logo afip seal-afip",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "d-block d-md-inline-block mb-2 mb-md-0 mr-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "powered-by-logo",
+    "text_preview": ""
+  }
+]

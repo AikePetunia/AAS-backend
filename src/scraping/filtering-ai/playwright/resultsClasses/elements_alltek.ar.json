@@ -1,0 +1,3032 @@
+[
+  {
+    "tag": "div",
+    "class": "animated infinite pulse",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "indicator__button",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "indicator__area",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "indicator__button cargarCarrito",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "indicator__area",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "indicator__value spanCarrito",
+    "text_preview": "0"
+  },
+  {
+    "tag": "a",
+    "class": "indicator__button btnLoginHeader",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "indicator__area",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "site-header__logo",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "social-links footer-newsletter__social-links social-links--shape--circle mt-0 ml-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "social-links__list",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "social-links__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-links__link",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "social-links__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-links__link",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "social-links__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-links__link",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "departments__item mb-1 contenedorBuscador",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Celulares y Tablets\n                                                                                "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Celulares y Tablets\n                                                                                "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Celulares y Tablets\n                                                                                "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Celulares"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Tablets"
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Componentes de PC\n                                                                                  "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Componentes de PC\n                                                                                  "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Componentes de PC\n                                                                                  "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Coolers"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Discos Rigidos"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Discos Solidos"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Microprocesadores"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "MotherBoards"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Computadoras\n                                                                                    \n  "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Computadoras\n                                                                                    \n  "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Computadoras\n                                                                                    \n  "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Cargadores de Notebook"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "NoteBook"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Pc de escritorio"
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Consolas y Juegos\n                                                                                  "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Consolas y Juegos\n                                                                                  "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Consolas y Juegos\n                                                                                  "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Consolas"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Juegos de Nintendo Switch"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Juegos de PS3"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Juegos de PS4"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Juegos de PS5"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Juegos de Xbox One"
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Deportes\n                                                                                    \n      "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Deportes\n                                                                                    \n      "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Deportes\n                                                                                    \n      "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Monopatines y Scooters"
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Electrónica, Audio y Video\n                                                                         "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Electrónica, Audio y Video\n                                                                         "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Electrónica, Audio y Video\n                                                                         "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Pilas y Cargadores"
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Insumos de impresión\n                                                                               "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Insumos de impresión\n                                                                               "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Insumos de impresión\n                                                                               "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Brother"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Epson"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "HP"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Samsung"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Xerox"
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Perifericos\n                                                                                    \n   "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Perifericos\n                                                                                    \n   "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Perifericos\n                                                                                    \n   "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Almacenamiento"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Auriculares"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Base de Notebook"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Combos"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Impresoras"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Joysticks"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Micrófonos"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Pad Mouse"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Parlantes"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Web Cam"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Auriculares"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Celulares"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Computadoras"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Consolas"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Impresoras"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Joysticks PS4/PS4/XBOX/SWITCH"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Parlantes"
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Sonido\n                                                                                    \n        "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Sonido\n                                                                                    \n        "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Sonido\n                                                                                    \n        "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Auricular Celular"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Auriculares Bluetooth"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Auriculares PC"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Auriculares PS3"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Auriculares PS4"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Auriculares PS5"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Parlantes Bluetooth"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Parlantes PC"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Radios"
+  },
+  {
+    "tag": "div",
+    "class": "departments__submenu departments__submenu--type--menu",
+    "text_preview": "Teclados y Mouse\n                                                                                   "
+  },
+  {
+    "tag": "div",
+    "class": "menu menu--layout--classic ",
+    "text_preview": "Teclados y Mouse\n                                                                                   "
+  },
+  {
+    "tag": "ul",
+    "class": "menu__list",
+    "text_preview": "Teclados y Mouse\n                                                                                   "
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Mouse Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Mouse Oficina"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Mouse Oficina Inalambricos"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Teclado y Mouse Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Teclado y Mouse Oficina"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Teclados Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Teclados Oficina"
+  },
+  {
+    "tag": "div",
+    "class": "menu__item-submenu-offset",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "menu__item-link",
+    "text_preview": "Teclados Oficina Inalambricos"
+  },
+  {
+    "tag": "button",
+    "class": "departments__button",
+    "text_preview": "Catalogo"
+  },
+  {
+    "tag": "div",
+    "class": "indicator",
+    "text_preview": "0"
+  },
+  {
+    "tag": "a",
+    "class": "indicator__button cargarCarrito",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "indicator__area",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "indicator__value spanCarrito",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "indicator indicator--trigger--click",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "indicator__button btnLoginHeader",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "indicator__area",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "breadcrumb-item active",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "div",
+    "class": "view-options__layout ocultarMayorista",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "layout-switcher",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "layout-switcher__button default\n                                                layout-switcher__button--active",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "layout-switcher__button\n                                                ",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "layout-switcher__button\n                                                ",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-view__list products-list",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products-list__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2 big",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog modal-lg modal-dialog-centered",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "quickview",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "block-features__icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "block-features__divider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "block-features__icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "block-features__divider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "block-features__icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "bg-section img-pattern",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "mb-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "footer-links__list",
+    "text_preview": "Cables y adaptadores\n                                Celulares y Tablets\n                           "
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Cables y adaptadores"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Cables y adaptadores"
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Celulares y Tablets"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Celulares y Tablets"
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Computadoras"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Computadoras"
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Consolas y Juegos"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Consolas y Juegos"
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Deportes"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Deportes"
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Electrodomésticos"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Electrodomésticos"
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Electrónica, Audio y Video"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Electrónica, Audio y Video"
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Insumos de impresión"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Insumos de impresión"
+  },
+  {
+    "tag": "li",
+    "class": "footer-links__item",
+    "text_preview": "Perifericos"
+  },
+  {
+    "tag": "a",
+    "class": "footer-links__link",
+    "text_preview": "Perifericos"
+  },
+  {
+    "tag": "div",
+    "class": "footer-newsletter__text footer-newsletter__text--social",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "social-links footer-newsletter__social-links social-links--shape--circle",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "social-links__list",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "social-links__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-links__link social-links__link--type--instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "social-links__item",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-links__link social-links__link--type--instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mt-3 text-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "site-footer__payments",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "totop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "totop__body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "totop__start",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "totop__end",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "totop__button",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog modal-dialog-centered modal-xl",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dropcart dropcart--style--offcanvas",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dropcart__backdrop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dropcart__body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dropcart__products-list",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dropcart__product",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-avatar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dropcart__product",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-avatar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dropcart__product",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-item mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-avatar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ph-col-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog modal-dialog-centered",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "quickview",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog modal-dialog-centered",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "quickview",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog modal-dialog-centered",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "quickview",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog modal-dialog-centered",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "quickview",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wa__btn_popup wow bounceInUp",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wa__btn_popup_icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wa__popup_avatar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wa__popup_avatar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wa__popup_avatar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "notyf",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "notyf-announcer",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "notyf",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "notyf-announcer",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "notyf",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "notyf-announcer",
+    "text_preview": ""
+  }
+]

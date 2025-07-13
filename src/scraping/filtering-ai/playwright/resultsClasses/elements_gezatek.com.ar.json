@@ -1,0 +1,4417 @@
+[
+  {
+    "tag": "div",
+    "class": "wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "social-movil-wp",
+    "text_preview": ""
+  },
+  {
+    "tag": "th",
+    "class": "text-center",
+    "text_preview": "Cantidad"
+  },
+  {
+    "tag": "li",
+    "class": "micrositio",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "amd",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "micrositio",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "amd",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "micrositio",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "amd",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "micrositio",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "amd",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "micrositio",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "amd",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "micrositio",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "amd",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "micrositio last",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "micrositio",
+    "text_preview": "Acceder"
+  },
+  {
+    "tag": "a",
+    "class": "login_btn_header",
+    "text_preview": "Acceder"
+  },
+  {
+    "tag": "li",
+    "class": "micrositio last",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "sociales-menu",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "sociales-menu",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "icon-bar",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "icon-bar",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "icon-bar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "EQUIPOS ARMADOSPC HOGAR Y OFICINAPC BASIC GAMERPC ELITE GAMERPC XTREME GAMER"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "EQUIPOS ARMADOS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "PC HOGAR Y OFICINAPC BASIC GAMERPC ELITE GAMERPC XTREME GAMER"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PC HOGAR Y OFICINA"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PC HOGAR Y OFICINA"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PC BASIC GAMER"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PC BASIC GAMER"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PC ELITE GAMER"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PC ELITE GAMER"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PC XTREME GAMER"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PC XTREME GAMER"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "NOTEBOOKSNOTEBOOKSACCESORIOS NOTEBOOK"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "NOTEBOOKS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "NOTEBOOKSACCESORIOS NOTEBOOK"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "NOTEBOOKS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "NOTEBOOKS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "ACCESORIOS NOTEBOOK"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "ACCESORIOS NOTEBOOK"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "SMART TV"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "SMART TV"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "CELULARES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "CELULARES"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "TABLETS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "TABLETS"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "COMBOS ACTUALIZACIONCOMBOS AMDCOMBOS INTEL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "COMBOS ACTUALIZACION"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "COMBOS AMDCOMBOS INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "COMBOS AMD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "COMBOS AMD"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "COMBOS INTEL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "COMBOS INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "MICROPROCESADORESPROCESADORES AMDPROCESADORES INTEL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "MICROPROCESADORES"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "PROCESADORES AMDPROCESADORES INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PROCESADORES AMD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PROCESADORES AMD"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PROCESADORES INTEL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PROCESADORES INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "MOTHERBOARDSMOTHERS AMD AM4MOTHERS AMD AM5MOTHERS INTEL LGA1200MOTHERS INTEL LGA1700MOTHERS INTEL LG"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "MOTHERBOARDS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "MOTHERS AMD AM4MOTHERS AMD AM5MOTHERS INTEL LGA1200MOTHERS INTEL LGA1700MOTHERS INTEL LGA1851"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS AMD AM4"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS AMD AM4"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS AMD AM5"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS AMD AM5"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS INTEL LGA1200"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS INTEL LGA1200"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS INTEL LGA1700"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS INTEL LGA1700"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS INTEL LGA1851"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS INTEL LGA1851"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "MEMORIA RAMRAM DDR3RAM DDR4RAM DDR5RAM SODIMM DDR4"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "MEMORIA RAM"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "RAM DDR3RAM DDR4RAM DDR5RAM SODIMM DDR4"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "RAM DDR3"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "RAM DDR3"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "RAM DDR4"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "RAM DDR4"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "RAM DDR5"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "RAM DDR5"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "RAM SODIMM DDR4"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "RAM SODIMM DDR4"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "PLACAS DE VIDEOVGA NVIDIAVGA AMD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "PLACAS DE VIDEO"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "VGA NVIDIAVGA AMD"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "VGA NVIDIA"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "VGA NVIDIA"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "VGA AMD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "VGA AMD"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "ALMACENAMIENTODISCOS SSD SATA3DISCOS SSD M2 NVMEDISCOS RIGIDOSDISCOS EXTERNOS USBOPTICOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "ALMACENAMIENTO"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "DISCOS SSD SATA3DISCOS SSD M2 NVMEDISCOS RIGIDOSDISCOS EXTERNOS USBOPTICOS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "DISCOS SSD SATA3"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "DISCOS SSD SATA3"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "DISCOS SSD M2 NVME"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "DISCOS SSD M2 NVME"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "DISCOS RIGIDOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "DISCOS RIGIDOS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "DISCOS EXTERNOS USB"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "DISCOS EXTERNOS USB"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "OPTICOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "OPTICOS"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "GABINETES Y FUENTESFUENTESGABINETESGABINETES CON FUENTE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "GABINETES Y FUENTES"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "FUENTESGABINETESGABINETES CON FUENTE"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "FUENTES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "FUENTES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "GABINETES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "GABINETES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "GABINETES CON FUENTE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "GABINETES CON FUENTE"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "PERIFERICOSMOUSEMOUSEPADSTECLADOS / KITAURICULARESPARLANTESWEBCAMGAMEPAD / JOYSTICKIMPRESORASESTABIL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "PERIFERICOS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "MOUSEMOUSEPADSTECLADOS / KITAURICULARESPARLANTESWEBCAMGAMEPAD / JOYSTICKIMPRESORASESTABILIZADORES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOUSEPADS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOUSEPADS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "TECLADOS / KIT"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "TECLADOS / KIT"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PARLANTES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PARLANTES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "WEBCAM"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "WEBCAM"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "GAMEPAD / JOYSTICK"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "GAMEPAD / JOYSTICK"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "IMPRESORAS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "IMPRESORAS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "ESTABILIZADORES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "ESTABILIZADORES"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "SILLAS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "SILLAS"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "REFRIGERACIONCOOLERS CPUWATER COOLINGCOOLER FAN"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "REFRIGERACION"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "COOLERS CPUWATER COOLINGCOOLER FAN"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "COOLERS CPU"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "COOLERS CPU"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "WATER COOLING"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "WATER COOLING"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "COOLER FAN"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "COOLER FAN"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "ROUTERS Y REPETIDORES WIFIPLACAS DE RED USBPLACAS DE RED INTERNASSWITCHES DE RED"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "ROUTERS Y REPETIDORES WIFI"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "ROUTERS Y REPETIDORES WIFI"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PLACAS DE RED USB"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PLACAS DE RED USB"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PLACAS DE RED INTERNAS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PLACAS DE RED INTERNAS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "SWITCHES DE RED"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "SWITCHES DE RED"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "TABLETAS DIGITALIZADORAS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "TABLETAS DIGITALIZADORAS"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "MEMORIA PORTATILMICRO SDPENDRIVE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "MEMORIA PORTATIL"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "MICRO SDPENDRIVE"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MICRO SD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MICRO SD"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PENDRIVE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PENDRIVE"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "ADAPTADORES / OTROSADAPTADORESCABLESINSUMOSSTREAMING"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "ADAPTADORES / OTROS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "ADAPTADORESCABLESINSUMOSSTREAMING"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "ADAPTADORES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "ADAPTADORES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "CABLES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "CABLES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "INSUMOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "INSUMOS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "STREAMING"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "STREAMING"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "SERVICIOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "SERVICIOS"
+  },
+  {
+    "tag": "span",
+    "class": "caret",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "EQUIPOS ARMADOSPC HOGAR Y OFICINAPC BASIC GAMERPC ELITE GAMERPC XTREME GAMER"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "EQUIPOS ARMADOS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "PC HOGAR Y OFICINAPC BASIC GAMERPC ELITE GAMERPC XTREME GAMER"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PC HOGAR Y OFICINA"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PC HOGAR Y OFICINA"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PC BASIC GAMER"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PC BASIC GAMER"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PC ELITE GAMER"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PC ELITE GAMER"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PC XTREME GAMER"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PC XTREME GAMER"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "NOTEBOOKSNOTEBOOKSACCESORIOS NOTEBOOK"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "NOTEBOOKS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "NOTEBOOKSACCESORIOS NOTEBOOK"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "NOTEBOOKS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "NOTEBOOKS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "ACCESORIOS NOTEBOOK"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "ACCESORIOS NOTEBOOK"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "SMART TV"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "SMART TV"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "CELULARES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "CELULARES"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "TABLETS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "TABLETS"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "COMBOS ACTUALIZACIONCOMBOS AMDCOMBOS INTEL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "COMBOS ACTUALIZACION"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "COMBOS AMDCOMBOS INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "COMBOS AMD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "COMBOS AMD"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "COMBOS INTEL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "COMBOS INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "MICROPROCESADORESPROCESADORES AMDPROCESADORES INTEL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "MICROPROCESADORES"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "PROCESADORES AMDPROCESADORES INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PROCESADORES AMD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PROCESADORES AMD"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PROCESADORES INTEL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PROCESADORES INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "MOTHERBOARDSMOTHERS AMD AM4MOTHERS AMD AM5MOTHERS INTEL LGA1200MOTHERS INTEL LGA1700MOTHERS INTEL LG"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "MOTHERBOARDS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "MOTHERS AMD AM4MOTHERS AMD AM5MOTHERS INTEL LGA1200MOTHERS INTEL LGA1700MOTHERS INTEL LGA1851"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS AMD AM4"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS AMD AM4"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS AMD AM5"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS AMD AM5"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS INTEL LGA1200"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS INTEL LGA1200"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS INTEL LGA1700"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS INTEL LGA1700"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOTHERS INTEL LGA1851"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOTHERS INTEL LGA1851"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "MEMORIA RAMRAM DDR3RAM DDR4RAM DDR5RAM SODIMM DDR4"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "MEMORIA RAM"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "RAM DDR3RAM DDR4RAM DDR5RAM SODIMM DDR4"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "RAM DDR3"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "RAM DDR3"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "RAM DDR4"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "RAM DDR4"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "RAM DDR5"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "RAM DDR5"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "RAM SODIMM DDR4"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "RAM SODIMM DDR4"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "PLACAS DE VIDEOVGA NVIDIAVGA AMD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "PLACAS DE VIDEO"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "VGA NVIDIAVGA AMD"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "VGA NVIDIA"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "VGA NVIDIA"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "VGA AMD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "VGA AMD"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "ALMACENAMIENTODISCOS SSD SATA3DISCOS SSD M2 NVMEDISCOS RIGIDOSDISCOS EXTERNOS USBOPTICOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "ALMACENAMIENTO"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "DISCOS SSD SATA3DISCOS SSD M2 NVMEDISCOS RIGIDOSDISCOS EXTERNOS USBOPTICOS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "DISCOS SSD SATA3"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "DISCOS SSD SATA3"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "DISCOS SSD M2 NVME"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "DISCOS SSD M2 NVME"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "DISCOS RIGIDOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "DISCOS RIGIDOS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "DISCOS EXTERNOS USB"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "DISCOS EXTERNOS USB"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "OPTICOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "OPTICOS"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "GABINETES Y FUENTESFUENTESGABINETESGABINETES CON FUENTE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "GABINETES Y FUENTES"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "FUENTESGABINETESGABINETES CON FUENTE"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "FUENTES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "FUENTES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "GABINETES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "GABINETES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "GABINETES CON FUENTE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "GABINETES CON FUENTE"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "PERIFERICOSMOUSEMOUSEPADSTECLADOS / KITAURICULARESPARLANTESWEBCAMGAMEPAD / JOYSTICKIMPRESORASESTABIL"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "PERIFERICOS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "MOUSEMOUSEPADSTECLADOS / KITAURICULARESPARLANTESWEBCAMGAMEPAD / JOYSTICKIMPRESORASESTABILIZADORES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MOUSEPADS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MOUSEPADS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "TECLADOS / KIT"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "TECLADOS / KIT"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PARLANTES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PARLANTES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "WEBCAM"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "WEBCAM"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "GAMEPAD / JOYSTICK"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "GAMEPAD / JOYSTICK"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "IMPRESORAS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "IMPRESORAS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "ESTABILIZADORES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "ESTABILIZADORES"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "SILLAS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "SILLAS"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "REFRIGERACIONCOOLERS CPUWATER COOLINGCOOLER FAN"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "REFRIGERACION"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "COOLERS CPUWATER COOLINGCOOLER FAN"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "COOLERS CPU"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "COOLERS CPU"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "WATER COOLING"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "WATER COOLING"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "COOLER FAN"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "COOLER FAN"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "ROUTERS Y REPETIDORES WIFIPLACAS DE RED USBPLACAS DE RED INTERNASSWITCHES DE RED"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "ROUTERS Y REPETIDORES WIFI"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "ROUTERS Y REPETIDORES WIFI"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PLACAS DE RED USB"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PLACAS DE RED USB"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PLACAS DE RED INTERNAS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PLACAS DE RED INTERNAS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "SWITCHES DE RED"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "SWITCHES DE RED"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "TABLETAS DIGITALIZADORAS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "TABLETAS DIGITALIZADORAS"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "MEMORIA PORTATILMICRO SDPENDRIVE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "MEMORIA PORTATIL"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "MICRO SDPENDRIVE"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "MICRO SD"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "MICRO SD"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "PENDRIVE"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "PENDRIVE"
+  },
+  {
+    "tag": "li",
+    "class": "con-hijos ",
+    "text_preview": "ADAPTADORES / OTROSADAPTADORESCABLESINSUMOSSTREAMING"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre ",
+    "text_preview": "ADAPTADORES / OTROS"
+  },
+  {
+    "tag": "ul",
+    "class": "hijo",
+    "text_preview": "ADAPTADORESCABLESINSUMOSSTREAMING"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "ADAPTADORES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "ADAPTADORES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "CABLES"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "CABLES"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "INSUMOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "INSUMOS"
+  },
+  {
+    "tag": "li",
+    "class": "hijo",
+    "text_preview": "STREAMING"
+  },
+  {
+    "tag": "a",
+    "class": "rubro ",
+    "text_preview": "STREAMING"
+  },
+  {
+    "tag": "li",
+    "class": "sin-hijos ",
+    "text_preview": "SERVICIOS"
+  },
+  {
+    "tag": "a",
+    "class": "rubro padre",
+    "text_preview": "SERVICIOS"
+  },
+  {
+    "tag": "h1",
+    "class": "section-title tituloEnTienda",
+    "text_preview": "PRODUCTOS DESTACADOS"
+  },
+  {
+    "tag": "h1",
+    "class": "section-title tituloEnTienda dos",
+    "text_preview": "PRODUCTOS DESTACADOS"
+  },
+  {
+    "tag": "button",
+    "class": "slick-prev slick-arrow",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Monitor Gamer Gigabyte GS27FA 27 IPS Edge 180Hz 1Ms HDMI/DP"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 269999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Combo Actualización PC Intel Core I9 14900K + B760 + 32GB DDR5 + Fan Gamdias E2"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 1139999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Notebook Gigabyte Aorus 15 XE4 QHD Intel I7 12700H | 16GB DDR4 | RTX 3070 TI 8Gb | 1Tb NVME | 15.6 2"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 2109999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete Gamdias Aura GC9M Black Templado 3x12cm ARGB MICRO ATX"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 44999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete Gamdias Aura GC1 Elite Black Mesh Templado 4x12cm ARGB"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 56999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete Gamdias Aura GC1 Elite White Mesh Templado 4x12cm ARGB"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 56999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Parlante Portátil JBL Go 4 Bluetooth Azul Inalámbrico Waterproof"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 68599.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Parlante Portátil JBL Go 4 Bluetooth Rojo Inalámbrico Waterproof"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 68599.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Parlante Portátil JBL Go 4 Bluetooth Negro Inalámbrico Waterproof"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 68599.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete Gamdias Athena M6 Lite Black Underglow Templado 4x12cm ARGB"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 74999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Monitor LG LED 24 24MS500 IPS 100Hz Borderless FreeSync HDMI"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 181999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Monitor Gamer Gigabyte GS27FA 27 IPS Edge 180Hz 1Ms HDMI/DP"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 269999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Combo Actualización PC Intel Core I9 14900K + B760 + 32GB DDR5 + Fan Gamdias E2"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 1139999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Notebook Gigabyte Aorus 15 XE4 QHD Intel I7 12700H | 16GB DDR4 | RTX 3070 TI 8Gb | 1Tb NVME | 15.6 2"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 2109999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete Gamdias Aura GC9M Black Templado 3x12cm ARGB MICRO ATX"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 44999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete Gamdias Aura GC1 Elite Black Mesh Templado 4x12cm ARGB"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 56999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete Gamdias Aura GC1 Elite White Mesh Templado 4x12cm ARGB"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 56999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Parlante Portátil JBL Go 4 Bluetooth Azul Inalámbrico Waterproof"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 68599.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Parlante Portátil JBL Go 4 Bluetooth Rojo Inalámbrico Waterproof"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 68599.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Parlante Portátil JBL Go 4 Bluetooth Negro Inalámbrico Waterproof"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 68599.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete Gamdias Athena M6 Lite Black Underglow Templado 4x12cm ARGB"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 74999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Monitor LG LED 24 24MS500 IPS 100Hz Borderless FreeSync HDMI"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 181999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Monitor Gamer Gigabyte GS27FA 27 IPS Edge 180Hz 1Ms HDMI/DP"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 269999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Combo Actualización PC Intel Core I9 14900K + B760 + 32GB DDR5 + Fan Gamdias E2"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 1139999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Notebook Gigabyte Aorus 15 XE4 QHD Intel I7 12700H | 16GB DDR4 | RTX 3070 TI 8Gb | 1Tb NVME | 15.6 2"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 2109999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "button",
+    "class": "slick-next slick-arrow",
+    "text_preview": ""
+  },
+  {
+    "tag": "h1",
+    "class": "section-title tituloEnTienda dos",
+    "text_preview": "ÚLTIMOS INGRESOS"
+  },
+  {
+    "tag": "button",
+    "class": "slick-prev slick-arrow",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Router WiFi Mercusys by TP-Link MR70X AX1800 Dual Band Gigabit 4 Ant"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 64199.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Cámara Seguridad IP Wi-Fi TP-Link TAPO C425 Batería Rotación 2K Diurna/Nocturna SD"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 114999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Mother Gigabyte B760 GAMING X AX DDR5 (12/13/14va Gen) LGA1700"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 285999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete ATX C/Fuente 600W Naxido Game Pro 600 70003B USB3"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 39999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 240L CORE II ARGB LGA1200/LGA1700/LGA1851/AM4/AM5"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 149999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-active",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 360L CORE II White ARGB LGA1200/LGA1700/LGA1851/AM4/AM5Precio W"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xs-12 productos c-s 119341",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 360L CORE II White ARGB LGA1200/LGA1700/LGA1851/AM4/AM5Precio W"
+  },
+  {
+    "tag": "div",
+    "class": "w-box product ",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 360L CORE II White ARGB LGA1200/LGA1700/LGA1851/AM4/AM5Precio W"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 360L CORE II White ARGB LGA1200/LGA1700/LGA1851/AM4/AM5"
+  },
+  {
+    "tag": "div",
+    "class": "w-footer",
+    "text_preview": "Precio Web$ 181999.00Sin Stock"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 181999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico no_hay_stock",
+    "text_preview": "Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Grasa Disipadora Pasta Térmica Cooler Master CryoFuze 7"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 25999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Palit NVIDIA GeForce RTX 5060 DUAL 8GB GDDR7"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 499999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 9060 XT GAMING OC 8Gb GDDR6"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 609999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Sistema WiFi Mesh TP-Link Deco BE25 Pack X2 BE5000 WiFi 7 Dual Band 2.5 Gigabit"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 249999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Palit NVIDIA GeForce RTX 5060 TI INFINITY 3 16GB GDDR7"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 829999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Palit NVIDIA GeForce RTX 5060 TI DUAL 8GB GDDR7"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 619999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7800 XT GAMING OC 16Gb GDDR6Precio Web$ 949999.00Sin Stock"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xs-12 productos c-s 104539",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7800 XT GAMING OC 16Gb GDDR6Precio Web$ 949999.00Sin Stock"
+  },
+  {
+    "tag": "div",
+    "class": "w-box product ",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7800 XT GAMING OC 16Gb GDDR6Precio Web$ 949999.00Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7800 XT GAMING OC 16Gb GDDR6"
+  },
+  {
+    "tag": "div",
+    "class": "w-footer",
+    "text_preview": "Precio Web$ 949999.00Sin Stock"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 949999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico no_hay_stock",
+    "text_preview": "Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7700 XT GAMING OC 12Gb GDDR6"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 739999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Grasa Disipadora Pasta Térmica Cooler Master CryoFuze 5"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 18399.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Grasa Disipadora Pasta Térmica Cooler Master Ice Fusion V2"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 13999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "PC Gamer Armada | AMD Ryzen 7 8700G + 32GB DDR5 (2x16GB) + Radeon VEGA"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 779999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide",
+    "text_preview": "Switch LAN TP-Link DS1024GE 24P Gigabit Smart OmadaPrecio Web$ 127999.00Sin Stock"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xs-12 productos c-s 98391",
+    "text_preview": "Switch LAN TP-Link DS1024GE 24P Gigabit Smart OmadaPrecio Web$ 127999.00Sin Stock"
+  },
+  {
+    "tag": "div",
+    "class": "w-box product ",
+    "text_preview": "Switch LAN TP-Link DS1024GE 24P Gigabit Smart OmadaPrecio Web$ 127999.00Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Switch LAN TP-Link DS1024GE 24P Gigabit Smart Omada"
+  },
+  {
+    "tag": "div",
+    "class": "w-footer",
+    "text_preview": "Precio Web$ 127999.00Sin Stock"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 127999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico no_hay_stock",
+    "text_preview": "Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Router WiFi TP-Link Archer AX53 AX3000 Gigabit Wi-Fi 6"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 77999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Sistema WiFi Mesh TP-Link Deco X50 Outdoor Pack X1 AX3000 Dual Band Gigabit"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 119999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Router WiFi Mercusys by TP-Link MR70X AX1800 Dual Band Gigabit 4 Ant"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 64199.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Cámara Seguridad IP Wi-Fi TP-Link TAPO C425 Batería Rotación 2K Diurna/Nocturna SD"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 114999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Mother Gigabyte B760 GAMING X AX DDR5 (12/13/14va Gen) LGA1700"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 285999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Gabinete ATX C/Fuente 600W Naxido Game Pro 600 70003B USB3"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 39999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 240L CORE II ARGB LGA1200/LGA1700/LGA1851/AM4/AM5"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 149999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-cloned",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 360L CORE II White ARGB LGA1200/LGA1700/LGA1851/AM4/AM5Precio W"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xs-12 productos c-s 119341",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 360L CORE II White ARGB LGA1200/LGA1700/LGA1851/AM4/AM5Precio W"
+  },
+  {
+    "tag": "div",
+    "class": "w-box product ",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 360L CORE II White ARGB LGA1200/LGA1700/LGA1851/AM4/AM5Precio W"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Cooler CPU Watercooler Cooler Master 360L CORE II White ARGB LGA1200/LGA1700/LGA1851/AM4/AM5"
+  },
+  {
+    "tag": "div",
+    "class": "w-footer",
+    "text_preview": "Precio Web$ 181999.00Sin Stock"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 181999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico no_hay_stock",
+    "text_preview": "Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Grasa Disipadora Pasta Térmica Cooler Master CryoFuze 7"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 25999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Palit NVIDIA GeForce RTX 5060 DUAL 8GB GDDR7"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 499999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 9060 XT GAMING OC 8Gb GDDR6"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 609999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Sistema WiFi Mesh TP-Link Deco BE25 Pack X2 BE5000 WiFi 7 Dual Band 2.5 Gigabit"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 249999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Palit NVIDIA GeForce RTX 5060 TI INFINITY 3 16GB GDDR7"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 829999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Palit NVIDIA GeForce RTX 5060 TI DUAL 8GB GDDR7"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 619999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-cloned",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7800 XT GAMING OC 16Gb GDDR6Precio Web$ 949999.00Sin Stock"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xs-12 productos c-s 104539",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7800 XT GAMING OC 16Gb GDDR6Precio Web$ 949999.00Sin Stock"
+  },
+  {
+    "tag": "div",
+    "class": "w-box product ",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7800 XT GAMING OC 16Gb GDDR6Precio Web$ 949999.00Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7800 XT GAMING OC 16Gb GDDR6"
+  },
+  {
+    "tag": "div",
+    "class": "w-footer",
+    "text_preview": "Precio Web$ 949999.00Sin Stock"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 949999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico no_hay_stock",
+    "text_preview": "Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Placa de Video Gigabyte Radeon RX 7700 XT GAMING OC 12Gb GDDR6"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 739999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Grasa Disipadora Pasta Térmica Cooler Master CryoFuze 5"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 18399.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Grasa Disipadora Pasta Térmica Cooler Master Ice Fusion V2"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 13999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "PC Gamer Armada | AMD Ryzen 7 8700G + 32GB DDR5 (2x16GB) + Radeon VEGA"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 779999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "div",
+    "class": "slick-slide slick-cloned",
+    "text_preview": "Switch LAN TP-Link DS1024GE 24P Gigabit Smart OmadaPrecio Web$ 127999.00Sin Stock"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xs-12 productos c-s 98391",
+    "text_preview": "Switch LAN TP-Link DS1024GE 24P Gigabit Smart OmadaPrecio Web$ 127999.00Sin Stock"
+  },
+  {
+    "tag": "div",
+    "class": "w-box product ",
+    "text_preview": "Switch LAN TP-Link DS1024GE 24P Gigabit Smart OmadaPrecio Web$ 127999.00Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Switch LAN TP-Link DS1024GE 24P Gigabit Smart Omada"
+  },
+  {
+    "tag": "div",
+    "class": "w-footer",
+    "text_preview": "Precio Web$ 127999.00Sin Stock"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 127999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico no_hay_stock",
+    "text_preview": "Sin Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Router WiFi TP-Link Archer AX53 AX3000 Gigabit Wi-Fi 6"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 77999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Sistema WiFi Mesh TP-Link Deco X50 Outdoor Pack X1 AX3000 Dual Band Gigabit"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 119999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Router WiFi Mercusys by TP-Link MR70X AX1800 Dual Band Gigabit 4 Ant"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 64199.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Cámara Seguridad IP Wi-Fi TP-Link TAPO C425 Batería Rotación 2K Diurna/Nocturna SD"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 114999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "figure",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-center img-tienda",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "click",
+    "text_preview": "Mother Gigabyte B760 GAMING X AX DDR5 (12/13/14va Gen) LGA1700"
+  },
+  {
+    "tag": "h3",
+    "class": "price pull-left precio_web",
+    "text_preview": "Precio Web$ 285999.00"
+  },
+  {
+    "tag": "h4",
+    "class": "pull-left precio_lista",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "pull-right stock_generico hay_stock",
+    "text_preview": "Hay Stock"
+  },
+  {
+    "tag": "button",
+    "class": "slick-next slick-arrow",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row text-center",
+    "text_preview": "Recibí las mejores ofertas en tu e-mail"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12",
+    "text_preview": "Recibí las mejores ofertas en tu e-mail"
+  },
+  {
+    "tag": "span",
+    "class": "blanco",
+    "text_preview": "Recibí las mejores ofertas en tu e-mail"
+  },
+  {
+    "tag": "a",
+    "class": "afipInfo",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-4 text-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "fb-customerchat",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-1",
+    "text_preview": "INGRESAR"
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-blue px-5 mt-1 mb-3",
+    "text_preview": "INGRESAR"
+  },
+  {
+    "tag": "div",
+    "class": "col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-16 pl-0 pr-sm-0 pull-left login-google w-100 mb-3",
+    "text_preview": "Acceder con GoogleAcceder con Google. Se abre en una pestaña nueva"
+  },
+  {
+    "tag": "div",
+    "class": "g_id_signin col-12 ta-c",
+    "text_preview": "Acceder con GoogleAcceder con Google. Se abre en una pestaña nueva"
+  },
+  {
+    "tag": "div",
+    "class": "S9gUrf-YoZ4jf",
+    "text_preview": "Acceder con GoogleAcceder con Google. Se abre en una pestaña nueva"
+  },
+  {
+    "tag": "div",
+    "class": "nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK",
+    "text_preview": "Acceder con GoogleAcceder con Google. Se abre en una pestaña nueva"
+  },
+  {
+    "tag": "div",
+    "class": "nsm7Bb-HzV7m-LgbsSe-MJoBVe",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb ",
+    "text_preview": "Acceder con GoogleAcceder con Google. Se abre en una pestaña nueva"
+  },
+  {
+    "tag": "div",
+    "class": "nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "nsm7Bb-HzV7m-LgbsSe-Bz112c",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "nsm7Bb-HzV7m-LgbsSe-BPrWId",
+    "text_preview": "Acceder con Google"
+  },
+  {
+    "tag": "span",
+    "class": "L6cTce",
+    "text_preview": "Acceder con Google. Se abre en una pestaña nueva"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-1",
+    "text_preview": "REGISTRARME"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 ml-0 pl-0 mr-0 pr-0 telefono",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-blue px-5 mt-3 mb-3 submit_registro",
+    "text_preview": "REGISTRARME"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6 pull-left mt-2 pt-2 mb-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "result",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": "OK"
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": "OK"
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": "OK"
+  },
+  {
+    "tag": "div",
+    "class": "card-content",
+    "text_preview": "OK"
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": "OK"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 col-xs-12 ta-c",
+    "text_preview": "OK"
+  },
+  {
+    "tag": "h4",
+    "class": "control-label mb-0 pb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-info pull-left mt-2 btn-ok ml-4",
+    "text_preview": "OK"
+  },
+  {
+    "tag": "div",
+    "class": "acaPonerBoton pull-right mr-4",
+    "text_preview": ""
+  }
+]

@@ -1,0 +1,2882 @@
+[
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_center",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image ush_image_5",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-image-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-full size-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image ush_image_6",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-image-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-full size-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image ush_image_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-image-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-full size-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image ush_image_1",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-image-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-full size-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image ush_image_7",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-image-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-full size-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image ush_image_4",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-image-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-full size-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper ush_hwrapper_1 align_left valign_middle",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "w-popup-trigger type_btn w-btn us-btn-style_35 icon_atleft",
+    "text_preview": "EVITE ESTAFAS"
+  },
+  {
+    "tag": "span",
+    "class": "w-btn-label",
+    "text_preview": "EVITE ESTAFAS"
+  },
+  {
+    "tag": "div",
+    "class": "w-popup-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image ush_image_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-image-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-full size-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-cart-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-cart-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-cart-quantity",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "product-name",
+    "text_preview": "Producto"
+  },
+  {
+    "tag": "div",
+    "class": "widget woocommerce widget_shopping_cart",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "widget_shopping_cart_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader at_bottom",
+    "text_preview": "Búsqueda de productos\n\n\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\n\t\n\nhtml.us-color-scheme-on {--color-head"
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-h",
+    "text_preview": "Búsqueda de productos\n\n\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\n\t\n\nhtml.us-color-scheme-on {--color-head"
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_left",
+    "text_preview": "Búsqueda de productos"
+  },
+  {
+    "tag": "div",
+    "class": "w-form-row for_text",
+    "text_preview": "Búsqueda de productos"
+  },
+  {
+    "tag": "div",
+    "class": "w-form-row-field",
+    "text_preview": "Búsqueda de productos"
+  },
+  {
+    "tag": "div",
+    "class": "dgwt-wcas-sf-wrapp",
+    "text_preview": "Búsqueda de productos"
+  },
+  {
+    "tag": "div",
+    "class": "dgwt-wcas-preloader",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_center",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "arma-tu-pc",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_right",
+    "text_preview": "html.us-color-scheme-on {--color-header-top-bg: #000B30;--color-header-top-bg-grad: linear-gradient("
+  },
+  {
+    "tag": "div",
+    "class": "w-color-switch ush_color_scheme_switch_1 has_text_color",
+    "text_preview": "html.us-color-scheme-on {--color-header-top-bg: #000B30;--color-header-top-bg-grad: linear-gradient("
+  },
+  {
+    "tag": "span",
+    "class": "w-color-switch-box",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-color-switch-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html ush_html_7",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "nsl-button nsl-button-default nsl-button-google",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "a",
+    "class": "w-favs-counter-link",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "w-favs-counter-icon",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "w-favs-counter-quantity",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "w-html ush_html_6",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "nsl-button nsl-button-icon nsl-button-google",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-popup-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "alignnone wp-image-841486 aligncenter",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-section-h i-cf",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "g-cols vc_row via_flex valign_top type_default stacking_default",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "vc_column-inner",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_raw_code wpb_raw_html wpb_content_element us_custom_909b2fd0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "g-breadcrumbs-separator",
+    "text_preview": "/"
+  },
+  {
+    "tag": "div",
+    "class": "g-breadcrumbs-item",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ui-slider-handle ui-corner-all ui-state-default",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ui-slider-handle ui-corner-all ui-state-default",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "ui-slider-range ui-corner-all ui-widget-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "for_min_value",
+    "text_preview": "$0"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$0"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "div",
+    "class": "for_max_value",
+    "text_preview": "$1.343.567"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$1.343.567"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "button",
+    "class": "w-btn us-btn-style_1",
+    "text_preview": "Aplicar"
+  },
+  {
+    "tag": "span",
+    "class": "w-btn-label",
+    "text_preview": "Aplicar"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "vc_column-inner",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "h1",
+    "class": "w-post-elm post_title entry-title color_link_inherit",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GAMER LOGITECH G502 HERO RGB$64.620,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GAMER LOGITECH G502 HERO RGB"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$64.620,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$64.620,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$64.620,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GAMER LOGITECH G203 GAMING WHITE RGB$29.220,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GAMER LOGITECH G203 GAMING WHITE RGB"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$29.220,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$29.220,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$29.220,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GAMER LOGITECH G203 GAMING BLUE RGB$28.860,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GAMER LOGITECH G203 GAMING BLUE RGB"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$28.860,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$28.860,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$28.860,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GAMER LOGITECH G PRO X SUPERLIGHT BLACK$150.970,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GAMER LOGITECH G PRO X SUPERLIGHT BLACK"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$150.970,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$150.970,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$150.970,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE LOGITECH G305 WIRELESS LILA$48.090,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE LOGITECH G305 WIRELESS LILA"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$48.090,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$48.090,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$48.090,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE LOGITECH G305 WIRELESS BLACK$47.190,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE LOGITECH G305 WIRELESS BLACK"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$47.190,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$47.190,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$47.190,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE LOGITECH G305 WIRELESS WHITE$47.190,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE LOGITECH G305 WIRELESS WHITE"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$47.190,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$47.190,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$47.190,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE BUNGEE RAZER V3$31.610,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE BUNGEE RAZER V3"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$31.610,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$31.610,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$31.610,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GAMER LOGITECH G203 GAMING BLACK RGB$31.950,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GAMER LOGITECH G203 GAMING BLACK RGB"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$31.950,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$31.950,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$31.950,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE RAZER DEATHADDER ESSENTIAL ERGONOMIC BLACK$30.470,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE RAZER DEATHADDER ESSENTIAL ERGONOMIC BLACK"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$30.470,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$30.470,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$30.470,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GAMER LOGITECH G PRO X SUPERLIGHT RED$137.160,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GAMER LOGITECH G PRO X SUPERLIGHT RED"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$137.160,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$137.160,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$137.160,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE LOGITECH M350S PEBBLE ROSA$28.830,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE LOGITECH M350S PEBBLE ROSA"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$28.830,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$28.830,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$28.830,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GAMER LOGITECH G PRO X 2 SUPERLIGHT WHITE$157.380,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GAMER LOGITECH G PRO X 2 SUPERLIGHT WHITE"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$157.380,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$157.380,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$157.380,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE RAZER DEATHADDER V3 PRO HYPERPOLLING WIRELESS$200.660,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE RAZER DEATHADDER V3 PRO HYPERPOLLING WIRELESS"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$200.660,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$200.660,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$200.660,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GAMER HYPERX PULSEFIRE HASTE 2 CORE WIRELESS NEGRO$77.580,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GAMER HYPERX PULSEFIRE HASTE 2 CORE WIRELESS NEGRO"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$77.580,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$77.580,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$77.580,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE LOGITECH M110 SILENT BLACK$7.980,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE LOGITECH M110 SILENT BLACK"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$7.980,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$7.980,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$7.980,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GENIUS DX-110 USB BLUE$4.300,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GENIUS DX-110 USB BLUE"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$4.300,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$4.300,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$4.300,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GENIUS DX-110 USB RED$5.234,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GENIUS DX-110 USB RED"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$5.234,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$5.234,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$5.234,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE LOGITECH WIR M650 GRAPHITE$39.870,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE LOGITECH WIR M650 GRAPHITE"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$39.870,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$39.870,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$39.870,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE LOGITECH WIR M170 BLACK BLISTER$11.310,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE LOGITECH WIR M170 BLACK BLISTER"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$11.310,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$11.310,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$11.310,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE LOGITECH M110 SILENT BLUE$7.970,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE LOGITECH M110 SILENT BLUE"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$7.970,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$7.970,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$7.970,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE LOGITECH M110 SILENT RED$7.970,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE LOGITECH M110 SILENT RED"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$7.970,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$7.970,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$7.970,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE GENIUS MICRO TRAVELER SILVER USB$8.837,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE GENIUS MICRO TRAVELER SILVER USB"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$8.837,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$8.837,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$8.837,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-us_300_300_crop size-us_300_300_crop wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_11",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2 has_text_color",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_2 align_left valign_bottom has-link",
+    "text_preview": "MOUSE CARBON RETRACTIL USB KMO-113$10.894,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_2 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "MOUSE CARBON RETRACTIL USB KMO-113"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper usg_hwrapper_2 align_none valign_middle",
+    "text_preview": "$10.894,00"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_4 has_text_color",
+    "text_preview": "$10.894,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$10.894,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "a",
+    "class": "w-vwrapper-link smooth-scroll",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-grid-preloader",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "g-preloader type_1",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "page-numbers current",
+    "text_preview": "1"
+  },
+  {
+    "tag": "a",
+    "class": "page-numbers",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "page-numbers",
+    "text_preview": "3"
+  },
+  {
+    "tag": "a",
+    "class": "page-numbers",
+    "text_preview": "4"
+  },
+  {
+    "tag": "span",
+    "class": "page-numbers dots",
+    "text_preview": "…"
+  },
+  {
+    "tag": "a",
+    "class": "page-numbers",
+    "text_preview": "14"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-section-img",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_custom",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column us_custom_beeeec04 has_text_color",
+    "text_preview": "Mantenete al tanto"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": "Mantenete al tanto"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_custom",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-form-row-field",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-form-row-state",
+    "text_preview": "Por favor, introduce una dirección de correo electrónico válida."
+  },
+  {
+    "tag": "div",
+    "class": "w-form-row-field",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-form-row for_submit align_justify",
+    "text_preview": "Notificarme"
+  },
+  {
+    "tag": "button",
+    "class": "w-btn  us-btn-style_19",
+    "text_preview": "Notificarme"
+  },
+  {
+    "tag": "span",
+    "class": "g-preloader type_1",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-btn-label",
+    "text_preview": "Notificarme"
+  },
+  {
+    "tag": "div",
+    "class": "w-form-message",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_custom",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-socials-item-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-socials-item-link-hover",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-socials-item tiktok",
+    "text_preview": "TikTok"
+  },
+  {
+    "tag": "a",
+    "class": "w-socials-item-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-socials-item-link-hover",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-socials-item-popup",
+    "text_preview": "TikTok"
+  },
+  {
+    "tag": "a",
+    "class": "w-socials-item-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-socials-item-link-hover",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_custom",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-884422",
+    "text_preview": "Informar Pago"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-862239",
+    "text_preview": "Libro de quejas on line"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-696747",
+    "text_preview": "Seguimiento de Pedidos"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-701721",
+    "text_preview": "Carlos Gardel 278, B1824 Lanús, Prov. Buenos Aires"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_custom",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "aligncenter",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column",
+    "text_preview": "HARDWARE"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": "HARDWARE"
+  },
+  {
+    "tag": "h4",
+    "class": "widget-title",
+    "text_preview": "HARDWARE"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "ProcesadoresRefrigeración CPUMotherboardsMemorias RAMPlacas de VideoAlmacenamientosGabinetesFuentes"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696751",
+    "text_preview": "Procesadores"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696752",
+    "text_preview": "Refrigeración CPU"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696754",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-811397",
+    "text_preview": "Memorias RAM"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696756",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696757",
+    "text_preview": "Almacenamientos"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696758",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696761",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column",
+    "text_preview": "COMPUTADORAS"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": "COMPUTADORAS"
+  },
+  {
+    "tag": "h4",
+    "class": "widget-title",
+    "text_preview": "COMPUTADORAS"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "PC ArmadasPC GamerPC WorkstationPC StreamerNotebooksNotebooks GamerNotebooks OficinaApple"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-839273",
+    "text_preview": "PC Armadas"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-870954",
+    "text_preview": "PC Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-839272",
+    "text_preview": "PC Workstation"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-870956",
+    "text_preview": "PC Streamer"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697923",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697924",
+    "text_preview": "Notebooks Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697925",
+    "text_preview": "Notebooks Oficina"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-808389",
+    "text_preview": "Apple"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column",
+    "text_preview": "GAMEROOM"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": "GAMEROOM"
+  },
+  {
+    "tag": "h4",
+    "class": "widget-title",
+    "text_preview": "GAMEROOM"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697943",
+    "text_preview": "Capturadoras"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697944",
+    "text_preview": "Escritorios"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697945",
+    "text_preview": "Sillas Gamers"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697947",
+    "text_preview": "Televisores"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "h4",
+    "class": "widget-title",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "Monitores DiseñoMonitores GamerMonitores Oficina"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697935",
+    "text_preview": "Monitores Diseño"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697936",
+    "text_preview": "Monitores Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697937",
+    "text_preview": "Monitores Oficina"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column",
+    "text_preview": "PERIFÉRICOS"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": "PERIFÉRICOS"
+  },
+  {
+    "tag": "h4",
+    "class": "widget-title",
+    "text_preview": "PERIFÉRICOS"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "MouseTecladosParlantesCámarasCablesMouse PadAlmacenamiento ExternoAuriculares y Micrófonos"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-697957",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697960",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697967",
+    "text_preview": "Parlantes"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697969",
+    "text_preview": "Cámaras"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697971",
+    "text_preview": "Cables"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697972",
+    "text_preview": "Mouse Pad"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697970",
+    "text_preview": "Almacenamiento Externo"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697966",
+    "text_preview": "Auriculares y Micrófonos"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-control",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-884422",
+    "text_preview": "Informar Pago"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-862239",
+    "text_preview": "Libro de quejas on line"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-696747",
+    "text_preview": "Seguimiento de Pedidos"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-701721",
+    "text_preview": "Carlos Gardel 278, B1824 Lanús, Prov. Buenos Aires"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_custom",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "w-tabs-section-header",
+    "text_preview": "HARDWARE"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-title",
+    "text_preview": "HARDWARE"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-control",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "ProcesadoresRefrigeración CPUMotherboardsMemorias RAMPlacas de VideoAlmacenamientosGabinetesFuentes"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696751",
+    "text_preview": "Procesadores"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696752",
+    "text_preview": "Refrigeración CPU"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696754",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-811397",
+    "text_preview": "Memorias RAM"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696756",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696757",
+    "text_preview": "Almacenamientos"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696758",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-696761",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "button",
+    "class": "w-tabs-section-header",
+    "text_preview": "EQUIPOS"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-title",
+    "text_preview": "EQUIPOS"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-control",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "PC ArmadasPC GamerPC WorkstationPC StreamerNotebooksNotebooks GamerNotebooks OficinaApple"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-839273",
+    "text_preview": "PC Armadas"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-870954",
+    "text_preview": "PC Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-839272",
+    "text_preview": "PC Workstation"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-870956",
+    "text_preview": "PC Streamer"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697923",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697924",
+    "text_preview": "Notebooks Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697925",
+    "text_preview": "Notebooks Oficina"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-808389",
+    "text_preview": "Apple"
+  },
+  {
+    "tag": "button",
+    "class": "w-tabs-section-header",
+    "text_preview": "GAMEROOM"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-title",
+    "text_preview": "GAMEROOM"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-control",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697943",
+    "text_preview": "Capturadoras"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697944",
+    "text_preview": "Escritorios"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697945",
+    "text_preview": "Sillas Gamers"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697947",
+    "text_preview": "Televisores"
+  },
+  {
+    "tag": "button",
+    "class": "w-tabs-section-header",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-title",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-control",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "Monitores DiseñoMonitores GamerMonitores Oficina"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697935",
+    "text_preview": "Monitores Diseño"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697936",
+    "text_preview": "Monitores Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697937",
+    "text_preview": "Monitores Oficina"
+  },
+  {
+    "tag": "button",
+    "class": "w-tabs-section-header",
+    "text_preview": "PERIFÉRICOS"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-title",
+    "text_preview": "PERIFÉRICOS"
+  },
+  {
+    "tag": "div",
+    "class": "w-tabs-section-control",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "MouseTecladosParlantesCámarasCablesMouse PadAlmacenamiento ExternoAuriculares y Micrófonos"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-697957",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697960",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697967",
+    "text_preview": "Parlantes"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697969",
+    "text_preview": "Cámaras"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697971",
+    "text_preview": "Cables"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697972",
+    "text_preview": "Mouse Pad"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697970",
+    "text_preview": "Almacenamiento Externo"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-697966",
+    "text_preview": "Auriculares y Micrófonos"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_large",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "aligncenter",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_large",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "aligncenter",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_large",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_medium",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "aligncenter",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_medium",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_custom",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-btn-wrapper align_center",
+    "text_preview": "1133830278"
+  },
+  {
+    "tag": "a",
+    "class": "w-btn us-btn-style_15 icon_atleft",
+    "text_preview": "1133830278"
+  },
+  {
+    "tag": "span",
+    "class": "w-btn-label",
+    "text_preview": "1133830278"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_custom",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_custom",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-btn-wrapper align_center",
+    "text_preview": "Dar opinión"
+  },
+  {
+    "tag": "a",
+    "class": "w-btn us-btn-style_15 icon_atleft",
+    "text_preview": "Dar opinión"
+  },
+  {
+    "tag": "span",
+    "class": "w-btn-label",
+    "text_preview": "Dar opinión"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-section-h i-cf",
+    "text_preview": "Desarrollo web por"
+  },
+  {
+    "tag": "div",
+    "class": "g-cols vc_row via_flex valign_top type_default stacking_default",
+    "text_preview": "Desarrollo web por"
+  },
+  {
+    "tag": "div",
+    "class": "vc_column-inner",
+    "text_preview": "Desarrollo web por"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": "Desarrollo web por"
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper valign_middle align_center",
+    "text_preview": "Desarrollo web por"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column us_custom_dd4f16e2 has_text_color",
+    "text_preview": "Desarrollo web por"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": "Desarrollo web por"
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column us_custom_6aaee7a0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "ac-copy alignnone",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column us_custom_6aaee7a0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "alignnone size-medium",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column us_custom_6aaee7a0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "ac-copy alignnone",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-header-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "joinchat joinchat--right joinchat--btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "joinchat__button",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "xlwcty_header_passed",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dgwt-wcas-suggestions-wrapp woocommerce dgwt-wcas-has-img dgwt-wcas-has-price dgwt-wcas-has-sku dgwt-wcas-has-headings js-dgwt-wcas-initialized",
+    "text_preview": ""
+  }
+]

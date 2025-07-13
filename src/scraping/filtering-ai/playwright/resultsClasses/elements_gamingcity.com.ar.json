@@ -1,0 +1,3862 @@
+[
+  {
+    "tag": "a",
+    "class": "contact-button",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cart-button",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "subcategorires header--custom-background",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "andes-breadcrumb__item shops__breadcrumb-item",
+    "text_preview": "Computación"
+  },
+  {
+    "tag": "a",
+    "class": "andes-breadcrumb__link",
+    "text_preview": "Computación"
+  },
+  {
+    "tag": "span",
+    "class": "andes-switch__label",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "andes-switch__label",
+    "text_preview": "Envío gratis"
+  },
+  {
+    "tag": "span",
+    "class": "andes-switch__label",
+    "text_preview": "Mejor precio en cuotasAl mismo precio o con bajo interés"
+  },
+  {
+    "tag": "div",
+    "class": "andes-form-control andes-form-control--textfield",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-form-control__control",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-form-control andes-form-control--textfield",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-form-control__control",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-floating-menu",
+    "text_preview": "Más relevantes"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Lenovo Ideapad1 Intel Core I5-1235u Ram 8gb Ssd 512 Touch 15 Color Azul"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$1.132.600$1.075.9705% OFFMismo precio en 12 cuotas de $89.664Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$1.132.600$1.075.9705% OFFMismo precio en 12 cuotas de $89.664"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$1.132.600"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "1.132.600"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$1.075.9705% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$1.075.970"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "1.075.970"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $89.664"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$89.664"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "89.664"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Teclado Redragon Eisa K686 Rgb Pro Wireless Blanco Inglés Idioma Inglés Us"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$78.9996 cuotas de $18.078Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$78.9996 cuotas de $18.078"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$78.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$78.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "78.999"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $18.078"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$18.078"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "18.078"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Mouse Inalámbrico M280 Logitech Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$17.499Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$17.499"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$17.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$17.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "17.499"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Pc Armada Gamer Amd Ryzen 7 5700g 16gb Ssd 1tb"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$678.159Mismo precio en 12 cuotas de $56.513Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$678.159Mismo precio en 12 cuotas de $56.513"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$678.159"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$678.159"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "678.159"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $56.513"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$56.513"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "56.513"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Samsung Galaxy Tab A9 64gb 4gb Ram Color Silver"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$188.9996 cuotas de $43.252Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$188.9996 cuotas de $43.252"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$188.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$188.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "188.999"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $43.252"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$43.252"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "43.252"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Monitor Gamer 24 Samsung Curvo Full Hd 100hz Ls24d366galx"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$209.9996 cuotas de $48.058Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$209.9996 cuotas de $48.058"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$209.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$209.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "209.999"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $48.058"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$48.058"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "48.058"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Gabinete Sentey H10 Lateral/frente Transparente Argb Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$57.9996 cuotas de $13.273Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$57.9996 cuotas de $13.273"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$57.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$57.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "57.999"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $13.273"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$13.273"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "13.273"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Repetidor Extensor De Rango Wi-fi 5 Doble Banda Tp-link Re200 Ac750"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$34.999$31.49910% OFFLlega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$34.999$31.49910% OFF"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$34.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "34.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$31.49910% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$31.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "31.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "10% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "poly-component__brand",
+    "text_preview": "PUNAX"
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Resma Punax A4 75 Gr 500 Hojas"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$5.700Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$5.700"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$5.700"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$5.700"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "5.700"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Notebook Asus Vivobook Go 15 I3 8gb 256gb Ssd 15.6 Full Hd Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$839.999$797.9995% OFFMismo precio en 12 cuotas de $66.499Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$839.999$797.9995% OFFMismo precio en 12 cuotas de $66.499"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$839.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "839.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$797.9995% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$797.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "797.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $66.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$66.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "66.499"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Teclado Mecánico Redragon Fizz Pro K616 Rgb Negro Español ! Idioma Español Latinoamérica"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$54.9996 cuotas de $12.586Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$54.9996 cuotas de $12.586"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$54.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$54.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "54.999"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $12.586"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$12.586"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "12.586"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Mouse Logitech M170 Inalambrico Usb - Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$10.999Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$10.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$10.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$10.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "10.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Pc Gamer Amd Ryzen 7 5700g + 32gb + 1tb"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$846.999Mismo precio en 12 cuotas de $70.583Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$846.999Mismo precio en 12 cuotas de $70.583"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$846.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$846.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "846.999"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $70.583"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$70.583"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "70.583"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Apple iPad (9ª Generación) 10.2  Wi-fi 64gb - Color Plata"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$799.0006 cuotas de $182.851Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$799.0006 cuotas de $182.851"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$799.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$799.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "799.000"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $182.851"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$182.851"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "182.851"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Monitor LG Con Pantalla De 24  100hz Y Resolución Full Hd"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$201.110$191.0555% OFF6 cuotas de $43.723Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$201.110$191.0555% OFF6 cuotas de $43.723"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$201.110"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "201.110"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$191.0555% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$191.055"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "191.055"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $43.723"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$43.723"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "43.723"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Gabinete Gamer Sentey 6100-sf W Tg H10 White Color Blanco S/fans"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$39.900Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$39.900"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$39.900"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$39.900"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "39.900"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Extensor De Rango Tp-link Tl-wa850re V7 - Blanco"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$28.999$27.5495% OFFLlega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$28.999$27.5495% OFF"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$28.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "28.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$27.5495% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$27.549"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "27.549"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "poly-component__brand",
+    "text_preview": "PUNAX"
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Resma Papel Punax A4 Gramaje 75 Gr. 500 Hojas Caja X 10 Color Blanco Acabado Mate"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$60.0006 cuotas de $13.731Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$60.0006 cuotas de $13.731"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$60.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$60.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "60.000"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $13.731"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$13.731"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "13.731"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Asus Notebook E410ka 14 Pulgadas Intel Celeron N4500 4gb Ram 64gb Hdd Windows 11 Azul Marino"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$309.000$293.5505% OFF6 cuotas de $67.178Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$309.000$293.5505% OFF6 cuotas de $67.178"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$309.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "309.000"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$293.5505% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$293.550"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "293.550"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "5% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $67.178"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$67.178"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "67.178"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Teclado Inalámbrico Con Touchpad K400 Plus Logitech Color Del Teclado Negro Idioma Español"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$38.999Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$38.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$38.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$38.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "38.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Mouse Gamer De Juego Logitech Gg Series G203 Lightsync Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$25.999Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$25.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$25.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$25.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "25.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Pc Gamer Amd Ryzen 7 5700g + 32gb + 1tb Ssd + Wifi + Monitor"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$1.206.799Mismo precio en 12 cuotas de $100.566Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$1.206.799Mismo precio en 12 cuotas de $100.566"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$1.206.799"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$1.206.799"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "1.206.799"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $100.566"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$100.566"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "100.566"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Tablet 2gb 32gb Android 13 Con Chip 7 Pulgadas Funda Regalo Nogapad 7g Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$138.5996 cuotas de $31.718Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$138.5996 cuotas de $31.718"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$138.599"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$138.599"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "138.599"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $31.718"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$31.718"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "31.718"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Monitor Gamer LG 29wq600-w Con Pantalla De 29  100hz Y Resolución Wfhd"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$404.0876 cuotas de $92.475Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$404.0876 cuotas de $92.475"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$404.087"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$404.087"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "404.087"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $92.475"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$92.475"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "92.475"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Gabinete Gamer Sentey H10 Transparente Usb 3.0 Color Negro S/fans"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$37.999Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$37.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$37.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$37.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "37.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Router Gigabit De Doble Banda Tp-link Archer Ax12 Wi-fi 6 Ax1500 Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$51.9996 cuotas de $11.899Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$51.9996 cuotas de $11.899"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$51.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$51.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "51.999"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $11.899"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$11.899"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "11.899"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "poly-component__brand",
+    "text_preview": "AUTOR"
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Resma Autor A4 Multifunción De 500 Hojas De 75g Color Blanco Por Unidad"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$7.000Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$7.000"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$7.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$7.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "7.000"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Notebook Daewoo M14 128gb Ssd 4gb Windows 11 Gris Pant 14 Color Gris Acero"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$319.9996 cuotas de $73.231Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$319.9996 cuotas de $73.231"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$319.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$319.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "319.999"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $73.231"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$73.231"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "73.231"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Teclado Inalámbrico Logitech K270 Qwerty Español Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$24.499Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$24.499"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$24.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$24.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "24.499"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Mouse Gamer Inalámbrico Logitech G Serie Lightspeed G305 Black"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$44.999Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$44.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$44.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$44.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "44.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Pc Armada Gamer Amd Ryzen 5 5600g 16gb Ssd 480gb + Juego"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$736.399Mismo precio en 12 cuotas de $61.366Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$736.399Mismo precio en 12 cuotas de $61.366"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$736.399"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$736.399"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "736.399"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $61.366"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$61.366"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "61.366"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Samsung Galaxy Tab A9 64gb 4gb Ram Color Plata 8.7"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$264.599Mismo precio en 12 cuotas de $22.049Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$264.599Mismo precio en 12 cuotas de $22.049"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$264.599"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$264.599"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "264.599"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $22.049"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$22.049"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "22.049"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Monitor Gamer 24 Cooler Master Full Hd 100hz 1ms Ga241 2 Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$169.999$146.19914% OFF6 cuotas de $33.457Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$169.999$146.19914% OFF6 cuotas de $33.457"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$169.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "169.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$146.19914% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$146.199"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "146.199"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "14% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $33.457"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$33.457"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "33.457"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Gabinete Lnz Y10 Frente Lateral Templado Y10-sf-argb 4 Fan Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$47.999Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$47.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$47.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$47.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "47.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Router Tp-link Ac750 Archer C24 Dual Band 4 Antenas Color Blanco"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$29.900Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$29.900"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$29.900"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$29.900"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "29.900"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "poly-component__brand",
+    "text_preview": "AUTOR"
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Resma Ledesma Autor Multifunción - A4, 80 G/m2, 500 Hojas Color Blanco"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$7.250Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$7.250"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$7.250"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$7.250"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "7.250"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Notebook Daewoo G15cl Intel Celeron 8gb Ssd 256 Linux 15,6"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$545.999Mismo precio en 12 cuotas de $45.499Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$545.999Mismo precio en 12 cuotas de $45.499"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$545.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$545.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "545.999"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $45.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$45.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "45.499"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Teclado Logitech Bluetooth 2 K380s White Teclado Blanco Idioma Español"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$49.4996 cuotas de $11.327Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$49.4996 cuotas de $11.327"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$49.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$49.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "49.499"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $11.327"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$11.327"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "11.327"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Mouse Gamer De Juego Logitechg Series Hero G502 Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$70.4996 cuotas de $16.133Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$70.4996 cuotas de $16.133"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$70.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$70.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "70.499"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $16.133"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$16.133"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "16.133"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Pc Gamer Ryzen 5 5600g - 16gb De Ram - Disco Solido De 480gb - Gabinete Kit - Compufan"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$656.599Mismo precio en 12 cuotas de $54.716Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$656.599Mismo precio en 12 cuotas de $54.716"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$656.599"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$656.599"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "656.599"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $54.716"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$54.716"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "54.716"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Tablet Tab M10 Tb-x505l 10.1  Con Red Móvil 32gb Color Slate Black 2gb De Memoria Ram"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$307.7996 cuotas de $70.439Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$307.7996 cuotas de $70.439"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$307.799"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$307.799"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "307.799"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $70.439"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$70.439"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "70.439"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Monitor Gamer Viewsonic 180hz 24 Vx2428a Full Hd Ips Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$265.0006 cuotas de $60.645Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$265.0006 cuotas de $60.645"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$265.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$265.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "265.000"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $60.645"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$60.645"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "60.645"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Router Mercusys Mw302r V1 Blanco"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$19.199Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$19.199"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$19.199"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$19.199"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "19.199"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Resma Ledesma Nat - A4, 75 G/m2, 500 Hojas Color Beige"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$4.700Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$4.700"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$4.700"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$4.700"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "4.700"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Notebook Notebook Cx30982 15.6 Color Gris Oscuro 8gb De Ram - 256gb Ssd - Amd Ryzen 5"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$784.353Mismo precio en 12 cuotas de $65.362Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$784.353Mismo precio en 12 cuotas de $65.362"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$784.353"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$784.353"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "784.353"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $65.362"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$65.362"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "65.362"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Teclado Genius Qwerty Español Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$10.499Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$10.499"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$10.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$10.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "10.499"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Mouse Gamer De Juego Logitech Gg Series G203 Lightsync Blanco"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$29.999$27.4998% OFFLlega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$29.999$27.4998% OFF"
+  },
+  {
+    "tag": "s",
+    "class": "andes-money-amount andes-money-amount--previous andes-money-amount--cents-comma",
+    "text_preview": "$29.999"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "29.999"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$27.4998% OFF"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$27.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "27.499"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__discount",
+    "text_preview": "8% OFF"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Pc Armada Gamer Amd Ryzen 7 5700x Ram 32gb Ssd 1tb Placa De Video Nvidia Geforce Rtx 5070 - Gp9809"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$2.778.858Mismo precio en 12 cuotas de $231.571Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$2.778.858Mismo precio en 12 cuotas de $231.571"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$2.778.858"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$2.778.858"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "2.778.858"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "Mismo precio en 12 cuotas de $231.571"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$231.571"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "231.571"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Noga Nogapad 10.1 Ghd Negro 10.1   Incluye Con Red Móvil"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$159.0006 cuotas de $36.387Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$159.0006 cuotas de $36.387"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$159.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$159.000"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "159.000"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $36.387"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$36.387"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "36.387"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-card__portada",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "poly-component__picture lazy-loadable",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "poly-component__title",
+    "text_preview": "Monitor LG Con Pantalla De 27 Resolucion Full Hd Color Negro"
+  },
+  {
+    "tag": "div",
+    "class": "poly-content__column",
+    "text_preview": "$256.3886 cuotas de $58.674Llega gratis mañana"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__price",
+    "text_preview": "$256.3886 cuotas de $58.674"
+  },
+  {
+    "tag": "div",
+    "class": "poly-price__current",
+    "text_preview": "$256.388"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount andes-money-amount--cents-superscript",
+    "text_preview": "$256.388"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "256.388"
+  },
+  {
+    "tag": "span",
+    "class": "poly-price__installments",
+    "text_preview": "6 cuotas de $58.674"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount poly-phrase-price andes-money-amount--cents-comma",
+    "text_preview": "$58.674"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__currency-symbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "andes-money-amount__fraction",
+    "text_preview": "58.674"
+  },
+  {
+    "tag": "div",
+    "class": "poly-component__shipping",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "span",
+    "class": "poly-shipping--next_day",
+    "text_preview": "Llega gratis mañana"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button andes-pagination__button--current",
+    "text_preview": "1"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "1"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "2"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button",
+    "text_preview": "3"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "3"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button",
+    "text_preview": "4"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "4"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button",
+    "text_preview": "5"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "5"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button",
+    "text_preview": "6"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "6"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button",
+    "text_preview": "7"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "7"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button",
+    "text_preview": "8"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "8"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button",
+    "text_preview": "9"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "9"
+  },
+  {
+    "tag": "li",
+    "class": "andes-pagination__button",
+    "text_preview": "10"
+  },
+  {
+    "tag": "a",
+    "class": "andes-pagination__link",
+    "text_preview": "10"
+  },
+  {
+    "tag": "div",
+    "class": "shops__listing-disclaimer",
+    "text_preview": "El envío gratis está sujeto al peso, precio y la distancia del envío."
+  },
+  {
+    "tag": "div",
+    "class": "shops__listing-shops__listing-disclaimer-card andes-message andes-message--accent andes-message--loud",
+    "text_preview": "El envío gratis está sujeto al peso, precio y la distancia del envío."
+  },
+  {
+    "tag": "div",
+    "class": "andes-badge andes-badge--pill andes-badge--accent andes-message__badge andes-message__badge--accent andes-badge--pill-icon andes-badge--small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-badge__icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "andes-message__content andes-message__content--untitled",
+    "text_preview": "El envío gratis está sujeto al peso, precio y la distancia del envío."
+  },
+  {
+    "tag": "div",
+    "class": "andes-message__text andes-message__text--accent",
+    "text_preview": "El envío gratis está sujeto al peso, precio y la distancia del envío."
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "(11) 2150-9885"
+  },
+  {
+    "tag": "span",
+    "class": "header--custom-text",
+    "text_preview": "Rivadavia 17939"
+  },
+  {
+    "tag": "span",
+    "class": "header--custom-text",
+    "text_preview": "Morón"
+  },
+  {
+    "tag": "span",
+    "class": "header--custom-text",
+    "text_preview": "Buenos Aires"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Nosotros"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Sucursales"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Garantias"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Drivers"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-svg",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "GAMING CITY es una tienda creada con"
+  },
+  {
+    "tag": "a",
+    "class": "header--custom-text",
+    "text_preview": "Avisos legales"
+  },
+  {
+    "tag": "div",
+    "class": "wa__btn_popup",
+    "text_preview": "Chatea con nosotros"
+  },
+  {
+    "tag": "div",
+    "class": "wa__btn_popup_txt",
+    "text_preview": "Chatea con nosotros"
+  },
+  {
+    "tag": "div",
+    "class": "wa__btn_popup_icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wa__popup_intro",
+    "text_preview": "Seleccioná la sucursal"
+  },
+  {
+    "tag": "div",
+    "class": "wa__popup_content wa__popup_content_left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wa__popup_notice",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wa__popup_content_list",
+    "text_preview": ""
+  }
+]

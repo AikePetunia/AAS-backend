@@ -1,0 +1,952 @@
+[
+  {
+    "tag": "mouse-cursor",
+    "class": "mouse-cursor z-50 fixed select-none flex items-center justify-center pointer-events-none rounded-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "topbar topbar--center topbar--only page-width page-width--full section section--rounded relative grid py-0 h-full w-full items-center section--first-rounded section--last-rounded",
+    "text_preview": "ENVÍOS A TODO EL PAÍS  🇦🇷\n                  ENVÍOS A TODO EL PAÍS  🇦🇷"
+  },
+  {
+    "tag": "div",
+    "class": "announcement-bar h-full flex justify-center lg:justify-center relative",
+    "text_preview": "ENVÍOS A TODO EL PAÍS  🇦🇷\n                  ENVÍOS A TODO EL PAÍS  🇦🇷"
+  },
+  {
+    "tag": "announcement-bar",
+    "class": "announcement__slides",
+    "text_preview": "ENVÍOS A TODO EL PAÍS  🇦🇷\n                  ENVÍOS A TODO EL PAÍS  🇦🇷"
+  },
+  {
+    "tag": "div",
+    "class": "announcement__slide flex h-full",
+    "text_preview": "ENVÍOS A TODO EL PAÍS  🇦🇷\n                  ENVÍOS A TODO EL PAÍS  🇦🇷"
+  },
+  {
+    "tag": "div",
+    "class": "announcement__content flex items-center gap-2",
+    "text_preview": "ENVÍOS A TODO EL PAÍS  🇦🇷\n                  ENVÍOS A TODO EL PAÍS  🇦🇷"
+  },
+  {
+    "tag": "span",
+    "class": "announcement-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "drawer__title heading lg:text-3xl text-2xl leading-none tracking-tight",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "drawer__menu-group",
+    "text_preview": "Personalizar"
+  },
+  {
+    "tag": "a",
+    "class": "drawer__menu-item block heading text-2xl leading-none tracking-tight",
+    "text_preview": "Personalizar"
+  },
+  {
+    "tag": "li",
+    "class": "drawer__menu-group",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "a",
+    "class": "drawer__menu-item block heading text-2xl leading-none tracking-tight",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "li",
+    "class": "drawer__menu-group",
+    "text_preview": "Importados"
+  },
+  {
+    "tag": "a",
+    "class": "drawer__menu-item block heading text-2xl leading-none tracking-tight",
+    "text_preview": "Importados"
+  },
+  {
+    "tag": "li",
+    "class": "drawer__menu-group",
+    "text_preview": "Alfombras"
+  },
+  {
+    "tag": "a",
+    "class": "drawer__menu-item block heading text-2xl leading-none tracking-tight",
+    "text_preview": "Alfombras"
+  },
+  {
+    "tag": "li",
+    "class": "drawer__menu-group",
+    "text_preview": "Accesorios 3D"
+  },
+  {
+    "tag": "a",
+    "class": "drawer__menu-item block heading text-2xl leading-none tracking-tight",
+    "text_preview": "Accesorios 3D"
+  },
+  {
+    "tag": "li",
+    "class": "drawer__menu-group",
+    "text_preview": "🔥 OUTLET 🔥"
+  },
+  {
+    "tag": "a",
+    "class": "drawer__menu-item block heading text-2xl leading-none tracking-tight",
+    "text_preview": "🔥 OUTLET 🔥"
+  },
+  {
+    "tag": "div",
+    "class": "drawer__scrollable flex flex-col h-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drawer__footer-top flex",
+    "text_preview": "Español"
+  },
+  {
+    "tag": "button",
+    "class": "flex gap-3 grow items-center justify-between",
+    "text_preview": "Español"
+  },
+  {
+    "tag": "span",
+    "class": "text-sm leading-none flex items-center gap-2 w-auto",
+    "text_preview": "Español"
+  },
+  {
+    "tag": "overlay-element",
+    "class": "fixed-modal opacity-0 z-1 absolute top-0 left-0 w-full h-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "inline-block",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-loader",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header__logo flex justify-center z-2",
+    "text_preview": "MgMGamers"
+  },
+  {
+    "tag": "a",
+    "class": "header__logo-link has-white-logo flex items-center relative",
+    "text_preview": "MgMGamers"
+  },
+  {
+    "tag": "a",
+    "class": "menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer",
+    "text_preview": "PersonalizarPersonalizar"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Personalizar"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text btn-duplicate",
+    "text_preview": "Personalizar"
+  },
+  {
+    "tag": "a",
+    "class": "menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer",
+    "text_preview": "MousepadsMousepads"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text btn-duplicate",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "a",
+    "class": "menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer",
+    "text_preview": "ImportadosImportados"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Importados"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text btn-duplicate",
+    "text_preview": "Importados"
+  },
+  {
+    "tag": "a",
+    "class": "menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer",
+    "text_preview": "AlfombrasAlfombras"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Alfombras"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text btn-duplicate",
+    "text_preview": "Alfombras"
+  },
+  {
+    "tag": "a",
+    "class": "menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer",
+    "text_preview": "Accesorios 3DAccesorios 3D"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Accesorios 3D"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text btn-duplicate",
+    "text_preview": "Accesorios 3D"
+  },
+  {
+    "tag": "a",
+    "class": "menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer",
+    "text_preview": "🔥 OUTLET 🔥🔥 OUTLET 🔥"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "🔥 OUTLET 🔥"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text btn-duplicate",
+    "text_preview": "🔥 OUTLET 🔥"
+  },
+  {
+    "tag": "li",
+    "class": "opacity-0",
+    "text_preview": "Cómo cuidar tu mousepad"
+  },
+  {
+    "tag": "a",
+    "class": "reversed-link text-sm-base",
+    "text_preview": "Cómo cuidar tu mousepad"
+  },
+  {
+    "tag": "li",
+    "class": "opacity-0",
+    "text_preview": "Venta mayorista"
+  },
+  {
+    "tag": "a",
+    "class": "reversed-link text-sm-base",
+    "text_preview": "Venta mayorista"
+  },
+  {
+    "tag": "li",
+    "class": "opacity-0",
+    "text_preview": "Sobre nosotros"
+  },
+  {
+    "tag": "a",
+    "class": "reversed-link text-sm-base",
+    "text_preview": "Sobre nosotros"
+  },
+  {
+    "tag": "cart-count",
+    "class": "count absolute top-0 right-0 text-xs",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "header__cutout cutout opacity-0 absolute left-0 top-100 w-full pointer-events-none",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "overlay opacity-0 z-1 fixed left-0 w-full pointer-events-none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "shopify-section shopify-section-group-header-group hero-section",
+    "text_preview": ""
+  },
+  {
+    "tag": "cart-count",
+    "class": "count absolute font-medium text-xs lg:text-sm leading-none",
+    "text_preview": "0"
+  },
+  {
+    "tag": "button",
+    "class": "drawer__tab",
+    "text_preview": "miralo de nuevo"
+  },
+  {
+    "tag": "span",
+    "class": "drawer__title heading lg:text-3xl text-2xl leading-none tracking-tight",
+    "text_preview": "miralo de nuevo"
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "flex items-center justify-between",
+    "text_preview": "FORMS"
+  },
+  {
+    "tag": "span",
+    "class": "flex items-center gap-3",
+    "text_preview": "FORMS"
+  },
+  {
+    "tag": "a",
+    "class": "flex items-center justify-between",
+    "text_preview": "IMPORTADOSS"
+  },
+  {
+    "tag": "span",
+    "class": "flex items-center gap-3",
+    "text_preview": "IMPORTADOSS"
+  },
+  {
+    "tag": "div",
+    "class": "free-shipping-bar grid gap-3 w-full",
+    "text_preview": "¡Te faltan solo $100.000,00 para conseguir envío gratis!"
+  },
+  {
+    "tag": "span",
+    "class": "text-sm leading-tight",
+    "text_preview": "¡Te faltan solo $100.000,00 para conseguir envío gratis!"
+  },
+  {
+    "tag": "span",
+    "class": "font-bold",
+    "text_preview": "$100.000,00"
+  },
+  {
+    "tag": "span",
+    "class": "money",
+    "text_preview": "$100.000,00"
+  },
+  {
+    "tag": "cart-items",
+    "class": "block grow",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "horizontal-products grid",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drawer__footer-top flex",
+    "text_preview": "Notas para entrega\n                    \n      \n      \n    Gastos de envío\n                    \n     "
+  },
+  {
+    "tag": "button",
+    "class": "flex gap-2d5 grow items-center justify-center",
+    "text_preview": "Notas para entrega"
+  },
+  {
+    "tag": "span",
+    "class": "reversed-link text-sm leading-tight",
+    "text_preview": "Notas para entrega"
+  },
+  {
+    "tag": "button",
+    "class": "flex gap-2d5 grow items-center justify-center",
+    "text_preview": "Gastos de envío"
+  },
+  {
+    "tag": "span",
+    "class": "reversed-link text-sm leading-tight",
+    "text_preview": "Gastos de envío"
+  },
+  {
+    "tag": "overlay-element",
+    "class": "fixed-modal opacity-0 z-1 absolute top-0 left-0 w-full h-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal__header flex items-center justify-between relative",
+    "text_preview": "Indicaciones para la entrega del pedido"
+  },
+  {
+    "tag": "span",
+    "class": "font-medium text-sm md:text-base",
+    "text_preview": "Indicaciones para la entrega del pedido"
+  },
+  {
+    "tag": "cart-note",
+    "class": "modal__scrollable grid gap-4",
+    "text_preview": "Notas para entrega\n                            \n                            \n                       "
+  },
+  {
+    "tag": "div",
+    "class": "field",
+    "text_preview": "Notas para entrega"
+  },
+  {
+    "tag": "label",
+    "class": "label is-floating",
+    "text_preview": "Notas para entrega"
+  },
+  {
+    "tag": "div",
+    "class": "justify-self-start",
+    "text_preview": "Aplicar"
+  },
+  {
+    "tag": "button",
+    "class": "button button--primary",
+    "text_preview": "Aplicar"
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Aplicar"
+  },
+  {
+    "tag": "overlay-element",
+    "class": "fixed-modal opacity-0 z-1 absolute top-0 left-0 w-full h-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal__header flex items-center justify-between relative",
+    "text_preview": "Estimación de gastos de envío"
+  },
+  {
+    "tag": "span",
+    "class": "font-medium text-sm md:text-base",
+    "text_preview": "Estimación de gastos de envío"
+  },
+  {
+    "tag": "div",
+    "class": "grid gap-4 sm:grid-6",
+    "text_preview": "Los impuestos y gastos de envío se calculan en la pantalla de pago\n                    \n            "
+  },
+  {
+    "tag": "div",
+    "class": "grid grid-cols-2 gap-4",
+    "text_preview": "Los impuestos y gastos de envío se calculan en la pantalla de pago\n                    \n            "
+  },
+  {
+    "tag": "div",
+    "class": "tax-note text-sm sm:text-base rte",
+    "text_preview": "Los impuestos y gastos de envío se calculan en la pantalla de pago"
+  },
+  {
+    "tag": "div",
+    "class": "totals grid place-self-end gap-1",
+    "text_preview": "Subtotal\n                      $0,00 ARS"
+  },
+  {
+    "tag": "span",
+    "class": "totals__subtotal text-sm sm:text-base",
+    "text_preview": "Subtotal"
+  },
+  {
+    "tag": "div",
+    "class": "totals__subtotal-value text-lg-2xl font-bold leading-none tracking-tight",
+    "text_preview": "$0,00 ARS"
+  },
+  {
+    "tag": "span",
+    "class": "money",
+    "text_preview": "$0,00 ARS"
+  },
+  {
+    "tag": "button",
+    "class": "button button--primary icon-with-text col-span-6 md:col-span-7",
+    "text_preview": "Finalizar pedido"
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Finalizar pedido"
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "recently-viewed",
+    "class": "cart__recent flex flex-col h-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "clear absolute flex items-center justify-center text-xs opacity-0",
+    "text_preview": "Borrar"
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "whitespace",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "word",
+    "text_preview": "de"
+  },
+  {
+    "tag": "animate-element",
+    "class": "block",
+    "text_preview": "de"
+  },
+  {
+    "tag": "span",
+    "class": "whitespace",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "whitespace",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "word",
+    "text_preview": "🍪"
+  },
+  {
+    "tag": "animate-element",
+    "class": "block",
+    "text_preview": "🍪"
+  },
+  {
+    "tag": "empty-element",
+    "class": "block spacing-section",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cookie__buttons",
+    "text_preview": "Acepto\n                      \n                        \n                        \n      \n    Denegar"
+  },
+  {
+    "tag": "div",
+    "class": "cookie__flex flex flex-wrap gap-4",
+    "text_preview": "Acepto\n                      \n                        \n                        \n      \n    Denegar"
+  },
+  {
+    "tag": "button",
+    "class": "button button--primary icon-with-text",
+    "text_preview": "Acepto"
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Acepto"
+  },
+  {
+    "tag": "button",
+    "class": "button button--secondary icon-with-text",
+    "text_preview": "Denegar"
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Denegar"
+  },
+  {
+    "tag": "a",
+    "class": "dock__item flex flex-col items-center justify-center gap-1d5 grow shrink-0 cursor-pointer",
+    "text_preview": "Shop"
+  },
+  {
+    "tag": "span",
+    "class": "text-3xs leading-none",
+    "text_preview": "Shop"
+  },
+  {
+    "tag": "a",
+    "class": "dock__item flex flex-col items-center justify-center gap-1d5 grow shrink-0 cursor-pointer",
+    "text_preview": "0\n            \n            Cart"
+  },
+  {
+    "tag": "span",
+    "class": "relative",
+    "text_preview": "0"
+  },
+  {
+    "tag": "cart-count",
+    "class": "count absolute text-3xs leading-none",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "text-3xs leading-none",
+    "text_preview": "Cart"
+  },
+  {
+    "tag": "a",
+    "class": "dock__item flex flex-col items-center justify-center gap-1d5 grow shrink-0 cursor-pointer",
+    "text_preview": "Account"
+  },
+  {
+    "tag": "span",
+    "class": "text-3xs leading-none",
+    "text_preview": "Account"
+  },
+  {
+    "tag": "span",
+    "class": "whitespace",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "word",
+    "text_preview": "no"
+  },
+  {
+    "tag": "animate-element",
+    "class": "block",
+    "text_preview": "no"
+  },
+  {
+    "tag": "span",
+    "class": "whitespace",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "word",
+    "text_preview": "encontrada"
+  },
+  {
+    "tag": "animate-element",
+    "class": "block",
+    "text_preview": "encontrada"
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-fill",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "shopify-section section spacing-section",
+    "text_preview": "#shopify-section-template--24593940447604__empty-space {\n    --spacing-height-desktop: 120px;\n    --"
+  },
+  {
+    "tag": "div",
+    "class": "title-wrapper leading-none gap-4 lg:gap-8 flex flex-col text-center md:items-center md:justify-between relative z-1",
+    "text_preview": "MGM GAMERS ®"
+  },
+  {
+    "tag": "div",
+    "class": "grid gap-4",
+    "text_preview": "MGM GAMERS ®"
+  },
+  {
+    "tag": "h2",
+    "class": "heading title-md",
+    "text_preview": "MGM GAMERS ®"
+  },
+  {
+    "tag": "split-words",
+    "class": "split-words block words splitting",
+    "text_preview": "MGM GAMERS ®"
+  },
+  {
+    "tag": "span",
+    "class": "word",
+    "text_preview": "MGM"
+  },
+  {
+    "tag": "animate-element",
+    "class": "block",
+    "text_preview": "MGM"
+  },
+  {
+    "tag": "span",
+    "class": "whitespace",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "word",
+    "text_preview": "GAMERS"
+  },
+  {
+    "tag": "animate-element",
+    "class": "block",
+    "text_preview": "GAMERS"
+  },
+  {
+    "tag": "span",
+    "class": "word",
+    "text_preview": "®"
+  },
+  {
+    "tag": "animate-element",
+    "class": "block",
+    "text_preview": "®"
+  },
+  {
+    "tag": "div",
+    "class": "column__icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "column__text rte",
+    "text_preview": "Si tenés alguna duda, por favor hablános."
+  },
+  {
+    "tag": "div",
+    "class": "column__icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "column__title heading font-medium leading-tight tracking-none",
+    "text_preview": "ENVÍO GRATIS"
+  },
+  {
+    "tag": "div",
+    "class": "column flex gap-5 w-full flex-col xl:flex-row xl:text-center text-center",
+    "text_preview": "PAGOS PROTEGIDOSTodos los pagos son procesados de manera segura."
+  },
+  {
+    "tag": "div",
+    "class": "column__icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "column__content",
+    "text_preview": "PAGOS PROTEGIDOSTodos los pagos son procesados de manera segura."
+  },
+  {
+    "tag": "p",
+    "class": "column__title heading font-medium leading-tight tracking-none",
+    "text_preview": "PAGOS PROTEGIDOS"
+  },
+  {
+    "tag": "div",
+    "class": "column__text rte",
+    "text_preview": "Todos los pagos son procesados de manera segura."
+  },
+  {
+    "tag": "div",
+    "class": "shopify-section shopify-section-group-footer-group",
+    "text_preview": "#shopify-section-sections--24593941725556__highlight_text_B3wbpr {\n    --section-padding-top: 20px;\n"
+  },
+  {
+    "tag": "div",
+    "class": "section section--padding section--next-rounded",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "page-width page-width--narrow relative",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "highlight-text md:text-center text-center relative z-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "link inline-block leading-tight text-left",
+    "text_preview": "Mail"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Mail"
+  },
+  {
+    "tag": "span",
+    "class": "heading text-base-2xl font-medium lg:font-heading",
+    "text_preview": "PRODUCTOS"
+  },
+  {
+    "tag": "div",
+    "class": "details__content",
+    "text_preview": "Mousepads\n            \n          \n            \n              Alfombras\n            \n          \n     "
+  },
+  {
+    "tag": "div",
+    "class": "footer__contact flex flex-col gap-1",
+    "text_preview": "Mousepads\n            \n          \n            \n              Alfombras\n            \n          \n     "
+  },
+  {
+    "tag": "a",
+    "class": "link inline-block leading-tight text-left",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "a",
+    "class": "link inline-block leading-tight text-left",
+    "text_preview": "Alfombras"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Alfombras"
+  },
+  {
+    "tag": "a",
+    "class": "link inline-block leading-tight text-left",
+    "text_preview": "Importados"
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": "Importados"
+  },
+  {
+    "tag": "span",
+    "class": "heading text-base-2xl font-medium lg:font-heading",
+    "text_preview": "VENTA MAYORISTA"
+  },
+  {
+    "tag": "div",
+    "class": "footer__newsletter grid gap-6",
+    "text_preview": "MGM NEWS\n  \n  \n    \n    Suscríbete y obtén un descuento\n    \n      \n        \n          \n            "
+  },
+  {
+    "tag": "p",
+    "class": "h3 text-xl md:title-lg leading-none tracking-none font-medium lg:font-heading",
+    "text_preview": "MGM NEWS"
+  },
+  {
+    "tag": "div",
+    "class": "field relative",
+    "text_preview": "Suscríbete y obtén un descuento"
+  },
+  {
+    "tag": "label",
+    "class": "label is-floating",
+    "text_preview": "Suscríbete y obtén un descuento"
+  },
+  {
+    "tag": "div",
+    "class": "self-submit-button absolute",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "button button--primary self-button flex justify-center items-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-text",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "rte text-sm leading-tight",
+    "text_preview": "Mantenete al tanto de todos nuestros chismes, descuentos y más! (no hay más)"
+  },
+  {
+    "tag": "div",
+    "class": "localization flex items-center justify-center flex-col md:flex-row",
+    "text_preview": "Idioma\n      \n      \n      \n    Español\n                  Español"
+  },
+  {
+    "tag": "div",
+    "class": "grid gap-2",
+    "text_preview": "Idioma\n      \n      \n      \n    Español\n                  Español"
+  },
+  {
+    "tag": "button",
+    "class": "localization__item cursor-pointer leading-tight w-full",
+    "text_preview": "Español"
+  }
+]

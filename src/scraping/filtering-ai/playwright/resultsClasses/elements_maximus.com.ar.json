@@ -1,0 +1,3457 @@
+[
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "busquedamovil",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "flex-drop-carrito",
+    "text_preview": "Su pedido  Cantidad de Items  ($) VER"
+  },
+  {
+    "tag": "div",
+    "class": "su-pedido",
+    "text_preview": "Su pedido  Cantidad de Items  ($)"
+  },
+  {
+    "tag": "label",
+    "class": "su-pedido-title",
+    "text_preview": "Su pedido"
+  },
+  {
+    "tag": "li",
+    "class": "categoria arma-pc",
+    "text_preview": "Ofertas"
+  },
+  {
+    "tag": "a",
+    "class": "arma-tu-pc",
+    "text_preview": "Ofertas"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "hr",
+    "class": "hrblanco",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Computadoras"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Combos\n                                de actualización"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Componentes\n                                de PC"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Perifericos"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Telefonía"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Cables\n                                y Conectividad"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Limpieza"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "drop",
+    "text_preview": "Outlet"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "botones-drop-menu-cat",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "hr",
+    "class": "hrblanco",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "categoria arma-pc",
+    "text_preview": "Empresas"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "categoria arma-pc",
+    "text_preview": "Seguir mi Pedido"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "categoria arma-pc",
+    "text_preview": "RMA - Garantia"
+  },
+  {
+    "tag": "a",
+    "class": "arma-tu-combo",
+    "text_preview": "RMA - Garantia"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "prods-slide-left productos-menu none",
+    "text_preview": "Notebooks Ver todas las notebooks  NOTEBOOKS POR TIPO Notebooks Basico  Notebooks Media  Notebooks G"
+  },
+  {
+    "tag": "li",
+    "class": "secc-l",
+    "text_preview": "Notebooks Ver todas las notebooks  NOTEBOOKS POR TIPO Notebooks Basico  Notebooks Media  Notebooks G"
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left-title",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "NOTEBOOKS POR TIPO Notebooks Basico  Notebooks Media  Notebooks Gaming"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "NOTEBOOKS Notebooks AMD Notebooks Intel"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "secc-r",
+    "text_preview": "ALMACENAMIENTO Discos SSD Discos Externos USB Memorias SD - Pendrives  ACCESORIOS Mouse Inalámbricos"
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-right",
+    "text_preview": "ALMACENAMIENTO Discos SSD Discos Externos USB Memorias SD - Pendrives  ACCESORIOS Mouse Inalámbricos"
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "ALMACENAMIENTO Discos SSD Discos Externos USB Memorias SD - Pendrives"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "ACCESORIOS Mouse Inalámbricos Mochilas Pads"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "MEMORIAS RAM Memorias Ram Sodimm"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left",
+    "text_preview": "Computadoras"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left-title",
+    "text_preview": "Computadoras"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "PC POR TIPO PC Basic PC Media PC Alta"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "PC ESCRITORIO"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "secc-r",
+    "text_preview": "SISTEMA OPERATIVO Microsoft Windows"
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-right",
+    "text_preview": "SISTEMA OPERATIVO Microsoft Windows"
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "SISTEMA OPERATIVO Microsoft Windows"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left",
+    "text_preview": "Combos de Actualización"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "COMBOS AMD Combos Basic Combos Medio Combos Alto"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "COMBOS CON KINGSTON"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left",
+    "text_preview": "Componentes"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left-title",
+    "text_preview": "Componentes"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "COMPONENTES Placas de video Motherboards Microprocesadores Discos SSD Memorias Ram Gabinetes Fuentes"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "SISTEMA OPERATIVO Microsoft Windows"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "ZONA NVIDIA Productos Nvidia"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "ZONA AMD Productos AMD"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "ZONA INTEL Productos Intel"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "Accesorios Pasta Termica Cable MOD Bahia de Discos"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left-title",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left",
+    "text_preview": "Perifericos"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left-title",
+    "text_preview": "Perifericos"
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "TECLADOS Teclados Mecánicos Teclados Membrana Teclados RGB Combo Teclados Key Caps Reposa Muñecas"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "MOUSE Mouse Gamer Mouse Inalambrico"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "PADS Pad Small Pad Medium Pad Large Pad ExtraLarge"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "secc-r",
+    "text_preview": "ESCRITORIOS Genesis  IMPRESORAS HP Pantum Tinta y Toner  PARLANTES Parlantes  JOYSTICKS Joystick  WE"
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "ESCRITORIOS Genesis"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "IMPRESORAS HP Pantum Tinta y Toner"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "PARLANTES Parlantes"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "JOYSTICKS Joystick"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "WEBCAMS Webcams"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "MICROFONOS Microfonos"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "SILLAS Sillas Gamer"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "VOLANTES Y ACCESORIOS Volantes"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "CELULARES Xioami"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "TABLETS Amazon Fire"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "prods-slide-left productos-menu none",
+    "text_preview": "Cables y Conectividad  CABLES Y ADAPTADORES Cable MOD HDMI  PLACAS DE RED Placas de Red USB Placas d"
+  },
+  {
+    "tag": "li",
+    "class": "secc-l",
+    "text_preview": "Cables y Conectividad  CABLES Y ADAPTADORES Cable MOD HDMI  PLACAS DE RED Placas de Red USB Placas d"
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left",
+    "text_preview": "Cables y Conectividad"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left-title",
+    "text_preview": "Cables y Conectividad"
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "CABLES Y ADAPTADORES Cable MOD HDMI"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "PLACAS DE RED Placas de Red USB Placas de Red PCIe"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "ROUTERS Routers"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "prods-slide-left productos-menu none",
+    "text_preview": "Limpieza  Limpieza de computadoras Chemitec"
+  },
+  {
+    "tag": "li",
+    "class": "secc-l",
+    "text_preview": "Limpieza  Limpieza de computadoras Chemitec"
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left",
+    "text_preview": "Limpieza"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left-title",
+    "text_preview": "Limpieza"
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "Limpieza de computadoras Chemitec"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "prods-slide-left productos-menu none",
+    "text_preview": "Productos OUTLET  OUTLETS Productos OUTLET"
+  },
+  {
+    "tag": "li",
+    "class": "secc-l",
+    "text_preview": "Productos OUTLET  OUTLETS Productos OUTLET"
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left",
+    "text_preview": "Productos OUTLET"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader arrow-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slide-back-menu-left-title",
+    "text_preview": "Productos OUTLET"
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "OUTLETS Productos OUTLET"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "prods-slide-left productos-menu none",
+    "text_preview": "COMBOS INTEL Combo Basic Combo Medio Combo Alto  COMBOS AMD Combo Basic Combo Medio Combo Alto"
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "COMBOS INTEL Combo Basic Combo Medio Combo Alto"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "prods-secc-interna",
+    "text_preview": "COMBOS AMD Combo Basic Combo Medio Combo Alto"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "logo",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "hamburger-menu",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "burg burg-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "burg burg-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "burg burg-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-web-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "auto-complete-web",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cuenta",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "textosDerecha micuenta",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "a",
+    "class": "cuenta",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "textosDerecha micuenta",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "img",
+    "class": "svgheader",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheader",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "cant-carrito",
+    "text_preview": "0"
+  },
+  {
+    "tag": "div",
+    "class": "theme-switch-wrapper-mob",
+    "text_preview": "Modo oscuro Modo claro"
+  },
+  {
+    "tag": "p",
+    "class": "modo-oscuro-mob mb-0 none",
+    "text_preview": "Modo oscuro"
+  },
+  {
+    "tag": "p",
+    "class": "modo-claro-mob mb-0",
+    "text_preview": "Modo claro"
+  },
+  {
+    "tag": "div",
+    "class": "slider-theme-mob round",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "categorias-web",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "hamburger-menu-web",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "burg burg-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "burg burg-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "burg burg-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "cross none",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "categorias-web switch-theme-web",
+    "text_preview": "Modo oscuro Modo claro"
+  },
+  {
+    "tag": "div",
+    "class": "theme-switch-wrapper",
+    "text_preview": "Modo oscuro Modo claro"
+  },
+  {
+    "tag": "p",
+    "class": "modo-oscuro none",
+    "text_preview": "Modo oscuro"
+  },
+  {
+    "tag": "p",
+    "class": "modo-claro",
+    "text_preview": "Modo claro"
+  },
+  {
+    "tag": "label",
+    "class": "theme-switch",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slider-theme round",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "hr",
+    "class": "hrblanco",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Computadoras"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Combos de actualización"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Perifericos"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Telefonía"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Cables y conectividad"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Limpieza"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "rectangle-left none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "apertura-cat-principal",
+    "text_preview": "Productos OUTLET"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-izquierda-side-secundario none",
+    "text_preview": "Ver todas las notebooks  NOTEBOOKS POR TIPO Notebooks Basico  Notebooks Media  Notebooks Gaming   NO"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "Ver todas las notebooks"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Ver todas las notebooks"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Ver todas las notebooks"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "NOTEBOOKS POR TIPO Notebooks Basico  Notebooks Media  Notebooks Gaming"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "NOTEBOOKS POR TIPO"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "NOTEBOOKS POR TIPO"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Notebooks Basico  Notebooks Media  Notebooks Gaming"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Notebooks Basico"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Notebooks Media"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Notebooks Gaming"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "NOTEBOOKS Notebooks AMD Notebooks Intel"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "NOTEBOOKS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "NOTEBOOKS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Notebooks AMD Notebooks Intel"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Notebooks AMD"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Notebooks Intel"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-derecha-side-secundario none",
+    "text_preview": "ALMACENAMIENTO Discos SSD Discos Externos\n                                    USB Memorias SD -\n    "
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "ALMACENAMIENTO Discos SSD Discos Externos\n                                    USB Memorias SD -\n    "
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "ALMACENAMIENTO"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "ALMACENAMIENTO"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Discos SSD Discos Externos\n                                    USB Memorias SD -\n                   "
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Discos SSD"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Discos Externos\n                                    USB"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Memorias SD -\n                                    Pendrives"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "ACCESORIOS Mouse Inalámbricos Mochilas Pads"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "ACCESORIOS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "ACCESORIOS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Mouse Inalámbricos Mochilas Pads"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Mouse Inalámbricos"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Mochilas"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Pads"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "Memorias Ram Memorias Ram Sodimm"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Memorias Ram Sodimm"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Memorias Ram Sodimm"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-izquierda-side-secundario none",
+    "text_preview": "Ver todas las computadoras  PC POR TIPO PC Basic PC Media PC Alta  SISTEMA OPERATIVO Microsoft Windo"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "Ver todas las computadoras"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Ver todas las computadoras"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Ver todas las computadoras"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "PC POR TIPO PC Basic PC Media PC Alta"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "PC POR TIPO"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "PC POR TIPO"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "PC Basic PC Media PC Alta"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "PC Basic"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "PC Media"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "PC Alta"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "SISTEMA OPERATIVO Microsoft Windows"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "SISTEMA OPERATIVO"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "SISTEMA OPERATIVO"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Microsoft Windows"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Microsoft Windows"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-izquierda-side-secundario none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-izquierda-side-secundario none",
+    "text_preview": "COMBO WEB\n                     COMBOS ACTUALIZACIÓN INTEL Combos Basic Combos Medio Combos Alto  COM"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "COMBOS ACTUALIZACIÓN INTEL Combos Basic Combos Medio Combos Alto  COMBOS ACTUALIZACIÓN AMD Combos Ba"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "COMBOS ACTUALIZACIÓN INTEL"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "COMBOS ACTUALIZACIÓN INTEL"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Combos Basic"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Combos Basic"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Combos Medio"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Combos Medio"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Combos Alto"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Combos Alto"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "COMBOS ACTUALIZACIÓN AMD"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "COMBOS ACTUALIZACIÓN AMD"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Combos Basic"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Combos Basic"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Combos Medio"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Combos Medio"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Combos Alto"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Combos Alto"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "COMBOS ACTUALIZACIÓN KINGSTON"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "COMBOS ACTUALIZACIÓN KINGSTON"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Armado de PC a medida"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Armado de PC a medida"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "COMPONENTES Placas de video Motherboards Microprocesadores Discos SSD Memorias Ram Gabinetes Fuentes"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "COMPONENTES"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Placas de video Motherboards Microprocesadores Discos SSD Memorias Ram Gabinetes Fuentes Cpu coolers"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Placas de video"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Microprocesadores"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Discos SSD"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Cpu coolers - coolers"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Conectividad"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-derecha-side-secundario none",
+    "text_preview": "SISTEMA OPERATIVO Windows  ZONA NVIDIA Productos Nvidia  ZONA AMD Productos AMD  ZONA INTEL Producto"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "SISTEMA OPERATIVO Windows"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "SISTEMA OPERATIVO"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Windows"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Windows"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "ZONA NVIDIA Productos Nvidia"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "ZONA NVIDIA"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Productos Nvidia"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Productos Nvidia"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "ZONA AMD Productos AMD"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "ZONA AMD"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Productos AMD"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Productos AMD"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "ZONA INTEL Productos Intel"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "ZONA INTEL"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Productos Intel"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Productos Intel"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "Accesorios Cable MOD Pasta Termica Bahia de Discos"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Cable MOD Pasta Termica Bahia de Discos"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Cable MOD"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Pasta Termica"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Bahia de Discos"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-izquierda-side-secundario none",
+    "text_preview": "MONITORES Proyectores Smart TV Monitores LED Monitores 75Hz - 100Hz Monitores 120Hz - 144Hz Monitore"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "MONITORES Proyectores Smart TV Monitores LED Monitores 75Hz - 100Hz Monitores 120Hz - 144Hz Monitore"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "MONITORES"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Proyectores"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Proyectores"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Smart TV"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Smart TV"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Monitores LED"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Monitores LED"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Monitores 75Hz - 100Hz"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Monitores 75Hz - 100Hz"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Monitores 120Hz - 144Hz"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Monitores 120Hz - 144Hz"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Monitores 165Hz - 170Hz"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Monitores 165Hz - 170Hz"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Monitores 240Hz - 360Hz"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Monitores 240Hz - 360Hz"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-izquierda-side-secundario none",
+    "text_preview": "TECLADOS Teclados Mecánicos Teclados Membrana Teclados RGB Combo Teclados Key Caps Reposa Muñecas  M"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "TECLADOS Teclados Mecánicos Teclados Membrana Teclados RGB Combo Teclados Key Caps Reposa Muñecas"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "TECLADOS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "TECLADOS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Teclados Mecánicos Teclados Membrana Teclados RGB Combo Teclados Key Caps Reposa Muñecas"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Teclados Mecánicos"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Teclados Membrana"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Teclados RGB"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Combo Teclados"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Key Caps"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Reposa Muñecas"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "MOUSE Mouse Gamer Mouse Inalambrico"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "MOUSE"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Mouse Gamer Mouse Inalambrico"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Mouse Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Mouse Inalambrico"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "PADS Pad Small Pad Medium Pad Large Pad ExtraLarge"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "PADS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "PADS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Pad Small Pad Medium Pad Large Pad ExtraLarge"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Pad Small"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Pad Medium"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Pad Large"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Pad ExtraLarge"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "AURICULARES"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Auriculares Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Auriculares Estereo"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Auriculares Surround"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Auriculares para Celular"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "PARLANTES Parlantes"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "PARLANTES"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "PARLANTES"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Parlantes"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Parlantes"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "MICROFONOS Microfonos"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "MICROFONOS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "MICROFONOS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Microfonos"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Microfonos"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "SILLAS Sillas Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "SILLAS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "SILLAS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-derecha-side-secundario none",
+    "text_preview": "JOYSTICKS Joystick  WEBCAMS Webcams  VOLANTES Y ACCESORIOS Volantes  ESCRITORIOS Genesis  IMPRESORAS"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "JOYSTICKS Joystick"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "JOYSTICKS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "JOYSTICKS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Joystick"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Joystick"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "WEBCAMS Webcams"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "WEBCAMS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "WEBCAMS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Webcams"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Webcams"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "VOLANTES Y ACCESORIOS Volantes"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "VOLANTES Y ACCESORIOS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "VOLANTES Y ACCESORIOS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Volantes"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Volantes"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "ESCRITORIOS Genesis"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "ESCRITORIOS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "ESCRITORIOS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Genesis"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Genesis"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "IMPRESORAS HP Pantum Tinta y Toner"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "IMPRESORAS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "IMPRESORAS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "HP Pantum Tinta y Toner"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "HP"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Pantum"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Tinta y Toner"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "CELULARES Xiaomi"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "CELULARES"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "CELULARES"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Xiaomi"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Xiaomi"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Haxly"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Haxly"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "TABLETS Amazon Fire"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "TABLETS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "TABLETS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Amazon Fire"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Amazon Fire"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-izquierda-side-secundario none",
+    "text_preview": "PLACAS DE RED - ROUTERS Placas de Red USB Placas de Red PCIe Routers  CABLES Y ADAPTADORES Cable MOD"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "PLACAS DE RED - ROUTERS Placas de Red USB Placas de Red PCIe Routers"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "PLACAS DE RED - ROUTERS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "PLACAS DE RED - ROUTERS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Placas de Red USB Placas de Red PCIe Routers"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Placas de Red USB"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Placas de Red PCIe"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Routers"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "CABLES Y ADAPTADORES Cable MOD HDMI"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "CABLES Y ADAPTADORES"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "CABLES Y ADAPTADORES"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Cable MOD HDMI"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Cable MOD"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "HDMI"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-izquierda-side-secundario none",
+    "text_preview": "Limpieza de computadoras Chemitec"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "Limpieza de computadoras Chemitec"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "Limpieza de computadoras"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "Limpieza de computadoras"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Chemitec"
+  },
+  {
+    "tag": "a",
+    "class": "links-cat-secundaria-interno",
+    "text_preview": "Chemitec"
+  },
+  {
+    "tag": "div",
+    "class": "columna-side columna-izquierda-side-secundario none",
+    "text_preview": "OUTLETS Productos OUTLET"
+  },
+  {
+    "tag": "li",
+    "class": "cat-secundaria",
+    "text_preview": "OUTLETS Productos OUTLET"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-titulo-icono",
+    "text_preview": "OUTLETS"
+  },
+  {
+    "tag": "img",
+    "class": "svgheadertop",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-titulo",
+    "text_preview": "OUTLETS"
+  },
+  {
+    "tag": "div",
+    "class": "cat-secundaria-interno",
+    "text_preview": "Productos OUTLET"
+  },
+  {
+    "tag": "a",
+    "class": "cat-secundaria-interno-link",
+    "text_preview": "Productos OUTLET"
+  },
+  {
+    "tag": "div",
+    "class": "opacidad-menu none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-footer",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-footer",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Ver todas las Pc Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Ver todas las Pc Gamer"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "PC Gamer linea básica"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "PC Gamer linea básica"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "PC Gamer linea media"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "PC Gamer linea media"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "PC Gamer linea alta"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "PC Gamer linea alta"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Socket Amd AM4"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Socket Amd AM4"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Socket Amd AM5"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Socket Amd AM5"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Socket Intel 1200"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Socket Intel 1200"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Socket Intel 1700"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Socket Intel 1700"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Ver todas las Placa de Video"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Ver todas las Placa de Video"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Placas de Video Nvidia"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Placas de Video Nvidia"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Placas de Video AMD"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Placas de Video AMD"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Ver todas las Notebooks Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Ver todas las Notebooks Gamer"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook Lenovo"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook Lenovo"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook HP"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook HP"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook Asus"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook Asus"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook Acer"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook Acer"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook Thunderobot"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook Thunderobot"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores 144hz"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores 144hz"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores 165hz"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores 165hz"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores 240hz"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores 240hz"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores Samsung"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores Samsung"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores LG"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores LG"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores Gigabyte"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores Gigabyte"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores Asus"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores Asus"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores AOC"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores AOC"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Refrigeración"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Refrigeración"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Memorias"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Memorias"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Discos"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Discos"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-2 col-lg-2 col-xl-2 mx-auto mb-4",
+    "text_preview": "Computadoras Gamer\n                    \n                \n                PC Gamer linea básica\n     "
+  },
+  {
+    "tag": "h6",
+    "class": "text-uppercase fw-bold text-decoration-none b-v",
+    "text_preview": "Computadoras Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "text-decoration-none text-white fw-bold",
+    "text_preview": "Computadoras Gamer"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "PC Gamer linea básica"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "PC Gamer linea básica"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "PC Gamer linea media"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "PC Gamer linea media"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "PC Gamer linea alta"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "PC Gamer linea alta"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-2 col-lg-2 col-xl-2 mx-auto mb-4",
+    "text_preview": "Procesadores\n                    \n                \n                Socket Amd AM4\n                So"
+  },
+  {
+    "tag": "h6",
+    "class": "text-uppercase fw-bold text-decoration-none b-v",
+    "text_preview": "Procesadores"
+  },
+  {
+    "tag": "a",
+    "class": "text-decoration-none text-white fw-bold",
+    "text_preview": "Procesadores"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Socket Amd AM4"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Socket Amd AM4"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Socket Amd AM5"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Socket Amd AM5"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Socket Intel 1200"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Socket Intel 1200"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Socket Intel 1700"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Socket Intel 1700"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-2 col-lg-2 col-xl-2 mx-auto mb-4",
+    "text_preview": "Placas de video\n                    \n                \n                Placas de Video Nvidia\n       "
+  },
+  {
+    "tag": "h6",
+    "class": "text-uppercase fw-bold text-decoration-none b-v",
+    "text_preview": "Placas de video"
+  },
+  {
+    "tag": "a",
+    "class": "text-decoration-none text-white fw-bold",
+    "text_preview": "Placas de video"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Placas de Video Nvidia"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Placas de Video Nvidia"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Placas de Video AMD"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Placas de Video AMD"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-2 col-lg-2 col-xl-2 mx-auto mb-4",
+    "text_preview": "Notebook Gamer\n                    \n                \n                Notebook Lenovo\n               "
+  },
+  {
+    "tag": "h6",
+    "class": "text-uppercase fw-bold text-decoration-none b-v",
+    "text_preview": "Notebook Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "text-decoration-none text-white fw-bold",
+    "text_preview": "Notebook Gamer"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook Lenovo"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook Lenovo"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook HP"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook HP"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook Asus"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook Asus"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook Acer"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook Acer"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Notebook Thunderobot"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Notebook Thunderobot"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-2 col-lg-2 col-xl-2 mx-auto mb-4",
+    "text_preview": "Monitores Gamer\n                    \n                \n                Monitores 144hz\n              "
+  },
+  {
+    "tag": "h6",
+    "class": "text-uppercase fw-bold text-decoration-none b-v",
+    "text_preview": "Monitores Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "text-decoration-none text-white fw-bold",
+    "text_preview": "Monitores Gamer"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores 144hz"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores 144hz"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores 165hz"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores 165hz"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores 240hz"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores 240hz"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores Samsung"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores Samsung"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores LG"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores LG"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores Gigabyte"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores Gigabyte"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores Asus"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores Asus"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Monitores AOC"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Monitores AOC"
+  },
+  {
+    "tag": "h6",
+    "class": "text-uppercase fw-bold text-decoration-none b-v",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "a",
+    "class": "text-decoration-none text-white fw-bold",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Refrigeración"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Refrigeración"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Memorias"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Memorias"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Discos"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Discos"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "p",
+    "class": "mb-2 small mt-0 fs-6",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 mb-3 mt-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "me-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "mb-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "mb-0",
+    "text_preview": "Conocé tus derechos"
+  },
+  {
+    "tag": "a",
+    "class": "text-light",
+    "text_preview": "Conocé tus derechos"
+  },
+  {
+    "tag": "p",
+    "class": "mb-0",
+    "text_preview": "Seguir mi pedido"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none",
+    "text_preview": "Seguir mi pedido"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 col-md-3 mb-2",
+    "text_preview": "Unite al Equipo Maximus"
+  },
+  {
+    "tag": "p",
+    "class": "mb-0",
+    "text_preview": "Unite al Equipo Maximus"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none fw-bold",
+    "text_preview": "Unite al Equipo Maximus"
+  },
+  {
+    "tag": "div",
+    "class": "col-12 col-md-3 mb-2",
+    "text_preview": "Quiénes somos"
+  },
+  {
+    "tag": "p",
+    "class": "mb-0",
+    "text_preview": "Quiénes somos"
+  },
+  {
+    "tag": "a",
+    "class": "text-light text-decoration-none fw-bold",
+    "text_preview": "Quiénes somos"
+  },
+  {
+    "tag": "div",
+    "class": "row justify-content-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "text-light me-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "text-light me-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "text-light",
+    "text_preview": ""
+  }
+]

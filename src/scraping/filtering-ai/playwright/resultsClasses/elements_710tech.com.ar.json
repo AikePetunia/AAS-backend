@@ -1,0 +1,2707 @@
+[
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-red btn-raised btn-fab btn-buscar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "p-2 open",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left btn-mi-cuenta",
+    "text_preview": "ingresar"
+  },
+  {
+    "tag": "span",
+    "class": "mt-2 d-i-b ml-1 txt-ingresar",
+    "text_preview": "ingresar"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left mini-cart",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "modo-oscuro",
+    "text_preview": "MODO OSCURO"
+  },
+  {
+    "tag": "span",
+    "class": "modo-claro none",
+    "text_preview": "MODO CLARO"
+  },
+  {
+    "tag": "label",
+    "class": "theme-switch",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slider-theme round",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "section-space",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "mensaje_tienda",
+    "text_preview": "16 MESES DE GARANTIA / PARA RETIRO AVISAR CON ANTICIPACION / NO OLVIDES SUBIR TU COMPROBANTE"
+  },
+  {
+    "tag": "div",
+    "class": "panel panel-default panel-rose ",
+    "text_preview": "Auriculares (5)\n\t\t\t\t\t\t\t\t\t\t MICROFONO (5)\n\t\t\t\t\t\t\t\t\t\t Microfono (5)\n\t\t\t\t\t\t\t\t\t\t Mouse (5)\n\t\t\t\t\t\t\t\t\t\t Te"
+  },
+  {
+    "tag": "div",
+    "class": "panel-body pl-0 pr-0 pt-0",
+    "text_preview": "Auriculares (5)\n\t\t\t\t\t\t\t\t\t\t MICROFONO (5)\n\t\t\t\t\t\t\t\t\t\t Microfono (5)\n\t\t\t\t\t\t\t\t\t\t Mouse (5)\n\t\t\t\t\t\t\t\t\t\t Te"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Auriculares (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "MICROFONO (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Microfono (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Mouse (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Teclado (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Todo en periféricos  (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "Web Cam (5)"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 marcas_filtros ta-c mb-3 cate slick-initialized slick-slider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-list draggable",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-track",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "precio Menor a Mayor"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "precio Mayor a Menor"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21902 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0417097                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0417097                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0417097"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Raptor Storm Grip 8000dpi Retroiluminado"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$13.195$11.781$11.781MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$13.195$11.781$11.781MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$11.781"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$11.781MEGA PRECIO"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "SOPORMICRO                                                    \n                                     "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "SOPORMICRO"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$16.806$15.005$15.005MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$16.806$15.005$15.005MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$15.005"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$15.005MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21903 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0405278                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0405278                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0405278"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado + Mouse Logitech Mk120 Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$20.681$18.465$18.465MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$20.681$18.465$18.465MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$18.465"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$18.465MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21902 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "GMO06B                                                    \n                                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "GMO06B                                                    \n                                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "GMO06B"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Solarmax Rgb Usb Negro"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$20.832$18.600$18.600MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$20.832$18.600$18.600MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$18.600"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$18.600MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21902 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0417304                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0417304                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0417304"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Raptor Storm Grip Wireless 12800dpi"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$22.796$20.354$20.354MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$22.796$20.354$20.354MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$20.354"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$20.354MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21915 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0417303                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0417303                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0417303"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Web Cam Raptor Vision 4k C-microfono C-tapa"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$26.806$23.934$23.934MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$26.806$23.934$23.934MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$23.934"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$23.934MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21903 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0417094                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0417094                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0417094"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Raptor Fireclaw M87 Mecanico Retroiluminado Switch Red"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$29.516$26.354$26.354MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$29.516$26.354$26.354MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$26.354"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$26.354MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21902 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "LOGI203-WHITE                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "LOGI203-WHITE                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "LOGI203-WHITE"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Logitech G203 Lightsync White"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$29.805$26.612$26.612MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$29.805$26.612$26.612MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$26.612"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$26.612MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21907 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0417098                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0417098                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0417098"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Auricular Raptor Shadow Core Rgb"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$31.427$28.060$28.060MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$31.427$28.060$28.060MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$28.060"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$28.060MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21902 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "LOGI203-BLACK                                                    \n                                  "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "LOGI203-BLACK                                                    \n                                  "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "LOGI203-BLACK"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Logitech G203 Lightsync Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$33.895$30.263$30.263MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$33.895$30.263$30.263MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$30.263"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$30.263MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21903 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0417093                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0417093                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0417093"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Raptor Fireclaw M104 Mecanico Retroiluminado Switch Red"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$36.173$32.297$32.297MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$36.173$32.297$32.297MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$32.297"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$32.297MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21903 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0413099                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0413099                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0413099"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado + Mouse Logitech Wir Mk295 Silent Blk"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$44.066$39.345$39.345MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$44.066$39.345$39.345MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$39.345"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$39.345MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-20104 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "PADLOGI-G640                                                    \n                                   "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "PADLOGI-G640                                                    \n                                   "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "PADLOGI-G640"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Pad Logitech G640 Gaming"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$44.644$39.861$39.861MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$44.644$39.861$39.861MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$39.861"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$39.861MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21909 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0417301                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0417301                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0417301"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Microfono Raptor Vox Rgb Usb P-streaming"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$44.880$40.071$40.071MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$44.880$40.071$40.071MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$40.071"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$40.071MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21903 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0408179                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0408179                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0408179"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado + Mouse Logitech Wir Mk345 Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$46.015$41.085$41.085MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$46.015$41.085$41.085MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$41.085"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$41.085MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21902 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0412866                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0412866                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0412866"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech G305 Lightspeed Wireless Blue"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$47.957$42.819$42.819MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$47.957$42.819$42.819MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$42.819"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$42.819MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21902 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0414196                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0414196                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0414196"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech G305 Lightspeed Wireless White"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$47.957$42.819$42.819MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$47.957$42.819$42.819MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$42.819"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$42.819MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21902 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "LOGI305-WIRELESS                                                    \n                               "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "LOGI305-WIRELESS                                                    \n                               "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "LOGI305-WIRELESS"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Gamer Logitech G305 Lightspeed Wireless Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$49.049$43.794$43.794MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$49.049$43.794$43.794MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$43.794"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$43.794MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21907 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0417300                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0417300                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0417300"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Auricular Raptor Inferno Pro X 7.1 Wireless C-dongle"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$60.469$53.990$53.990MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$60.469$53.990$53.990MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$53.990"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$53.990MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21903 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0411558                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0411558                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0411558"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Logitech G213 Rgb Prodigy Gaming"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$85.137$76.015$76.015MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$85.137$76.015$76.015MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$76.015"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$76.015MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21907 marca_ ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "JBL200-SURROUND                                                    \n                                "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "JBL200-SURROUND                                                    \n                                "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "JBL200-SURROUND"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Auricular Jbl Quantum 200 Gaming Surround"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$90.179$80.517$80.517MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$90.179$80.517$80.517MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$80.517"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$80.517MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21907 marca_4152 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "JBL350WIRELESS                                                    \n                                 "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "JBL350WIRELESS                                                    \n                                 "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "JBL350WIRELESS"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Auricular Jbl Quantum 350 Gaming Inalambrico"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$142.736$127.443$127.443MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$142.736$127.443$127.443MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$127.443"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$127.443MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21903 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0417133                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0417133                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0417133"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Logitech G515 Tkl Black Mechanical Us"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$154.015$137.513$137.513MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$154.015$137.513$137.513MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$137.513"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$137.513MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21902 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "0413294                                                    \n                                        "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "0413294                                                    \n                                        "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "0413294"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech G Pro X Superlight Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$159.992$142.850$142.850MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$159.992$142.850$142.850MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$142.850"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$142.850MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-21903 marca_4089 ",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "G713LOGI                                                    \n                                       "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "G713LOGI                                                    \n                                       "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "G713LOGI"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Logitech G713 Aurora"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$224.000$200.000$200.000MEGA PRECIO"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$224.000$200.000$200.000MEGA PRECIO"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$200.000"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$200.000MEGA PRECIO"
+  },
+  {
+    "tag": "ul",
+    "class": "pagination pagination-info mt-4",
+    "text_preview": "1"
+  },
+  {
+    "tag": "li",
+    "class": "active",
+    "text_preview": "1"
+  },
+  {
+    "tag": "h3",
+    "class": "t-shadow mt-2",
+    "text_preview": "1155782016"
+  },
+  {
+    "tag": "a",
+    "class": "text-white",
+    "text_preview": "1155782016"
+  },
+  {
+    "tag": "h5",
+    "class": "t-shadow mt-0 mb-0",
+    "text_preview": "1155782016 (solo texto)"
+  },
+  {
+    "tag": "a",
+    "class": "text-white",
+    "text_preview": "1155782016 (solo texto)"
+  },
+  {
+    "tag": "h5",
+    "class": "t-shadow mt-0 mb-0",
+    "text_preview": "Lunes a Viernes de 09:00 a 17:00 Sábados de 10:00 a 16:00"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "result",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "social-buttons",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group nombre",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group email",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "copyright pull-right col-md-6 ta-l dataFiscal",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content bg-none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect waves-light bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-red btn-raised btn-fab p-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title ta-l titulo",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "col-6 pl-0 pull-left captcha mt-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "py-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  }
+]

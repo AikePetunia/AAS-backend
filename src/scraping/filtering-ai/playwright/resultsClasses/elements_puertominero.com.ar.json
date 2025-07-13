@@ -1,0 +1,257 @@
+[
+  {
+    "tag": "a",
+    "class": "whatsapp-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-full px-5 mt-5 mb-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "flex justify-between items-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "flex space-x-5 items-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-full mt-5 px-5",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "flex-1 bg-white h-full border border-r-0 border-[#E9E9E9]",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-[40px] h-full bg-qh3-blue flex justify-center items-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "category-item",
+    "text_preview": "Productos"
+  },
+  {
+    "tag": "div",
+    "class": "flex justify-between items-center px-5 h-12 bg-white hover:bg-qh3-blue transition-all duration-300 ease-in-out cursor-pointer",
+    "text_preview": "Productos"
+  },
+  {
+    "tag": "div",
+    "class": "flex items-center space-x-6",
+    "text_preview": "Productos"
+  },
+  {
+    "tag": "span",
+    "class": "text-sm font-400",
+    "text_preview": "Productos"
+  },
+  {
+    "tag": "li",
+    "class": "category-item",
+    "text_preview": "Vendé Tus Placas"
+  },
+  {
+    "tag": "div",
+    "class": "flex justify-between items-center px-5 h-12 bg-white hover:bg-qh3-blue transition-all duration-300 ease-in-out cursor-pointer",
+    "text_preview": "Vendé Tus Placas"
+  },
+  {
+    "tag": "div",
+    "class": "flex items-center space-x-6",
+    "text_preview": "Vendé Tus Placas"
+  },
+  {
+    "tag": "span",
+    "class": "text-sm font-400",
+    "text_preview": "Vendé Tus Placas"
+  },
+  {
+    "tag": "li",
+    "class": "category-item",
+    "text_preview": "Reparación y Mantenimiento"
+  },
+  {
+    "tag": "div",
+    "class": "flex justify-between items-center px-5 h-12 bg-white hover:bg-qh3-blue transition-all duration-300 ease-in-out cursor-pointer",
+    "text_preview": "Reparación y Mantenimiento"
+  },
+  {
+    "tag": "div",
+    "class": "flex items-center space-x-6",
+    "text_preview": "Reparación y Mantenimiento"
+  },
+  {
+    "tag": "span",
+    "class": "text-sm font-400",
+    "text_preview": "Reparación y Mantenimiento"
+  },
+  {
+    "tag": "div",
+    "class": "cursor-pointer pl-[25px]",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "flex-1 h-full",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cart relative cursor-pointer",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-full h-[50px]",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "relative rounded-full text-sm px-[20px] py-[14px] text-pm-btn-text font-semibold transition-colors duration-300 w-full bg-pm-primary-hover text-white hover:bg-pm-primary hover:text-white active:bg-pm-primary-active active:text-white",
+    "text_preview": "Ver Productos"
+  },
+  {
+    "tag": "div",
+    "class": "w-full h-full flex justify-between items-center px-5",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cursor-pointer",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cart relative cursor-pointer",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "relative",
+    "text_preview": "Productos"
+  },
+  {
+    "tag": "span",
+    "class": "flex items-center text-sm font-archivo cursor-pointer hover:font-semibold font-600",
+    "text_preview": "Productos"
+  },
+  {
+    "tag": "span",
+    "class": "flex items-center text-sm font-archivo cursor-pointer hover:font-semibold ",
+    "text_preview": "Vendé Tus Placas"
+  },
+  {
+    "tag": "span",
+    "class": "flex items-center text-sm font-archivo cursor-pointer hover:font-semibold ",
+    "text_preview": "Reparación y Mantenimiento"
+  },
+  {
+    "tag": "div",
+    "class": "bg-pm-bg h-[70px]",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "arrow-icon text-black",
+    "text_preview": "▼"
+  },
+  {
+    "tag": "div",
+    "class": "my-select-box-section ",
+    "text_preview": "AlfabéticamenteMenor precioMayor precio"
+  },
+  {
+    "tag": "ul",
+    "class": "list",
+    "text_preview": "AlfabéticamenteMenor precioMayor precio"
+  },
+  {
+    "tag": "li",
+    "class": "selected",
+    "text_preview": "Alfabéticamente"
+  },
+  {
+    "tag": "span",
+    "class": "ml-[8px]",
+    "text_preview": "Alfabéticamente"
+  },
+  {
+    "tag": "span",
+    "class": "ml-[8px]",
+    "text_preview": "Menor precio"
+  },
+  {
+    "tag": "span",
+    "class": "ml-[8px]",
+    "text_preview": "Mayor precio"
+  },
+  {
+    "tag": "div",
+    "class": "min-h-[800px]",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-full lg:flex lg:space-x-[30px]",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "lg:w-[270px]",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "flex-1",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "grid xl:grid-cols-4 lg-xl:grid-cols-3 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-[12px] gap-y-[35px] mb-[40px]",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "mx-auto mb-[10px]",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "font-700 text-black mx-1 underline",
+    "text_preview": "Puerto Minero"
+  },
+  {
+    "tag": "div",
+    "class": "py-[20px] sm:py-[50px]",
+    "text_preview": "Av. Belgrano 427, C1095 CABA, Argentina011 6203-2422"
+  },
+  {
+    "tag": "div",
+    "class": "flex space-x-5 items-center",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "text-black font-400 text-[13px] mt-[15px]",
+    "text_preview": "Av. Belgrano 427, C1095 CABA, Argentina"
+  },
+  {
+    "tag": "p",
+    "class": "text-black font-400 text-[13px]",
+    "text_preview": "011 6203-2422"
+  },
+  {
+    "tag": "a",
+    "class": "font-700 text-black mx-1 underline",
+    "text_preview": "Puerto Minero"
+  }
+]

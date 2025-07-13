@@ -1,0 +1,4712 @@
+[
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "link",
+    "class": "js-favicon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-red btn-raised btn-fab btn-buscar",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "p-2 open",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mr-2 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": " pr-0 pl-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-0 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left btn-mi-cuenta",
+    "text_preview": "ingresar"
+  },
+  {
+    "tag": "span",
+    "class": "mt-2 d-i-b ml-1 txt-ingresar",
+    "text_preview": "ingresar"
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-link pl-2 pr-2 pull-left mini-cart",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "ml-3  my-4 mt-2 show-res",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": " pr-0 pl-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-0 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "mr-2 show-res pl-4 mt-2 promocion-btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "mw-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "section-space",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "panel panel-default panel-rose ",
+    "text_preview": "AURICULAR (5)\n\t\t\t\t\t\t\t\t\t\t KIT TECLADO Y MOUSE (5)\n\t\t\t\t\t\t\t\t\t\t MICROFONOS (5)\n\t\t\t\t\t\t\t\t\t\t MOUSE (5)\n\t\t\t\t"
+  },
+  {
+    "tag": "div",
+    "class": "panel-body pl-0 pr-0 pt-0",
+    "text_preview": "AURICULAR (5)\n\t\t\t\t\t\t\t\t\t\t KIT TECLADO Y MOUSE (5)\n\t\t\t\t\t\t\t\t\t\t MICROFONOS (5)\n\t\t\t\t\t\t\t\t\t\t MOUSE (5)\n\t\t\t\t"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "AURICULAR (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "KIT TECLADO Y MOUSE (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "MICROFONOS (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "MOUSE (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "MOUSEPAD (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "PARLANTE (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "TECLADO (5)"
+  },
+  {
+    "tag": "a",
+    "class": "menu-item waves-effect waves-light",
+    "text_preview": "WEBCAM (5)"
+  },
+  {
+    "tag": "div",
+    "class": "col-lg-12 marcas_filtros ta-c mb-3 cate slick-initialized slick-slider",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-list draggable",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "slick-track",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "precio Menor a Mayor"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "precio Mayor a Menor"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "de la A  a la  Z"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "de la Z  a la  A"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "más nuevos"
+  },
+  {
+    "tag": "a",
+    "class": "px-2",
+    "text_preview": "más viejos"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121403 marca_no ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "RAP-MOU-PAD-AD-212603                                                    \n                          "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "RAP-MOU-PAD-AD-212603                                                    \n                          "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "RAP-MOU-PAD-AD-212603"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Pad Raptor Ultra Glide Antideslizante Impermeable S (260x210x3mm) (7350)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$2.303$2.303$1.842Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$2.303$2.303$1.842Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$2.303"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$1.842Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010116100                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010116100                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010116100"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius DX-110 USB Black (1477)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.008$5.008$4.006Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.008$5.008$4.006Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.008"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.006Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010105100                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010105100                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010105100"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius DX-120 USB Black (0975)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.008$5.008$4.006Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.008$5.008$4.006Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.008"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.006Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010116106                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010116106                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010116106"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius DX-110 PS2 Black (1552)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.008$5.008$4.006Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.008$5.008$4.006Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.008"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.006Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010105102                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010105102                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010105102"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius DX-120 USB White (0982)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.008$5.008$4.006Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.008$5.008$4.006Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.008"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.006Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010033401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010033401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010033401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Rs2 Dx-123 Black Usb-a Black Blue"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.138$5.138$4.110Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.138$5.138$4.110Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.138"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.110Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010033400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010033400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010033400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Rs2 Dx-123 Black Usb-a Black Grey"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.138$5.138$4.110Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.138$5.138$4.110Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.138"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.110Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010027400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010027400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010027400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Dx-125s Usb Black+grey"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.229$5.229$4.183Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.229$5.229$4.183Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.229"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.183Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010116103                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010116103                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010116103"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius DX-110 USB Blue (1491)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.357$5.357$4.286Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.357$5.357$4.286Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$5.357"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.286Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_2028 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "910-004053                                                    \n                                     "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "910-004053                                                    \n                                     "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "910-004053"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech M90 Dark Midnight Gray 910-004053"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.212$6.212$4.970Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.212$6.212$4.970Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.212"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4.970Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121403 marca_no ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "RAP-MOU-PAD-AD-44503                                                    \n                           "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "RAP-MOU-PAD-AD-44503                                                    \n                           "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "RAP-MOU-PAD-AD-44503"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Pad Raptor Ultra Glide Antideslizante Impermeable L (450x400x3mm) (7282)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.473$6.473$5.178Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.473$6.473$5.178Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.473"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.178Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "24271                                                    \n                                          "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "24271                                                    \n                                          "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "24271"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Trust Basi Wired"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.858$6.858$5.486Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.858$6.858$5.486Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.858"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.486Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "23733                                                    \n                                          "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "23733                                                    \n                                          "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "23733"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Trust Carve Wired"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$6.883$6.883$5.506Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$6.883$6.883$5.506Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$6.883"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.506Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31710151104                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31710151104"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$8.510$8.510$6.808Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$8.510$8.510$6.808Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$8.510"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$6.808Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010125103                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010125103                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010125103"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Micro Trav Retrac Ruby"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$8.967$8.967$7.174Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$8.967$8.967$7.174Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$8.967"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.174Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31010125104                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31010125104                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31010125104"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Micro Trav Retrac White"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$8.967$8.967$7.174Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$8.967$8.967$7.174Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$8.967"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.174Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_2028 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "910-001601                                                    \n                                     "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "910-001601                                                    \n                                     "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "910-001601"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech M100 Black 910-001601"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9.004$9.004$7.203Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.004$9.004$7.203Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$9.004"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.203Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_2028 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "910-006756                                                    \n                                     "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "910-006756                                                    \n                                     "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "910-006756"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech M110 Silent Black 910-006756 (1138)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9.353$9.353$7.482Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.353$9.353$7.482Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$9.353"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.482Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_2028 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "910-006757                                                    \n                                     "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "910-006757                                                    \n                                     "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "910-006757"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech M110 Silent Gray 910-006757"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9.353$9.353$7.482Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.353$9.353$7.482Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$9.353"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.482Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31710005412                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31710005412"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9.387$9.387$7.510Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.387$9.387$7.510Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$9.387"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.510Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_0 ",
+    "text_preview": "elit                                                                        \n                       "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "elit                                                                        \n                       "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "elit"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "910-006755                                                    \n                                     "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "910-006755                                                    \n                                     "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "910-006755"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech M110 Rojo"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9.700$9.700$7.760Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.700$9.700$7.760Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$9.700"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.760Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_0 ",
+    "text_preview": "elit                                                                        \n                       "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "elit                                                                        \n                       "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "elit"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "910-006662                                                    \n                                     "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "910-006662                                                    \n                                     "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "910-006662"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Logitech M110 Silent Azul"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9.700$9.700$7.760Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.700$9.700$7.760Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$9.700"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.760Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121406 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31300005401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31300005401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31300005401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Genius Smart KB-100 Black USB (5574)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$9.893$9.893$7.914Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$9.893$9.893$7.914Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$9.893"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$7.914Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030026403                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030026403                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030026403"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Rs2 Nx-7007 Black New"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.252"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030026405                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030026405                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030026405"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Rs2 Nx-7007 Blue New"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.252"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030030400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030030400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030030400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Rs2 Nx-7009 Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.252"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030030401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030030401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030030401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Rs2 Nx-7009 Blue Grey"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.252"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030026404                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030026404                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030026404"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Rs2 Nx-7007 Red New"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.252$10.252$8.202Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.252"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.202Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030027400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030027400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030027400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Nx-7000 Black Wireless New G5"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.446$10.446$8.357Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.446$10.446$8.357Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.446"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.357Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030027402                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030027402                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030027402"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Nx-7000 Blue Wireless New G5"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.446$10.446$8.357Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.446$10.446$8.357Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.446"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.357Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030027401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030027401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030027401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Nx-7000 White Wireless New G5"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.446$10.446$8.357Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.446$10.446$8.357Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.446"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.357Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030033400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030033400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030033400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Nx-7000x Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.446$10.446$8.357Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.446$10.446$8.357Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.446"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.357Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121406 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31300008401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31300008401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31300008401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Genius Rs2 Kb-116 Sp Blk"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.585$10.585$8.468Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.585$10.585$8.468Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.585"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.468Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121406 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31310016401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31310016401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31310016401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Genius Rs2 Kb-117 Sp Usb Blk"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.585$10.585$8.468Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.585$10.585$8.468Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.585"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.468Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121406 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31300017401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31300017401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31300017401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Genius Rs2 Kb-117s Ai Sp Blk Usb"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.629$10.629$8.503Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.629$10.629$8.503Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.629"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.503Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121406 marca_2488 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "KL-COMBO-TEC-MOU-WIRED                                                    \n                         "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "KL-COMBO-TEC-MOU-WIRED                                                    \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "KL-COMBO-TEC-MOU-WIRED"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado+Mouse Kelyx USB Cableado Negro (7107)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.714$10.714$8.571Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.714$10.714$8.571Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.714"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.571Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030043400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030043400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030043400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Rs2 Nx-7123 Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.767$10.767$8.614Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.767$10.767$8.614Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.767"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.614Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030043401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030043401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030043401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius Rs2 Nx-7123 Black Blue"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.767$10.767$8.614Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.767$10.767$8.614Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.767"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.614Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "24794                                                    \n                                          "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "24794                                                    \n                                          "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "24794"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Matt Trust Primo Wireless Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.854$10.854$8.683Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.854$10.854$8.683Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.854"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.683Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121406 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31300019400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31300019400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31300019400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Genius Numerico Numpad 125 Usb-a Black"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$10.884$10.884$8.707Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$10.884$10.884$8.707Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$10.884"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.707Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030025401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030025401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030025401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius NX-8000S BlueEye Red (9121)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$11.028$11.028$8.822Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.028$11.028$8.822Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$11.028"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.822Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030025400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030025400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030025400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius NX-8000S BlueEye Black (9077)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$11.028$11.028$8.822Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.028$11.028$8.822Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$11.028"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$8.822Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121406 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31300016400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31300016400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31300016400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "NumPad Genius 110 USB (9251)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$11.516$11.516$9.213Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.516$11.516$9.213Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$11.516"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$9.213Precio especial"
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31710037100                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31710037100"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$11.555$11.555$9.244Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.555$11.555$9.244Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$11.555"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$9.244Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "24795                                                    \n                                          "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "24795                                                    \n                                          "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "24795"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Matt Trust Primo Wireless White"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$11.638$11.638$9.310Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.638$11.638$9.310Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$11.638"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$9.310Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "24796                                                    \n                                          "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "24796                                                    \n                                          "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "24796"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Matt Trust Primo Wireless Blue"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$11.638$11.638$9.310Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.638$11.638$9.310Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$11.638"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$9.310Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121404 marca_1856 ",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "invid                                                                        \n                      "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "invid"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31030024400                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31030024400                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31030024400"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Genius NX-8006S BlueEye Black (9060)"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$11.638$11.638$9.310Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$11.638$11.638$9.310Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$11.638"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$9.310Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-121406 marca_ ",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "nb                                                                        \n                         "
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "nb"
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "31310051401                                                    \n                                    "
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "31310051401                                                    \n                                    "
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "31310051401"
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock"
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Teclado Genius Rs2 Kb-118 Ii Sp Usb Blk"
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$12.082$12.082$9.666Precio especial"
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$12.082$12.082$9.666Precio especial"
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web show  tachado_0",
+    "text_preview": "$12.082"
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$9.666Precio especial"
+  },
+  {
+    "tag": "li",
+    "class": "active",
+    "text_preview": "1"
+  },
+  {
+    "tag": "h3",
+    "class": "t-shadow mt-2",
+    "text_preview": "2213183837"
+  },
+  {
+    "tag": "a",
+    "class": "text-white",
+    "text_preview": "2213183837"
+  },
+  {
+    "tag": "h5",
+    "class": "t-shadow mt-0 mb-0",
+    "text_preview": "2213183837 (solo texto)"
+  },
+  {
+    "tag": "a",
+    "class": "text-white",
+    "text_preview": "2213183837 (solo texto)"
+  },
+  {
+    "tag": "h5",
+    "class": "t-shadow mt-0 mb-0",
+    "text_preview": "2213183837 (solo texto)"
+  },
+  {
+    "tag": "a",
+    "class": "text-white",
+    "text_preview": "2213183837 (solo texto)"
+  },
+  {
+    "tag": "h5",
+    "class": "t-shadow mt-0 mb-0",
+    "text_preview": "de Lunes a Viernes de 10:00 a 18:00"
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-6 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "result",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 pull-left mt-0 pt-0",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": "TABLA DE INTERESES\n                                       \n                                      \n  "
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": "TABLA DE INTERESES\n                                       \n                                      \n  "
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": "TABLA DE INTERESES\n                                       \n                                      \n  "
+  },
+  {
+    "tag": "div",
+    "class": "card-content",
+    "text_preview": "TABLA DE INTERESES\n                                       \n                                      \n  "
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": "TABLA DE INTERESES\n                                       \n                                      \n  "
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12",
+    "text_preview": "TABLA DE INTERESES\n                                       \n                                      \n  "
+  },
+  {
+    "tag": "ul",
+    "class": "social-buttons",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-facebook",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-twitter ",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-google",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-just-icon btn-round btn-twitch",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group nombre",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group email",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "copyright pull-right col-md-6 ta-l dataFiscal",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content bg-none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-12",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group md-form my-0 waves-light waves-effect waves-light bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-red btn-raised btn-fab p-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title ta-l titulo",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "col-6 pl-0 pull-left captcha mt-4",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "bmd-form-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "p",
+    "class": "py-3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  }
+]

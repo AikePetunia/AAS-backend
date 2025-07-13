@@ -1,0 +1,2122 @@
+[
+  {
+    "tag": "div",
+    "class": "l-subheader at_top",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_center",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html ush_html_1",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-text-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-text-value",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image ush_image_1",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-image-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-large size-large",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_center",
+    "text_preview": "Búsqueda de productos"
+  },
+  {
+    "tag": "div",
+    "class": "w-form-row for_text",
+    "text_preview": "Búsqueda de productos"
+  },
+  {
+    "tag": "div",
+    "class": "w-form-row-field",
+    "text_preview": "Búsqueda de productos"
+  },
+  {
+    "tag": "div",
+    "class": "dgwt-wcas-sf-wrapp",
+    "text_preview": "Búsqueda de productos"
+  },
+  {
+    "tag": "div",
+    "class": "dgwt-wcas-preloader",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-cart-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-cart-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-cart-quantity",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "product-name",
+    "text_preview": "Producto"
+  },
+  {
+    "tag": "div",
+    "class": "widget woocommerce widget_shopping_cart",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "widget_shopping_cart_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "cart-customlocation imsAjaxCartCount",
+    "text_preview": "0 items  $0,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$0,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "0,00"
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_left",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-subheader-cell at_right",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "div",
+    "class": "nsl-button nsl-button-default nsl-button-google",
+    "text_preview": "Ingresar"
+  },
+  {
+    "tag": "div",
+    "class": "w-html ush_html_4",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "nsl-button nsl-button-icon nsl-button-google",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "g-breadcrumbs-separator",
+    "text_preview": "/"
+  },
+  {
+    "tag": "div",
+    "class": "g-breadcrumbs-item",
+    "text_preview": "Hardware"
+  },
+  {
+    "tag": "button",
+    "class": "w-btn us-btn-style_1",
+    "text_preview": "Aplicar"
+  },
+  {
+    "tag": "span",
+    "class": "w-btn-label",
+    "text_preview": "Aplicar"
+  },
+  {
+    "tag": "h1",
+    "class": "w-post-elm post_title us_custom_fe886e40 entry-title color_link_inherit",
+    "text_preview": "Hardware"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Disco Solido Kingston A400 240GB$43.490,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Disco Solido Kingston A400 240GB"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$43.490,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$43.490,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "43.490,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Disco Solido Western Digital Green 240GB$38.660,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Disco Solido Western Digital Green 240GB"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$38.660,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$38.660,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "38.660,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Disco Solido Kingston A400 960GB$97.400,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Disco Solido Kingston A400 960GB"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$97.400,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$97.400,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "97.400,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Memoria Crucial Ddr4 8GB 2666Mhz C17$43.776,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Memoria Crucial Ddr4 8GB 2666Mhz C17"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$43.776,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$43.776,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "43.776,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Fuente Coolermaster G 800W 80 Plus Gold$212.706,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Fuente Coolermaster G 800W 80 Plus Gold"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$212.706,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$212.706,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "212.706,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Memoria Crucial Ddr4 8GB 3200Mhz C22$35.648,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Memoria Crucial Ddr4 8GB 3200Mhz C22"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$35.648,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$35.648,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "35.648,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Memoria Kingston Fury Beast Ddr4 8GB 3200Mhz C16 RGB$48.540,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Memoria Kingston Fury Beast Ddr4 8GB 3200Mhz C16 RGB"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$48.540,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$48.540,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "48.540,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Fuente Thermaltake Smart 500W 80Plus White$71.790,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Fuente Thermaltake Smart 500W 80Plus White"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$71.790,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$71.790,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "71.790,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Cooler Coolermaster Hyper H411R Blanco$48.666,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Cooler Coolermaster Hyper H411R Blanco"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$48.666,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$48.666,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "48.666,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Pendrive Kingston DTXM 64Gb (3.2)$8.830,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Pendrive Kingston DTXM 64Gb (3.2)"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$8.830,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$8.830,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "8.830,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Pendrive Hikvision M200 64GB$17.139,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Pendrive Hikvision M200 64GB"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$17.139,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$17.139,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "17.139,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Pendrive Kingston DT70 128GB USB-C (3.2)$28.415,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Pendrive Kingston DT70 128GB USB-C (3.2)"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$28.415,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$28.415,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "28.415,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Memoria Kingston Fury Beast 2 Ddr4 32GB 3200Mhz C16 RGB$147.157,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Memoria Kingston Fury Beast 2 Ddr4 32GB 3200Mhz C16 RGB"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$147.157,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$147.157,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "147.157,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Pendrive Kingston DT70 256GB USB-C (3.2)$40.321,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Pendrive Kingston DT70 256GB USB-C (3.2)"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$40.321,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$40.321,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "40.321,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Motherboard AM4 Gigabyte B450M DS3H$160.000,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Motherboard AM4 Gigabyte B450M DS3H"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$160.000,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$160.000,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "160.000,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Fuente Sentey Sdp 650W Fx 80Plus White$107.520,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Fuente Sentey Sdp 650W Fx 80Plus White"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$107.520,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$107.520,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "107.520,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Gabinete Naxido x500 + Fuente 850 White$289.280,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Gabinete Naxido x500 + Fuente 850 White"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$289.280,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$289.280,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "289.280,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Motherboard AM5 Msi X670E Gaming Plus D5 Wifi$498.976,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Motherboard AM5 Msi X670E Gaming Plus D5 Wifi"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$498.976,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$498.976,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "498.976,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Disco Solido Hiksemi Wave 120GB$15.130,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Disco Solido Hiksemi Wave 120GB"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$15.130,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$15.130,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "15.130,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_1",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "span",
+    "class": "us-btn-style_8",
+    "text_preview": "Entrega inmediata"
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_3",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-us_content_template_the_content",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "tinvwl-tooltip",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-html usg_html_2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-post-elm post_image usg_post_image_1 stretched",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-vwrapper usg_vwrapper_1 align_center valign_top",
+    "text_preview": "Disco Solido Hiksemi Wave 240GB$25.950,00"
+  },
+  {
+    "tag": "h2",
+    "class": "w-post-elm post_title usg_post_title_1 has_text_color woocommerce-loop-product__title color_link_inherit",
+    "text_preview": "Disco Solido Hiksemi Wave 240GB"
+  },
+  {
+    "tag": "p",
+    "class": "w-post-elm product_field price usg_product_field_3",
+    "text_preview": "$25.950,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "$25.950,00"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-currencySymbol",
+    "text_preview": "$"
+  },
+  {
+    "tag": "span",
+    "class": "woocommerce-Price-amount amount",
+    "text_preview": "25.950,00"
+  },
+  {
+    "tag": "div",
+    "class": "w-grid-preloader",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "g-preloader type_1",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "page-numbers current",
+    "text_preview": "1"
+  },
+  {
+    "tag": "a",
+    "class": "page-numbers",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "page-numbers",
+    "text_preview": "3"
+  },
+  {
+    "tag": "a",
+    "class": "page-numbers",
+    "text_preview": "4"
+  },
+  {
+    "tag": "span",
+    "class": "page-numbers dots",
+    "text_preview": "…"
+  },
+  {
+    "tag": "a",
+    "class": "page-numbers",
+    "text_preview": "130"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_medium",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-section-img",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_large",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-text us_custom_eaf88030",
+    "text_preview": "Hardware"
+  },
+  {
+    "tag": "span",
+    "class": "w-text-h",
+    "text_preview": "Hardware"
+  },
+  {
+    "tag": "span",
+    "class": "w-text-value",
+    "text_preview": "Hardware"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "Microprocesadores AMDMicroprocesadores INTELMotherboards INTELMotherboards AMDDiscosGabinetesMemoria"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9871",
+    "text_preview": "Microprocesadores AMD"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9872",
+    "text_preview": "Microprocesadores INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9874",
+    "text_preview": "Motherboards INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9873",
+    "text_preview": "Motherboards AMD"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9867",
+    "text_preview": "Discos"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9869",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9870",
+    "text_preview": "Memorias RAM"
+  },
+  {
+    "tag": "div",
+    "class": "w-text us_custom_eaf88030",
+    "text_preview": "Equipos"
+  },
+  {
+    "tag": "span",
+    "class": "w-text-h",
+    "text_preview": "Equipos"
+  },
+  {
+    "tag": "span",
+    "class": "w-text-value",
+    "text_preview": "Equipos"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "Notebooks GamerNotebooks De OficinaPC AMDPC INTEL"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4283",
+    "text_preview": "Notebooks Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10151",
+    "text_preview": "Notebooks De Oficina"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4285",
+    "text_preview": "PC AMD"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4286",
+    "text_preview": "PC INTEL"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-text us_custom_eaf88030",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "span",
+    "class": "w-text-h",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "span",
+    "class": "w-text-value",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "ul",
+    "class": "menu",
+    "text_preview": "ParlantesSillasMousesAuricularesJoysticksKit De PerifericosMicrofonosAuriculares CableadosAuriculare"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4287",
+    "text_preview": "Parlantes"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4288",
+    "text_preview": "Sillas"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9858",
+    "text_preview": "Mouses"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9859",
+    "text_preview": "Auriculares"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9860",
+    "text_preview": "Joysticks"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9861",
+    "text_preview": "Kit De Perifericos"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9862",
+    "text_preview": "Microfonos"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9863",
+    "text_preview": "Auriculares Cableados"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9864",
+    "text_preview": "Auriculares Gamer Cableados"
+  },
+  {
+    "tag": "li",
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9865",
+    "text_preview": "Auriculares Gamer Wireless"
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-socials us_custom_b4198c51 color_text shape_none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-socials-list",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-socials-item instagram",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-socials-item-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-socials-item-link-hover",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-socials-item facebook",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-socials-item-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-socials-item-link-hover",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-socials-item tiktok",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-socials-item-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-socials-item-link-hover",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-socials-item whatsapp",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-socials-item-link",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-socials-item-link-hover",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-hwrapper valign_top align_none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image align_none",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-image-h",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "attachment-dgwt-wcas-product-suggestion size-dgwt-wcas-product-suggestion",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_raw_code wpb_content_element wpb_raw_html us_custom_1ba6a17a",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "l-section-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_small",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_text_column us_custom_1b04de86",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "wpb_wrapper",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "wp-image-9454 aligncenter",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-separator size_large",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-header-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "xlwcty_header_passed",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dgwt-wcas-suggestions-wrapp woocommerce dgwt-wcas-has-img dgwt-wcas-has-price dgwt-wcas-has-sku dgwt-wcas-has-headings js-dgwt-wcas-initialized",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "dgwt-wcas-details-wrapp woocommerce js-dgwt-wcas-initialized",
+    "text_preview": ""
+  }
+]

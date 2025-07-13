@@ -1,0 +1,3662 @@
+[
+  {
+    "tag": "img",
+    "class": "help-center-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "help-center-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": "Eso que querés.. buscalo acá\n                                \n            \n          \n        \n\n    "
+  },
+  {
+    "tag": "div",
+    "class": "col-sm-6 col-xs-9 logo-front",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive img-logo",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-xs-15 text-right user-cart visible-xs",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-group",
+    "text_preview": "Eso que querés.. buscalo acá"
+  },
+  {
+    "tag": "span",
+    "class": "input-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "input-group-addon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header__usuario",
+    "text_preview": "Bienvenida/o Usuario                \n                            \n                \n                 "
+  },
+  {
+    "tag": "a",
+    "class": "carritoHeader",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "cantProductos",
+    "text_preview": "0"
+  },
+  {
+    "tag": "span",
+    "class": "icon-bar",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "icon-bar",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "icon-bar",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-links",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "h-icon glyphicon glyphicon-shopping-cart",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "cart-ativity",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "login-button",
+    "text_preview": "Ingresar a mi usuario"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-user",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "text-login",
+    "text_preview": "Ingresar a mi usuario"
+  },
+  {
+    "tag": "img",
+    "class": "help-center-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "help-center-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "help-center-icon",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "divisor-menu",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Componentes de PC\n            \n            \n              \n              Componentes de PC\n         "
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "TodosDiscos Duros MecánicosDiscos Sólidos SSD \n                Memorias Ram\n                \n       "
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Discos Duros Mecánicos"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Discos Sólidos SSD"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Memorias Ram\n                \n            DesktopNotebook"
+  },
+  {
+    "tag": "div",
+    "class": "sidenav",
+    "text_preview": "DesktopNotebook"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "DesktopNotebook"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Microprocesadores"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Motherboards\n                \n            AMDIntel"
+  },
+  {
+    "tag": "div",
+    "class": "sidenav",
+    "text_preview": "AMDIntel"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "AMDIntel"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Placas de Sonido"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Pastas Térmicas"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Placas de Red"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Refrigeración\n                \n            Coolers y Water CoolersFan Coolers"
+  },
+  {
+    "tag": "div",
+    "class": "sidenav",
+    "text_preview": "Coolers y Water CoolersFan Coolers"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "Coolers y Water CoolersFan Coolers"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Combos de Actualización"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "PC de escritorio\n            \n            \n              \n              PC de escritorio\n           "
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "PC de escritorio"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "PC de escritorio"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "PC de escritorio"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "TodosPCs de EscritorioMini PCsCombos de ActualizaciónPowered By Asus"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "PCs de Escritorio"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Mini PCs"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Combos de Actualización"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Powered By Asus"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Monitores\n            \n            \n              \n              Monitores\n            \n            "
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "Todos19 a 26 pulgadas27 a 32 pulgadas33 pulgadas y superiorProyectores y Pantallas"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "19 a 26 pulgadas"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "27 a 32 pulgadas"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "33 pulgadas y superior"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Proyectores y Pantallas"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Periféricos\n            \n            \n              \n              Periféricos\n            \n        "
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "TodosTecladosGaming KitTeclados + MouseMousepadsMouse \n                Auriculares\n                \n"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Gaming Kit"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Teclados + Mouse"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Auriculares\n                \n            GamerOficina y Urbano"
+  },
+  {
+    "tag": "div",
+    "class": "sidenav",
+    "text_preview": "GamerOficina y Urbano"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "GamerOficina y Urbano"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Parlantes\n                \n            Para PcPortátiles"
+  },
+  {
+    "tag": "div",
+    "class": "sidenav",
+    "text_preview": "Para PcPortátiles"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "Para PcPortátiles"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Joystick y Volantes"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Webcams"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Punteros Láser y Presentadores"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Lectores Código de Barras"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Micrófonos"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Access Point"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Modem Router"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Routers"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Impresión y Scanners\n            \n            \n              \n              Impresión y Scanners\n   "
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "Impresión y Scanners"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "Impresión y Scanners"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "Impresión y Scanners"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "TodosImpresoras LáserImpresoras Sistema ContínuoImpresoras Inyección de TintaImpresoras Térmicas \n  "
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Impresoras Láser"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Impresoras Sistema Contínuo"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Impresoras Inyección de Tinta"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Impresoras Térmicas"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Impresión 3D\n                \n            Impresoras 3DConsumibles"
+  },
+  {
+    "tag": "div",
+    "class": "sidenav",
+    "text_preview": "Impresoras 3DConsumibles"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "Impresoras 3DConsumibles"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Toners"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Cartuchos de Tinta"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Relojes SmartWatch"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Relojes SmartWatch"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Almacenamiento Portátil\n            \n            \n              \n              Almacenamiento Portát"
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "Almacenamiento Portátil"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "Almacenamiento Portátil"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "Almacenamiento Portátil"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "TodosMicroSDPendrivesDiscos Externos"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "MicroSD"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Pendrives"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Discos Externos"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Tablets"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Tablets"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Tabletas Digitalizadoras"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Tabletas Digitalizadoras"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Televisores y TV Box\n            \n            \n              \n              Televisores y TV Box\n   "
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "Televisores y TV Box"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "Televisores y TV Box"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "Televisores y TV Box"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "TodosSmart TVsTV Box"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Smart TVs"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "TV Box"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Streaming"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Streaming"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Software"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Software"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Camaras IP"
+  },
+  {
+    "tag": "a",
+    "class": "submenu-link",
+    "text_preview": "Camaras IP"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Accesorios\n            \n            \n              \n              Accesorios\n            \n          "
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "TodosFundas y MochilasBases RrefrigerantesCargadoresCablesMerchandising"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Fundas y Mochilas"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Bases Rrefrigerantes"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Cargadores"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Cables"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Merchandising"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Sillas Gamers\n            \n            \n              \n              Sillas Gamers\n            \n    "
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "Sillas Gamers"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "Sillas Gamers"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "Sillas Gamers"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "TodosSillas Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Estabilizadores, UPS y Zapatillas\n            \n            \n              \n              Estabilizad"
+  },
+  {
+    "tag": "span",
+    "class": "sub-title",
+    "text_preview": "Estabilizadores, UPS y Zapatillas"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-submenu",
+    "text_preview": "Estabilizadores, UPS y Zapatillas"
+  },
+  {
+    "tag": "a",
+    "class": "backbtn-sub",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "title-menu",
+    "text_preview": "Estabilizadores, UPS y Zapatillas"
+  },
+  {
+    "tag": "ul",
+    "class": "dl-menu-reps",
+    "text_preview": "TodosEstabilizadoresUPSZapatillas"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Estabilizadores"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "UPS"
+  },
+  {
+    "tag": "li",
+    "class": "l-menu-resp",
+    "text_preview": "Zapatillas"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Componentes de PC\n            \n\n                      \n\n                    \n           \n           "
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Componentes de PC"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "Discos Duros Mecánicos\n                        \n                      \n                        \n    "
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "Discos Duros Mecánicos\n                        \n                      \n                        \n    "
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Discos Duros Mecánicos"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Discos Duros Mecánicos"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Discos Duros Mecánicos"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Discos Sólidos SSD"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Discos Sólidos SSD"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Discos Sólidos SSD"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Memorias Ram\n                        \n                              \n                               "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Memorias Ram"
+  },
+  {
+    "tag": "div",
+    "class": "sub-submenu-cont clearfix",
+    "text_preview": "Desktop\n                                \n                              \n                            "
+  },
+  {
+    "tag": "div",
+    "class": "sub-smc-list",
+    "text_preview": "Desktop\n                                \n                              \n                            "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Desktop"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Desktop"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Notebook"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Notebook"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Microprocesadores"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Microprocesadores"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Microprocesadores"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Motherboards\n                        \n                              \n                               "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Motherboards"
+  },
+  {
+    "tag": "div",
+    "class": "sub-submenu-cont clearfix",
+    "text_preview": "AMD\n                                \n                              \n                                "
+  },
+  {
+    "tag": "div",
+    "class": "sub-smc-list",
+    "text_preview": "AMD\n                                \n                              \n                                "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "AMD"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "AMD"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Intel"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Intel"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Gabinetes"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Placas de Sonido"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Placas de Sonido"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Placas de Sonido"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Fuentes"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Pastas Térmicas"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Pastas Térmicas"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Pastas Térmicas"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Placas de Red"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Placas de Red"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Placas de Red"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Refrigeración\n                        \n                              \n                              "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Refrigeración"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Refrigeración"
+  },
+  {
+    "tag": "div",
+    "class": "sub-submenu-cont clearfix",
+    "text_preview": "Coolers y Water Coolers\n                                \n                              \n            "
+  },
+  {
+    "tag": "div",
+    "class": "sub-smc-list",
+    "text_preview": "Coolers y Water Coolers\n                                \n                              \n            "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Coolers y Water Coolers"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Coolers y Water Coolers"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Fan Coolers"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Fan Coolers"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Combos de Actualización"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Combos de Actualización"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Combos de Actualización"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "PC de escritorio\n            \n\n                      \n\n                    \n           \n            "
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "PC de escritorio"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "PC de escritorio"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "PCs de Escritorio\n                        \n                      \n                        \n         "
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "PCs de Escritorio\n                        \n                      \n                        \n         "
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "PCs de Escritorio"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "PCs de Escritorio"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "PCs de Escritorio"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Mini PCs"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Mini PCs"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Mini PCs"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Combos de Actualización"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Combos de Actualización"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Combos de Actualización"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Powered By Asus"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Powered By Asus"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Powered By Asus"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Monitores\n            \n\n                      \n\n                    \n           \n              \n    "
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "19 a 26 pulgadas\n                        \n                      \n                        \n          "
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "19 a 26 pulgadas\n                        \n                      \n                        \n          "
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "19 a 26 pulgadas"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "19 a 26 pulgadas"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "19 a 26 pulgadas"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "27 a 32 pulgadas"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "27 a 32 pulgadas"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "27 a 32 pulgadas"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "33 pulgadas y superior"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "33 pulgadas y superior"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "33 pulgadas y superior"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Proyectores y Pantallas"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Proyectores y Pantallas"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Proyectores y Pantallas"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Periféricos\n            \n\n                      \n\n                    \n           \n              \n  "
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "Teclados\n                        \n                      \n                        \n                  "
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "Teclados\n                        \n                      \n                        \n                  "
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Teclados"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Gaming Kit"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Gaming Kit"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Gaming Kit"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Teclados + Mouse"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Teclados + Mouse"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Teclados + Mouse"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Mousepads"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Mouse"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Auriculares\n                        \n                              \n                                "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Auriculares"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Auriculares"
+  },
+  {
+    "tag": "div",
+    "class": "sub-submenu-cont clearfix",
+    "text_preview": "Gamer\n                                \n                              \n                              "
+  },
+  {
+    "tag": "div",
+    "class": "sub-smc-list",
+    "text_preview": "Gamer\n                                \n                              \n                              "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Oficina y Urbano"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Oficina y Urbano"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Parlantes\n                        \n                              \n                                \n "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Parlantes"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Parlantes"
+  },
+  {
+    "tag": "div",
+    "class": "sub-submenu-cont clearfix",
+    "text_preview": "Para Pc\n                                \n                              \n                            "
+  },
+  {
+    "tag": "div",
+    "class": "sub-smc-list",
+    "text_preview": "Para Pc\n                                \n                              \n                            "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Para Pc"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Para Pc"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Portátiles"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Portátiles"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Joystick y Volantes"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Joystick y Volantes"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Joystick y Volantes"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Webcams"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Webcams"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Webcams"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Punteros Láser y Presentadores"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Punteros Láser y Presentadores"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Punteros Láser y Presentadores"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Lectores Código de Barras"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Lectores Código de Barras"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Lectores Código de Barras"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Micrófonos"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Micrófonos"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Micrófonos"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Access Point"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Access Point"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Access Point"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Modem Router"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Modem Router"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Modem Router"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Routers"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Routers"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Routers"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Impresión y Scanners\n            \n\n                      \n\n                    \n           \n        "
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Impresión y Scanners"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Impresión y Scanners"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "Impresoras Láser\n                        \n                      \n                        \n          "
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "Impresoras Láser\n                        \n                      \n                        \n          "
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Impresoras Láser"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Impresoras Láser"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Impresoras Láser"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Impresoras Sistema Contínuo"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Impresoras Sistema Contínuo"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Impresoras Sistema Contínuo"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Impresoras Inyección de Tinta"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Impresoras Inyección de Tinta"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Impresoras Inyección de Tinta"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Impresoras Térmicas"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Impresoras Térmicas"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Impresoras Térmicas"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Impresión 3D\n                        \n                              \n                               "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Impresión 3D"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Impresión 3D"
+  },
+  {
+    "tag": "div",
+    "class": "sub-submenu-cont clearfix",
+    "text_preview": "Impresoras 3D\n                                \n                              \n                      "
+  },
+  {
+    "tag": "div",
+    "class": "sub-smc-list",
+    "text_preview": "Impresoras 3D\n                                \n                              \n                      "
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Impresoras 3D"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Impresoras 3D"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Consumibles"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Consumibles"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Toners"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Toners"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Toners"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Cartuchos de Tinta"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Cartuchos de Tinta"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Cartuchos de Tinta"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Relojes SmartWatch"
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Relojes SmartWatch"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Relojes SmartWatch"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Almacenamiento Portátil\n            \n\n                      \n\n                    \n           \n     "
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Almacenamiento Portátil"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Almacenamiento Portátil"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "MicroSD\n                        \n                      \n                        \n                   "
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "MicroSD\n                        \n                      \n                        \n                   "
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "MicroSD"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "MicroSD"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "MicroSD"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Pendrives"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Pendrives"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Pendrives"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Discos Externos"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Discos Externos"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Discos Externos"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Tablets"
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Tablets"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Tablets"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Tabletas Digitalizadoras"
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Tabletas Digitalizadoras"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Tabletas Digitalizadoras"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Televisores y TV Box\n            \n\n                      \n\n                    \n           \n        "
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Televisores y TV Box"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Televisores y TV Box"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "Smart TVs\n                        \n                      \n                        \n                 "
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "Smart TVs\n                        \n                      \n                        \n                 "
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Smart TVs"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Smart TVs"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Smart TVs"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "TV Box"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "TV Box"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "TV Box"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Streaming"
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Streaming"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Streaming"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Software"
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Software"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Software"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Camaras IP"
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Camaras IP"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Camaras IP"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Accesorios\n            \n\n                      \n\n                    \n           \n              \n   "
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Accesorios"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "Fundas y Mochilas\n                        \n                      \n                        \n         "
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "Fundas y Mochilas\n                        \n                      \n                        \n         "
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Fundas y Mochilas"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Fundas y Mochilas"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Fundas y Mochilas"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Bases Rrefrigerantes"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Bases Rrefrigerantes"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Bases Rrefrigerantes"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Cargadores"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Cargadores"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Cargadores"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Cables"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Cables"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Cables"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Merchandising"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Merchandising"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Merchandising"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Sillas Gamers\n            \n\n                      \n\n                    \n           \n              \n"
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Sillas Gamers"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Sillas Gamers"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Sillas Gamer"
+  },
+  {
+    "tag": "li",
+    "class": "mc-item",
+    "text_preview": "Estabilizadores, UPS y Zapatillas\n            \n\n                      \n\n                    \n       "
+  },
+  {
+    "tag": "a",
+    "class": "item",
+    "text_preview": "Estabilizadores, UPS y Zapatillas"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Estabilizadores, UPS y Zapatillas"
+  },
+  {
+    "tag": "div",
+    "class": "submenu-cont clearfix",
+    "text_preview": "Estabilizadores\n                        \n                      \n                        \n           "
+  },
+  {
+    "tag": "div",
+    "class": "smc-list",
+    "text_preview": "Estabilizadores\n                        \n                      \n                        \n           "
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Estabilizadores"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Estabilizadores"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Estabilizadores"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "UPS"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "UPS"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "UPS"
+  },
+  {
+    "tag": "li",
+    "class": "sub-mc-item",
+    "text_preview": "Zapatillas"
+  },
+  {
+    "tag": "a",
+    "class": "subcategory-title",
+    "text_preview": "Zapatillas"
+  },
+  {
+    "tag": "div",
+    "class": "dot-name",
+    "text_preview": "Zapatillas"
+  },
+  {
+    "tag": "span",
+    "class": "li-title",
+    "text_preview": "PCs de Escritorio"
+  },
+  {
+    "tag": "span",
+    "class": "li-title",
+    "text_preview": "Notebooks"
+  },
+  {
+    "tag": "span",
+    "class": "li-title",
+    "text_preview": "Placas de Video"
+  },
+  {
+    "tag": "span",
+    "class": "li-title",
+    "text_preview": "Monitores"
+  },
+  {
+    "tag": "span",
+    "class": "li-title",
+    "text_preview": "Micros"
+  },
+  {
+    "tag": "span",
+    "class": "li-title",
+    "text_preview": "¡Preciazos!"
+  },
+  {
+    "tag": "div",
+    "class": "titleDetalle cat-breadcrumb",
+    "text_preview": "periféricos"
+  },
+  {
+    "tag": "a",
+    "class": "headerNavigation",
+    "text_preview": "periféricos"
+  },
+  {
+    "tag": "div",
+    "class": "col-sm-8 col-md-6",
+    "text_preview": "Marcas\n            \n              Corsair (1)Edifier (1)Genericos (2)Genius (33)Hyperx (32)Jbl (1)Kl"
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_169",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Mouse Pad Venex\n            \n    "
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Mouse Pad Venex"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 4.149"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 4.149"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_3365",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Mouse Genius Dx-110 USB Black\n   "
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Mouse Genius Dx-110 USB Black"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 3.999"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 3.999"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_12821",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Mouse Genius DX-120 USB Black\n   "
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Mouse Genius DX-120 USB Black"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 4.199"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 4.199"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_19350",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Mouse Genius DX-110 USB-C Black\n "
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Mouse Genius DX-110 USB-C Black"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 4.999"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 4.999"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_19762",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 8.499"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 8.499"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_19539",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Mouse Inalambrico Genius NX-7000 "
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Mouse Inalambrico Genius NX-7000 Azul"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 7.999"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 7.999"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_11776",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Mouse Inalambrico Genius NX-7000 "
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Mouse Inalambrico Genius NX-7000 Black"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 7.999"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 7.999"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_12364",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Teclado Genius KB-100 SP USB Blac"
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Teclado Genius KB-100 SP USB Black"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 8.199"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 8.199"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_12818",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Teclado Genius KB 116 SP USB Blac"
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Teclado Genius KB 116 SP USB Black"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 8.399"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 8.399"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_11966",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Mouse Logitech M110 Silent\n      "
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Mouse Logitech M110 Silent"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 8.490"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 8.490"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_18425",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Mouse Logitech M110 Silent Red 20"
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Mouse Logitech M110 Silent Red 2024"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 8.490"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 8.490"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-media",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "thumb",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-contained",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "products_label_1745",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "product-box-body clearfix",
+    "text_preview": "Precio en un pago:                \n\n\n\n            \n                Mouse Optico M100 Logitech\n      "
+  },
+  {
+    "tag": "h3",
+    "class": "product-box-title",
+    "text_preview": "Mouse Optico M100 Logitech"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-price clearfix",
+    "text_preview": "$ 8.490"
+  },
+  {
+    "tag": "span",
+    "class": "current-price",
+    "text_preview": "$ 8.490"
+  },
+  {
+    "tag": "p",
+    "class": "product-box-payment",
+    "text_preview": "Contado efectivo"
+  },
+  {
+    "tag": "a",
+    "class": "product-box-overlay",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row",
+    "text_preview": "12345..."
+  },
+  {
+    "tag": "div",
+    "class": "col-xs-24",
+    "text_preview": "12345..."
+  },
+  {
+    "tag": "div",
+    "class": "text-center paginator-links  ",
+    "text_preview": "12345..."
+  },
+  {
+    "tag": "ul",
+    "class": "pagination",
+    "text_preview": "12345..."
+  },
+  {
+    "tag": "li",
+    "class": "active",
+    "text_preview": "1"
+  },
+  {
+    "tag": "a",
+    "class": "pageResults",
+    "text_preview": "2"
+  },
+  {
+    "tag": "a",
+    "class": "pageResults",
+    "text_preview": "3"
+  },
+  {
+    "tag": "a",
+    "class": "pageResults",
+    "text_preview": "4"
+  },
+  {
+    "tag": "a",
+    "class": "pageResults",
+    "text_preview": "5"
+  },
+  {
+    "tag": "a",
+    "class": "pageResults",
+    "text_preview": "..."
+  },
+  {
+    "tag": "a",
+    "class": "pageResults",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "footer-logo visible-xs",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "caret-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "caret-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-contact btn-call",
+    "text_preview": "Llamanos"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "btn btn-contact btn-write",
+    "text_preview": "Chateanos"
+  },
+  {
+    "tag": "span",
+    "class": "glyphicon glyphicon-chevron-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "address row",
+    "text_preview": "VENEX PICKUP POINT \n                               Buenos Aires: Lunes a Viernes de 10 a 18h.Córdoba"
+  },
+  {
+    "tag": "div",
+    "class": "col-sm-22 col-xs-21",
+    "text_preview": "VENEX PICKUP POINT \n                               Buenos Aires: Lunes a Viernes de 10 a 18h.Córdoba"
+  },
+  {
+    "tag": "label",
+    "class": "textImgFooter",
+    "text_preview": "VENEX PICKUP POINT \n                               Buenos Aires: Lunes a Viernes de 10 a 18h.Córdoba"
+  },
+  {
+    "tag": "div",
+    "class": "title",
+    "text_preview": "VENEX PICKUP POINT"
+  },
+  {
+    "tag": "div",
+    "class": "visible-xs",
+    "text_preview": "Buenos Aires: Lunes a Viernes de 10 a 18h.Córdoba: Lunes a Viernes de 10 a 18h."
+  },
+  {
+    "tag": "div",
+    "class": "title-text",
+    "text_preview": "SÉ EL PRIMERO EN ENTERARTE"
+  },
+  {
+    "tag": "div",
+    "class": "form-group has-feedback",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "footer-subcribe_field",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "input-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "span",
+    "class": "input-group-btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn pull-right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "alert alert-danger subscribeError",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "icon-cont",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "icon-cont",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "icon-cont",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "footer-links__term footer-links__term-imgs col-sm-6 col-sm-offset-2",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "icon-cont",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "icon-cont",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "icon-cont",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "secure-links visible-xs",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "links-cont",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "links-cont",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "row row-fiscal",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-xs-5 col-sm-5",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-xs-9 col-sm-8",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "right",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": "×"
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": "×"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": "×"
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": "×\n            Formas de pago"
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title",
+    "text_preview": "Formas de pago"
+  },
+  {
+    "tag": "div",
+    "class": "methods-card-costs",
+    "text_preview": "Visa - Mastercard        \n        \n          \n            \n              \n                Cuotas\n   "
+  },
+  {
+    "tag": "h3",
+    "class": "methods-card-title",
+    "text_preview": "Visa - Mastercard"
+  },
+  {
+    "tag": "div",
+    "class": "table-responsive",
+    "text_preview": "Cuotas\n                Interés\n                CFT\n                TEA\n              \n            \n "
+  },
+  {
+    "tag": "div",
+    "class": "methods-card-costs",
+    "text_preview": "Naranja        \n        \n          \n            \n              \n                Cuotas\n             "
+  },
+  {
+    "tag": "h3",
+    "class": "methods-card-title",
+    "text_preview": "Naranja"
+  },
+  {
+    "tag": "div",
+    "class": "table-responsive",
+    "text_preview": "Cuotas\n                Interés\n                CFT\n                TEA\n              \n            \n "
+  },
+  {
+    "tag": "div",
+    "class": "form-group",
+    "text_preview": "Nro. de orden"
+  },
+  {
+    "tag": "label",
+    "class": "label_form label_required",
+    "text_preview": "Nro. de orden"
+  },
+  {
+    "tag": "label",
+    "class": "label_form",
+    "text_preview": "(Del titular o de quien recibe/retira)"
+  },
+  {
+    "tag": "div",
+    "class": "alert alert-danger subscribeError",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": "×"
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-footer",
+    "text_preview": "Ok, entiendo"
+  },
+  {
+    "tag": "button",
+    "class": "btn",
+    "text_preview": "Ok, entiendo"
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog modal-lg",
+    "text_preview": "Ok, entiendo"
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": "Ok, entiendo"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": "Ok, entiendo"
+  },
+  {
+    "tag": "div",
+    "class": "modal-footer",
+    "text_preview": "Ok, entiendo"
+  },
+  {
+    "tag": "button",
+    "class": "btn",
+    "text_preview": "Ok, entiendo"
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "section_page",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-box-form-login",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "media-left",
+    "text_preview": ""
+  },
+  {
+    "tag": "img",
+    "class": "media-object",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": "×\n                Envío domicilio"
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title",
+    "text_preview": "Envío domicilio"
+  },
+  {
+    "tag": "div",
+    "class": "form-control home-delivery",
+    "text_preview": "ENVÍO EXPRESS"
+  },
+  {
+    "tag": "label",
+    "class": "label_form ",
+    "text_preview": "Provincias"
+  },
+  {
+    "tag": "div",
+    "class": "form-control",
+    "text_preview": "Córdoba"
+  },
+  {
+    "tag": "label",
+    "class": "label_form ",
+    "text_preview": "Zonas disponibles Córdoba"
+  },
+  {
+    "tag": "div",
+    "class": "col-xs-24 content_shipping_costs costCba",
+    "text_preview": "Costo de envío:"
+  },
+  {
+    "tag": "div",
+    "class": "form-control home-delivery",
+    "text_preview": "ENVÍO VÍA OCA"
+  },
+  {
+    "tag": "div",
+    "class": "form-control home-delivery",
+    "text_preview": "ENVÍO EXPRESS"
+  },
+  {
+    "tag": "label",
+    "class": "label_form ",
+    "text_preview": "Provincias"
+  },
+  {
+    "tag": "div",
+    "class": "form-control",
+    "text_preview": "Córdoba"
+  },
+  {
+    "tag": "label",
+    "class": "label_form ",
+    "text_preview": "Zonas disponibles Córdoba"
+  },
+  {
+    "tag": "div",
+    "class": "col-xs-24 content_shipping_costs costCba",
+    "text_preview": "Costo de envío:"
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": "×\n                Puntos de retiro en todo el país"
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title",
+    "text_preview": "Puntos de retiro en todo el país"
+  },
+  {
+    "tag": "div",
+    "class": "clearfix section_page ",
+    "text_preview": "Costo de envío: 0\n                        Tiempo de entrega estimado: Hasta 7 días habíles como míni"
+  },
+  {
+    "tag": "div",
+    "class": "col-xs-24 content_shipping_costs clearfix",
+    "text_preview": "Costo de envío: 0\n                        Tiempo de entrega estimado: Hasta 7 días habíles como míni"
+  },
+  {
+    "tag": "div",
+    "class": "timeShipping",
+    "text_preview": "Tiempo de entrega estimado: Hasta 7 días habíles como mínimo."
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": "×\n                Puntos de retiro en todo el país"
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title",
+    "text_preview": "Puntos de retiro en todo el país"
+  },
+  {
+    "tag": "div",
+    "class": "clearfix section_page ",
+    "text_preview": "Costo de envío: 0\n                        Tiempo de entrega estimado: Hasta 7 días habíles como míni"
+  },
+  {
+    "tag": "div",
+    "class": "col-xs-24 content_shipping_costsAnd clearfix",
+    "text_preview": "Costo de envío: 0\n                        Tiempo de entrega estimado: Hasta 7 días habíles como míni"
+  },
+  {
+    "tag": "div",
+    "class": "timeShippingAnd",
+    "text_preview": "Tiempo de entrega estimado: Hasta 7 días habíles como mínimo."
+  },
+  {
+    "tag": "img",
+    "class": "img-responsive",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-sm-15",
+    "text_preview": ""
+  },
+  {
+    "tag": "label",
+    "class": "label_form ",
+    "text_preview": "Provincias"
+  },
+  {
+    "tag": "div",
+    "class": "form-control",
+    "text_preview": "Córdoba"
+  },
+  {
+    "tag": "label",
+    "class": "label_form ",
+    "text_preview": "Zonas disponibles Córdoba"
+  },
+  {
+    "tag": "div",
+    "class": "col-xs-24 content_shipping_costs ",
+    "text_preview": "Costo de envío:"
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "input-group",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "input-group-btn",
+    "text_preview": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-default",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body",
+    "text_preview": "Marcas\n            \n              Corsair (1)Edifier (1)Genericos (2)Genius (33)Hyperx (32)Jbl (1)Kl"
+  },
+  {
+    "tag": "div",
+    "class": "blueimp-gallery blueimp-gallery-controls",
+    "text_preview": "<\n    \n    \n         >\n    \n    \n            \n    \n    \n        x\n    \n    \n    \n    \n    \n        \n"
+  },
+  {
+    "tag": "div",
+    "class": "slides",
+    "text_preview": ""
+  },
+  {
+    "tag": "h3",
+    "class": "title",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "prev",
+    "text_preview": "<"
+  },
+  {
+    "tag": "a",
+    "class": "next",
+    "text_preview": ">"
+  },
+  {
+    "tag": "div",
+    "class": "the-content- ",
+    "text_preview": ""
+  },
+  {
+    "tag": "a",
+    "class": "play-pause",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-dialog",
+    "text_preview": "×\n                    \n                \n                \n                \n                    \n     "
+  },
+  {
+    "tag": "div",
+    "class": "modal-content",
+    "text_preview": "×\n                    \n                \n                \n                \n                    \n     "
+  },
+  {
+    "tag": "div",
+    "class": "modal-header",
+    "text_preview": "×"
+  },
+  {
+    "tag": "h4",
+    "class": "modal-title",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-body next",
+    "text_preview": ""
+  },
+  {
+    "tag": "div",
+    "class": "modal-footer",
+    "text_preview": "Previous\n                    \n                    \n                        Next"
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-default pull-left prev",
+    "text_preview": "Previous"
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-primary next",
+    "text_preview": "Next"
+  }
+]
