@@ -2,1161 +2,2241 @@
   {
     "tag": "link",
     "class": "js-favicon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "link",
     "class": "js-favicon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Bauness 1274, Parque Chas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "1134478272",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "1124691756",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container pl-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "form-group md-form my-0 waves-light waves-effect bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-red btn-raised btn-fab btn-buscar",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "p-2 open",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-link pl-2 pr-2 pull-left btn-mi-cuenta",
-    "text_preview": "ingresar"
+    "text_preview": "ingresar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "mt-2 d-i-b ml-1 txt-ingresar",
-    "text_preview": "ingresar"
+    "text_preview": "ingresar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-link pl-2 pr-2 pull-left mini-cart",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "row mx-md-4 mx-1",
-    "text_preview": "ADATAAeroCoolAMDAOCAppleAsrockAsusAureoxCooler MasterCorsairCrucialDeep CoolDellEVGAGame ProGeniusGi"
+    "text_preview": "ADATAAeroCoolAMDAOCAppleAsrockAsusAureoxCooler MasterCorsairCrucialDeep CoolDellEVGAGame ProGeniusGi",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-12 col-xl-12 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
-    "text_preview": "ADATAAeroCoolAMDAOCAppleAsrockAsusAureoxCooler MasterCorsairCrucialDeep CoolDellEVGAGame ProGeniusGi"
+    "text_preview": "ADATAAeroCoolAMDAOCAppleAsrockAsusAureoxCooler MasterCorsairCrucialDeep CoolDellEVGAGame ProGeniusGi",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "caret-style pl-0",
-    "text_preview": "ADATAAeroCoolAMDAOCAppleAsrockAsusAureoxCooler MasterCorsairCrucialDeep CoolDellEVGAGame ProGeniusGi"
+    "text_preview": "ADATAAeroCoolAMDAOCAppleAsrockAsusAureoxCooler MasterCorsairCrucialDeep CoolDellEVGAGame ProGeniusGi",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "ADATA"
+    "text_preview": "ADATA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "ADATA"
+    "text_preview": "ADATA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "AeroCool"
+    "text_preview": "AeroCool",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "AeroCool"
+    "text_preview": "AeroCool",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "AMD"
+    "text_preview": "AMD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "AMD"
+    "text_preview": "AMD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "AOC"
+    "text_preview": "AOC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "AOC"
+    "text_preview": "AOC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Apple"
+    "text_preview": "Apple",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Apple"
+    "text_preview": "Apple",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Asrock"
+    "text_preview": "Asrock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Asrock"
+    "text_preview": "Asrock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Asus"
+    "text_preview": "Asus",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Asus"
+    "text_preview": "Asus",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Aureox"
+    "text_preview": "Aureox",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Aureox"
+    "text_preview": "Aureox",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Cooler Master"
+    "text_preview": "Cooler Master",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Cooler Master"
+    "text_preview": "Cooler Master",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Corsair"
+    "text_preview": "Corsair",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Corsair"
+    "text_preview": "Corsair",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Crucial"
+    "text_preview": "Crucial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Crucial"
+    "text_preview": "Crucial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Deep Cool"
+    "text_preview": "Deep Cool",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Deep Cool"
+    "text_preview": "Deep Cool",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Dell"
+    "text_preview": "Dell",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Dell"
+    "text_preview": "Dell",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "EVGA"
+    "text_preview": "EVGA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "EVGA"
+    "text_preview": "EVGA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Game Pro"
+    "text_preview": "Game Pro",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Game Pro"
+    "text_preview": "Game Pro",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Genius"
+    "text_preview": "Genius",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Genius"
+    "text_preview": "Genius",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Gigabyte"
+    "text_preview": "Gigabyte",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Gigabyte"
+    "text_preview": "Gigabyte",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "HP"
+    "text_preview": "HP",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "HP"
+    "text_preview": "HP",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Hyper X"
+    "text_preview": "Hyper X",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Hyper X"
+    "text_preview": "Hyper X",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "ID-COOLING"
+    "text_preview": "ID-COOLING",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "ID-COOLING"
+    "text_preview": "ID-COOLING",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Intel"
+    "text_preview": "Intel",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Intel"
+    "text_preview": "Intel",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Kingston"
+    "text_preview": "Kingston",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Kingston"
+    "text_preview": "Kingston",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Kolink"
+    "text_preview": "Kolink",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Kolink"
+    "text_preview": "Kolink",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Lexar"
+    "text_preview": "Lexar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Lexar"
+    "text_preview": "Lexar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "LG"
+    "text_preview": "LG",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "LG"
+    "text_preview": "LG",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Logitech"
+    "text_preview": "Logitech",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Logitech"
+    "text_preview": "Logitech",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "MarkVision"
+    "text_preview": "MarkVision",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "MarkVision"
+    "text_preview": "MarkVision",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Mercusys"
+    "text_preview": "Mercusys",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Mercusys"
+    "text_preview": "Mercusys",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "MSI"
+    "text_preview": "MSI",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "MSI"
+    "text_preview": "MSI",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Naxido"
+    "text_preview": "Naxido",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Naxido"
+    "text_preview": "Naxido",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Noblex"
+    "text_preview": "Noblex",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Noblex"
+    "text_preview": "Noblex",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Noxi"
+    "text_preview": "Noxi",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Noxi"
+    "text_preview": "Noxi",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Nvidia"
+    "text_preview": "Nvidia",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Nvidia"
+    "text_preview": "Nvidia",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Patriot"
+    "text_preview": "Patriot",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Patriot"
+    "text_preview": "Patriot",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Philips"
+    "text_preview": "Philips",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Philips"
+    "text_preview": "Philips",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "PNY"
+    "text_preview": "PNY",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "PNY"
+    "text_preview": "PNY",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Razer"
+    "text_preview": "Razer",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Razer"
+    "text_preview": "Razer",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Redragon"
+    "text_preview": "Redragon",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Redragon"
+    "text_preview": "Redragon",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Samsung"
+    "text_preview": "Samsung",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Samsung"
+    "text_preview": "Samsung",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Sapphire"
+    "text_preview": "Sapphire",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Sapphire"
+    "text_preview": "Sapphire",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Seagate"
+    "text_preview": "Seagate",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Seagate"
+    "text_preview": "Seagate",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "TEAMGROUP"
+    "text_preview": "TEAMGROUP",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "TEAMGROUP"
+    "text_preview": "TEAMGROUP",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Thermaltake"
+    "text_preview": "Thermaltake",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Thermaltake"
+    "text_preview": "Thermaltake",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "TP-Link"
+    "text_preview": "TP-Link",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "TP-Link"
+    "text_preview": "TP-Link",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Trust Gaming"
+    "text_preview": "Trust Gaming",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Trust Gaming"
+    "text_preview": "Trust Gaming",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "ViewSonic"
+    "text_preview": "ViewSonic",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "ViewSonic"
+    "text_preview": "ViewSonic",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Western Digital"
+    "text_preview": "Western Digital",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Western Digital"
+    "text_preview": "Western Digital",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "XPG"
+    "text_preview": "XPG",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "XPG"
+    "text_preview": "XPG",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "Zotac"
+    "text_preview": "Zotac",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "Zotac"
+    "text_preview": "Zotac",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "section-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "ml-1 camioncito",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "panel panel-default panel-rose ",
-    "text_preview": "Kit Teclado / Mouse (5)\n\t\t\t\t\t\t\t\t\t\t Mouse Pads (5)\n\t\t\t\t\t\t\t\t\t\t Mouses (5)\n\t\t\t\t\t\t\t\t\t\t Teclados (5)"
+    "text_preview": "Kit Teclado / Mouse (5)\n\t\t\t\t\t\t\t\t\t\t Mouse Pads (5)\n\t\t\t\t\t\t\t\t\t\t Mouses (5)\n\t\t\t\t\t\t\t\t\t\t Teclados (5)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "panel-body pl-0 pr-0 pt-0",
-    "text_preview": "Kit Teclado / Mouse (5)\n\t\t\t\t\t\t\t\t\t\t Mouse Pads (5)\n\t\t\t\t\t\t\t\t\t\t Mouses (5)\n\t\t\t\t\t\t\t\t\t\t Teclados (5)"
+    "text_preview": "Kit Teclado / Mouse (5)\n\t\t\t\t\t\t\t\t\t\t Mouse Pads (5)\n\t\t\t\t\t\t\t\t\t\t Mouses (5)\n\t\t\t\t\t\t\t\t\t\t Teclados (5)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Kit Teclado / Mouse (5)"
+    "text_preview": "Kit Teclado / Mouse (5)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Mouse Pads (5)"
+    "text_preview": "Mouse Pads (5)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Mouses (5)"
+    "text_preview": "Mouses (5)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Teclados (5)"
+    "text_preview": "Teclados (5)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-lg-12 marcas_filtros ta-c mb-3 cate slick-initialized slick-slider",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "slick-list draggable",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "slick-track",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "precio Menor a Mayor"
+    "text_preview": "precio Menor a Mayor",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "precio Mayor a Menor"
+    "text_preview": "precio Mayor a Menor",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "de la A  a la  Z"
+    "text_preview": "de la A  a la  Z",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "de la Z  a la  A"
+    "text_preview": "de la Z  a la  A",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "más nuevos"
+    "text_preview": "más nuevos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "más viejos"
+    "text_preview": "más viejos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-lg-12 px-0 mansory **",
-    "text_preview": "contabilium                                                                        \n                "
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-889 marca_ ",
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "QBMG002                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "QBMG002                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "QBMG002",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Mouse Qbox Gamer M942 6400 Dpi",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mouse Qbox Gamer M942 6400 Dpi",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$5.689$5.219$5.219Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$5.689$5.219$5.219Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$5.219",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$5.219Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3 listado- pull-left prod-cat cat-889 marca_2989 ",
-    "text_preview": "contabilium                                                                        \n                "
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c **",
-    "text_preview": "contabilium                                                                        \n                "
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "ARXPGM600                                                    \n                                      "
+    "text_preview": "ARXPGM600                                                    \n                                      ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "ARXPGM600                                                    \n                                      "
+    "text_preview": "ARXPGM600                                                    \n                                      ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "ARXPGM600"
+    "text_preview": "ARXPGM600",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "btn-blue-link et",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Aureox Aimaster"
+    "text_preview": "Mouse Aureox Aimaster",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mouse Aureox Aimaster",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$18.999$17.430$17.430Precio especial"
+    "text_preview": "$18.999$17.430$17.430Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$18.999$17.430$17.430Precio especial"
+    "text_preview": "$18.999$17.430$17.430Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$17.430"
+    "text_preview": "$17.430",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$17.430Precio especial"
+    "text_preview": "$17.430Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-1003 marca_4278 ",
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card card-ecommerce mt-0 ta-c **",
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "view overlay px-20 imagen",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-body px-3 pb-0 pt-0",
+    "text_preview": "S5600RS1                                                    \n                                       ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "S5600RS1                                                    \n                                       ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "S5600RS1",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "btn-blue-link et",
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h4",
+    "class": "card-title mb-1 h-40*",
+    "text_preview": "Combo Noga Teclado Slim Y Mouse Wireless Rosa",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Combo Noga Teclado Slim Y Mouse Wireless Rosa",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$23.712$21.754$21.755Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$23.712$21.754$21.755Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h6",
+    "class": "mb-0 ft solo_web ",
+    "text_preview": "$21.754",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$21.755Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3 listado- pull-left prod-cat cat-1003 marca_ ",
-    "text_preview": "contabilium                                                                        \n                "
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c **",
-    "text_preview": "contabilium                                                                        \n                "
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "NKB-413R                                                    \n                                       "
+    "text_preview": "NKB-413R                                                    \n                                       ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "NKB-413R                                                    \n                                       "
+    "text_preview": "NKB-413R                                                    \n                                       ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "NKB-413R"
+    "text_preview": "NKB-413R",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "btn-blue-link et",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Kit Gamer 4 En 1 Red"
+    "text_preview": "Kit Gamer 4 En 1 Red",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Kit Gamer 4 En 1 Red",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$27.966$25.657$25.656Precio especial"
+    "text_preview": "$27.966$25.657$25.656Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$27.966$25.657$25.656Precio especial"
+    "text_preview": "$27.966$25.657$25.656Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$25.657"
+    "text_preview": "$25.657",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$25.656Precio especial"
+    "text_preview": "$25.656Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3 listado- pull-left prod-cat cat-914 marca_ ",
-    "text_preview": "contabilium                                                                        \n                "
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c **",
-    "text_preview": "contabilium                                                                        \n                "
+    "text_preview": "contabilium                                                                        \n                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "90MP02H0-BPUA00                                                    \n                                "
+    "text_preview": "90MP02H0-BPUA00                                                    \n                                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "90MP02H0-BPUA00                                                    \n                                "
+    "text_preview": "90MP02H0-BPUA00                                                    \n                                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "90MP02H0-BPUA00"
+    "text_preview": "90MP02H0-BPUA00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "btn-blue-link et",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mousepad Asus Nc11 Rog Scabbard Ii Mediu"
+    "text_preview": "Mousepad Asus Nc11 Rog Scabbard Ii Mediu",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mousepad Asus Nc11 Rog Scabbard Ii Mediu",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$68.011$62.395$62.395Precio especial"
+    "text_preview": "$68.011$62.395$62.395Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$68.011$62.395$62.395Precio especial"
+    "text_preview": "$68.011$62.395$62.395Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$62.395"
+    "text_preview": "$62.395",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$62.395Precio especial"
+    "text_preview": "$62.395Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "pagination pagination-info mt-4",
-    "text_preview": "1"
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "active",
-    "text_preview": "1"
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "t-shadow mt-2",
-    "text_preview": "1134478272"
+    "text_preview": "1134478272",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "text-white",
-    "text_preview": "1134478272"
+    "text_preview": "1134478272",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h5",
     "class": "t-shadow mt-0 mb-0",
-    "text_preview": "1124691756 (solo texto)"
+    "text_preview": "1124691756 (solo texto)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "text-white",
-    "text_preview": "1124691756 (solo texto)"
+    "text_preview": "1124691756 (solo texto)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h5",
     "class": "t-shadow mt-0 mb-0",
-    "text_preview": "de Lunes a Viernes de 10:00 a 18:00"
+    "text_preview": "de Lunes a Viernes de 10:00 a 18:00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3 pull-left mt-0 pt-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-6 pull-left mt-0 pt-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "result",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3 pull-left mt-0 pt-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Sobre Nosotros",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Datos Bancarios",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Libro de quejas online",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "social-buttons",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-just-icon btn-round btn-facebook",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-just-icon btn-round btn-instagram",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-just-icon btn-round btn-google",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-just-icon btn-round btn-tiktok",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "1134478272",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group nombre",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group email",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "Hecho en  qloud.ar",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Hecho en  qloud.ar",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hecho en",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "copyright pull-right col-md-6 ta-l dataFiscal",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-dialog",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-content bg-none",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container px-15",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-12",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "form-group md-form my-0 waves-light waves-effect waves-light bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-red btn-raised btn-fab p-4",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "modal-title ta-l titulo",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "col-6 pl-0 pull-left captcha mt-4",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "py-3",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   }
 ]

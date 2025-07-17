@@ -115,7 +115,7 @@ export const siteConfigs = {
 			"cate=83",
 			"cate=31",
 			"cate=111",
-			"cate=21", 
+			"cate=21",
 			"cate=3",
 			"cate=24",
 		],
@@ -1247,6 +1247,22 @@ export const siteConfigs = {
 	}),
 
 	uranoStream: new SiteConfig({
+		name: "Urano Stream",
+		siteImage: "/images/stores/uranostream.png",
+		isPcComponent: true,
+		isSetup: false,
+		baseUrl: "https://www.uranostream.com.ar",
+		categories: ["/productos"],
+		selectors: {
+			productWrapper: "",
+			title: "",
+			price: "",
+			link: "",
+			image: "",
+		},
+		maxPages: 1,
+	}),
+	gorilaGames: new SiteConfig({
 		name: "Urano Stream",
 		siteImage: "/images/stores/uranostream.png",
 		isPcComponent: true,

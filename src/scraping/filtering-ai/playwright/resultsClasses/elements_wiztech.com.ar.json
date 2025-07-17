@@ -1,0 +1,464 @@
+[
+  {
+    "tag": "ngx-spinner",
+    "class": "ng-tns-c13-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "ng-tns-c13-0 la- la-2x ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "ng-tns-c13-0 ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "loading-text ng-tns-c13-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "spinner-img ng-tns-c13-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "app-shopping-cart",
+    "class": "ng-star-inserted",
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "badge",
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-6 col-sm-6 col-md-4 logo-container d-flex align-items-center pl-5",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid logo",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "app-autocomplete-searchbar",
+    "class": "flex-one ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "ng-autocomplete",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "ng-autocomplete",
+    "class": "ng-autocomplete",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "autocomplete-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "input-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "suggestions-container is-visible",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "whatsapp-ico-container px-3",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "whatsapp-icon img-fluid",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "cart-wrapper desktop",
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "app-shopping-cart",
+    "class": "ng-star-inserted",
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "badge",
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container-fluid main-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "float telegram",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "float whatsapp",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "hr",
+    "class": "divider",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h1",
+    "class": "title",
+    "text_preview": "WIZ TECH",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Catálogo",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Catálogo",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Notebooks",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Notebooks",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Pc Prearmadas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pc Prearmadas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Exclusivos Apple",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Exclusivos Apple",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Importados Especiales",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Importados Especiales",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "PC Hardware",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "PC Hardware",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Periféricos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Periféricos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Monitores",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitores",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Sillas Gamer",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Sillas Gamer",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Notebooks",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Notebooks",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Mini PC",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mini PC",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Consolas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Consolas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Mining",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mining",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Celulares",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Celulares",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Combos mayoristas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Combos mayoristas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "Conectividad",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Conectividad",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "li",
+    "class": "ng-star-inserted",
+    "text_preview": "TV",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "TV",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "flex-center",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  }
+]

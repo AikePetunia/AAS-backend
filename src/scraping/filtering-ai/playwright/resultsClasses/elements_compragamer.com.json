@@ -1,0 +1,310 @@
+[
+  {
+    "tag": "div",
+    "class": "sticky",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "cgw-header",
+    "class": "ng-tns-c2351085682-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "header py-2 ng-tns-c2351085682-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container ng-tns-c2351085682-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "tw:flex tw:flex-wrap tw:justify-between tw:items-center ng-tns-c2351085682-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "tw:flex tw:items-center col-xl-3 col-lg-4 col-md-3 tw:pl-3 order-2 col-6 ng-tns-c2351085682-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "tw:flex tw:items-center ng-tns-c2351085682-0 tw:pl-4",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "pointer tw:h-[30px] tw:lg:h-[70px] tw:max-w-fit ng-tns-c2351085682-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "extra-height",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "main",
+    "class": "container_height",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "cgw-afip",
+    "class": "col-xl-3 col-lg-2 mb-lg-0 col-6 mb-2 py-2",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "d-flex justify-content-center align-items-center",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "cgw-us",
+    "class": "d-lg-none py-lg-2 col-6 py-4",
+    "text_preview": "¡Trabajá con nosotros!",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "us d-flex justify-content-center flex-column align-items-center",
+    "text_preview": "¡Trabajá con nosotros!",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "us__img",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "social__socialMediaIcons",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "social__socialMediaIcons__icon d-flex p-2 ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "mat-icon",
+    "class": "mat-icon notranslate mat-icon-no-color",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "social__socialMediaIcons__icon d-flex p-2 ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "mat-icon",
+    "class": "mat-icon notranslate mat-icon-no-color",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "social__socialMediaIcons__icon d-flex p-2 ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "mat-icon",
+    "class": "mat-icon notranslate mat-icon-no-color",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "social__socialMediaIcons__icon d-flex p-2 ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "mat-icon",
+    "class": "mat-icon notranslate mat-icon-no-color",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "social__socialMediaIcons__icon d-flex p-2 ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "mat-icon",
+    "class": "mat-icon notranslate mat-icon-no-color",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "social__socialMediaIcons__icon d-flex p-2 ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "mat-icon",
+    "class": "mat-icon notranslate mat-icon-no-color",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "social__socialMediaIcons__icon d-flex p-2 ng-star-inserted",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "mat-icon",
+    "class": "mat-icon notranslate mat-icon-no-color",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "cgw-us",
+    "class": "col-xl-3 col-lg-3 py-lg-2 py-4",
+    "text_preview": "¡Trabajá con nosotros!",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "us d-flex justify-content-center flex-column align-items-center",
+    "text_preview": "¡Trabajá con nosotros!",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "cg__fw-500 tw:underline us__link",
+    "text_preview": "¡Trabajá con nosotros!",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "actions",
+    "text_preview": "arrow_upward",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "cgw-return-to-top",
+    "class": "ng-tns-c153621850-1 ng-trigger ng-trigger-showHide",
+    "text_preview": "arrow_upward",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "button",
+    "class": "ng-tns-c153621850-1 mdc-fab mat-mdc-fab-base mat-mdc-fab mat-primary mat-mdc-button-base",
+    "text_preview": "arrow_upward",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "mat-mdc-button-persistent-ripple mdc-fab__ripple",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "mat-icon",
+    "class": "mat-icon notranslate tw:text-white tw:cursor-pointer material-icons mat-ligature-font mat-icon-no-color",
+    "text_preview": "arrow_upward",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "mdc-button__label",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "mat-mdc-focus-indicator",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "mat-mdc-button-touch-target",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "notifications",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  }
+]

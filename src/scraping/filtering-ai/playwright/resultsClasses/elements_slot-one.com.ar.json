@@ -2,2196 +2,3543 @@
   {
     "tag": "link",
     "class": "js-favicon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "link",
     "class": "js-favicon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "23",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-overlay site-overlay",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container-fluid",
+    "text_preview": "🔥 6 CUOTAS SIN INTERES // DESCUENTO ESPECIAL EFECTIVO O TRANSFERENCIA 🔥",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "row",
-    "text_preview": "🔥 6 CUOTAS SIN INTERES // DESCUENTO ESPECIAL EFECTIVO O TRANSFERENCIA 🔥"
+    "text_preview": "🔥 6 CUOTAS SIN INTERES // DESCUENTO ESPECIAL EFECTIVO O TRANSFERENCIA 🔥",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col text-left d-none d-md-block",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "social-icon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col col-md-6 font-small text-center",
-    "text_preview": "🔥 6 CUOTAS SIN INTERES // DESCUENTO ESPECIAL EFECTIVO O TRANSFERENCIA 🔥"
+    "text_preview": "🔥 6 CUOTAS SIN INTERES // DESCUENTO ESPECIAL EFECTIVO O TRANSFERENCIA 🔥",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col text-right d-none d-md-block",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-2 text-left d-block d-md-none",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "js-modal-open utilities-link utilities-item",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-8 col-md-4 col-md-3 col-lg-3 text-center text-md-left",
-    "text_preview": "Slot One - Computacion"
+    "text_preview": "Slot One - Computacion",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "logo-img-container ",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "logo-img  transition-soft",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "logo-text h3",
-    "text_preview": "Slot One - Computacion"
+    "text_preview": "Slot One - Computacion",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-12 col-md-5 col-md-5 col-lg-6 order-last order-md-0  text-center",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "form-group m-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "subutility-list-item",
-    "text_preview": "541168253351"
+    "text_preview": "541168253351",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "contact-link",
-    "text_preview": "541168253351"
+    "text_preview": "541168253351",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-widget-amount cart-widget-amount",
-    "text_preview": "0"
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-cart-notification-arrow-up notification-arrow-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-2 pr-0 notification-img",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "js-cart-notification-item-img img-fluid",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "mb-1 mr-4",
-    "text_preview": "()"
+    "text_preview": "()",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-notification-item-name",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-variant-container",
+    "text_preview": "()",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-notification-item-variant",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "mb-1",
-    "text_preview": "x"
+    "text_preview": "x",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-notification-item-quantity",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "x",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-notification-item-price",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "divider my-3",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "col-auto text-left ml-2",
-    "text_preview": "Total \n                    (\n                        0 \n                    \n                    \n  "
+    "text_preview": "Total \n                    (\n                        0 \n                    \n                    \n  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-widget-amount",
-    "text_preview": "0"
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-counts-plural",
-    "text_preview": "productos):"
+    "text_preview": "productos):",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-counts-singular",
-    "text_preview": "producto):"
+    "text_preview": "producto):",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "strong",
     "class": "js-cart-total col text-right mr-2",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-cart-notification-arrow-up notification-arrow-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-2 pr-0 notification-img",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "js-cart-notification-item-img img-fluid",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "mb-1 mr-4",
-    "text_preview": "()"
+    "text_preview": "()",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-notification-item-name",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-cart-notification-item-variant-container",
+    "text_preview": "()",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-notification-item-variant",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "mb-1",
-    "text_preview": "x"
+    "text_preview": "x",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-notification-item-quantity",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "x",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-notification-item-price",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "divider my-3",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "col-auto text-left ml-2",
-    "text_preview": "Total \n                    (\n                        0 \n                    \n                    \n  "
+    "text_preview": "Total \n                    (\n                        0 \n                    \n                    \n  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-widget-amount",
-    "text_preview": "0"
+    "text_preview": "0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-counts-plural",
-    "text_preview": "productos):"
+    "text_preview": "productos):",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-counts-singular",
-    "text_preview": "producto):"
+    "text_preview": "producto):",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "strong",
     "class": "js-cart-total col text-right mr-2",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-topbar",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "row navigation-topbar",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-8 text-left px-2",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "social-icon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 text-right",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-modal-overlay modal-overlay ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "form-group m-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-modal-overlay modal-overlay ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-ajax-cart-list cart-row",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn-link ml-1",
-    "text_preview": "ver otros acá"
+    "text_preview": "ver otros acá",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h5",
     "class": "js-visible-on-cart-filled row mb-1",
-    "text_preview": "Subtotal\n               (sin envío)\n            :\n    \n    $0"
+    "text_preview": "Subtotal\n               (sin envío)\n            :\n    \n    $0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "col-7",
-    "text_preview": "Subtotal\n               (sin envío)\n            :"
+    "text_preview": "Subtotal\n               (sin envío)\n            :",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "strong",
     "class": "js-ajax-cart-total js-cart-subtotal col text-right",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-promo-title",
-    "text_preview": "Promo"
+    "text_preview": "Promo",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-promo-in",
-    "text_preview": "en"
+    "text_preview": "en",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-promo-all",
-    "text_preview": "todos los productos"
+    "text_preview": "todos los productos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-promo-units-or-more",
-    "text_preview": "o más"
+    "text_preview": "o más",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-visible-on-cart-filled divider",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-shipping-calculator-with-zipcode  mt-3 mb-4 w-100 transition-up position-absolute",
-    "text_preview": "Entregas para el CP:\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCambiar CP"
+    "text_preview": "Entregas para el CP:\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCambiar CP",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container p-0",
+    "text_preview": "Entregas para el CP:\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCambiar CP",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "row align-items-center",
-    "text_preview": "Entregas para el CP:\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCambiar CP"
+    "text_preview": "Entregas para el CP:\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCambiar CP",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "col pr-0",
-    "text_preview": "Entregas para el CP:"
+    "text_preview": "Entregas para el CP:",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "font-small align-bottom",
-    "text_preview": "Entregas para el CP:"
+    "text_preview": "Entregas para el CP:",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Entregas para el CP:",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "strong",
     "class": "js-shipping-calculator-current-zip",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-auto pl-0",
-    "text_preview": "Cambiar CP"
+    "text_preview": "Cambiar CP",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "js-shipping-calculator-change-zipcode btn btn-secondary btn-small float-right py-1 px-2 px-sm-3",
-    "text_preview": "Cambiar CP"
+    "text_preview": "Cambiar CP",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "form-control-container col-6 col-lg-7 pr-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-calculating-shipping-wording",
-    "text_preview": "Calculando"
+    "text_preview": "Calculando",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "float-right loading",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-12",
-    "text_preview": "No sé mi código"
+    "text_preview": "No sé mi código",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "font-small text-primary mt-2 mb-2 d-block",
-    "text_preview": "No sé mi código"
+    "text_preview": "No sé mi código",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-ship-calculator-error js-ship-calculator-external-error alert alert-danger",
-    "text_preview": "El calculo falló por un problema con el medio de envío. Por favor intentá de nuevo en unos segundos."
+    "text_preview": "El calculo falló por un problema con el medio de envío. Por favor intentá de nuevo en unos segundos.",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-shipping-calculator-spinner shipping-spinner-container mb-3 float-left w-100 transition-soft text-center",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-shipping-calculator-response mb-3 float-left w-100 transition-soft  radio-buttons-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": " w-100 container-fluid",
+    "text_preview": "Nuestro local",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "form-row align-items-end",
-    "text_preview": "Nuestro local"
+    "text_preview": "Nuestro local",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-1 col-md-auto form-label",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-11 form-label",
-    "text_preview": "Nuestro local"
+    "text_preview": "Nuestro local",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "Nuestro local",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "radio-button-icons-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "radio-button-icons",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "radio-button-icon unchecked",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "radio-button-icon checked",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-3 text-right",
-    "text_preview": "Gratis"
+    "text_preview": "Gratis",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h5",
     "class": "text-primary mb-0 d-inline-block",
-    "text_preview": "Gratis"
+    "text_preview": "Gratis",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-visible-on-cart-filled divider ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h2",
     "class": "row text-primary mb-3",
-    "text_preview": "Total:\n                  $0"
+    "text_preview": "Total:\n                  $0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "col",
-    "text_preview": "Total:"
+    "text_preview": "Total:",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-cart-total  col text-right",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "text-right",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn-link ml-1",
-    "text_preview": "ver otros acá"
+    "text_preview": "ver otros acá",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-ajax-cart-submit row mb-3",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "row mb-2",
-    "text_preview": "Ver más productos"
+    "text_preview": "Ver más productos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "text-center w-100",
-    "text_preview": "Ver más productos"
+    "text_preview": "Ver más productos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-modal-overlay modal-overlay ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "divider",
-    "text_preview": ">"
-  },
-  {
-    "tag": "div",
-    "class": "col",
-    "text_preview": "PERIFERICOS"
-  },
-  {
-    "tag": "div",
-    "class": "row",
-    "text_preview": "PERIFERICOS"
-  },
-  {
-    "tag": "div",
-    "class": "col",
-    "text_preview": "PERIFERICOS"
-  },
-  {
-    "tag": "h1",
-    "class": "h2 h1-md  text-center",
-    "text_preview": "PERIFERICOS"
-  },
-  {
-    "tag": "span",
-    "class": "divider",
-    "text_preview": ">"
-  },
-  {
-    "tag": "div",
-    "class": "col-6 col-md-3 d-md-none",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "col-8 offset-2 offset-md-0 col-md-3",
-    "text_preview": "Precio: Menor a Mayor\n\t        \t    \t        \t        \t            Precio: Mayor a Menor\n\t        \t "
-  },
-  {
-    "tag": "div",
-    "class": "form-group mb-0",
-    "text_preview": "Precio: Menor a Mayor\n\t        \t    \t        \t        \t            Precio: Mayor a Menor\n\t        \t "
-  },
-  {
-    "tag": "div",
-    "class": "form-select-icon",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "col-12 d-md-none",
-    "text_preview": "Filtro aplicado"
-  },
-  {
-    "tag": "div",
-    "class": "mb-2",
-    "text_preview": "Filtro aplicado"
-  },
-  {
-    "tag": "div",
-    "class": "col col-md-2 d-none d-md-block",
-    "text_preview": "Filtro aplicado\n    \n\n    \n            \n            PERIFERICOS\n             \n                      "
-  },
-  {
-    "tag": "div",
-    "class": "mb-4 pb-1",
-    "text_preview": "Filtro aplicado\n    \n\n    \n            \n            PERIFERICOS\n             \n                      "
-  },
-  {
-    "tag": "h3",
-    "class": "mb-2",
-    "text_preview": "Filtro aplicado"
-  },
-  {
-    "tag": "div",
-    "class": "d-none d-md-block",
-    "text_preview": "PERIFERICOS\n             \n                                    Teclados\n                             "
-  },
-  {
-    "tag": "h3",
-    "class": "title-section mb-4",
-    "text_preview": "PERIFERICOS"
-  },
-  {
-    "tag": "ul",
-    "class": "list-unstyled",
-    "text_preview": "Teclados\n                                    Auriculares\n                                    Parlant"
-  },
-  {
-    "tag": "a",
-    "class": "btn-link big",
-    "text_preview": "Teclados"
-  },
-  {
-    "tag": "a",
-    "class": "btn-link big",
-    "text_preview": "Auriculares"
-  },
-  {
-    "tag": "a",
-    "class": "btn-link big",
-    "text_preview": "Parlantes"
-  },
-  {
-    "tag": "a",
-    "class": "btn-link big",
-    "text_preview": "Mouse"
-  },
-  {
-    "tag": "a",
-    "class": "btn-link big",
-    "text_preview": "Mousepads"
-  },
-  {
-    "tag": "a",
-    "class": "btn-link big",
-    "text_preview": "Webcam"
-  },
-  {
-    "tag": "a",
-    "class": "btn-link big",
-    "text_preview": "Microfonos"
-  },
-  {
-    "tag": "a",
-    "class": "btn-link big",
-    "text_preview": "Volantes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "10% OFF",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "10% OFF",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "lazyautosizes img-absolute img-absolute-centered lazyloaded",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "labels ",
+    "text_preview": "10% OFF",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-offer-label label label-primary label-circle",
+    "text_preview": "10% OFF",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "10",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "MousePad BKT LISO NEGRO\n                                    \n                        \n              "
+    "text_preview": "Aire Comprimido Aerosol CHEMITEC 400GR PACK X 12 UNIDADES\n                                    \n     ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "MousePad BKT LISO NEGRO\n                                    \n                        \n              "
+    "text_preview": "Aire Comprimido Aerosol CHEMITEC 400GR PACK X 12 UNIDADES\n                                    \n     ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "MousePad BKT LISO NEGRO"
+    "text_preview": "Aire Comprimido Aerosol CHEMITEC 400GR PACK X 12 UNIDADES",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $138.500\n                      ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $138.500\n                      ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$138.500",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$6.430,48"
+    "text_preview": "$124.700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $4.951"
+    "text_preview": "Precio Slot One\n                        \n                            $96.019",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$4.951"
+    "text_preview": "$96.019",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "lazyautosizes img-absolute img-absolute-centered lazyloaded",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "Mouse GENIUS DX-125 USB BLACK\n                                    \n                        \n        "
+    "text_preview": "Adaptador Bluetooth Usb 5.0\n                                    \n                        \n          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "Mouse GENIUS DX-125 USB BLACK\n                                    \n                        \n        "
+    "text_preview": "Adaptador Bluetooth Usb 5.0\n                                    \n                        \n          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "Mouse GENIUS DX-125 USB BLACK"
+    "text_preview": "Adaptador Bluetooth Usb 5.0",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$7.873,93"
+    "text_preview": "$10.400",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $6.063"
+    "text_preview": "Precio Slot One\n                        \n                            $8.008",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$6.063"
+    "text_preview": "$8.008",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "lazyautosizes img-absolute img-absolute-centered lazyloaded",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "Mouse PHILIPS SERIE 2000 USB BLACK\n                                    \n                        \n   "
+    "text_preview": "Monitor AOC LED GAMER 27\" 2790VX FHD 144HZ 1MS\n                                    \n                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "Mouse PHILIPS SERIE 2000 USB BLACK\n                                    \n                        \n   "
+    "text_preview": "Monitor AOC LED GAMER 27\" 2790VX FHD 144HZ 1MS\n                                    \n                ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "Mouse PHILIPS SERIE 2000 USB BLACK"
+    "text_preview": "Monitor AOC LED GAMER 27\" 2790VX FHD 144HZ 1MS",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$8.359,62"
+    "text_preview": "$571.707,02",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $6.437"
+    "text_preview": "Precio Slot One\n                        \n                            $440.214",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$6.437"
+    "text_preview": "$440.214",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "lazyautosizes img-absolute img-absolute-centered lazyloaded",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "MousePad AUREOX DAUNTLESS GAMING S GMP1\n                                    \n                       "
+    "text_preview": "Silla GAMER RAZER ISKUR X\n                                    \n                        \n            ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "MousePad AUREOX DAUNTLESS GAMING S GMP1\n                                    \n                       "
+    "text_preview": "Silla GAMER RAZER ISKUR X\n                                    \n                        \n            ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "MousePad AUREOX DAUNTLESS GAMING S GMP1"
+    "text_preview": "Silla GAMER RAZER ISKUR X",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$10.931,81"
+    "text_preview": "$1.058.676,76",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $8.417"
+    "text_preview": "Precio Slot One\n                        \n                            $815.181",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$8.417"
+    "text_preview": "$815.181",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "lazyautosizes img-absolute img-absolute-centered lazyloaded",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "Microfono Inalámbrico Celular Corbatero K8 USB Tipo C\n                                    \n         "
+    "text_preview": "Cable Datos Sata 3\n                                    \n                        \n                   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "Microfono Inalámbrico Celular Corbatero K8 USB Tipo C\n                                    \n         "
+    "text_preview": "Cable Datos Sata 3\n                                    \n                        \n                   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "Microfono Inalámbrico Celular Corbatero K8 USB Tipo C"
+    "text_preview": "Cable Datos Sata 3",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$11.100"
+    "text_preview": "$3.300",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $8.547"
+    "text_preview": "Precio Slot One\n                        \n                            $2.541",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$8.547"
+    "text_preview": "$2.541",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "lazyautosizes img-absolute img-absolute-centered lazyloaded",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "Mouse Inalámbrico Genius Nx 7000X\n                                    \n                        \n    "
+    "text_preview": "Alcohol Isopropilico CHEMITEC AEROSOL PROMAX 175ML\n                                    \n            ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "Mouse Inalámbrico Genius Nx 7000X\n                                    \n                        \n    "
+    "text_preview": "Alcohol Isopropilico CHEMITEC AEROSOL PROMAX 175ML\n                                    \n            ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "Mouse Inalámbrico Genius Nx 7000X"
+    "text_preview": "Alcohol Isopropilico CHEMITEC AEROSOL PROMAX 175ML",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$12.775,96"
+    "text_preview": "$11.600",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $9.837"
+    "text_preview": "Precio Slot One\n                        \n                            $8.932",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$9.837"
+    "text_preview": "$8.932",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
-    "class": "lazyautosizes lazyload img-absolute img-absolute-centered",
-    "text_preview": ""
+    "class": "lazyautosizes img-absolute img-absolute-centered lazyloading",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "MousePad BKT CON GEL NEGRO\n                                    \n                        \n           "
+    "text_preview": "Cable Power Trebol 220v\n                                    \n                        \n              ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "MousePad BKT CON GEL NEGRO\n                                    \n                        \n           "
+    "text_preview": "Cable Power Trebol 220v\n                                    \n                        \n              ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "MousePad BKT CON GEL NEGRO"
+    "text_preview": "Cable Power Trebol 220v",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$12.860,95"
+    "text_preview": "$6.500",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $9.903"
+    "text_preview": "Precio Slot One\n                        \n                            $5.005",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$9.903"
+    "text_preview": "$5.005",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
-    "class": "lazyautosizes lazyload img-absolute img-absolute-centered",
-    "text_preview": ""
+    "class": "lazyautosizes img-absolute img-absolute-centered lazyloading",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "Mouse Pad MARVO GAMING G39\n                                    \n                        \n           "
+    "text_preview": "Combo Actualización Pc Intel Core I7 14700 + H610M + 16gb Ddr4\n                                    \n",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "Mouse Pad MARVO GAMING G39\n                                    \n                        \n           "
+    "text_preview": "Combo Actualización Pc Intel Core I7 14700 + H610M + 16gb Ddr4\n                                    \n",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "Mouse Pad MARVO GAMING G39"
+    "text_preview": "Combo Actualización Pc Intel Core I7 14700 + H610M + 16gb Ddr4",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$15.004,44"
+    "text_preview": "$840.000",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $11.553"
+    "text_preview": "Precio Slot One\n                        \n                            $646.800",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$11.553"
+    "text_preview": "$646.800",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
-    "class": "lazyautosizes lazyload img-absolute img-absolute-centered",
-    "text_preview": ""
+    "class": "lazyautosizes img-absolute img-absolute-centered lazyloading",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "Mouse Inalámbrico GENIUS NX-7010 WHITE/BLUE\n                                    \n                   "
+    "text_preview": "Notebook MSI Cyborg 15 A13VE INTEL CORE I5-13420H - 16GB - SSD 512gb - RTX 4050 - WIN 11\n           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "Mouse Inalámbrico GENIUS NX-7010 WHITE/BLUE\n                                    \n                   "
+    "text_preview": "Notebook MSI Cyborg 15 A13VE INTEL CORE I5-13420H - 16GB - SSD 512gb - RTX 4050 - WIN 11\n           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "Mouse Inalámbrico GENIUS NX-7010 WHITE/BLUE"
+    "text_preview": "Notebook MSI Cyborg 15 A13VE INTEL CORE I5-13420H - 16GB - SSD 512gb - RTX 4050 - WIN 11",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$15.188,79"
+    "text_preview": "$2.440.165,86",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $11.695"
+    "text_preview": "Precio Slot One\n                        \n                            $1.878.928",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$11.695"
+    "text_preview": "$1.878.928",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "lazyautosizes lazyload img-absolute img-absolute-centered",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "Mouse Inalámbrico Genius Nx 7000 BlueEye\n                                    \n                      "
+    "text_preview": "Memoria ADATA DIMM LANCER SINGLE 2x16 32GB DDR5 6400MHZ RGB\n                                    \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "Mouse Inalámbrico Genius Nx 7000 BlueEye\n                                    \n                      "
+    "text_preview": "Memoria ADATA DIMM LANCER SINGLE 2x16 32GB DDR5 6400MHZ RGB\n                                    \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "Mouse Inalámbrico Genius Nx 7000 BlueEye"
+    "text_preview": "Memoria ADATA DIMM LANCER SINGLE 2x16 32GB DDR5 6400MHZ RGB",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$15.188,79"
+    "text_preview": "$266.588,63",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $11.695"
+    "text_preview": "Precio Slot One\n                        \n                            $205.273",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$11.695"
+    "text_preview": "$205.273",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "lazyautosizes lazyload img-absolute img-absolute-centered",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "Mouse Inalámbrico TRUST PRIMO BLUE\n                                    \n                        \n   "
+    "text_preview": "Placa De Video GIGABYTE RTX 5070 TI WF3 16GB\n                                    \n                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "Mouse Inalámbrico TRUST PRIMO BLUE\n                                    \n                        \n   "
+    "text_preview": "Placa De Video GIGABYTE RTX 5070 TI WF3 16GB\n                                    \n                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "Mouse Inalámbrico TRUST PRIMO BLUE"
+    "text_preview": "Placa De Video GIGABYTE RTX 5070 TI WF3 16GB",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$15.445,25"
+    "text_preview": "$1.870.101,16",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $11.893"
+    "text_preview": "Precio Slot One\n                        \n                            $1.439.978",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$11.893"
+    "text_preview": "$1.439.978",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-image item-image customImage",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "position-relative",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "lazyautosizes lazyload img-absolute img-absolute-centered",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-absolute img-absolute-centered blur-up",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "item-description py-4 px-1",
-    "text_preview": "Mouse Inalámbrico GENIUS NX-7000SE BLACK\n                                    \n                      "
+    "text_preview": "Motherboard ASUS (AM4) ROG STRIX B550-F GAMING (WI-FI) II\n                                    \n     ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "item-link",
-    "text_preview": "Mouse Inalámbrico GENIUS NX-7000SE BLACK\n                                    \n                      "
+    "text_preview": "Motherboard ASUS (AM4) ROG STRIX B550-F GAMING (WI-FI) II\n                                    \n     ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "js-item-name item-name mb-3",
-    "text_preview": "Mouse Inalámbrico GENIUS NX-7000SE BLACK"
+    "text_preview": "Motherboard ASUS (AM4) ROG STRIX B550-F GAMING (WI-FI) II",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "item-price-container mb-1 row",
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6",
-    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   "
+    "text_preview": "Precio de Lista\n                        \n                            $0\n                        \n   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio de Lista"
+    "text_preview": "Precio de Lista",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-compare-price-display price-compare",
-    "text_preview": "$0"
+    "text_preview": "$0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-price-display item-price",
-    "text_preview": "$17.147,93"
+    "text_preview": "$357.299,82",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-6 border-left",
-    "text_preview": "Precio Slot One\n                        \n                            $13.204"
+    "text_preview": "Precio Slot One\n                        \n                            $275.121",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-accent",
-    "text_preview": "Precio Slot One"
+    "text_preview": "Precio Slot One",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "text-tertiary item-price-efectivo",
-    "text_preview": "$13.204"
+    "text_preview": "$275.121",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-max-installments-container js-max-installments d-none item-installments",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hasta 12 cuotas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "installment-amount",
-    "text_preview": "12"
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "js-addtocart-success transition-container btn-transition-success-small",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "js-addtocart-adding transition-container transition-soft btn-transition-progress",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "spinner-ellipsis invert",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "point",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-4 col-md-6 pl-1",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "d-block btn btn-secondary btn-small",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "d-none d-md-inline-block",
-    "text_preview": "Ver"
+    "text_preview": "Ver",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "js-load-more-spinner pull-left m-right-quarter",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "mt-5 mb-5 text-center w-100",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn-whatsapp",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "footer-menu-item",
-    "text_preview": "Productos"
+    "text_preview": "Productos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "footer-menu-link",
-    "text_preview": "Productos"
+    "text_preview": "Productos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "footer-menu-item",
-    "text_preview": "Quiénes Somos"
+    "text_preview": "Quiénes Somos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "footer-menu-link",
-    "text_preview": "Quiénes Somos"
+    "text_preview": "Quiénes Somos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "footer-menu-item",
-    "text_preview": "FORMAS DE PAGO"
+    "text_preview": "FORMAS DE PAGO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "footer-menu-link",
-    "text_preview": "FORMAS DE PAGO"
+    "text_preview": "FORMAS DE PAGO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "footer-menu-item",
-    "text_preview": "OFERTAS"
+    "text_preview": "OFERTAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "footer-menu-link",
-    "text_preview": "OFERTAS"
+    "text_preview": "OFERTAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "h3",
-    "text_preview": "Contactános"
+    "text_preview": "Contactános",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "contact-item",
-    "text_preview": "541168253351"
+    "text_preview": "541168253351",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "contact-link",
-    "text_preview": "541168253351"
+    "text_preview": "541168253351",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "contact-item",
-    "text_preview": "Av J. B. Alberdi 5549 - Caba"
+    "text_preview": "Av J. B. Alberdi 5549 - Caba",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "social-icon-rounded",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "divider",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-12 row",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-12",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "icon-logo lazyload",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "footer-logo afip seal-afip",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md text-left text-md-right",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "powered-by-logo",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   }
 ]

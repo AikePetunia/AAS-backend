@@ -2,4296 +2,2661 @@
   {
     "tag": "link",
     "class": "js-favicon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "link",
     "class": "js-favicon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container pl-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "form-group md-form my-0 waves-light waves-effect bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-red btn-raised btn-fab btn-buscar",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "p-2 open",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-link pl-2 pr-2 pull-left btn-mi-cuenta",
-    "text_preview": "ingresar"
+    "text_preview": "ingresar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "mt-2 d-i-b ml-1 txt-ingresar",
-    "text_preview": "ingresar"
+    "text_preview": "ingresar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-link pl-2 pr-2 pull-left mini-cart",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "icon-cat",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "row mx-md-4 mx-1",
-    "text_preview": "ADATAAMDASROCKASUSCOOLER MASTERCORSAIRCRUCIALG.SKILLGIGABYTEINTELKINGSTONLENOVOLEXARLGLOGITECHMSINOC"
+    "text_preview": "ADATAAMDASROCKASUSCOOLER MASTERCORSAIRCRUCIALG.SKILLGIGABYTEINTELKINGSTONLENOVOLEXARLGLOGITECHMSINOC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-12 col-xl-12 sub-menu my-xl-3 mt-md-3 mt-0 mb-0",
-    "text_preview": "ADATAAMDASROCKASUSCOOLER MASTERCORSAIRCRUCIALG.SKILLGIGABYTEINTELKINGSTONLENOVOLEXARLGLOGITECHMSINOC"
+    "text_preview": "ADATAAMDASROCKASUSCOOLER MASTERCORSAIRCRUCIALG.SKILLGIGABYTEINTELKINGSTONLENOVOLEXARLGLOGITECHMSINOC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "caret-style pl-0",
-    "text_preview": "ADATAAMDASROCKASUSCOOLER MASTERCORSAIRCRUCIALG.SKILLGIGABYTEINTELKINGSTONLENOVOLEXARLGLOGITECHMSINOC"
+    "text_preview": "ADATAAMDASROCKASUSCOOLER MASTERCORSAIRCRUCIALG.SKILLGIGABYTEINTELKINGSTONLENOVOLEXARLGLOGITECHMSINOC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "ADATA"
+    "text_preview": "ADATA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "ADATA"
+    "text_preview": "ADATA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "AMD"
+    "text_preview": "AMD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "AMD"
+    "text_preview": "AMD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "ASROCK"
+    "text_preview": "ASROCK",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "ASROCK"
+    "text_preview": "ASROCK",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "ASUS"
+    "text_preview": "ASUS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "ASUS"
+    "text_preview": "ASUS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "COOLER MASTER"
+    "text_preview": "COOLER MASTER",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "COOLER MASTER"
+    "text_preview": "COOLER MASTER",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "CORSAIR"
+    "text_preview": "CORSAIR",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "CORSAIR"
+    "text_preview": "CORSAIR",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "CRUCIAL"
+    "text_preview": "CRUCIAL",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "CRUCIAL"
+    "text_preview": "CRUCIAL",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "G.SKILL"
+    "text_preview": "G.SKILL",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "G.SKILL"
+    "text_preview": "G.SKILL",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "GIGABYTE"
+    "text_preview": "GIGABYTE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "GIGABYTE"
+    "text_preview": "GIGABYTE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "INTEL"
+    "text_preview": "INTEL",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "INTEL"
+    "text_preview": "INTEL",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "KINGSTON"
+    "text_preview": "KINGSTON",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "KINGSTON"
+    "text_preview": "KINGSTON",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "LENOVO"
+    "text_preview": "LENOVO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "LENOVO"
+    "text_preview": "LENOVO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "LEXAR"
+    "text_preview": "LEXAR",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "LEXAR"
+    "text_preview": "LEXAR",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "LG"
+    "text_preview": "LG",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "LG"
+    "text_preview": "LG",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "LOGITECH"
+    "text_preview": "LOGITECH",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "LOGITECH"
+    "text_preview": "LOGITECH",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "MSI"
+    "text_preview": "MSI",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "MSI"
+    "text_preview": "MSI",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "NOCTUA"
+    "text_preview": "NOCTUA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "NOCTUA"
+    "text_preview": "NOCTUA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "PATRIOT"
+    "text_preview": "PATRIOT",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "PATRIOT"
+    "text_preview": "PATRIOT",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "PHILIPS"
+    "text_preview": "PHILIPS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "PHILIPS"
+    "text_preview": "PHILIPS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "PNY"
+    "text_preview": "PNY",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "PNY"
+    "text_preview": "PNY",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "RAIDMAX"
+    "text_preview": "RAIDMAX",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "RAIDMAX"
+    "text_preview": "RAIDMAX",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "RAZER"
+    "text_preview": "RAZER",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "RAZER"
+    "text_preview": "RAZER",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "SAMSUNG"
+    "text_preview": "SAMSUNG",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "SAMSUNG"
+    "text_preview": "SAMSUNG",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "SAPPHIRE"
+    "text_preview": "SAPPHIRE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "SAPPHIRE"
+    "text_preview": "SAPPHIRE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "SEAGATE"
+    "text_preview": "SEAGATE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "SEAGATE"
+    "text_preview": "SEAGATE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "THERMALTAKE"
+    "text_preview": "THERMALTAKE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "THERMALTAKE"
+    "text_preview": "THERMALTAKE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "TP LINK"
+    "text_preview": "TP LINK",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "TP LINK"
+    "text_preview": "TP LINK",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "TRUST"
+    "text_preview": "TRUST",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "TRUST"
+    "text_preview": "TRUST",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "VIEWSONIC"
+    "text_preview": "VIEWSONIC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "VIEWSONIC"
+    "text_preview": "VIEWSONIC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "WD"
+    "text_preview": "WD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "WD"
+    "text_preview": "WD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "col-md-12 col-xl-3 pl-0 ml-0 pull-left",
-    "text_preview": "XIGMATEK"
+    "text_preview": "XIGMATEK",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light mx-0",
-    "text_preview": "XIGMATEK"
+    "text_preview": "XIGMATEK",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "modo-oscuro none",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "modo-claro",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "label",
     "class": "theme-switch",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "slider-theme round",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "section-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "panel panel-default panel-rose ",
-    "text_preview": "Auriculares (125)\n\t\t\t\t\t\t\t\t\t\t Capturadoras (125)\n\t\t\t\t\t\t\t\t\t\t Joysticks (125)\n\t\t\t\t\t\t\t\t\t\t Keycaps (125)\n"
+    "text_preview": "Todo en Monitores (123)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "panel-body pl-0 pr-0 pt-0",
-    "text_preview": "Auriculares (125)\n\t\t\t\t\t\t\t\t\t\t Capturadoras (125)\n\t\t\t\t\t\t\t\t\t\t Joysticks (125)\n\t\t\t\t\t\t\t\t\t\t Keycaps (125)\n"
+    "text_preview": "Todo en Monitores (123)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Auriculares (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Capturadoras (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Joysticks (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Keycaps (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "KITS (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Micrófonos (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Mouse (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Pads (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Parlantes (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Teclados (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Volantes & Accesorios (125)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Webcam (125)"
+    "text_preview": "Todo en Monitores (123)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-lg-12 marcas_filtros ta-c mb-3 cate slick-initialized slick-slider",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "slick-list draggable",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "slick-track",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "precio Menor a Mayor"
+    "text_preview": "precio Menor a Mayor",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "precio Mayor a Menor"
+    "text_preview": "precio Mayor a Menor",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "de la A  a la  Z"
+    "text_preview": "de la A  a la  Z",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "de la Z  a la  A"
+    "text_preview": "de la Z  a la  A",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "más nuevos"
+    "text_preview": "más nuevos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "más viejos"
+    "text_preview": "más viejos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "24a | ips | plana | fhd 1080p | 120hz| marca_847",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "910-004053                                                    \n                                     "
+    "text_preview": "PRO MP242A E2                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "910-004053"
+    "text_preview": "PRO MP242A E2",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse M90 Black Logitech"
+    "text_preview": "Monitor 24 120hz Ips Fhd Pro Mp242a E2 Msi",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 24 120hz Ips Fhd Pro Mp242a E2 Msi",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$5.599$5.099$5.099HYPER PRECIO"
+    "text_preview": "$181.899$165.399$165.399HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$5.099"
+    "text_preview": "$165.399",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$5.099HYPER PRECIO"
+    "text_preview": "$165.399HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "24a | va | plana | fhd 1080p | 100hz| marca_2612",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "RAP-MOU-LED-4BOT                                                    \n                               "
+    "text_preview": "CMI-GA241-AR                                                    \n                                   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "RAP-MOU-LED-4BOT"
+    "text_preview": "CMI-GA241-AR",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Raptor Storm Grip 3600dpi 4 Botones 7 Colores"
+    "text_preview": "Monitor 24 100hz Fhd Ga241 1ms Cooler Master",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 24 100hz Fhd Ga241 1ms Cooler Master",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$6.299$5.799$5.799HYPER PRECIO"
+    "text_preview": "$181.999$165.499$165.499HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$5.799"
+    "text_preview": "$165.499",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$5.799HYPER PRECIO"
+    "text_preview": "$165.499HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "24a | ips | plana | fhd 1080p | 100hz| marca_843",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "910-006755                                                    \n                                     "
+    "text_preview": "VA24EHF-J                                                    \n                                      ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "910-006755"
+    "text_preview": "VA24EHF-J",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse M110 Silent Rojo Logitech"
+    "text_preview": "Monitor 24 Fhd 100hz Ips Va24ehf-j Black Asus",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 24 Fhd 100hz Ips Va24ehf-j Black Asus",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$8.599$7.799$7.799HYPER PRECIO"
+    "text_preview": "$189.599$172.399$172.399HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$7.799"
+    "text_preview": "$172.399",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$7.799HYPER PRECIO"
+    "text_preview": "$172.399HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "24a | va | plana | fhd 1080p | 100hz| marca_847",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "920-004422                                                    \n                                     "
+    "text_preview": "PRO MP2412                                                    \n                                     ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "920-004422"
+    "text_preview": "PRO MP2412",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Teclado K120 Usb Black Espanol Logitech"
+    "text_preview": "Monitor 24 100hz Fhd Pro Mp2412 Msi",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 24 100hz Fhd Pro Mp2412 Msi",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$12.199$11.099$11.099HYPER PRECIO"
+    "text_preview": "$206.499$187.799$187.799HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$11.099"
+    "text_preview": "$187.799",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$11.099HYPER PRECIO"
+    "text_preview": "$187.799HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "24a | ips | plana | fhd 1080p | 100hz| marca_2621",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "RAP-MOU-LED-9BOT                                                    \n                               "
+    "text_preview": "24MS500-B                                                    \n                                      ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "RAP-MOU-LED-9BOT"
+    "text_preview": "24MS500-B",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Raptor Storm Grip 8000dpi 9 Botones Retroiluminado"
+    "text_preview": "Monitor 24 Fhd 100hz Ips 24ms500 Lg",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 24 Fhd 100hz Ips 24ms500 Lg",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$13.199$11.999$11.999HYPER PRECIO"
+    "text_preview": "$214.699$195.199$195.199HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$11.999"
+    "text_preview": "$195.199",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$11.999HYPER PRECIO"
+    "text_preview": "$195.199HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "920-004428                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "920-004428"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Kit Teclado + Mouse Mk120 Black Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$16.599$15.099$14.999HYPER PRECIO"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$14.999HYPER PRECIO"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "27a | ips | plana | 180hz | fhd 1080p| marca_842",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "910-004286                                                    \n                                     "
+    "text_preview": "GS27FA-SA                                                    \n                                      ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "910-004286"
+    "text_preview": "GS27FA-SA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse M280 Wireless Red Logitech"
+    "text_preview": "Monitor 27 180hz Ss Ips Fhd Gs27fa Gigabyte",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 27 180hz Ss Ips Fhd Gs27fa Gigabyte",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$16.699$15.199$15.199HYPER PRECIO"
+    "text_preview": "$278.099$252.799$252.799HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$15.199"
+    "text_preview": "$252.799",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$15.199HYPER PRECIO"
+    "text_preview": "$252.799HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "24a | ips | plana | 180hz | fhd 1080p| marca_2621",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "910-004361                                                    \n                                     "
+    "text_preview": "24GS60F-B                                                    \n                                      ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "910-004361"
+    "text_preview": "24GS60F-B",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse M280 Wireless Blue Logitech"
+    "text_preview": "Monitor 24 180hz Ips Fhd 1ms Ultragear 24gs60f Borderless Lg",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 24 180hz Ips Fhd 1ms Ultragear 24gs60f Borderless Lg",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$16.699$15.199$15.199HYPER PRECIO"
+    "text_preview": "$308.799$280.699$280.699HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$15.199"
+    "text_preview": "$280.699",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$15.199HYPER PRECIO"
+    "text_preview": "$280.699HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "27a | va | curva | 180hz | qhd 2k| marca_842",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "956-000037                                                    \n                                     "
+    "text_preview": "GS27QCA                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "956-000037"
+    "text_preview": "GS27QCA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Pad Deskpad Rosa Medium Logitech"
+    "text_preview": "Monitor 27 180hz 2k Qhd Curvo Gs27qca Gigabyte",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 27 180hz 2k Qhd Curvo Gs27qca Gigabyte",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$17.099$15.499$15.499HYPER PRECIO"
+    "text_preview": "$357.199$324.699$324.699HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$15.499"
+    "text_preview": "$324.699",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$15.499HYPER PRECIO"
+    "text_preview": "$324.699HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "27a | va | curva | fhd 1080p | 280hz| marca_847",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "956-000038                                                    \n                                     "
+    "text_preview": "MAG 276CXF                                                    \n                                     ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "956-000038"
+    "text_preview": "MAG 276CXF",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Pad Deskpad Gris Azulado Medium Logitech"
+    "text_preview": "Monitor 27 280hz Fhd 0.5ms Msi Mag 276cxf Curvo",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 27 280hz Fhd 0.5ms Msi Mag 276cxf Curvo",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$17.099$15.499$15.499HYPER PRECIO"
+    "text_preview": "$358.199$325.599$325.599HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$15.499"
+    "text_preview": "$325.599",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$15.499HYPER PRECIO"
+    "text_preview": "$325.599HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "27a | va | plana | 165hz | fhd 1080p| marca_2627",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "910-005904                                                    \n                                     "
+    "text_preview": "VX2718-P-MHD                                                    \n                                   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "910-005904"
+    "text_preview": "VX2718-P-MHD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse M190 Wireless Black Red Logitech"
+    "text_preview": "Monitor 27 Fhd Led 165hz Vx2718-p-mhd Viewsonic",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 27 Fhd Led 165hz Vx2718-p-mhd Viewsonic",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$18.499$16.799$16.799HYPER PRECIO"
+    "text_preview": "$363.999$330.899$330.899HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$16.799"
+    "text_preview": "$330.899",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$16.799HYPER PRECIO"
+    "text_preview": "$330.899HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "24a | ips | plana | 180hz | fhd 1080p| marca_",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "23611                                                    \n                                          "
+    "text_preview": "24G42E                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "23611"
+    "text_preview": "24G42E",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Kit Mouse + Pad Rixa Camo Gxt781 Trust"
+    "text_preview": "Monitor 24 180hz Fhd Ips 1ms 24g42e Aoc",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 24 180hz Fhd Ips 1ms 24g42e Aoc",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$18.699$16.999$16.999HYPER PRECIO"
+    "text_preview": "$363.999$330.899$330.899HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$16.999"
+    "text_preview": "$330.899",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$16.999HYPER PRECIO"
+    "text_preview": "$330.899HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "32a | ips | plana | 170hz | qhd 2k| marca_842",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "21671                                                    \n                                          "
+    "text_preview": "GS32Q                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "21671"
+    "text_preview": "GS32Q",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Microfono Starzz Black Trust"
+    "text_preview": "Monitor 32 Edge 2k Qhd Ips 1ms 170hz Gs32q Gigabyte",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 32 Edge 2k Qhd Ips 1ms 170hz Gs32q Gigabyte",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$20.799$18.899$18.899HYPER PRECIO"
+    "text_preview": "$572.499$520.399$520.399HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$18.899"
+    "text_preview": "$520.399",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$18.899HYPER PRECIO"
+    "text_preview": "$520.399HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "filtros_cucarda",
-    "text_preview": "contabilium"
+    "text_preview": "contabilium",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "filtros_cucarda",
+    "text_preview": "27a | ips | plana | 180hz | qhd 2k| marca_842",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "RZ02-03331500-R3U1                                                    \n                             "
+    "text_preview": "M27QA ICE                                                    \n                                      ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "RZ02-03331500-R3U1"
+    "text_preview": "M27QA ICE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Pad Pro Glide Productivity Razer"
+    "text_preview": "Monitor 27 180hz 2k Qhd Ips Kvm M27qa Ice Gigabyte",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitor 27 180hz 2k Qhd Ips Kvm M27qa Ice Gigabyte",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$21.299$19.399$19.399HYPER PRECIO"
+    "text_preview": "$613.399$557.599$557.599HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "mb-0 ft solo_web ",
-    "text_preview": "$19.399"
+    "text_preview": "$557.599",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$19.399HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-006122                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-006122"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse M317c Pow Limited Wireles Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$23.599$21.499$21.499HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$21.499"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$21.499HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "920-004426                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "920-004426"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Teclado K270 Wireless Graphite Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$24.299$22.099$22.099HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$22.099"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$22.099HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "980-001004                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "980-001004"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Parlante S150 Black Usb Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$25.399$23.099$23.099HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$23.099"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$23.099HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "GXT835                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "GXT835"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Teclado Azor Gxt 835 Rgb Us Trust"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$25.699$23.399$23.399HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$23.399"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$23.399HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "KM6300                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "KM6300"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Kit Teclado Y Mouse Km6300 La Black Gigabyte"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$25.999$23.599$23.599HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$23.599"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$23.599HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-005793                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-005793"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse G203 Lightsync Black Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$27.499$24.999$24.999HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$24.999"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$24.999HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "CM-CHC-WLXXPL-SP                                                    \n                               "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "CM-CHC-WLXXPL-SP"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Kit Teclado + Mouse Challenger Combo Esp Thermaltake"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$27.599$25.099$25.099HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$25.099"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$25.099HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-005794                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-005794"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse G203 Lightsync White Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$28.999$26.399$26.399HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$26.399"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$26.399HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-005795                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-005795"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse G203 Lightsync Blue Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$29.299$26.599$26.599HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$26.599"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$26.599HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "920-007901                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "920-007901"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Kit Teclado + Mouse Mk235 Wireless Gris Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$29.799$27.099$27.099HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$27.099"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$27.099HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "RZ01-03850100-R3M1                                                    \n                             "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "RZ01-03850100-R3M1"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Deathadder Essential Black Razer"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$30.399$27.699$27.599HYPER PRECIO"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$27.599HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "940-000110                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "940-000110"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Joystick F310 Wired Pc Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$31.499$28.599$28.599HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$28.599"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$28.599HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "920-004430                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "920-004430"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Kit Teclado + Mouse Mk220 Wireless Esp Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$31.699$28.799$28.899HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$28.799"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$28.899HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-007049                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-007049"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Pebble 2 M350s Wireless Negro Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$31.899$28.999$28.999HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$28.999"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$28.999HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "920-004432                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "920-004432"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Kit Teclado + Mouse Mk270 Wireless Black Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$32.799$29.799$29.799HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$29.799"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$29.799HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "RZ02-03330300-R3U1                                                    \n                             "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "RZ02-03330300-R3U1"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Pad Gigantus V2 Large Razer"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$33.099$30.099$30.099HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$30.099"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$30.099HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "CH-930C011-NA                                                    \n                                  "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "CH-930C011-NA"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Katar Pro Ultra Lightweight Corsair"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$33.199$30.199$30.199HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$30.199"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$30.199HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "956-000048                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "956-000048"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Pad Deskpad Rosa Xl Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$35.299$32.099$32.099HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$32.099"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$32.099HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "CH-9911070-NA                                                    \n                                  "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "CH-9911070-NA"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Keycap Pbt Double-shot Pro Rogue Pink Us Corsair"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$35.899$32.699$32.699HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$32.699"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$32.699HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "CH-9911020-NA                                                    \n                                  "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "CH-9911020-NA"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Keycap Pbt Double-shot Pro Origin Red Us Corsair"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$35.899$32.699$32.699HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$32.699"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$32.699HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "RZ01-03850200-R3U1                                                    \n                             "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "RZ01-03850200-R3U1"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Deathadder Essential White Razer"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$36.599$33.299$33.299HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$33.299"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$33.299HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "CM-CEL-WLXXMB-SP                                                    \n                               "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "CM-CEL-WLXXMB-SP"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Kit Teclado + Mouse Challenger Elite Rgb Combo Esp Thermaltake"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$38.299$34.799$34.799HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$34.799"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$34.799HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "4Z7X5AA                                                    \n                                        "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "4Z7X5AA"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Pad Pulsefire Mat Xl Negro Hyperx"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$39.899$36.299$36.299HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$36.299"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$36.299HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "23790                                                    \n                                          "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "23790"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Microfono Mico Usb Black Trust"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$39.999$36.399$36.399HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$36.399"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$36.399HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "CH-9911030-NA                                                    \n                                  "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "CH-9911030-NA"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Keycap Pbt Double-shot Pro Elgato Blue Us Corsair"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$40.899$37.199$37.199HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$37.199"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$37.199HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "956-000036                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "956-000036"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Pad Deskpad Lavanda Xl Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$41.699$37.899$37.899HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$37.899"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$37.899HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-006549                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-006549"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Pop Yellow Blast Wireless Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$42.899$38.999$38.999HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$38.999"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$38.999HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-006550                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-006550"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Pop Daydream Wireless Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$42.899$38.999$38.999HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$38.999"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$38.999HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-006551                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-006551"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Pop Coral Heartbraker Wireless Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$42.899$38.999$38.999HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$38.999"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$38.999HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-005769                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-005769"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse M350 Pebble Wireless Bt Rosa Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$44.399$40.399$40.399HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$40.399"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$40.399HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-005770                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-005770"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse M350 Pebble Wireless Bt Blanco Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$44.399$40.399$40.399HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$40.399"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$40.399HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-005290                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-005290"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse G305 Lightspeed Wireless White Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$46.199$41.999$41.999HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$41.999"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$41.999HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-006377                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-006377"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse G305 Lightspeed Wireless Mint Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$46.599$42.399$42.399HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$42.399"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$42.399HYPER PRECIO"
-  },
-  {
-    "tag": "span",
-    "class": "filtros_cucarda",
-    "text_preview": "contabilium"
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido",
-    "text_preview": "Llega entre Lunes / Miercoles"
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "910-005281                                                    \n                                     "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "910-005281"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse G305 Lightspeed Wireless Gaming Black Logitech"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$46.599$42.399$42.399HYPER PRECIO"
-  },
-  {
-    "tag": "h6",
-    "class": "mb-0 ft solo_web ",
-    "text_preview": "$42.399"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$42.399HYPER PRECIO"
+    "text_preview": "$557.599HYPER PRECIO",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "ul",
+    "class": "pagination pagination-info mt-4",
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "active",
-    "text_preview": "1"
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h5",
     "class": "t-shadow mt-0 mb-0",
-    "text_preview": "1157259722 (solo texto)"
+    "text_preview": "1157259722 (solo texto)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "text-white",
-    "text_preview": "1157259722 (solo texto)"
+    "text_preview": "1157259722 (solo texto)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3 pull-left mt-0 pt-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-6 pull-left mt-0 pt-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "result",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3 pull-left mt-0 pt-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-lg-3 col-md-6 ml-auto mr-auto pt-3 br-2",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h5",
     "class": "t-shadow mt-0 mb-0",
-    "text_preview": "11 5725 9722"
+    "text_preview": "11 5725 9722",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "text-white",
-    "text_preview": "11 5725 9722"
+    "text_preview": "11 5725 9722",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Libro de quejas online",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "social-buttons",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-just-icon btn-round btn-facebook",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-just-icon btn-round btn-instagram",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-2 informacion",
-    "text_preview": "FORMAS DE PAGO"
+    "text_preview": "FORMAS DE PAGO",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h5",
+    "class": "",
+    "text_preview": "FORMAS DE PAGO",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "Hecho en qloud.com.ar",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Hecho en qloud.com.ar",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hecho en",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "copyright pull-right col-md-6 ta-r dataFiscal",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "fb-customerchat",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-dialog",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-content bg-none",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container px-15",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-12",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "form-group md-form my-0 waves-light waves-effect waves-light bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-red btn-raised btn-fab p-4",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "modal-title ta-l titulo",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "col-6 pl-0 pull-left captcha mt-4",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "py-3",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   }
 ]

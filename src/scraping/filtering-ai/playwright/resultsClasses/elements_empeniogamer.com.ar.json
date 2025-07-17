@@ -1,1177 +1,2354 @@
 [
   {
     "tag": "div",
-    "class": "l-preloader",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "l-preloader-spinner",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "g-preloader type_2",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
     "class": "l-subheader at_top",
-    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba"
+    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "l-subheader-h",
-    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba"
+    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "l-subheader-cell at_left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "l-subheader-cell at_center",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-image ush_image_2 has_height",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-image-h",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-full size-full",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-image ush_image_7 has_height",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-image-h",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-full size-full",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-image ush_image_3 has_height",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-image-h",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-medium size-medium",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-image ush_image_4 has_height",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-image-h",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-full size-full",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "l-subheader-cell at_right",
-    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba"
+    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-btn us-btn-style_1 ush_btn_1 icon_atleft",
-    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba"
+    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-btn-label",
-    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba"
+    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "l-subheader-cell at_left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-cart-link",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-cart-icon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-cart-quantity",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "product-name",
-    "text_preview": "Producto"
+    "text_preview": "Producto",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "widget woocommerce widget_shopping_cart",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "widget_shopping_cart_content",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-image ush_image_1 has_height",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-image-h",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-full size-full",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "l-subheader-cell at_left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "×",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "aws-loader",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "w-text ush_text_6 builder-pc-btn has_text_color nowrap icon_atleft",
+    "text_preview": "Armador de PC",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "w-text-h",
+    "text_preview": "Armador de PC",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-text-value",
+    "text_preview": "Armador de PC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-text ush_text_2 has_text_color nowrap",
-    "text_preview": "✉ Informa tu pago"
+    "text_preview": "✉ Informa tu pago",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-text-h",
-    "text_preview": "✉ Informa tu pago"
+    "text_preview": "✉ Informa tu pago",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-value",
-    "text_preview": "✉ Informa tu pago"
+    "text_preview": "✉ Informa tu pago",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-image-h",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-thumbnail size-thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "w-btn us-btn-style_1",
-    "text_preview": "Aplicar"
+    "text_preview": "Aplicar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-btn-label",
-    "text_preview": "Aplicar"
+    "text_preview": "Aplicar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_custom",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ui-slider-handle ui-corner-all ui-state-default",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ui-slider-handle ui-corner-all ui-state-default",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ui-slider-range ui-corner-all ui-widget-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "for_min_value",
-    "text_preview": "$ 0"
+    "text_preview": "$ 0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 0"
+    "text_preview": "$ 0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "for_max_value",
-    "text_preview": "$ 5.089.919"
+    "text_preview": "$ 5.111.760",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 5.089.919"
+    "text_preview": "$ 5.111.760",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "w-btn us-btn-style_1",
-    "text_preview": "Aplicar"
+    "text_preview": "Aplicar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-btn-label",
-    "text_preview": "Aplicar"
+    "text_preview": "Aplicar",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "button",
+    "class": "w-btn us-btn-style_1",
+    "text_preview": "Aplicar",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "w-btn-label",
+    "text_preview": "Aplicar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_custom",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-66334",
-    "text_preview": "Hardware\n\n\tProcesadores\n\tMotherboards\n\tDiscos HDD\n\tPlacas de Video\n\tDiscos SSD M.2\n\tFuentes de poder"
+    "text_preview": "Hardware\n\n\tProcesadores\n\tMotherboards\n\tDiscos HDD\n\tPlacas de Video\n\tDiscos SSD M.2\n\tFuentes de poder",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Hardware",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "sub-menu",
-    "text_preview": "Procesadores\n\tMotherboards\n\tDiscos HDD\n\tPlacas de Video\n\tDiscos SSD M.2\n\tFuentes de poder\n\tMemorias "
+    "text_preview": "Procesadores\n\tMotherboards\n\tDiscos HDD\n\tPlacas de Video\n\tDiscos SSD M.2\n\tFuentes de poder\n\tMemorias ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66548",
-    "text_preview": "Procesadores"
+    "text_preview": "Procesadores",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Procesadores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66550",
-    "text_preview": "Motherboards"
+    "text_preview": "Motherboards",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Motherboards",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66551",
-    "text_preview": "Discos HDD"
+    "text_preview": "Discos HDD",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos HDD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66549",
-    "text_preview": "Placas de Video"
+    "text_preview": "Placas de Video",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Placas de Video",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66564",
-    "text_preview": "Discos SSD M.2"
+    "text_preview": "Discos SSD M.2",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos SSD M.2",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66554",
-    "text_preview": "Fuentes de poder"
+    "text_preview": "Fuentes de poder",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Fuentes de poder",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66555",
-    "text_preview": "Memorias RAM"
+    "text_preview": "Memorias RAM",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Memorias RAM",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Componentes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66561",
-    "text_preview": "Coolers y Fans"
+    "text_preview": "Coolers y Fans",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Coolers y Fans",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66558",
-    "text_preview": "Refrigeracion liquida"
+    "text_preview": "Refrigeracion liquida",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Refrigeracion liquida",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "sub-menu",
-    "text_preview": "Cables y Adaptadores"
+    "text_preview": "Cables y Adaptadores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66557",
-    "text_preview": "Cables y Adaptadores"
+    "text_preview": "Cables y Adaptadores",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cables y Adaptadores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
-    "class": "menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-66336",
-    "text_preview": "Perifericos\n\n\tJoysticks\n\tMouse\n\tTeclados\n\tAuriculares\n\tMicrofonos\n\tMouse Pads\n\tCamaras"
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-66336",
+    "text_preview": "Perifericos\n\n\tJoysticks\n\tMouse\n\tTeclados\n\tAuriculares\n\tMicrofonos\n\tMouse Pads\n\tCamaras",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Perifericos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "sub-menu",
-    "text_preview": "Joysticks\n\tMouse\n\tTeclados\n\tAuriculares\n\tMicrofonos\n\tMouse Pads\n\tCamaras"
+    "text_preview": "Joysticks\n\tMouse\n\tTeclados\n\tAuriculares\n\tMicrofonos\n\tMouse Pads\n\tCamaras",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66560",
-    "text_preview": "Joysticks"
+    "text_preview": "Joysticks",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Joysticks",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
-    "class": "menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-66542",
-    "text_preview": "Mouse"
+    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66542",
+    "text_preview": "Mouse",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mouse",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66543",
-    "text_preview": "Teclados"
+    "text_preview": "Teclados",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Teclados",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66544",
-    "text_preview": "Auriculares"
+    "text_preview": "Auriculares",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Auriculares",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66545",
-    "text_preview": "Microfonos"
+    "text_preview": "Microfonos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Microfonos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66559",
-    "text_preview": "Mouse Pads"
+    "text_preview": "Mouse Pads",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mouse Pads",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66563",
-    "text_preview": "Camaras"
+    "text_preview": "Camaras",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Camaras",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66338",
-    "text_preview": "Monitores"
+    "text_preview": "Monitores",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66335",
-    "text_preview": "PC’s Armadas"
+    "text_preview": "PC’s Armadas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "PC’s Armadas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66547",
-    "text_preview": "Combos de PC"
+    "text_preview": "Combos de PC",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Combos de PC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66553",
-    "text_preview": "Sillas Gamer"
+    "text_preview": "Sillas Gamer",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Sillas Gamer",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66552",
-    "text_preview": "Notebooks"
+    "text_preview": "Notebooks",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Notebooks",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-66546",
-    "text_preview": "Gabinetes"
+    "text_preview": "Gabinetes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Gabinetes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-69644",
-    "text_preview": "Outlet"
+    "text_preview": "Outlet",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Outlet",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-70599",
-    "text_preview": "Seguridad"
+    "text_preview": "Seguridad",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Seguridad",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "menu",
-    "text_preview": "Placas de VideoProcesadoresPerifericosGabinetesPC ArmadasMonitores"
+    "text_preview": "Placas de VideoProcesadoresPerifericosGabinetesPC ArmadasMonitores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-71435",
-    "text_preview": "Placas de Video"
+    "text_preview": "Placas de Video",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Placas de Video",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-71436",
-    "text_preview": "Procesadores"
+    "text_preview": "Procesadores",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Procesadores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-71437",
-    "text_preview": "Perifericos"
+    "text_preview": "Perifericos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Perifericos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-71438",
-    "text_preview": "Gabinetes"
+    "text_preview": "Gabinetes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Gabinetes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-71439",
-    "text_preview": "PC Armadas"
+    "text_preview": "PC Armadas",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "PC Armadas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-71440",
-    "text_preview": "Monitores"
+    "text_preview": "Monitores",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitores",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ui-slider-handle ui-corner-all ui-state-default",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ui-slider-handle ui-corner-all ui-state-default",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ui-slider-range ui-corner-all ui-widget-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "for_min_value",
-    "text_preview": "$ 0"
+    "text_preview": "$ 0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 0"
+    "text_preview": "$ 0",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "for_max_value",
-    "text_preview": "$ 5.089.919"
+    "text_preview": "$ 5.111.760",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 5.089.919"
+    "text_preview": "$ 5.111.760",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "w-btn us-btn-style_1",
-    "text_preview": "Aplicar"
+    "text_preview": "Aplicar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-btn-label",
-    "text_preview": "Aplicar"
+    "text_preview": "Aplicar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-text usg_text_1 has_text_color",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-h",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-value",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-post-elm post_image usg_post_image_1 payments-six-info stretched",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-us_1080_1080 size-us_1080_1080 wp-post-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-post-elm post_title usg_post_title_1 has_text_color align_left woocommerce-loop-product__title color_link_inherit",
-    "text_preview": "MOUSE GENIUS RS2 DX-123 BLACK USB-A BLACK BLUE"
+    "text_preview": "Compuesto térmico Id-Cooling ID-TG05 1g",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Compuesto térmico Id-Cooling ID-TG05 1g",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-post-elm product_field price usg_product_field_3",
-    "text_preview": "DISPONIBLE$ 4.522,49"
+    "text_preview": "DISPONIBLE$ 1.345,89",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "stock-high",
-    "text_preview": "DISPONIBLE"
+    "text_preview": "DISPONIBLE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "br",
     "class": "stock-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 4.522,49"
+    "text_preview": "$ 1.345,89",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-text usg_text_1 has_text_color",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-h",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-value",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-post-elm post_image usg_post_image_1 payments-six-info stretched",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-us_1080_1080 size-us_1080_1080 wp-post-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-post-elm post_title usg_post_title_1 has_text_color align_left woocommerce-loop-product__title color_link_inherit",
-    "text_preview": "MOUSE GENIUS RS2 DX-123 BLACK USB-A BLACK GREY"
+    "text_preview": "CROMINK CARTUCHO ALT. EPSON T1331",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "CROMINK CARTUCHO ALT. EPSON T1331",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-post-elm product_field price usg_product_field_3",
-    "text_preview": "DISPONIBLE$ 4.522,49"
+    "text_preview": "DISPONIBLE$ 1.506,85",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "stock-high",
-    "text_preview": "DISPONIBLE"
+    "text_preview": "DISPONIBLE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "br",
     "class": "stock-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 4.522,49"
+    "text_preview": "$ 1.506,85",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-text usg_text_1 has_text_color",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-h",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-value",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-post-elm post_image usg_post_image_1 payments-six-info stretched",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-us_1080_1080 size-us_1080_1080 wp-post-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-post-elm post_title usg_post_title_1 has_text_color align_left woocommerce-loop-product__title color_link_inherit",
-    "text_preview": "MOUSE GENIUS DX-125 USB BLACK+GREY"
+    "text_preview": "CROMINK CARTUCHO ALT. EPSON T0115",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "CROMINK CARTUCHO ALT. EPSON T0115",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-post-elm product_field price usg_product_field_3",
-    "text_preview": "DISPONIBLE$ 4.602,80"
+    "text_preview": "DISPONIBLE$ 1.653,91",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "stock-high",
-    "text_preview": "DISPONIBLE"
+    "text_preview": "DISPONIBLE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "br",
     "class": "stock-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 4.602,80"
+    "text_preview": "$ 1.653,91",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-text usg_text_1 has_text_color",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-h",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-value",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-post-elm post_image usg_post_image_1 payments-six-info stretched",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-us_1080_1080 size-us_1080_1080 wp-post-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-post-elm post_title usg_post_title_1 has_text_color align_left woocommerce-loop-product__title color_link_inherit",
-    "text_preview": "MOUSE TRUST BASI WIRED"
+    "text_preview": "CROMINK CARTUCHO ALT. EPSON T0901",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "CROMINK CARTUCHO ALT. EPSON T0901",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-post-elm product_field price usg_product_field_3",
-    "text_preview": "DISPONIBLE$ 6.037,38"
+    "text_preview": "DISPONIBLE$ 1.653,91",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "stock-high",
-    "text_preview": "DISPONIBLE"
+    "text_preview": "DISPONIBLE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "br",
     "class": "stock-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 6.037,38"
+    "text_preview": "$ 1.653,91",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-text usg_text_1 has_text_color",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-h",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-value",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-post-elm post_image usg_post_image_1 payments-six-info stretched",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-us_1080_1080 size-us_1080_1080 wp-post-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-post-elm post_title usg_post_title_1 has_text_color align_left woocommerce-loop-product__title color_link_inherit",
-    "text_preview": "Mouse Raptor Storm Grip 4 botones 3600dpi 7 colore…"
+    "text_preview": "Cable Splitter PWM 1×4 Generico",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Splitter PWM 1×4 Generico",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-post-elm product_field price usg_product_field_3",
-    "text_preview": "DISPONIBLE$ 6.055,05"
+    "text_preview": "DISPONIBLE$ 3.430,35",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "stock-high",
-    "text_preview": "DISPONIBLE"
+    "text_preview": "DISPONIBLE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "br",
     "class": "stock-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 6.055,05"
+    "text_preview": "$ 3.430,35",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-text usg_text_1 has_text_color",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-h",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-value",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-post-elm post_image usg_post_image_1 payments-six-info stretched",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-us_1080_1080 size-us_1080_1080 wp-post-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-post-elm post_title usg_post_title_1 has_text_color align_left woocommerce-loop-product__title color_link_inherit",
-    "text_preview": "MOUSE TRUST CARVE WIRED"
+    "text_preview": "Cable cargador tipo C – 66w Carga rápida ref…",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable cargador tipo C – 66w Carga rápida ref…",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-post-elm product_field price usg_product_field_3",
-    "text_preview": "DISPONIBLE$ 6.058,86"
+    "text_preview": "DISPONIBLE$ 3.583,13",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "stock-high",
-    "text_preview": "DISPONIBLE"
+    "text_preview": "DISPONIBLE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "br",
     "class": "stock-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 6.058,86"
+    "text_preview": "$ 3.583,13",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-text usg_text_1 has_text_color",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-h",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-value",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-post-elm post_image usg_post_image_1 payments-six-info stretched",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-us_1080_1080 size-us_1080_1080 wp-post-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-post-elm post_title usg_post_title_1 has_text_color align_left woocommerce-loop-product__title color_link_inherit",
-    "text_preview": "MOUSE GENIUS MICRO TRAV RETRAC RUBY"
+    "text_preview": "Adaptador Displayport A Hdmi 4k Full Hd Compatible…",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Adaptador Displayport A Hdmi 4k Full Hd Compatible…",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-post-elm product_field price usg_product_field_3",
-    "text_preview": "DISPONIBLE$ 7.893,64"
+    "text_preview": "DISPONIBLE$ 3.741,94",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "stock-high",
-    "text_preview": "DISPONIBLE"
+    "text_preview": "DISPONIBLE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "br",
     "class": "stock-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 7.893,64"
+    "text_preview": "$ 3.741,94",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-text usg_text_1 has_text_color",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-h",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-text-value",
-    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS"
+    "text_preview": "FINANCIA EN 6 CUOTAS FIJAS",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-post-elm post_image usg_post_image_1 payments-six-info stretched",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-us_1080_1080 size-us_1080_1080 wp-post-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-post-elm post_title usg_post_title_1 has_text_color align_left woocommerce-loop-product__title color_link_inherit",
-    "text_preview": "MOUSE GENIUS MICRO TRAV RETRAC WHITE"
+    "text_preview": "GENIUS ADAPTADOR USB-C A USB-A ASSY RS2 ACC-C2A",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "GENIUS ADAPTADOR USB-C A USB-A ASSY RS2 ACC-C2A",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "w-post-elm product_field price usg_product_field_3",
-    "text_preview": "DISPONIBLE$ 7.893,64"
+    "text_preview": "DISPONIBLE$ 3.784,58",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "stock-high",
-    "text_preview": "DISPONIBLE"
+    "text_preview": "DISPONIBLE",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "br",
     "class": "stock-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$ 7.893,64"
+    "text_preview": "$ 3.784,58",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-grid-preloader",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "g-preloader type_2",
-    "text_preview": ""
+    "class": "g-preloader type_1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "g-loadmore ",
-    "text_preview": "Cargar más"
+    "text_preview": "Cargar más",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "g-preloader type_2",
-    "text_preview": ""
+    "class": "g-preloader type_1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "w-btn us-btn-style_1",
-    "text_preview": "Cargar más"
+    "text_preview": "Cargar más",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-btn-label",
-    "text_preview": "Cargar más"
+    "text_preview": "Cargar más",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-actionbox-controls",
-    "text_preview": "ir a nuestro perfil"
+    "text_preview": "ir a nuestro perfil",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-btn us-btn-style_3",
-    "text_preview": "ir a nuestro perfil"
+    "text_preview": "ir a nuestro perfil",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-btn-label",
-    "text_preview": "ir a nuestro perfil"
+    "text_preview": "ir a nuestro perfil",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-71288",
-    "text_preview": "Discord"
+    "text_preview": "Discord",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discord",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-71289",
-    "text_preview": "LinkeInd"
+    "text_preview": "LinkeInd",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "LinkeInd",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-71290",
-    "text_preview": "TikTok"
+    "text_preview": "TikTok",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "TikTok",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-iconbox us_custom_cfb17130 has_text_color iconpos_left style_default color_custom align_none no_text",
-    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba"
+    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-iconbox-icon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-iconbox-meta",
-    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba"
+    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-iconbox-title",
-    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba"
+    "text_preview": "Pedro Nolasco Rodriguez 1160, X5009 Córdoba",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-image style_outlined align_none",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-image-h",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-large size-large",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "w-popup-trigger type_btn w-btn us-btn-style_5",
-    "text_preview": "Ventas corporativas"
+    "text_preview": "Ventas corporativas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "w-btn-label",
-    "text_preview": "Ventas corporativas"
+    "text_preview": "Ventas corporativas",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-popup-overlay pos_fixed",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-popup-box-title",
-    "text_preview": "Impulsa tu negocio con nosotros"
+    "text_preview": "Impulsa tu negocio con nosotros",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "Entendemos que cada comercio es único. Por eso, no solo vendemos productos o servicios, sino que nos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "Contáctanos hoy mismo para obtener asesoramiento especializado:",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-iconbox-icon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_custom",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-iconbox-icon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_custom",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-iconbox-icon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-iconbox-icon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-separator size_small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-image us_custom_02652b28 has_height align_right",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "w-image-h",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-full size-full",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "ripple-container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "w-header-overlay",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "whatsapp-button",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "wc-facebook-pixel-event-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   }
 ]

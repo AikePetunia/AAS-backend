@@ -2,6 +2,7 @@ import { chromium } from "playwright";
 import fs from "fs/promises";
 // tag, selector, text_preview, es_valido, tipo
 
+/*
 const pathsData = [
 	"https://nextgames.com.ar/componentes-de-pc",
 	"https://gorilagames.com/componentes-de-pc",
@@ -59,11 +60,48 @@ const pathsData = [
 	"https://www.noxiestore.com/teclados-y-mouses/",
 	"https://www.shopgamer.com.ar/perifericos/",
 	"https://www.tiendatrade.com.ar/listado/computacion/perifericos-pc/",
-	"https://goldgaming.com.ar/collections/mouse",
+];
+*/
+const pathsData = [
+	"https://www.armytech.com.ar/405-hardware",
+	"https://www.maximus.com.ar/Productos/maximus.aspx?/CAT=-1/SCAT=-1/M=-1/BUS=*/OR=1",
+	"https://www.venex.com.ar/componentes-de-pc",
+	"https://compragamer.com/productos?cate=58",
+	"https://www.ngtechnologies.com.ar/search/?q=*",
+	"https://mgmgamers.store/search/?q=*",
+	"https://www.slot-one.com.ar/search/?q=*",
+	"https://www.puertominero.com.ar/productos",
+	"https://www.710tech.com.ar/accesorios/",
+	"https://www.37bytes.com.ar/productos/",
+	"https://dinobyte.ar/categoria-producto/hardware/",
+	"https://fullh4rd.com.ar/pcarmada",
+	"https://gnpoint.com.ar/productos/notebooks/",
+	"https://www.gamerspoint.com.ar/categoria/componentes-de-pc/",
+	"https://www.gamingcity.com.ar/listado/computacion/laptops-accesorios/notebooks/notebooks",
+	"https://www.gezatek.com.ar/tienda/pc-hogar-y-oficina/",
+	"https://goldentechstore.com.ar/almacenamiento/",
+	"https://hftecnologia.com.ar/notebooks/",
+	"https://ar-shop.com.ar/auriculares/",
+	"https://www.insumosacuario.com.ar/almacenamiento/",
+	"https://wiztech.com.ar/catalogo",
+	"https://www.xt-pc.com.ar/cat/supra/32/notebooks/",
+	"https://empeniogamer.com.ar/tienda",
+	"https://hardcorecomputacion.com.ar/categoria-producto/microprocesadores/",
+	"https://www.hypergaming.com.ar/monitores/",
+	"https://www.ignatech.com.ar/componentes/",
+	"https://www.integradosargentinos.com/listado/computacion/pc-escritorio/pc/",
+	"https://katech.com.ar/hardware/",
+	"https://www.liontech-gaming.com/product-category/componentes-de-pc/",
+	"https://www.malditohard.com.ar/categoria/pc-gamer/",
+	"https://maxtecno.com.ar/equipos-armados/",
+	"https://www.megasoftargentina.com.ar/accesorios---cables/",
+	"https://www.mexx.com.ar/productos-rubro/tablets/",
+	"https://www.noxiestore.com/teclados-y-mouses/",
 ];
 
 export async function ElementsFromPaths() {
 	const allElements = [];
+	const failedPages = [];
 	let totalProcessed = 0;
 	let totalFiltered = 0;
 	for (const path of pathsData) {
@@ -103,7 +141,6 @@ export async function ElementsFromPaths() {
 						"header",
 						"aside",
 						"section",
-						"article",
 						"time",
 						"address",
 						"figure",
@@ -123,7 +160,6 @@ export async function ElementsFromPaths() {
 						"[object SVGAnimatedString]",
 						"fake-svg-icon",
 						"empty",
-						"container",
 						"nav-",
 						"navbar",
 						"dropdown",
@@ -220,17 +256,7 @@ export async function ElementsFromPaths() {
 						"Consulta",
 						"Disponibilidad",
 
-						"FoxTienda",
 						"Desarrollado y Diseñado",
-						"Next Games",
-						"Gorila Games",
-						"AllTek",
-						"Insumax",
-						"Compu Cordoba",
-						"Store La Plata",
-						"Cell Play",
-						"Ruidos Gamers",
-
 						"Mis Pedidos",
 						"Retira en",
 						"Categorias",
@@ -259,13 +285,13 @@ export async function ElementsFromPaths() {
 						"Ayuda",
 						"Servicio Tecnico",
 						"dataFiscal",
-						"img-responsive",
 						"codigo postal",
 						"Ingresa tu",
 						"resultado",
 						"Continuar",
 						"Cerrar",
 					];
+
 					const tagForbidden = forbiddenElements.includes(element.tagName.toLowerCase());
 
 					// some classes are not strings
@@ -278,7 +304,21 @@ export async function ElementsFromPaths() {
 					const textForbidden = forbiddenText.some((forbiddenWord) =>
 						textContent.toLowerCase().includes(forbiddenWord.toLowerCase())
 					);
-					if (classForbidden || tagForbidden || !element.className || textForbidden) {
+
+					const isImageTag = element.tagName.toLowerCase() === "img";
+					const isAnchorTag = element.tagName.toLowerCase() === "a";
+					const isContentTag = ["h1", "h2", "h3", "h4", "h5", "h6", "p", "span", "div"].includes(
+						element.tagName.toLowerCase()
+					);
+					const hasNoClassName = !element.className;
+
+					// Allow img, anchor, and content tags even without className
+					if (
+						classForbidden ||
+						tagForbidden ||
+						textForbidden ||
+						(hasNoClassName && !isImageTag && !isAnchorTag && !isContentTag)
+					) {
 						return { passed: false };
 					}
 					return { passed: true };
@@ -299,6 +339,8 @@ export async function ElementsFromPaths() {
 							tag: element.tagName.toLowerCase(),
 							class: element.className ? element.className.toString() : "",
 							text_preview: element.textContent?.trim().substring(0, 100) || "",
+							is_valid: 0,
+							type: "",
 						});
 					} else {
 						pageFiltered++;
@@ -319,7 +361,7 @@ export async function ElementsFromPaths() {
 			totalFiltered += stats.filtered;
 			totalProcessed += stats.processed;
 
-			// individual page results forl ater then give it to the ai for filtering with the already training data
+			// individual page results for later then give it to the ai for filtering with the already training data
 			await fs.writeFile(
 				`./src/scraping/filtering-ai/playwright/resultsClasses/elements_${pageName}.json`,
 				JSON.stringify(elements, null, 2)
@@ -331,6 +373,7 @@ export async function ElementsFromPaths() {
 			);
 		} catch (error) {
 			console.log(`error with ${page}`, error);
+			failedPages.push(page);
 		} finally {
 			if (browser) {
 				await browser.close();
@@ -340,18 +383,39 @@ export async function ElementsFromPaths() {
 
 	console.log("creating final csv");
 	try {
-		const csvColumns = ["tag,class,text_preview"];
+		// so we have text, classes and tag on ""
+		function escapeCsvField(field) {
+			if (field == null) return '""';
+			const stringField = String(field);
+			if (
+				stringField.includes(",") ||
+				stringField.includes('"') ||
+				stringField.includes("\n") ||
+				stringField.includes("\r")
+			) {
+				return '"' + stringField.replace(/"/g, '""') + '"';
+			}
+			return '"' + stringField + '"';
+		}
+
+		const csvColumns = ['"tag","class","text_preview","is_valid","type"'];
 
 		allElements.forEach((element) => {
-			csvColumns.push(`${element.tag},${element.class},${element.text_preview}`);
+			const row = [
+				escapeCsvField(element.tag),
+				escapeCsvField(element.class),
+				escapeCsvField(element.text_preview),
+				element.is_valid,
+				element.type,
+			].join(",");
+
+			csvColumns.push(row);
 		});
 
 		await fs.writeFile(
 			`./src/scraping/filtering-ai/playwright/resultsClasses/elements.csv`,
 			csvColumns.join("\n")
 		);
-
-		console.log(`csv created with ${allElements.length} elements`);
 	} catch (error) {
 		console.log("couldnt create csv file", error);
 	}

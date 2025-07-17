@@ -2,4541 +2,4124 @@
   {
     "tag": "link",
     "class": "js-favicon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "link",
     "class": "js-favicon",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "w-100",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container pl-0",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "form-group md-form my-0 waves-light waves-effect",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-red btn-raised btn-fab btn-buscar",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "p-2 open",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "mr-2",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": " pr-0 pl-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-0 mh-100",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-link pl-2 pr-2 pull-left btn-mi-cuenta",
-    "text_preview": "ingresar"
+    "text_preview": "ingresar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "mt-2 d-i-b ml-1 txt-ingresar",
-    "text_preview": "ingresar"
+    "text_preview": "ingresar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-link pl-2 pr-2 pull-left mini-cart",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "icon-cat",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "arma-tu-pc-button pr-0 pl-0 show-res",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-0 mh-100",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "mr-2 pl-4 mt-0 promocion-btn",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "mr-2 pl-4 mt-0 promocion-btn",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "mr-2 pl-4 mt-0 promocion-btn",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "mr-2 pl-4 mt-0 promocion-btn",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "section-space",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "panel panel-default panel-rose ",
-    "text_preview": "Alfombra gamer (2)\n\t\t\t\t\t\t\t\t\t\t Camaras Web (2)\n\t\t\t\t\t\t\t\t\t\t Combo Gamer Auricular - Mouse - Mouse Pad ("
+    "text_preview": "Base Notebook (1)\n\t\t\t\t\t\t\t\t\t\t Cable Para Pc (1)\n\t\t\t\t\t\t\t\t\t\t Cables para Celulares (1)\n\t\t\t\t\t\t\t\t\t\t Camar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "panel-body pl-0 pr-0 pt-0",
-    "text_preview": "Alfombra gamer (2)\n\t\t\t\t\t\t\t\t\t\t Camaras Web (2)\n\t\t\t\t\t\t\t\t\t\t Combo Gamer Auricular - Mouse - Mouse Pad ("
+    "text_preview": "Base Notebook (1)\n\t\t\t\t\t\t\t\t\t\t Cable Para Pc (1)\n\t\t\t\t\t\t\t\t\t\t Cables para Celulares (1)\n\t\t\t\t\t\t\t\t\t\t Camar",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Alfombra gamer (2)"
+    "text_preview": "Base Notebook (1)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Camaras Web (2)"
+    "text_preview": "Cable Para Pc (1)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Combo Gamer Auricular - Mouse - Mouse Pad (2)"
+    "text_preview": "Cables para Celulares (1)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Combo Gamer Mouse - Teclado - Auricular - Pad (2)"
+    "text_preview": "Camara de Seguridad IP (1)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "menu-item waves-effect waves-light",
-    "text_preview": "Combo Mouse Y Mouse Pad Gamer (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Kit Teclado Y Mouse (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Microfonos (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Mouse (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Mouse Gamer (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Mouse Pad Gamer (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Pad Mouse (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Palanca De Cambio (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Tabletas Graficas (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Teclados (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Teclados Gamer (2)"
-  },
-  {
-    "tag": "a",
-    "class": "menu-item waves-effect waves-light",
-    "text_preview": "Volantes (2)"
+    "text_preview": "Hub 2.0 - 3.0 (1)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-content p-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "imagen",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "imagen",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-lg-12 marcas_filtros ta-c mb-3 cate",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "precio Menor a Mayor"
+    "text_preview": "precio Menor a Mayor",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "precio Mayor a Menor"
+    "text_preview": "precio Mayor a Menor",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "de la A  a la  Z"
+    "text_preview": "de la A  a la  Z",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "de la Z  a la  A"
+    "text_preview": "de la Z  a la  A",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "más nuevos"
+    "text_preview": "más nuevos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "px-2",
-    "text_preview": "más viejos"
+    "text_preview": "más viejos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-lg-12 px-0 mansory **",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6380 marca_2409 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "70                                                    \n                                             "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "70                                                    \n                                             "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "70"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Pad Mouse Lisos Antideslizante Escritorio Pc Gtc Caballito"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$3213$3213$2892Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$3213$3213$2892Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$2892Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2528 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_ ",
+    "text_preview": "SATA6                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "img",
-    "class": "w-100 thumbZoom",
-    "text_preview": ""
+    "text_preview": "SATA6                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "6971071740246                                                    \n                                  "
+    "text_preview": "SATA6                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "6971071740246                                                    \n                                  "
+    "text_preview": "SATA6                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "6971071740246"
+    "text_preview": "SATA6",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Gamer Wesdar Cerberus X4 Blanco 2400 Dpi"
+    "text_preview": "Cable Sata 3 Sata Iii 6gb/s Con Traba Metálica Caballito",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Sata 3 Sata Iii 6gb/s Con Traba Metálica Caballito",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$4922$4922$4430Precio especial"
+    "text_preview": "$1935$1935$1742Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$4922$4922$4430Precio especial"
+    "text_preview": "$1935$1935$1742Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$4430Precio especial"
+    "text_preview": "$1742Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2528 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_ ",
+    "text_preview": "09-004                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "img",
-    "class": "w-100 thumbZoom",
-    "text_preview": ""
+    "text_preview": "09-004                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "6971071744060                                                    \n                                  "
+    "text_preview": "09-004                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "6971071744060                                                    \n                                  "
+    "text_preview": "09-004                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "6971071744060"
+    "text_preview": "09-004",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Gamer Wesdar Gm2 Rgb Verde Megasoft"
+    "text_preview": "Cable Usb A Micro Usb Azul Mallado Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Usb A Micro Usb Azul Mallado Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$6142$6142$5528Precio especial"
+    "text_preview": "$3990$3990$3591Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$6142$6142$5528Precio especial"
+    "text_preview": "$3990$3990$3591Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$5528Precio especial"
+    "text_preview": "$3591Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_ ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2495 ",
+    "text_preview": "MINIUSB                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "MINIUSB                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "6971071740239                                                    \n                                  "
+    "text_preview": "MINIUSB                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "6971071740239                                                    \n                                  "
+    "text_preview": "MINIUSB                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "6971071740239"
+    "text_preview": "MINIUSB",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Gamer Wesdar 6 Botones Usb Pc Oficina 2400 Dpi Optico"
+    "text_preview": "Cable Usb A Mini Usb 5 Pines 1 5 Mts Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Usb A Mini Usb 5 Pines 1 5 Mts Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$6425$6425$5783Precio especial"
+    "text_preview": "$4515$4515$4064Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$6425$6425$5783Precio especial"
+    "text_preview": "$4515$4515$4064Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$5783Precio especial"
+    "text_preview": "$4064Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6510 marca_2528 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2580 ",
+    "text_preview": "180546                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "180546                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "180552                                                    \n                                         "
+    "text_preview": "180546                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "180552                                                    \n                                         "
+    "text_preview": "180546                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "180552"
+    "text_preview": "180546",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "MOUSE GAMER Y PAD GAMER WESDAR MEGASOFT"
+    "text_preview": "Cable Adaptador Id-Cooling Splitter PWM 1 A 4",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Adaptador Id-Cooling Splitter PWM 1 A 4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$6541$6541$5887Precio especial"
+    "text_preview": "$4928$4928$4435Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$6541$6541$5887Precio especial"
+    "text_preview": "$4928$4928$4435Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$5887Precio especial"
+    "text_preview": "$4435Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "button",
+    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6510 marca_2528 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "view overlay px-20 imagen",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "img-fluid p-4 mh-100",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h6",
+    "class": "card-category text-gray",
+    "text_preview": "8072021022301                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-left articulo_field",
+    "text_preview": "8072021022301",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "pull-right",
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-description lh-20 ",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "a12c",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "card-footer justify-content-between p-0",
+    "text_preview": "$4941$4941$4447Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "price",
+    "text_preview": "$4941$4941$4447Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "h4",
+    "class": "mt-0 pecio_final ft",
+    "text_preview": "$4447Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "col-md-3 listado- pull-left prod-cat cat-6352 marca_2409 ",
+    "text_preview": "8072022012103                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "8072022012103                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "6971071745388                                                    \n                                  "
+    "text_preview": "8072022012103                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "6971071745388                                                    \n                                  "
+    "text_preview": "8072022012103                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "6971071745388"
+    "text_preview": "8072022012103",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Combo Gamer Mouse Usb Wesdar 2400 Dpi + Pad Negro Megasoft"
+    "text_preview": "Cable Carga Rápida Para iPhone Usb-c A Lightening Megasoft",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Carga Rápida Para iPhone Usb-c A Lightening Megasoft",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$6554$6554$5899Precio especial"
+    "text_preview": "$4900$4900$4410Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$6554$6554$5899Precio especial"
+    "text_preview": "$4900$4900$4410Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$5899Precio especial"
+    "text_preview": "$4410Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2528 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2580 ",
+    "text_preview": "180548                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "img",
-    "class": "w-100 thumbZoom",
-    "text_preview": ""
+    "text_preview": "180548                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "7798333606152                                                    \n                                  "
+    "text_preview": "180548                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "7798333606152                                                    \n                                  "
+    "text_preview": "180548                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "7798333606152"
+    "text_preview": "180548",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Gamer Para Pc Game Pro 12000dpi Con Rgb Cable 1.5 Mts Color Negro"
+    "text_preview": "Splitter ID-COOLING ARGB 4 a 1",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Splitter ID-COOLING ARGB 4 a 1",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$7389$7389$6650Precio especial"
+    "text_preview": "$5160$5160$4644Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$7389$7389$6650Precio especial"
+    "text_preview": "$5160$5160$4644Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$6650Precio especial"
+    "text_preview": "$4644Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2580 ",
+    "text_preview": "180595                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "180595                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855102355                                                    \n                                   "
+    "text_preview": "180595                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "097855102355                                                    \n                                   "
+    "text_preview": "180595                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "097855102355"
+    "text_preview": "180595",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Logitech M90 Optico Usb 1000dpi Pc Notebook Megasoft"
+    "text_preview": "Cable Adaptador Id- Cooling Splitter PWM 1 A 5 ARGB",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Adaptador Id- Cooling Splitter PWM 1 A 5 ARGB",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$8995$8995$8096Precio especial"
+    "text_preview": "$6450$6450$5805Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$8995$8995$8096Precio especial"
+    "text_preview": "$6450$6450$5805Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$8096Precio especial"
+    "text_preview": "$5805Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2409 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6352 marca_2546 ",
+    "text_preview": "761                                                    \n                                            ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "761                                                    \n                                            ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8072023053105                                                    \n                                  "
+    "text_preview": "761                                                    \n                                            ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "8072023053105                                                    \n                                  "
+    "text_preview": "761                                                    \n                                            ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "8072023053105"
+    "text_preview": "761",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Inalámbrico Usb Gtc Mig-122 Rosa Megasoft Caballito"
+    "text_preview": "Cable Usb A Lightning Magnético Cargador Datos Caballito",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Usb A Lightning Magnético Cargador Datos Caballito",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$8995$8995$8096Precio especial"
+    "text_preview": "$7095$7095$6386Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$8995$8995$8096Precio especial"
+    "text_preview": "$7095$7095$6386Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$8096Precio especial"
+    "text_preview": "$6386Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2409 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_ ",
+    "text_preview": "SHDMI2,0-3M                                                    \n                                    ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "SHDMI2,0-3M                                                    \n                                    ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8072023053129                                                    \n                                  "
+    "text_preview": "SHDMI2,0-3M                                                    \n                                    ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "8072023053129                                                    \n                                  "
+    "text_preview": "SHDMI2,0-3M                                                    \n                                    ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "8072023053129"
+    "text_preview": "SHDMI2,0-3M",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Inalámbrico Usb Gtc Mig-122 Blanco Megasoft Caballito"
+    "text_preview": "Cable Hdmi A Hdmi 2.0 Ultra Rapido 3 Metros Megasoft",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Hdmi A Hdmi 2.0 Ultra Rapido 3 Metros Megasoft",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$8995$8995$8096Precio especial"
+    "text_preview": "$7349$7349$6614Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$8995$8995$8096Precio especial"
+    "text_preview": "$7349$7349$6614Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$8096Precio especial"
+    "text_preview": "$6614Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6412 marca_2537 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_ ",
+    "text_preview": "ACC613                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "img",
-    "class": "w-100 thumbZoom",
-    "text_preview": ""
+    "text_preview": "ACC613                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "179549                                                    \n                                         "
+    "text_preview": "ACC613                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "179549                                                    \n                                         "
+    "text_preview": "ACC613                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "179549"
+    "text_preview": "ACC613",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse pad Gamer Rgb Gtc Luz 795 x 300 x 4 Antideslizante"
+    "text_preview": "Adaptador De Displayport A Hdmi / Display Port Caballito",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Adaptador De Displayport A Hdmi / Display Port Caballito",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$9830$9830$8847Precio especial"
+    "text_preview": "$7349$7349$6614Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$9830$9830$8847Precio especial"
+    "text_preview": "$7349$7349$6614Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$8847Precio especial"
+    "text_preview": "$6614Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6412 marca_2537 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_ ",
+    "text_preview": "82671                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "img",
-    "class": "w-100 thumbZoom",
-    "text_preview": ""
+    "text_preview": "82671                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8072022092808                                                    \n                                  "
+    "text_preview": "82671                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "8072022092808                                                    \n                                  "
+    "text_preview": "82671                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "8072022092808"
+    "text_preview": "82671",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mousepad Xl Gtc Pad-013d Negro 79.5x30 Megasoft Caballito"
+    "text_preview": "Cable Adaptador Usb 3.0 A/b .rápido Impresora Caballito",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Adaptador Usb 3.0 A/b .rápido Impresora Caballito",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$9830$9830$8847Precio especial"
+    "text_preview": "$7500$7500$6750Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$9830$9830$8847Precio especial"
+    "text_preview": "$7500$7500$6750Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$8847Precio especial"
+    "text_preview": "$6750Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2409 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2546 ",
+    "text_preview": "179632                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "179632                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8072018224336                                                    \n                                  "
+    "text_preview": "179632                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "8072018224336                                                    \n                                  "
+    "text_preview": "179632                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "8072018224336"
+    "text_preview": "179632",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Inalambrico Optico Usb Gtc Economico 1200 Dpi Color Rosa"
+    "text_preview": "Cable Vga 5 Metros Mts Monitor Video Con Filtro",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Vga 5 Metros Mts Monitor Video Con Filtro",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$14135$14135$12722Precio especial"
+    "text_preview": "$7805$7805$7025Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$14135$14135$12722Precio especial"
+    "text_preview": "$7805$7805$7025Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$12722Precio especial"
+    "text_preview": "$7025Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2409 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_ ",
+    "text_preview": "HUG-013                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "HUG-013                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8072018224336                                                    \n                                  "
+    "text_preview": "HUG-013                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "8072018224336                                                    \n                                  "
+    "text_preview": "HUG-013                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "8072018224336"
+    "text_preview": "HUG-013",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Inalambrico Usb Rosa Mig-116 Gtc Megasoft Caballito"
+    "text_preview": "Hub Usb 2.0 4 Puertos Gtc Negro Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Hub Usb 2.0 4 Puertos Gtc Negro Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$14135$14135$12722Precio especial"
+    "text_preview": "$8371$8371$7534Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$14135$14135$12722Precio especial"
+    "text_preview": "$8371$8371$7534Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$12722Precio especial"
+    "text_preview": "$7534Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6379 marca_2537 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2546 ",
+    "text_preview": "09-031A                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "img",
-    "class": "w-100 thumbZoom",
-    "text_preview": ""
+    "text_preview": "09-031A                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8072023060226                                                    \n                                  "
+    "text_preview": "09-031A                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "8072023060226                                                    \n                                  "
+    "text_preview": "09-031A                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "8072023060226"
+    "text_preview": "09-031A",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Combo Inalámbrico Teclado + Mouse Gtc Kbg-024 Negro Megasoft"
+    "text_preview": "Adaptador De Hdmi A Vga Conversor Hdmi Vga Audio Megasoft",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Adaptador De Hdmi A Vga Conversor Hdmi Vga Audio Megasoft",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$14135$14135$12722Precio especial"
+    "text_preview": "$8514$8514$7663Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$14135$14135$12722Precio especial"
+    "text_preview": "$8514$8514$7663Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$12722Precio especial"
+    "text_preview": "$7663Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6375 marca_2477 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2546 ",
+    "text_preview": "09-031D                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "09-031D                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "7798162837000                                                    \n                                  "
+    "text_preview": "09-031D                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "7798162837000                                                    \n                                  "
+    "text_preview": "09-031D                                                    \n                                        ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "7798162837000"
+    "text_preview": "09-031D",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Set De Keycaps Nisuta Nskbgz108 Megasoft Caballito"
+    "text_preview": "Adaptador Vga Hembra A Hdmi Macho Negro Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Adaptador Vga Hembra A Hdmi Macho Negro Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$14500$14500$13050Precio especial"
+    "text_preview": "$8514$8514$7663Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$14500$14500$13050Precio especial"
+    "text_preview": "$8514$8514$7663Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$13050Precio especial"
+    "text_preview": "$7663Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_ ",
+    "text_preview": "WI-06                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "WI-06                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855200655                                                    \n                                   "
+    "text_preview": "WI-06                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "097855200655                                                    \n                                   "
+    "text_preview": "WI-06                                                    \n                                          ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "097855200655"
+    "text_preview": "WI-06",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Bluetooth Logitech M196 Color Rosa"
+    "text_preview": "Adaptador Audio Usb Wi-06 Negro Int.co Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Adaptador Audio Usb Wi-06 Negro Int.co Megasoft Caballito",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$14700$14700$13230Precio especial"
+    "text_preview": "$8551$8551$7696Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$14700$14700$13230Precio especial"
+    "text_preview": "$8551$8551$7696Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$13230Precio especial"
+    "text_preview": "$7696Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6412 marca_1353 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_ ",
+    "text_preview": "SHDMI2,0-3M                                                    \n                                    ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "SHDMI2,0-3M                                                    \n                                    ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855177575                                                    \n                                   "
+    "text_preview": "SHDMI2,0-3M                                                    \n                                    ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "097855177575                                                    \n                                   "
+    "text_preview": "SHDMI2,0-3M                                                    \n                                    ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "097855177575"
+    "text_preview": "SHDMI2,0-3M",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Pad Gaming Logitech G240 Negro Megasoft Caballito"
+    "text_preview": "Cable Hdmi A Hdmi 2.0 Ultra Rapido 3 Metros Megasoft",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Hdmi A Hdmi 2.0 Ultra Rapido 3 Metros Megasoft",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$17500$17500$15750Precio especial"
+    "text_preview": "$9447$9447$8502Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$17500$17500$15750Precio especial"
+    "text_preview": "$9447$9447$8502Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$15750Precio especial"
+    "text_preview": "$8502Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6412 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2580 ",
+    "text_preview": "180596                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "180596                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855169433                                                    \n                                   "
+    "text_preview": "180596                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "097855169433                                                    \n                                   "
+    "text_preview": "180596                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "097855169433"
+    "text_preview": "180596",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mousepad Logitech Rosa 200 X 230mm Megasoft Caballito"
+    "text_preview": "CONTROLADORA ARGB ID-COOLING MANUAL SATA",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "CONTROLADORA ARGB ID-COOLING MANUAL SATA",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$17797$17797$16017Precio especial"
+    "text_preview": "$10088$10088$9079Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$17797$17797$16017Precio especial"
+    "text_preview": "$10088$10088$9079Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$16017Precio especial"
+    "text_preview": "$9079Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2495 ",
+    "text_preview": "1482                                                    \n                                           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "1482                                                    \n                                           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855183453                                                    \n                                   "
+    "text_preview": "1482                                                    \n                                           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "097855183453                                                    \n                                   "
+    "text_preview": "1482                                                    \n                                           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "097855183453"
+    "text_preview": "1482",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse M170 Logitech Inalámbrico Color Blue Grey"
+    "text_preview": "Cable Displayport A Displayport 1.80 Mts Astrotech Megasoft",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Displayport A Displayport 1.80 Mts Astrotech Megasoft",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$20560$20560$18504Precio especial"
+    "text_preview": "$10870$10870$9783Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$20560$20560$18504Precio especial"
+    "text_preview": "$10870$10870$9783Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$18504Precio especial"
+    "text_preview": "$9783Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6498 marca_2537 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2495 ",
+    "text_preview": "1483                                                    \n                                           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "img",
-    "class": "w-100 thumbZoom",
-    "text_preview": ""
+    "text_preview": "1483                                                    \n                                           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8072019110829                                                    \n                                  "
+    "text_preview": "1483                                                    \n                                           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "8072019110829                                                    \n                                  "
+    "text_preview": "1483                                                    \n                                           ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "8072019110829"
+    "text_preview": "1483",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Combo Gaming Gtc Cbg-014 Teclado Mouse Auricular Y Pad"
+    "text_preview": "Cable Displayport A Displayport 3 Metros Astrotech",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Displayport A Displayport 3 Metros Astrotech",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$24582$24582$22124Precio especial"
+    "text_preview": "$13528$13528$12175Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$24582$24582$22124Precio especial"
+    "text_preview": "$13528$13528$12175Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$22124Precio especial"
+    "text_preview": "$12175Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2580 ",
+    "text_preview": "180597                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "180597                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855185624                                                    \n                                   "
+    "text_preview": "180597                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "097855185624                                                    \n                                   "
+    "text_preview": "180597                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "097855185624"
+    "text_preview": "180597",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Inalámbrico Logitech Pebble 2 M350 Negro Megasoft"
+    "text_preview": "CONTROLADORA  ARGB ID-COOLING 5V CON CONTROL REMOTO",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "CONTROLADORA  ARGB ID-COOLING 5V CON CONTROL REMOTO",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$29555$29555$26600Precio especial"
+    "text_preview": "$19969$19969$17972Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$29555$29555$26600Precio especial"
+    "text_preview": "$19969$19969$17972Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$26600Precio especial"
+    "text_preview": "$17972Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6376 marca_2578 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6411 marca_ ",
+    "text_preview": "KQ008H                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "KQ008H                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "180434                                                    \n                                         "
+    "text_preview": "KQ008H                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "180434                                                    \n                                         "
+    "text_preview": "KQ008H                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "180434"
+    "text_preview": "KQ008H",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Teclado Raptor Fireclaw M87 Mecanico Retroiluminado Switch Red Outemu"
+    "text_preview": "Hub Usb 3.0 International Computers 4 Puertos Megasoft",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Hub Usb 3.0 International Computers 4 Puertos Megasoft",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$30198$30198$27178Precio especial"
+    "text_preview": "$22454$22454$20209Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$30198$30198$27178Precio especial"
+    "text_preview": "$22454$22454$20209Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$27178Precio especial"
+    "text_preview": "$20209Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6498 marca_2537 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6504 marca_2518 ",
+    "text_preview": "6935364088095                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "img",
-    "class": "w-100 thumbZoom",
-    "text_preview": ""
+    "text_preview": "6935364088095                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8072021022608                                                    \n                                  "
+    "text_preview": "6935364088095                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "8072021022608                                                    \n                                  "
+    "text_preview": "6935364088095                                                    \n                                  ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "8072021022608"
+    "text_preview": "6935364088095",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "En stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Combo Gaming Gtc Cbg-021 Teclado Mouse Auricular Y Pad"
+    "text_preview": "Cámara De Seguridad Tp-link Tapo Smart C200 V1 Con Resolución 2mp Visión Nocturna Incluida Color Bla",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cámara De Seguridad Tp-link Tapo Smart C200 V1 Con Resolución 2mp Visión Nocturna Incluida Color Bla",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$30737$30737$27663Precio especial"
+    "text_preview": "$36120$36120$32508Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$30737$30737$27663Precio especial"
+    "text_preview": "$36120$36120$32508Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$27663Precio especial"
-  },
-  {
-    "tag": "span",
-    "class": "cucardahot",
-    "text_preview": ""
+    "text_preview": "$32508Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6381 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2585 ",
+    "text_preview": "180600                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "img",
-    "class": "w-100 thumbZoom",
-    "text_preview": ""
+    "text_preview": "180600                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855070739                                                    \n                                   "
+    "text_preview": "180600                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "097855070739                                                    \n                                   "
+    "text_preview": "180600                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "097855070739"
+    "text_preview": "180600",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "En stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Camara Web Cam Logitech C270 720p Hd Twitch Skype Caballito"
+    "text_preview": "CABLE TECWARE /ID COOLING FLEX MB 24PINES + GPU ARGB WHITE (TWAC-FLEX-WHAR)",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "CABLE TECWARE /ID COOLING FLEX MB 24PINES + GPU ARGB WHITE (TWAC-FLEX-WHAR)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$36263$36263$32637Precio especial"
+    "text_preview": "$57405$57405$51665Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$36263$36263$32637Precio especial"
+    "text_preview": "$57405$57405$51665Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$32637Precio especial"
+    "text_preview": "$51665Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6380 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6355 marca_2585 ",
+    "text_preview": "180599                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "180599                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855171627                                                    \n                                   "
+    "text_preview": "180599                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "097855171627                                                    \n                                   "
+    "text_preview": "180599                                                    \n                                         ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "097855171627"
+    "text_preview": "180599",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mousepad Logitech Xl 70x30cm Rosa Megasoft Caballito"
+    "text_preview": "Cable Extension Tecware/Id Cooling Flex Cover MB + GPU ARGB Black TWAC-FLEX-BKAR",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cable Extension Tecware/Id Cooling Flex Cover MB + GPU ARGB Black TWAC-FLEX-BKAR",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$37265$37265$33539Precio especial"
+    "text_preview": "$57405$57405$51665Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$37265$37265$33539Precio especial"
+    "text_preview": "$57405$57405$51665Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$33539Precio especial"
+    "text_preview": "$51665Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6376 marca_2578 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "class": "col-md-3 listado- pull-left prod-cat cat-6411 marca_ ",
+    "text_preview": "092636341435                                                    \n                                   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
+    "text_preview": "092636341435                                                    \n                                   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "180580                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "180580                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "180580"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Teclado Raptor Fireclaw M68 Wireless Mecanico Retroiluminado Red Outemu"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$38550$38550$34695Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$38550$38550$34695Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$34695Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2544 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8886419333326                                                    \n                                  "
+    "text_preview": "092636341435                                                    \n                                   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h6",
     "class": "card-category text-gray",
-    "text_preview": "8886419333326                                                    \n                                  "
+    "text_preview": "092636341435                                                    \n                                   ",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-left articulo_field",
-    "text_preview": "8886419333326"
+    "text_preview": "092636341435",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "pull-right",
-    "text_preview": "Bajo stock"
+    "text_preview": "Bajo stock",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Gamer Razer Deathadder Essential White Edition Color Blanco"
+    "text_preview": "Targus Ach226bt Hub Gris De 5 Gbps",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Targus Ach226bt Hub Gris De 5 Gbps",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-description lh-20 ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "a12c",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "card-footer justify-content-between p-0",
-    "text_preview": "$39835$39835$35852Precio especial"
+    "text_preview": "$77400$77400$69660Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price",
-    "text_preview": "$39835$39835$35852Precio especial"
+    "text_preview": "$77400$77400$69660Precio especial",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "mt-0 pecio_final ft",
-    "text_preview": "$35852Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_2578 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "180427                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "180427                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "180427"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Microfono Raptor Vox RGB USB p/Streaming"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$41763$41763$37587Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$41763$41763$37587Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$37587Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6375 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855186355                                                    \n                                   "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "097855186355                                                    \n                                   "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "097855186355"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Teclado Logitech Pebble 2 K380s White/blanco Bluetooth"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$47545$47545$42791Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$47545$47545$42791Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$42791Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6375 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855186379                                                    \n                                   "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "097855186379                                                    \n                                   "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "097855186379"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Teclado Bluetooth Logitech Pebble Keys 2 K380s Rosa Megasoft"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$48316$48316$43484Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$48316$48316$43484Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$43484Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6375 marca_1526 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "177989                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "177989                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "177989"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Teclado Trust Lyra Bluetooth Recargable Español - Pc Celular"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$52685$52685$47417Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$52685$52685$47417Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$47417Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2540 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "178487                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "178487                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "178487"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "MOUSE GAMER CORSAIR HARPOON RGB PRO FPS/MOBA BLACK"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$53970$53970$48573Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$53970$53970$48573Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$48573Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2544 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "8886419334095                                                    \n                                  "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "8886419334095                                                    \n                                  "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "8886419334095"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Razer Cobra Lightweight Chroma Rgb"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$55255$55255$49730Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$55255$55255$49730Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$49730Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_1526 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "179785                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "179785                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "179785"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "MICROFONO TRUST YUNIX USB PURPLE GXT234P"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$57825$57825$52043Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$57825$57825$52043Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$52043Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-120703 marca_ ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "179283                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "179283                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "179283"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Tableta Gráfica Wacom One Small CTL472"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$57825$57825$52043Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$57825$57825$52043Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$52043Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_1526 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "179786                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "179786                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "179786"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "MICROFONO TRUST YUNIX USB BLACK GXT234"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$57825$57825$52043Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$57825$57825$52043Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$52043Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2540 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "178506                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "178506                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "178506"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "MOUSE GAMER CORSAIR M55 PRO RGB MULTIGRIP AMBIDIESTRO BLACK"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$60395$60395$54356Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$60395$60395$54356Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$54356Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6376 marca_2477 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "7798162836584                                                    \n                                  "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "7798162836584                                                    \n                                  "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "7798162836584"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Teclado Mecánico Gamer Nisuta Usb Rosa Rgb Megasoft"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$66111$66111$59500Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$66111$66111$59500Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$59500Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_1526 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "179003                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "179003                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "179003"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Trust Ozaa+multi-connect Wireless White"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$77100$77100$69390Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$77100$77100$69390Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$69390Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6377 marca_1526 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "179004                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "179004                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "179004"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Trust Ozaa+multi-connect Wireless Black"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$77100$77100$69390Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$77100$77100$69390Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$69390Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855176899                                                    \n                                   "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "097855176899                                                    \n                                   "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "097855176899"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Micrófono Para Pc Logitech Blue Snowball Ice Negro Megasoft"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$77100$77100$69390Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$77100$77100$69390Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$69390Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855192318                                                    \n                                   "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "097855192318                                                    \n                                   "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "097855192318"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "En stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Logitech G309 Inalámbrico Gaming Lightspeed Negro"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$83525$83525$75173Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$83525$83525$75173Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$75173Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855192325                                                    \n                                   "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "097855192325                                                    \n                                   "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "097855192325"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Gamer Inalámbrico Logitech G309 Lightspeed Hero Blanco"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$83525$83525$75173Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$83525$83525$75173Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$75173Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6378 marca_2544 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "94038588027                                                    \n                                    "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "94038588027                                                    \n                                    "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "94038588027"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Mouse Gamer Razer Basilisk V3 26000 Dpi Rgb 11 Zonas Cable Color Negro"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$92392$92392$83153Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$92392$92392$83153Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$83153Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-120693 marca_1526 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "178155                                                    \n                                         "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "178155                                                    \n                                         "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "178155"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "MICROFONO TRUST VELICA STREAMING GXT241"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$96375$96375$86738Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$96375$96375$86738Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$86738Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6379 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "3113                                                    \n                                           "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "3113                                                    \n                                           "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "3113"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Combo Teclado Y Mouse Logitech Pop Icon  Español  Blanco"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$96375$96375$86738Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$96375$96375$86738Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$86738Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "col-md-3 listado- pull-left prod-cat cat-6379 marca_2536 ",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "div",
-    "class": "card card-ecommerce mt-0 ta-c",
-    "text_preview": "Llega el Lunes                                           \n                                        \n "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left",
-    "text_preview": ""
-  },
-  {
-    "tag": "button",
-    "class": "btn btn-success btn-just-icon btn-link addFavoritos",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "view overlay px-20 imagen",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "img",
-    "class": "img-fluid p-4 mh-100",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "envioRapido -----",
-    "text_preview": "Llega el Lunes"
-  },
-  {
-    "tag": "div",
-    "class": "card-body px-3 pb-0 pt-0",
-    "text_preview": "097855199874                                                    \n                                   "
-  },
-  {
-    "tag": "h6",
-    "class": "card-category text-gray",
-    "text_preview": "097855199874                                                    \n                                   "
-  },
-  {
-    "tag": "span",
-    "class": "pull-left articulo_field",
-    "text_preview": "097855199874"
-  },
-  {
-    "tag": "span",
-    "class": "pull-right",
-    "text_preview": "Bajo stock"
-  },
-  {
-    "tag": "h4",
-    "class": "card-title mb-1 h-40*",
-    "text_preview": "Combo Teclado Y Mouse Logitech Pop Icon  Español  Rosado"
-  },
-  {
-    "tag": "div",
-    "class": "card-description lh-20 ",
-    "text_preview": ""
-  },
-  {
-    "tag": "span",
-    "class": "a12c",
-    "text_preview": ""
-  },
-  {
-    "tag": "div",
-    "class": "card-footer justify-content-between p-0",
-    "text_preview": "$98945$98945$89051Precio especial"
-  },
-  {
-    "tag": "div",
-    "class": "price",
-    "text_preview": "$98945$98945$89051Precio especial"
-  },
-  {
-    "tag": "h4",
-    "class": "mt-0 pecio_final ft",
-    "text_preview": "$89051Precio especial"
+    "text_preview": "$69660Precio especial",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "ul",
+    "class": "pagination pagination-info mt-4",
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "active",
-    "text_preview": "1"
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h5",
     "class": "t-shadow mt-0 mb-0",
-    "text_preview": "1167950226 (solo texto)"
+    "text_preview": "1167950226 (solo texto)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "text-white",
-    "text_preview": "1167950226 (solo texto)"
+    "text_preview": "1167950226 (solo texto)",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h5",
     "class": "t-shadow mt-0 mb-0",
-    "text_preview": "Lunes a Viernes de 10:00 a 18:00"
+    "text_preview": "Lunes a Viernes de 10:00 a 18:00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3 pull-left mt-0 pt-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-6 pull-left mt-0 pt-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "result",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-3 pull-left mt-0 pt-0",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Sobre Nosotros",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Datos Bancarios",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Libro de quejas online",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "ul",
     "class": "social-buttons",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-just-icon btn-round btn-facebook",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "btn btn-just-icon btn-round btn-instagram",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group nombre",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "bmd-form-group email",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "Hecho en qloud.com.ar",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Hecho en qloud.com.ar",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Hecho en",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "copyright pull-right col-md-6 ta-r dataFiscal",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "fb-customerchat",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-dialog",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-content bg-none",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container px-15",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "col-md-12",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "form-group md-form my-0 waves-light waves-effect waves-light",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "btn btn-red btn-raised btn-fab p-4",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-header",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "modal-title",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "modal-body",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h4",
     "class": "modal-title ta-l titulo",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "col-6 pl-0 pull-left captcha mt-4",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "py-3",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   }
 ]

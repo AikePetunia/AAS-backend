@@ -2,3036 +2,5741 @@
   {
     "tag": "div",
     "class": "flex-col logo",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "header_logo header-logo",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "header-logo-dark",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "flex-col show-for-medium flex-left",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "header-button",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "icon button round is-outline is-small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "header-divider",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "flex-col",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "autocomplete-suggestions",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "header-divider",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "cart-price",
-    "text_preview": "$0.00"
+    "text_preview": "$0.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$0.00"
+    "text_preview": "$0.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "header-button",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "is-divider",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "top-divider full-width",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "header-button",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "icon button round is-outline is-small",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Procesadores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7676",
-    "text_preview": "Cpu AMD AM4"
+    "text_preview": "Cpu AMD AM4",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu AMD AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-55988",
-    "text_preview": "Cpu AMD AM5"
+    "text_preview": "Cpu AMD AM5",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu AMD AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-15815",
-    "text_preview": "Cpu Intel LGA1200"
+    "text_preview": "Cpu Intel LGA1200",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu Intel LGA1200",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-42225",
-    "text_preview": "Cpu Intel LGA1700"
+    "text_preview": "Cpu Intel LGA1700",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu Intel LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "label-new menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-81665",
-    "text_preview": "Cpu Intel LGA1851"
+    "text_preview": "Cpu Intel LGA1851",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu Intel LGA1851",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Motherboards",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7669",
-    "text_preview": "AMD AM4"
+    "text_preview": "AMD AM4",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "AMD AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-58325",
-    "text_preview": "Amd AM5"
+    "text_preview": "Amd AM5",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Amd AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-15734",
-    "text_preview": "Intel LGA1200"
+    "text_preview": "Intel LGA1200",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Intel LGA1200",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-42251",
-    "text_preview": "Intel LGA1700"
+    "text_preview": "Intel LGA1700",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Intel LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "label-new menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-81597",
-    "text_preview": "Intel LGA 1851"
+    "text_preview": "Intel LGA 1851",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Intel LGA 1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-48239",
-    "text_preview": "Socket Varios"
+    "text_preview": "Socket Varios",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Socket Varios",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Memorias",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-41933",
-    "text_preview": "Pc DDR5"
+    "text_preview": "Pc DDR5",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pc DDR5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7636",
-    "text_preview": "Pc DDR4"
+    "text_preview": "Pc DDR4",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pc DDR4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7657",
-    "text_preview": "Pc DDR3"
+    "text_preview": "Pc DDR3",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pc DDR3",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7664",
-    "text_preview": "Sodimm para Notebook"
+    "text_preview": "Sodimm para Notebook",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Sodimm para Notebook",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7632",
-    "text_preview": "Gabinetes"
+    "text_preview": "Gabinetes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Gabinetes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7645",
-    "text_preview": "Fuentes"
+    "text_preview": "Fuentes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Fuentes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Almacenamiento",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7653",
-    "text_preview": "Discos Rigidos"
+    "text_preview": "Discos Rigidos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos Rigidos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7642",
-    "text_preview": "Discos Solidos"
+    "text_preview": "Discos Solidos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos Solidos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13451",
-    "text_preview": "Discos Externos"
+    "text_preview": "Discos Externos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos Externos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Placas de Video",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7630",
-    "text_preview": "Nvidia"
+    "text_preview": "Nvidia",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Nvidia",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7651",
-    "text_preview": "Amd Radeon"
+    "text_preview": "Amd Radeon",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Amd Radeon",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Refrigeracion",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10361",
-    "text_preview": "Cooler para Cpu"
+    "text_preview": "Cooler para Cpu",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cooler para Cpu",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10363",
-    "text_preview": "Fan Coolers y Cables"
+    "text_preview": "Fan Coolers y Cables",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Fan Coolers y Cables",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10362",
-    "text_preview": "Pasta Termica y Pads"
+    "text_preview": "Pasta Termica y Pads",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pasta Termica y Pads",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Auriculares",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-32449",
-    "text_preview": "Con Cable"
+    "text_preview": "Con Cable",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Con Cable",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-32450",
-    "text_preview": "Inalambricos"
+    "text_preview": "Inalambricos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Inalambricos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Teclados",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7660",
-    "text_preview": "Mecanico"
+    "text_preview": "Mecanico",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mecanico",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7671",
-    "text_preview": "Membrana"
+    "text_preview": "Membrana",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Membrana",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7685",
-    "text_preview": "Wireless"
+    "text_preview": "Wireless",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Wireless",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mouse",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7643",
-    "text_preview": "Con cable"
+    "text_preview": "Con cable",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Con cable",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7666",
-    "text_preview": "Inalambricos"
+    "text_preview": "Inalambricos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Inalambricos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Kit Teclado y Mouse",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7672",
-    "text_preview": "Con Cable"
+    "text_preview": "Con Cable",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Con Cable",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7677",
-    "text_preview": "Inalambrico"
+    "text_preview": "Inalambrico",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Inalambrico",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-62452",
-    "text_preview": "Bungee"
+    "text_preview": "Bungee",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Bungee",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7650",
-    "text_preview": "Pads para Mouse"
+    "text_preview": "Pads para Mouse",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pads para Mouse",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13397",
-    "text_preview": "Microfonos"
+    "text_preview": "Microfonos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Microfonos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7656",
-    "text_preview": "Gamepads y Volantes"
+    "text_preview": "Gamepads y Volantes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Gamepads y Volantes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7661",
-    "text_preview": "Parlantes"
+    "text_preview": "Parlantes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Parlantes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7659",
-    "text_preview": "Impresoras"
+    "text_preview": "Impresoras",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Impresoras",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7654",
-    "text_preview": "Tabletas Wacom"
+    "text_preview": "Tabletas Wacom",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Tabletas Wacom",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7668",
-    "text_preview": "Sillas y Escritorios"
+    "text_preview": "Sillas y Escritorios",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Sillas y Escritorios",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7688",
-    "text_preview": "Webcam"
+    "text_preview": "Webcam",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Webcam",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pc de Escritorio",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "label-hot menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10445",
-    "text_preview": "Gaming"
+    "text_preview": "Gaming",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Gaming",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10446",
-    "text_preview": "Diseño"
+    "text_preview": "Diseño",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Diseño",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10448",
-    "text_preview": "Hogar-Oficina"
+    "text_preview": "Hogar-Oficina",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Hogar-Oficina",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mini PC",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Software",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-11346",
-    "text_preview": "HOGAR – DISEÑO 2D"
+    "text_preview": "HOGAR – DISEÑO 2D",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "HOGAR – DISEÑO 2D",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-11345",
-    "text_preview": "GAMING Y DISEÑO 3D"
+    "text_preview": "GAMING Y DISEÑO 3D",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "GAMING Y DISEÑO 3D",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7647 menu-item-design-default",
-    "text_preview": "Monitores"
+    "text_preview": "Monitores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74967",
-    "text_preview": "Camaras IP"
+    "text_preview": "Camaras IP",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Camaras IP",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74970",
-    "text_preview": "Patch cords"
+    "text_preview": "Patch cords",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Patch cords",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74966",
-    "text_preview": "Red Lan, Wifi y BT"
+    "text_preview": "Red Lan, Wifi y BT",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Red Lan, Wifi y BT",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74965",
-    "text_preview": "Routers y Access Point"
+    "text_preview": "Routers y Access Point",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Routers y Access Point",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74968",
-    "text_preview": "Switch"
+    "text_preview": "Switch",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Switch",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-78197",
-    "text_preview": "Accesorios para Notebooks"
+    "text_preview": "Accesorios para Notebooks",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Accesorios para Notebooks",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8909",
-    "text_preview": "Adaptadores y Cables"
+    "text_preview": "Adaptadores y Cables",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Adaptadores y Cables",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7682",
-    "text_preview": "Discos Externos"
+    "text_preview": "Discos Externos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos Externos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7649",
-    "text_preview": "Pendrives y SD"
+    "text_preview": "Pendrives y SD",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pendrives y SD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7662",
-    "text_preview": "Energia"
+    "text_preview": "Energia",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Energia",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7670 menu-item-design-default",
-    "text_preview": "Outlet"
+    "text_preview": "Outlet",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "flex-col",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "autocomplete-suggestions",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "header-bg-container fill",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "header-bg-image fill",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "header-bg-color fill",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "header-block block-html-after-header z-1",
-    "text_preview": "#image_944994965 {\n  width: 100%;\n}\n\n\t\n\t\n\n\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n#image_1861666826 {\n "
+    "text_preview": "#image_1569465133 {\n  width: 100%;\n}\n\n\t\n\t\n\n\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n#image_1890811885 {\n",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "slider-wrapper relative",
-    "text_preview": "#image_944994965 {\n  width: 100%;\n}\n\n\t\n\t\n\n\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n#image_1861666826 {\n "
+    "text_preview": "#image_1569465133 {\n  width: 100%;\n}\n\n\t\n\t\n\n\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n#image_1890811885 {\n",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img has-hover x md-x lg-x y md-y lg-y",
-    "text_preview": "#image_944994965 {\n  width: 100%;\n}"
+    "text_preview": "#image_1569465133 {\n  width: 100%;\n}",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img-inner image-glow dark",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-original size-original",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img has-hover x md-x lg-x y md-y lg-y",
-    "text_preview": "#image_1861666826 {\n  width: 100%;\n}"
+    "text_preview": "#image_1890811885 {\n  width: 100%;\n}",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img-inner image-glow dark",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-original size-original",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img has-hover x md-x lg-x y md-y lg-y",
-    "text_preview": "#image_712897689 {\n  width: 100%;\n}"
+    "text_preview": "#image_13817262 {\n  width: 100%;\n}",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img-inner image-glow dark",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-original size-original",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img has-hover x md-x lg-x y md-y lg-y",
-    "text_preview": "#image_971789992 {\n  width: 100%;\n}"
+    "text_preview": "#image_172986850 {\n  width: 100%;\n}",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img-inner image-glow dark",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-original size-original",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img has-hover x md-x lg-x y md-y lg-y",
-    "text_preview": "#image_1689109453 {\n  width: 100%;\n}"
+    "text_preview": "#image_1557333702 {\n  width: 100%;\n}",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "img-inner image-glow dark",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-original size-original",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "loading-spin dark large centered",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "page-title-bg fill",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-bg fill bg-fill parallax-active",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-overlay fill",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "is-medium",
-    "text_preview": "Perifericos"
+    "text_preview": "Procesadores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "inline-block",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "is-sticky-column",
-    "text_preview": "Categoria\n\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n"
+    "text_preview": "Categoria\n\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "is-sticky-column__inner",
-    "text_preview": "Categoria\n\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n"
+    "text_preview": "Categoria\n\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "item-placeholder",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "woocommerce-notices-wrapper",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Mouse Marvo DMS002GY 1200dpi Usb"
+    "text_preview": "Micro AMD Ryzen 3 3200G Vega 8",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Mouse Marvo DMS002GY 1200dpi Usb"
+    "text_preview": "Micro AMD Ryzen 3 3200G Vega 8",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Mouse Marvo DMS002GY 1200dpi Usb"
+    "text_preview": "Micro AMD Ryzen 3 3200G Vega 8",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$5140.00\nStock disponible"
+    "text_preview": "$86765.00\n2 Stock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$5140.00"
+    "text_preview": "$86765.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$5140.00"
+    "text_preview": "$86765.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "2 Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Mouse Logitech M90 Optico 1000dpi"
+    "text_preview": "Micro Intel Celeron G6900 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Mouse Logitech M90 Optico 1000dpi"
+    "text_preview": "Micro Intel Celeron G6900 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Mouse Logitech M90 Optico 1000dpi"
+    "text_preview": "Micro Intel Celeron G6900 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$6425.00\nStock disponible"
+    "text_preview": "$101010.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$6425.00"
+    "text_preview": "$101010.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$6425.00"
+    "text_preview": "$101010.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Pad Shenlong P1000 Medium Black Yellow"
+    "text_preview": "Micro Intel Pentium Gold G6405 1200",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Pad Shenlong P1000 Medium Black Yellow"
+    "text_preview": "Micro Intel Pentium Gold G6405 1200",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Pad Shenlong P1000 Medium Black Yellow"
+    "text_preview": "Micro Intel Pentium Gold G6405 1200",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$7067.50\nStock disponible"
+    "text_preview": "$116550.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$7067.50"
+    "text_preview": "$116550.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$7067.50"
+    "text_preview": "$116550.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Mouse X-Micro XGM-230 7200dpi"
+    "text_preview": "Micro Amd Ryzen 5 5500 AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Mouse X-Micro XGM-230 7200dpi"
+    "text_preview": "Micro Amd Ryzen 5 5500 AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Mouse X-Micro XGM-230 7200dpi"
+    "text_preview": "Micro Amd Ryzen 5 5500 AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$8352.50\nStock disponible"
+    "text_preview": "$116550.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$8352.50"
+    "text_preview": "$116550.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$8352.50"
+    "text_preview": "$116550.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Teclado Trust Ziva Multimedia SP"
+    "text_preview": "Micro Intel Core i3 12100F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Teclado Trust Ziva Multimedia SP"
+    "text_preview": "Micro Intel Core i3 12100F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Teclado Trust Ziva Multimedia SP"
+    "text_preview": "Micro Intel Core i3 12100F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$10280.00\nStock disponible"
+    "text_preview": "$123025.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$10280.00"
+    "text_preview": "$123025.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$10280.00"
+    "text_preview": "$123025.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Teclado Logitech K120 Usb Español"
+    "text_preview": "Micro Intel Core i3 13100F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Teclado Logitech K120 Usb Español"
+    "text_preview": "Micro Intel Core i3 13100F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Teclado Logitech K120 Usb Español"
+    "text_preview": "Micro Intel Core i3 13100F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$10922.50\nStock disponible"
+    "text_preview": "$132090.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$10922.50"
+    "text_preview": "$132090.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$10922.50"
+    "text_preview": "$132090.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Mouse Logitech Wireless M170 Black 1000dpi"
+    "text_preview": "Micro Intel Pentium G7400 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Mouse Logitech Wireless M170 Black 1000dpi"
+    "text_preview": "Micro Intel Pentium G7400 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Mouse Logitech Wireless M170 Black 1000dpi"
+    "text_preview": "Micro Intel Pentium G7400 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$10922.50\nStock disponible"
+    "text_preview": "$142450.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$10922.50"
+    "text_preview": "$142450.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$10922.50"
+    "text_preview": "$142450.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Mouse Logitech Wireless M170 Rosa 1000dpi"
+    "text_preview": "Micro Intel Core i3 13100 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Mouse Logitech Wireless M170 Rosa 1000dpi"
+    "text_preview": "Micro Intel Core i3 13100 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Mouse Logitech Wireless M170 Rosa 1000dpi"
+    "text_preview": "Micro Intel Core i3 13100 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$10922.50\n1 Stock disponible"
+    "text_preview": "$186480.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$10922.50"
+    "text_preview": "$186480.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$10922.50"
+    "text_preview": "$186480.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "1 Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Numpad Klip Extreme KNP-100"
+    "text_preview": "Micro Amd Ryzen 5 5600GT Vega 7 AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Numpad Klip Extreme KNP-100"
+    "text_preview": "Micro Amd Ryzen 5 5600GT Vega 7 AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Numpad Klip Extreme KNP-100"
+    "text_preview": "Micro Amd Ryzen 5 5600GT Vega 7 AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$11565.00\nStock disponible"
+    "text_preview": "$192307.50\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$11565.00"
+    "text_preview": "$192307.50",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$11565.00"
+    "text_preview": "$192307.50",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Pad Trust BigFoot Black"
+    "text_preview": "Micro AMD Ryzen 5 8500G AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Pad Trust BigFoot Black"
+    "text_preview": "Micro AMD Ryzen 5 8500G AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Pad Trust BigFoot Black"
+    "text_preview": "Micro AMD Ryzen 5 8500G AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$11565.00\nStock disponible"
+    "text_preview": "$212380.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$11565.00"
+    "text_preview": "$212380.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$11565.00"
+    "text_preview": "$212380.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Pad Shenlong P1000 XL Black Yellow"
+    "text_preview": "Micro Amd Ryzen 7 5700G Vega 8 AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Pad Shenlong P1000 XL Black Yellow"
+    "text_preview": "Micro Amd Ryzen 7 5700G Vega 8 AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Pad Shenlong P1000 XL Black Yellow"
+    "text_preview": "Micro Amd Ryzen 7 5700G Vega 8 AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$12850.00\nStock disponible"
+    "text_preview": "$217560.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$12850.00"
+    "text_preview": "$217560.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$12850.00"
+    "text_preview": "$217560.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Mouse Logitech Bluetooth M196 Black 1000dpi"
+    "text_preview": "Micro Intel Core i5 14400F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Mouse Logitech Bluetooth M196 Black 1000dpi"
+    "text_preview": "Micro Intel Core i5 14400F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Mouse Logitech Bluetooth M196 Black 1000dpi"
+    "text_preview": "Micro Intel Core i5 14400F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$14135.00\nStock disponible"
+    "text_preview": "$220150.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$14135.00"
+    "text_preview": "$220150.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$14135.00"
+    "text_preview": "$220150.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Pad Logitech G240 280x340mm"
+    "text_preview": "Micro Intel Core i5 12400 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Pad Logitech G240 280x340mm"
+    "text_preview": "Micro Intel Core i5 12400 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Pad Logitech G240 280x340mm"
+    "text_preview": "Micro Intel Core i5 12400 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$15420.00\nStock disponible"
+    "text_preview": "$233100.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$15420.00"
+    "text_preview": "$233100.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$15420.00"
+    "text_preview": "$233100.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Mouse Logitech Wireless M190 Grey 1000dpi"
+    "text_preview": "Micro Intel Core i5 14400 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Mouse Logitech Wireless M190 Grey 1000dpi"
+    "text_preview": "Micro Intel Core i5 14400 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Mouse Logitech Wireless M190 Grey 1000dpi"
+    "text_preview": "Micro Intel Core i5 14400 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$15420.00\nStock disponible"
+    "text_preview": "$271950.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$15420.00"
+    "text_preview": "$271950.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$15420.00"
+    "text_preview": "$271950.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Kit Logitech Wired MK120 Español"
+    "text_preview": "Micro AMD Ryzen 5 8600G AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Kit Logitech Wired MK120 Español"
+    "text_preview": "Micro AMD Ryzen 5 8600G AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Kit Logitech Wired MK120 Español"
+    "text_preview": "Micro AMD Ryzen 5 8600G AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$16705.00\nStock disponible"
+    "text_preview": "$277130.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$16705.00"
+    "text_preview": "$277130.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$16705.00"
+    "text_preview": "$277130.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Teclado Trust Ziva Rainbow Led SP"
+    "text_preview": "Micro AMD Ryzen 5 7600 AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Teclado Trust Ziva Rainbow Led SP"
+    "text_preview": "Micro AMD Ryzen 5 7600 AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Teclado Trust Ziva Rainbow Led SP"
+    "text_preview": "Micro AMD Ryzen 5 7600 AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$17347.50\nStock disponible"
+    "text_preview": "$300440.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$17347.50"
+    "text_preview": "$300440.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$17347.50"
+    "text_preview": "$300440.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Mouse Trust GXT101 GAV Black"
+    "text_preview": "Micro Intel Core Ultra 5 225F LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Mouse Trust GXT101 GAV Black"
+    "text_preview": "Micro Intel Core Ultra 5 225F LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Mouse Trust GXT101 GAV Black"
+    "text_preview": "Micro Intel Core Ultra 5 225F LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$17347.50\nStock disponible"
+    "text_preview": "$300440.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$17347.50"
+    "text_preview": "$300440.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$17347.50"
+    "text_preview": "$300440.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Pad Marvo Gaming G41 XL Red-Black"
+    "text_preview": "Micro Intel Core Ultra 5 225 LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Pad Marvo Gaming G41 XL Red-Black"
+    "text_preview": "Micro Intel Core Ultra 5 225 LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Pad Marvo Gaming G41 XL Red-Black"
+    "text_preview": "Micro Intel Core Ultra 5 225 LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$17990.00\nStock disponible"
+    "text_preview": "$326340.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$17990.00"
+    "text_preview": "$326340.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$17990.00"
+    "text_preview": "$326340.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Pad Marvo MG-08 Medium RGB"
+    "text_preview": "Micro AMD Ryzen 7 8700G AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Pad Marvo MG-08 Medium RGB"
+    "text_preview": "Micro AMD Ryzen 7 8700G AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Pad Marvo MG-08 Medium RGB"
+    "text_preview": "Micro AMD Ryzen 7 8700G AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$17990.00\nStock disponible"
+    "text_preview": "$388500.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$17990.00"
+    "text_preview": "$388500.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$17990.00"
+    "text_preview": "$388500.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Pad HyperX Fury S Pro Speed Medium"
+    "text_preview": "Micro Intel Core i7 12700 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Pad HyperX Fury S Pro Speed Medium"
+    "text_preview": "Micro Intel Core i7 12700 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Pad HyperX Fury S Pro Speed Medium"
+    "text_preview": "Micro Intel Core i7 12700 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$19275.00\nStock disponible"
+    "text_preview": "$427350.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$19275.00"
+    "text_preview": "$427350.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$19275.00"
+    "text_preview": "$427350.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Mouse Microsoft 1850 Wireless Negro"
+    "text_preview": "Micro AMD Ryzen 7 7700X AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Mouse Microsoft 1850 Wireless Negro"
+    "text_preview": "Micro AMD Ryzen 7 7700X AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Mouse Microsoft 1850 Wireless Negro"
+    "text_preview": "Micro AMD Ryzen 7 7700X AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$19917.50\nStock disponible"
+    "text_preview": "$498575.00\n2 Stock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$19917.50"
+    "text_preview": "$498575.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$19917.50"
+    "text_preview": "$498575.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "2 Stock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "callout badge badge-circle",
-    "text_preview": "-25%"
-  },
-  {
-    "tag": "div",
-    "class": "badge-inner secondary on-sale",
-    "text_preview": "-25%"
-  },
-  {
-    "tag": "span",
-    "class": "onsale",
-    "text_preview": "-25%"
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Teclado Evga Gaming Z12 RGB 5 Macro Keys"
+    "text_preview": "Micro Intel Core Ultra 7 265KF LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Teclado Evga Gaming Z12 RGB 5 Macro Keys"
+    "text_preview": "Micro Intel Core Ultra 7 265KF LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Teclado Evga Gaming Z12 RGB 5 Macro Keys"
+    "text_preview": "Micro Intel Core Ultra 7 265KF LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$29555.00 El precio original era: $29555.00.$22166.25El precio actual es: $22166.25.\nStock disponibl"
+    "text_preview": "$499870.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$29555.00 El precio original era: $29555.00.$22166.25El precio actual es: $22166.25."
+    "text_preview": "$499870.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$29555.00"
+    "text_preview": "$499870.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
-  },
-  {
-    "tag": "span",
-    "class": "woocommerce-Price-amount amount",
-    "text_preview": "$22166.25"
-  },
-  {
-    "tag": "span",
-    "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Teclado Marvo K656 Led Membrana"
+    "text_preview": "Micro Intel Core i7 14700 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Teclado Marvo K656 Led Membrana"
+    "text_preview": "Micro Intel Core i7 14700 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Teclado Marvo K656 Led Membrana"
+    "text_preview": "Micro Intel Core i7 14700 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$24415.00\nStock disponible"
+    "text_preview": "$505050.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$24415.00"
+    "text_preview": "$505050.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$24415.00"
+    "text_preview": "$505050.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Auriculares Trust Reno c/mic"
+    "text_preview": "Micro AMD Ryzen 7 9700X AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Auriculares Trust Reno c/mic"
+    "text_preview": "Micro AMD Ryzen 7 9700X AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Auriculares Trust Reno c/mic"
+    "text_preview": "Micro AMD Ryzen 7 9700X AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$24415.00\nStock disponible"
+    "text_preview": "$507640.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$24415.00"
+    "text_preview": "$507640.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$24415.00"
+    "text_preview": "$507640.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Bungee Cougar Bunker Black"
+    "text_preview": "Micro Intel Core Ultra 7 265F LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Bungee Cougar Bunker Black"
+    "text_preview": "Micro Intel Core Ultra 7 265F LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Bungee Cougar Bunker Black"
+    "text_preview": "Micro Intel Core Ultra 7 265F LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$24415.00\nStock disponible"
+    "text_preview": "$542605.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$24415.00"
+    "text_preview": "$542605.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$24415.00"
+    "text_preview": "$542605.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Parlantes Logitech S-150 Usb"
+    "text_preview": "Micro AMD Ryzen 7 9800X3D AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Parlantes Logitech S-150 Usb"
+    "text_preview": "Micro AMD Ryzen 7 9800X3D AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Parlantes Logitech S-150 Usb"
+    "text_preview": "Micro AMD Ryzen 7 9800X3D AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$25700.00\nStock disponible"
+    "text_preview": "$757575.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$25700.00"
+    "text_preview": "$757575.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$25700.00"
+    "text_preview": "$757575.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Pad Shenlong PRO RGB XL Black"
+    "text_preview": "Micro Intel Core i9 13900K LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Pad Shenlong PRO RGB XL Black"
+    "text_preview": "Micro Intel Core i9 13900K LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Pad Shenlong PRO RGB XL Black"
+    "text_preview": "Micro Intel Core i9 13900K LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$26985.00\nStock disponible"
+    "text_preview": "$815850.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$26985.00"
+    "text_preview": "$815850.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$26985.00"
+    "text_preview": "$815850.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Teclado Trust Thado 833 TKL"
+    "text_preview": "Micro Intel Core i9 13900 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Teclado Trust Thado 833 TKL"
+    "text_preview": "Micro Intel Core i9 13900 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Teclado Trust Thado 833 TKL"
+    "text_preview": "Micro Intel Core i9 13900 LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$27627.50\nStock disponible"
+    "text_preview": "$906500.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$27627.50"
+    "text_preview": "$906500.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$27627.50"
+    "text_preview": "$906500.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Teclado Trust Thado 833W White TKL"
+    "text_preview": "Micro Intel Core i9 14900F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Teclado Trust Thado 833W White TKL"
+    "text_preview": "Micro Intel Core i9 14900F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Teclado Trust Thado 833W White TKL"
+    "text_preview": "Micro Intel Core i9 14900F LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$27627.50\nStock disponible"
+    "text_preview": "$919450.00\n1 Stock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$27627.50"
+    "text_preview": "$919450.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$27627.50"
+    "text_preview": "$919450.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "1 Stock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
-    "class": "callout badge badge-circle",
-    "text_preview": "-45%"
-  },
-  {
-    "tag": "div",
-    "class": "badge-inner secondary on-sale",
-    "text_preview": "-45%"
-  },
-  {
-    "tag": "span",
-    "class": "onsale",
-    "text_preview": "-45%"
+    "class": "badge-container absolute left top z-1",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "box-image",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "img",
     "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "image-tools is-small top right show-on-hover",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "title-wrapper",
-    "text_preview": "Auriculares Primus ARCUS90T"
+    "text_preview": "Micro Intel Core Ultra 9 285 LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "name product-title woocommerce-loop-product__title",
-    "text_preview": "Auriculares Primus ARCUS90T"
+    "text_preview": "Micro Intel Core Ultra 9 285 LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
-    "text_preview": "Auriculares Primus ARCUS90T"
+    "text_preview": "Micro Intel Core Ultra 9 285 LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "price-wrapper",
-    "text_preview": "$51400.00 El precio original era: $51400.00.$28270.00El precio actual es: $28270.00.\nStock disponibl"
+    "text_preview": "$958300.00\nStock disponible",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "price",
-    "text_preview": "$51400.00 El precio original era: $51400.00.$28270.00El precio actual es: $28270.00."
+    "text_preview": "$958300.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-amount amount",
-    "text_preview": "$51400.00"
+    "text_preview": "$958300.00",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
-  },
-  {
-    "tag": "span",
-    "class": "woocommerce-Price-amount amount",
-    "text_preview": "$28270.00"
-  },
-  {
-    "tag": "span",
-    "class": "woocommerce-Price-currencySymbol",
-    "text_preview": "$"
+    "text_preview": "$",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "stock",
-    "text_preview": "Stock disponible"
+    "text_preview": "Stock disponible",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "div",
+    "class": "container",
+    "text_preview": "12",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "page-number current",
-    "text_preview": "1"
+    "text_preview": "1",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "page-number",
-    "text_preview": "2"
-  },
-  {
-    "tag": "a",
-    "class": "page-number",
-    "text_preview": "3"
-  },
-  {
-    "tag": "a",
-    "class": "page-number",
-    "text_preview": "4"
-  },
-  {
-    "tag": "a",
-    "class": "page-number",
-    "text_preview": "5"
-  },
-  {
-    "tag": "a",
-    "class": "page-number",
-    "text_preview": "6"
+    "text_preview": "2",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "a",
     "class": "next page-number",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "widget_text col pb-0 widget widget_custom_html",
-    "text_preview": "LA EMPRESA\nMendoza 1215 - Rosario"
+    "text_preview": "LA EMPRESA\nMendoza 1215 - Rosario",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "textwidget custom-html-widget",
-    "text_preview": "LA EMPRESA\nMendoza 1215 - Rosario"
+    "text_preview": "LA EMPRESA\nMendoza 1215 - Rosario",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "LA EMPRESA",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "LA EMPRESA",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "p",
+    "class": "",
+    "text_preview": "Mendoza 1215 - Rosario",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mendoza 1215 - Rosario",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "widget_text col pb-0 widget widget_custom_html",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "textwidget custom-html-widget",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "widget_text col pb-0 widget widget_custom_html",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "textwidget custom-html-widget",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "flex-col",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "autocomplete-suggestions",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
-    "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7700 has-child",
-    "text_preview": "Componentes de PC\n\n              \n                \n                Componentes de PC\n              \n"
+    "class": "menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-7700 has-child",
+    "text_preview": "Componentes de PC\n\n              \n                \n                Componentes de PC\n              \n",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Componentes de PC",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
-    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7638 has-child",
-    "text_preview": "Procesadores\n\t\n              \n                \n                Procesadores\n              \n         "
+    "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-has-children menu-item-7638 has-child",
+    "text_preview": "Procesadores\n\t\n              \n                \n                Procesadores\n              \n         ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Procesadores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7676",
-    "text_preview": "Cpu AMD AM4"
+    "text_preview": "Cpu AMD AM4",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu AMD AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-55988",
-    "text_preview": "Cpu AMD AM5"
+    "text_preview": "Cpu AMD AM5",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu AMD AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-15815",
-    "text_preview": "Cpu Intel LGA1200"
+    "text_preview": "Cpu Intel LGA1200",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu Intel LGA1200",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-42225",
-    "text_preview": "Cpu Intel LGA1700"
+    "text_preview": "Cpu Intel LGA1700",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu Intel LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "label-new menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-81665",
-    "text_preview": "Cpu Intel LGA1851"
+    "text_preview": "Cpu Intel LGA1851",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cpu Intel LGA1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7633 has-child",
-    "text_preview": "Motherboards\n\t\n              \n                \n                Motherboards\n              \n         "
+    "text_preview": "Motherboards\n\t\n              \n                \n                Motherboards\n              \n         ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Motherboards",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7669",
-    "text_preview": "AMD AM4"
+    "text_preview": "AMD AM4",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "AMD AM4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-58325",
-    "text_preview": "Amd AM5"
+    "text_preview": "Amd AM5",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Amd AM5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-15734",
-    "text_preview": "Intel LGA1200"
+    "text_preview": "Intel LGA1200",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Intel LGA1200",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-42251",
-    "text_preview": "Intel LGA1700"
+    "text_preview": "Intel LGA1700",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Intel LGA1700",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "label-new menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-81597",
-    "text_preview": "Intel LGA 1851"
+    "text_preview": "Intel LGA 1851",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Intel LGA 1851",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-48239",
-    "text_preview": "Socket Varios"
+    "text_preview": "Socket Varios",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Socket Varios",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7631 has-child",
-    "text_preview": "Memorias\n\t\n              \n                \n                Memorias\n              \n            \n\t\tPc"
+    "text_preview": "Memorias\n\t\n              \n                \n                Memorias\n              \n            \n\t\tPc",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Memorias",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-41933",
-    "text_preview": "Pc DDR5"
+    "text_preview": "Pc DDR5",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pc DDR5",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7636",
-    "text_preview": "Pc DDR4"
+    "text_preview": "Pc DDR4",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pc DDR4",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7657",
-    "text_preview": "Pc DDR3"
+    "text_preview": "Pc DDR3",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pc DDR3",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7664",
-    "text_preview": "Sodimm para Notebook"
+    "text_preview": "Sodimm para Notebook",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Sodimm para Notebook",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7632",
-    "text_preview": "Gabinetes"
+    "text_preview": "Gabinetes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Gabinetes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7645",
-    "text_preview": "Fuentes"
+    "text_preview": "Fuentes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Fuentes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7629 has-child",
-    "text_preview": "Almacenamiento\n\t\n              \n                \n                Almacenamiento\n              \n     "
+    "text_preview": "Almacenamiento\n\t\n              \n                \n                Almacenamiento\n              \n     ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Almacenamiento",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7653",
-    "text_preview": "Discos Rigidos"
+    "text_preview": "Discos Rigidos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos Rigidos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7642",
-    "text_preview": "Discos Solidos"
+    "text_preview": "Discos Solidos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos Solidos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13451",
-    "text_preview": "Discos Externos"
+    "text_preview": "Discos Externos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos Externos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7628 has-child",
-    "text_preview": "Placas de Video\n\t\n              \n                \n                Placas de Video\n              \n   "
+    "text_preview": "Placas de Video\n\t\n              \n                \n                Placas de Video\n              \n   ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Placas de Video",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7630",
-    "text_preview": "Nvidia"
+    "text_preview": "Nvidia",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Nvidia",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7651",
-    "text_preview": "Amd Radeon"
+    "text_preview": "Amd Radeon",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Amd Radeon",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7635 has-child",
-    "text_preview": "Refrigeracion\n\t\n              \n                \n                Refrigeracion\n              \n       "
+    "text_preview": "Refrigeracion\n\t\n              \n                \n                Refrigeracion\n              \n       ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Refrigeracion",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10361",
-    "text_preview": "Cooler para Cpu"
+    "text_preview": "Cooler para Cpu",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Cooler para Cpu",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10363",
-    "text_preview": "Fan Coolers y Cables"
+    "text_preview": "Fan Coolers y Cables",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Fan Coolers y Cables",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10362",
-    "text_preview": "Pasta Termica y Pads"
+    "text_preview": "Pasta Termica y Pads",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pasta Termica y Pads",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10454 has-child",
-    "text_preview": "Perifericos\n\n              \n                \n                Perifericos\n              \n            "
+    "text_preview": "Perifericos\n\n              \n                \n                Perifericos\n              \n            ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Perifericos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7637 has-child",
-    "text_preview": "Auriculares\n\t\n              \n                \n                Auriculares\n              \n           "
+    "text_preview": "Auriculares\n\t\n              \n                \n                Auriculares\n              \n           ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Auriculares",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-32449",
-    "text_preview": "Con Cable"
+    "text_preview": "Con Cable",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Con Cable",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-32450",
-    "text_preview": "Inalambricos"
+    "text_preview": "Inalambricos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Inalambricos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7639 has-child",
-    "text_preview": "Teclados\n\t\n              \n                \n                Teclados\n              \n            \n\t\tMe"
+    "text_preview": "Teclados\n\t\n              \n                \n                Teclados\n              \n            \n\t\tMe",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Teclados",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7660",
-    "text_preview": "Mecanico"
+    "text_preview": "Mecanico",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mecanico",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7671",
-    "text_preview": "Membrana"
+    "text_preview": "Membrana",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Membrana",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7685",
-    "text_preview": "Wireless"
+    "text_preview": "Wireless",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Wireless",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7634 has-child",
-    "text_preview": "Mouse\n\t\n              \n                \n                Mouse\n              \n            \n\t\tCon cabl"
+    "text_preview": "Mouse\n\t\n              \n                \n                Mouse\n              \n            \n\t\tCon cabl",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mouse",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7643",
-    "text_preview": "Con cable"
+    "text_preview": "Con cable",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Con cable",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7666",
-    "text_preview": "Inalambricos"
+    "text_preview": "Inalambricos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Inalambricos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7646 has-child",
-    "text_preview": "Kit Teclado y Mouse\n\t\n              \n                \n                Kit Teclado y Mouse\n          "
+    "text_preview": "Kit Teclado y Mouse\n\t\n              \n                \n                Kit Teclado y Mouse\n          ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Kit Teclado y Mouse",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7672",
-    "text_preview": "Con Cable"
+    "text_preview": "Con Cable",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Con Cable",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7677",
-    "text_preview": "Inalambrico"
+    "text_preview": "Inalambrico",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Inalambrico",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-62452",
-    "text_preview": "Bungee"
+    "text_preview": "Bungee",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Bungee",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7650",
-    "text_preview": "Pads para Mouse"
+    "text_preview": "Pads para Mouse",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pads para Mouse",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13397",
-    "text_preview": "Microfonos"
+    "text_preview": "Microfonos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Microfonos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7656",
-    "text_preview": "Gamepads y Volantes"
+    "text_preview": "Gamepads y Volantes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Gamepads y Volantes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7661",
-    "text_preview": "Parlantes"
+    "text_preview": "Parlantes",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Parlantes",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7659",
-    "text_preview": "Impresoras"
+    "text_preview": "Impresoras",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Impresoras",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7654",
-    "text_preview": "Tabletas Wacom"
+    "text_preview": "Tabletas Wacom",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Tabletas Wacom",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7668",
-    "text_preview": "Sillas y Escritorios"
+    "text_preview": "Sillas y Escritorios",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Sillas y Escritorios",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "bold-menu menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7688",
-    "text_preview": "Webcam"
+    "text_preview": "Webcam",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Webcam",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10451 has-child",
-    "text_preview": "Computadoras\n\n              \n                \n                Computadoras\n              \n          "
+    "text_preview": "Computadoras\n\n              \n                \n                Computadoras\n              \n          ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Computadoras",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11350 has-child",
-    "text_preview": "Pc de Escritorio\n\t\n              \n                \n                Pc de Escritorio\n              \n "
+    "text_preview": "Pc de Escritorio\n\t\n              \n                \n                Pc de Escritorio\n              \n ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pc de Escritorio",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "label-hot menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10445",
-    "text_preview": "Gaming"
+    "text_preview": "Gaming",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Gaming",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10446",
-    "text_preview": "Diseño"
+    "text_preview": "Diseño",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Diseño",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10448",
-    "text_preview": "Hogar-Oficina"
+    "text_preview": "Hogar-Oficina",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Hogar-Oficina",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Mini PC",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Software",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7640 has-child",
-    "text_preview": "Notebooks\n\n              \n                \n                Notebooks\n              \n            \n\tHO"
+    "text_preview": "Notebooks\n\n              \n                \n                Notebooks\n              \n            \n\tHO",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Notebooks",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-11346",
-    "text_preview": "HOGAR – DISEÑO 2D"
+    "text_preview": "HOGAR – DISEÑO 2D",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "HOGAR – DISEÑO 2D",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-11345",
-    "text_preview": "GAMING Y DISEÑO 3D"
+    "text_preview": "GAMING Y DISEÑO 3D",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "GAMING Y DISEÑO 3D",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7647",
-    "text_preview": "Monitores"
+    "text_preview": "Monitores",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Monitores",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7644 has-child",
-    "text_preview": "Conectividad\n\n              \n                \n                Conectividad\n              \n          "
+    "text_preview": "Conectividad\n\n              \n                \n                Conectividad\n              \n          ",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Conectividad",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74967",
-    "text_preview": "Camaras IP"
+    "text_preview": "Camaras IP",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Camaras IP",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74970",
-    "text_preview": "Patch cords"
+    "text_preview": "Patch cords",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Patch cords",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74966",
-    "text_preview": "Red Lan, Wifi y BT"
+    "text_preview": "Red Lan, Wifi y BT",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Red Lan, Wifi y BT",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74965",
-    "text_preview": "Routers y Access Point"
+    "text_preview": "Routers y Access Point",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Routers y Access Point",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-74968",
-    "text_preview": "Switch"
+    "text_preview": "Switch",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Switch",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Accesorios",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-78197",
-    "text_preview": "Accesorios para Notebooks"
+    "text_preview": "Accesorios para Notebooks",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Accesorios para Notebooks",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8909",
-    "text_preview": "Adaptadores y Cables"
+    "text_preview": "Adaptadores y Cables",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Adaptadores y Cables",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7682",
-    "text_preview": "Discos Externos"
+    "text_preview": "Discos Externos",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Discos Externos",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7649",
-    "text_preview": "Pendrives y SD"
+    "text_preview": "Pendrives y SD",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Pendrives y SD",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7662",
-    "text_preview": "Energia"
+    "text_preview": "Energia",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Energia",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "li",
     "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7670",
-    "text_preview": "Outlet"
+    "text_preview": "Outlet",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "a",
+    "class": "",
+    "text_preview": "Outlet",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "woocommerce-notices-wrapper",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "h3",
     "class": "uppercase",
-    "text_preview": "Acceder"
+    "text_preview": "Acceder",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide",
-    "text_preview": "Nombre de usuario o correo electrónico *Obligatorio"
+    "text_preview": "Nombre de usuario o correo electrónico *Obligatorio",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "required",
-    "text_preview": "*"
+    "text_preview": "*",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "required",
-    "text_preview": "*"
+    "text_preview": "*",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "password-input",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "show-password-input",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "form-row",
-    "text_preview": "Recuérdame\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tAcceso"
+    "text_preview": "Recuérdame\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tAcceso",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "label",
     "class": "woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme",
-    "text_preview": "Recuérdame"
+    "text_preview": "Recuérdame",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "span",
+    "class": "",
+    "text_preview": "Recuérdame",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "button",
     "class": "woocommerce-button button woocommerce-form-login__submit",
-    "text_preview": "Acceso"
+    "text_preview": "Acceso",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ht-ctc ht-ctc-chat ctc-analytics ctc_wp_desktop style-3_1  ",
-    "text_preview": ".ht-ctc .ctc_s_3_1:hover svg stop{stop-color:#25D366;}.ht-ctc .ctc_s_3_1:hover .ht_ctc_padding,.ht-c"
+    "text_preview": ".ht-ctc .ctc_s_3_1:hover svg stop{stop-color:#25D366;}.ht-ctc .ctc_s_3_1:hover .ht_ctc_padding,.ht-c",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ht_ctc_style ht_ctc_chat_style",
-    "text_preview": ".ht-ctc .ctc_s_3_1:hover svg stop{stop-color:#25D366;}.ht-ctc .ctc_s_3_1:hover .ht_ctc_padding,.ht-c"
+    "text_preview": ".ht-ctc .ctc_s_3_1:hover svg stop{stop-color:#25D366;}.ht-ctc .ctc_s_3_1:hover .ht_ctc_padding,.ht-c",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ctc_s_3_1 ctc_s3_1 ctc_nb",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "p",
     "class": "ctc-analytics ctc_cta ctc_cta_stick ht-ctc-cta ",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "div",
     "class": "ctc-analytics ht_ctc_padding",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   },
   {
     "tag": "span",
     "class": "ht_ctc_chat_data",
-    "text_preview": ""
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
+  },
+  {
+    "tag": "img",
+    "class": "",
+    "text_preview": "",
+    "is_valid": 0,
+    "type": ""
   }
 ]
