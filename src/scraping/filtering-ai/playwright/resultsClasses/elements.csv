@@ -1487,9 +1487,9 @@ Joystick",0,
 "div","product-reference text-muted","104697",0,
 "a","","104697",0,
 "div","product-price-and-shipping","$ 8.874,53",1,price
-"a","","$ 8.874,53",0,
+"a","","$ 8.874,53",1,link
 "span","product-price","$ 8.874,53",1,price
-"div","cuotas-grid-list","6 cuotas sin interés al",0,
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
 "div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $1700.85",0,
 "div","product-description-short text-muted","Experimenta un rendimiento potente con la memoria RAM 4GB 2666MHz PNY Performance: la opción ideal p",0,
@@ -1541,11 +1541,8 @@ Joystick",0,
 "a","","Tarjeta Micro Sd Sandisk Ultra 64gb C10 C/ada 100m",1,link
 "div","product-reference text-muted","104716",0,
 "a","","104716",0,
-"div","product-price-and-shipping","$ 10.635,1,price
-                        
-                        
-                                      ",0,
-"a","","$ 10.635,17",0,
+"div","product-price-and-shipping","$ 10.635,1,price",0,price
+"a","","$ 10.635,17",1,link
 "span","product-price","$ 10.635,17",1,price
 "div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
 "div","precio-de-lista","6 cuotas sin interés al",1,cuotas
@@ -1616,7 +1613,7 @@ Joystick",0,
 "div","product-reference text-muted","102263",0,
 "a","","102263",0,
 "div","product-price-and-shipping","$ 12.424,34",1,price
-"a","","$ 12.424,34",0,
+"a","","$ 12.424,34",1,link
 "span","product-price","$ 12.424,34",1,price
 "div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
 "div","precio-de-lista","6 cuotas sin interés al",1,cuotas
@@ -1651,24 +1648,16 @@ Joystick",0,
 "h2","","Todas las caracteristicas de este producto:",0,
 "div","body-popup","",0,
 "div","product-category-name text-muted","Hde",0,
-"h3","h3 product-title","Pendrive Kingston 128gb Usb-c Dt70",0,
-"a","","Pendrive Kingston 128gb Usb-c Dt70",0,
+"h3","h3 product-title","Pendrive Kingston 128gb Usb-c Dt70",1,title
+"a","","Pendrive Kingston 128gb Usb-c Dt70",1,link
 "div","product-reference text-muted","104577",0,
 "a","","104577",0,
-"div","product-price-and-shipping","$ 14.149,14
-                        
-                        
-                                      ",0,
-"a","","$ 14.149,14",0,
-"span","product-price","$ 14.149,14",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
-"span","text-muted-precio-lista","precio de lista $
-                                    2711.89",0,
+"div","product-price-and-shipping","$ 14.149,1",1,price
+"a","","$ 14.149,14",1,link
+"span","product-price","$ 14.149,14",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
+"span","text-muted-precio-lista","precio de lista $2711.89",0,
 "div","product-description-short text-muted","Potencia tu almacenamiento con el Pen Drive Kingston de 128GB DT70 USB Type C 3.2, ofreciendo amplia",0,
 "a","","Potencia tu almacenamiento con el Pen Drive Kingston de 128GB DT70 USB Type C 3.2, ofreciendo amplia",0,
 "div","product-add-cart js-product-add-cart-1825-0","Seleccionar",0,
@@ -1727,24 +1716,17 @@ Joystick",0,
 "dt","name","Incluye",0,
 "dd","value","pasta termica",0,
 "div","product-category-name text-muted","Refrigeracion",0,
-"h3","h3 product-title","Cooler Cpu Aerocool Verkho I (1200)",0,
-"a","","Cooler Cpu Aerocool Verkho I (1200)",0,
+"h3","h3 product-title","Cooler Cpu Aerocool Verkho I (1200)",1,title
+"a","","Cooler Cpu Aerocool Verkho I (1200)",1,link
 "div","product-brand text-muted","Aerocool",0,
 "a","","Aerocool",0,
 "div","product-reference text-muted","104113",0,
 "a","","104113",0,
-"div","product-price-and-shipping","$ 14.724,43
-                        
-                        
-                                      ",0,
-"a","","$ 14.724,43",0,
-"span","product-price","$ 14.724,43",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 14.724,43",1,price
+"a","","$ 14.724,43",1,link
+"span","product-price","$ 14.724,43",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     2822.10",0,
 "div","product-description-short text-muted","Mejora la refrigeración de tu CPU con el Aerocool Verkho I (1200). Compacto, silencioso y eficiente,",0,
@@ -1806,24 +1788,17 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","4GB",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr3 4gb 1600 Mhz Markvision 1.35v Bulk",0,
-"a","","Memoria Ram Ddr3 4gb 1600 Mhz Markvision 1.35v Bulk",0,
+"h3","h3 product-title","Memoria Ram Ddr3 4gb 1600 Mhz Markvision 1.35v Bulk",1,title
+"a","","Memoria Ram Ddr3 4gb 1600 Mhz Markvision 1.35v Bulk",1,link
 "div","product-brand text-muted","Markvision",0,
 "a","","Markvision",0,
 "div","product-reference text-muted","104450",0,
 "a","","104450",0,
-"div","product-price-and-shipping","$ 17.053,30
-                        
-                        
-                                      ",0,
-"a","","$ 17.053,30",0,
-"span","product-price","$ 17.053,30",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 17.053,30",1,price
+"a","","$ 17.053,30",1,link
+"span","product-price","$ 17.053,30",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     3268.49",0,
 "div","product-description-short text-muted","La Memoria RAM DDR3 4GB 1600MHz Markvision 1.35V Bulk: Eficiencia y potencia para tu sistema.",0,
@@ -1879,22 +1854,15 @@ Joystick",0,
 "dt","name","Tipo De Refrigeración",0,
 "dd","value","Air Cooler",0,
 "div","product-category-name text-muted","Refrigeracion",0,
-"h3","h3 product-title","Cooler Cpu Id Cooling Se 903 Xt Basic",0,
-"a","","Cooler Cpu Id Cooling Se 903 Xt Basic",0,
+"h3","h3 product-title","Cooler Cpu Id Cooling Se 903 Xt Basic",1,title
+"a","","Cooler Cpu Id Cooling Se 903 Xt Basic",1,link
 "div","product-reference text-muted","105810",0,
 "a","","105810",0,
-"div","product-price-and-shipping","$ 21.142,68
-                        
-                        
-                                      ",0,
-"a","","$ 21.142,68",0,
-"span","product-price","$ 21.142,68",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 21.142,68",1,price
+"a","","$ 21.142,68",1,link
+"span","product-price","$ 21.142,68",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     4052.22",0,
 "div","product-description-short text-muted","",0,
@@ -1952,22 +1920,15 @@ Joystick",0,
 "dt","name","Tipo De Refrigeración",0,
 "dd","value","Air Cooler",0,
 "div","product-category-name text-muted","Refrigeracion",0,
-"h3","h3 product-title","Cooler Cpu Id Cooling Se 903 Sd V3",0,
-"a","","Cooler Cpu Id Cooling Se 903 Sd V3",0,
+"h3","h3 product-title","Cooler Cpu Id Cooling Se 903 Sd V3",1,title
+"a","","Cooler Cpu Id Cooling Se 903 Sd V3",1,link
 "div","product-reference text-muted","105562",0,
 "a","","105562",0,
-"div","product-price-and-shipping","$ 21.142,68
-                        
-                        
-                                      ",0,
-"a","","$ 21.142,68",0,
-"span","product-price","$ 21.142,68",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 21.142,1",1,price
+"a","","$ 21.142,68",1,link
+"span","product-price","$ 21.142,68",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     4052.22",0,
 "div","product-description-short text-muted","Mantén tu CPU fresca y rinde al máximo con el ID Cooling SE 903 SD V3. Disipación eficiente, diseño ",0,
@@ -2023,22 +1984,15 @@ Joystick",0,
 "dt","name","Formato de memoria",0,
 "dd","value","Sodimm",0,
 "div","product-category-name text-muted","Memorias Soddimm",0,
-"h3","h3 product-title","Memoria Ram Sodimm Ddr4 8gb 3200mhz Hiksemi",0,
-"a","","Memoria Ram Sodimm Ddr4 8gb 3200mhz Hiksemi",0,
+"h3","h3 product-title","Memoria Ram Sodimm Ddr4 8gb 3200mhz Hiksemi",1,title
+"a","","Memoria Ram Sodimm Ddr4 8gb 3200mhz Hiksemi",1,link
 "div","product-reference text-muted","105630",0,
 "a","","105630",0,
-"div","product-price-and-shipping","$ 21.568,66
-                        
-                        
-                                      ",0,
-"a","","$ 21.568,66",0,
-"span","product-price","$ 21.568,66",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 21.568,66",1,price
+"a","","$ 21.568,66",1,link
+"span","product-price","$ 21.568,66",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     4133.87",0,
 "div","product-description-short text-muted","",0,
@@ -2098,24 +2052,17 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","8GB",0,
 "div","product-category-name text-muted","Memorias Soddimm",0,
-"h3","h3 product-title","Memoria Ram Sodimm Ddr4 8gb 3200mhz Kingston",0,
-"a","","Memoria Ram Sodimm Ddr4 8gb 3200mhz Kingston",0,
+"h3","h3 product-title","Memoria Ram Sodimm Ddr4 8gb 3200mhz Kingston",1,title
+"a","","Memoria Ram Sodimm Ddr4 8gb 3200mhz Kingston",1,link
 "div","product-brand text-muted","Kingston",0,
 "a","","Kingston",0,
 "div","product-reference text-muted","104059",0,
 "a","","104059",0,
-"div","product-price-and-shipping","$ 21.824,25
-                        
-                        
-                                      ",0,
-"a","","$ 21.824,25",0,
-"span","product-price","$ 21.824,25",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 21.824,25",1,price
+"a","","$ 21.824,25",1,link
+"span","product-price","$ 21.824,25",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     4182.93",0,
 "div","product-description-short text-muted","Memoria RAM SODIMM DDR4 8GB 3200MHz Kingston, perfecta para mejorar el rendimiento de tu laptop o PC",0,
@@ -2182,24 +2129,17 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","4GB",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 4gb 2666mhz Hikvision",0,
-"a","","Memoria Ram Ddr4 4gb 2666mhz Hikvision",0,
+"h3","h3 product-title","Memoria Ram Ddr4 4gb 2666mhz Hikvision",1,title
+"a","","Memoria Ram Ddr4 4gb 2666mhz Hikvision",1,link
 "div","product-brand text-muted","Micron",0,
 "a","","Micron",0,
 "div","product-reference text-muted","102238",0,
 "a","","102238",0,
-"div","product-price-and-shipping","$ 23.073,78
-                        
-                        
-                                      ",0,
-"a","","$ 23.073,78",0,
-"span","product-price","$ 23.073,78",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 23.073,78",0,price
+"a","","$ 23.073,78",1,link
+"span","product-price","$ 23.073,78",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     4422.32",0,
 "div","product-description-short text-muted","La Memoria RAM DDR4 4GB 2666MHz Hikvision: Rendimiento confiable para tus necesidades informáticas b",0,
@@ -2261,24 +2201,17 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","4GB",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 4gb 2400 Mhz Markvision 1.20v Bulk",0,
-"a","","Memoria Ram Ddr4 4gb 2400 Mhz Markvision 1.20v Bulk",0,
+"h3","h3 product-title","Memoria Ram Ddr4 4gb 2400 Mhz Markvision 1.20v Bulk",1,title
+"a","","Memoria Ram Ddr4 4gb 2400 Mhz Markvision 1.20v Bulk",1,link
 "div","product-brand text-muted","Markvision",0,
 "a","","Markvision",0,
 "div","product-reference text-muted","104452",0,
 "a","","104452",0,
-"div","product-price-and-shipping","$ 23.201,57
-                        
-                        
-                                      ",0,
-"a","","$ 23.201,57",0,
-"span","product-price","$ 23.201,57",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 23.201,57",0,price
+"a","","$ 23.201,57",1,link
+"span","product-price","$ 23.201,57",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     4446.86",0,
 "div","product-description-short text-muted","La Memoria RAM DDR4 4GB 2400MHz Markvision 1.20V Bulk: Potencia y eficiencia para tu computadora.",0,
@@ -2340,24 +2273,17 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","4GB",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 4gb 2400mhz Markvision",0,
-"a","","Memoria Ram Ddr4 4gb 2400mhz Markvision",0,
+"h3","h3 product-title","Memoria Ram Ddr4 4gb 2400mhz Markvision",1,title
+"a","","Memoria Ram Ddr4 4gb 2400mhz Markvision",1,link
 "div","product-brand text-muted","Markvision",0,
 "a","","Markvision",0,
 "div","product-reference text-muted","104298",0,
 "a","","104298",0,
-"div","product-price-and-shipping","$ 23.201,57
-                        
-                        
-                                      ",0,
-"a","","$ 23.201,57",0,
-"span","product-price","$ 23.201,57",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 23.201,57",0,price
+"a","","$ 23.201,57",1,link
+"span","product-price","$ 23.201,57",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     4446.86",0,
 "div","product-description-short text-muted","La Memoria RAM DDR4 4GB 2400MHz Markvision: Potencia y eficiencia en un solo módulo.",0,
@@ -2419,24 +2345,17 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","4GB",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 4gb 2666 Mhz Markvision 1.20v Bulk",0,
-"a","","Memoria Ram Ddr4 4gb 2666 Mhz Markvision 1.20v Bulk",0,
+"h3","h3 product-title","Memoria Ram Ddr4 4gb 2666 Mhz Markvision 1.20v Bulk",1,title
+"a","","Memoria Ram Ddr4 4gb 2666 Mhz Markvision 1.20v Bulk",1,link
 "div","product-brand text-muted","Markvision",0,
 "a","","Markvision",0,
 "div","product-reference text-muted","104453",0,
 "a","","104453",0,
-"div","product-price-and-shipping","$ 25.090,07
-                        
-                        
-                                      ",0,
-"a","","$ 25.090,07",0,
-"span","product-price","$ 25.090,07",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 25.090,07",0,price
+"a","","$ 25.090,07",1,link
+"span","product-price","$ 25.090,07",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     4808.92",0,
 "div","product-description-short text-muted","Mejora el rendimiento de tu sistema con la Memoria RAM DDR4 4GB 2666MHz Markvision 1.20V Bulk, ofrec",0,
@@ -2469,22 +2388,15 @@ Joystick",0,
 "h2","","Todas las caracteristicas de este producto:",0,
 "div","body-popup","",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 8gb 3200mhz Neo Forza Rgb",0,
-"a","","Memoria Ram Ddr4 8gb 3200mhz Neo Forza Rgb",0,
+"h3","h3 product-title","Memoria Ram Ddr4 8gb 3200mhz Neo Forza Rgb",1,title
+"a","","Memoria Ram Ddr4 8gb 3200mhz Neo Forza Rgb",1,link
 "div","product-reference text-muted","105780",0,
 "a","","105780",0,
-"div","product-price-and-shipping","$ 25.714,84
-                        
-                        
-                                      ",0,
-"a","","$ 25.714,84",0,
-"span","product-price","$ 25.714,84",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 25.714,84",0,price
+"a","","$ 25.714,84",1,link
+"span","product-price","$ 25.714,84",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     4928.52",0,
 "div","product-description-short text-muted","",0,
@@ -2528,22 +2440,15 @@ Joystick",0,
 "dt","name","EAN",0,
 "dd","value","6974202725709",0,
 "div","product-category-name text-muted","Ssd",0,
-"h3","h3 product-title","Disco Solido Ssd M.2 Hiksemi 256gb Wave 2500mb/s",0,
-"a","","Disco Solido Ssd M.2 Hiksemi 256gb Wave 2500mb/s",0,
+"h3","h3 product-title","Disco Solido Ssd M.2 Hiksemi 256gb Wave 2500mb/s",1,title
+"a","","Disco Solido Ssd M.2 Hiksemi 256gb Wave 2500mb/s",1,link
 "div","product-reference text-muted","105551",0,
 "a","","105551",0,
-"div","product-price-and-shipping","$ 27.347,76
-                        
-                        
-                                      ",0,
-"a","","$ 27.347,76",0,
-"span","product-price","$ 27.347,76",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 27.347,76",0,price
+"a","","$ 27.347,76",1,link
+"span","product-price","$ 27.347,76",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     5241.51",0,
 "div","product-description-short text-muted","El SSD M.2 Hiksemi 256GB Wave ofrece velocidades de hasta 2500MB/s para un arranque ultrarrápido y t",0,
@@ -2597,22 +2502,15 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","16GB",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 16gb 3200mhz Neo Forza Bulk",0,
-"a","","Memoria Ram Ddr4 16gb 3200mhz Neo Forza Bulk",0,
+"h3","h3 product-title","Memoria Ram Ddr4 16gb 3200mhz Neo Forza Bulk",1,title
+"a","","Memoria Ram Ddr4 16gb 3200mhz Neo Forza Bulk",1,link
 "div","product-reference text-muted","105661",0,
 "a","","105661",0,
-"div","product-price-and-shipping","$ 34.873,36
-                        
-                        
-                                      ",0,
-"a","","$ 34.873,36",0,
-"span","product-price","$ 34.873,36",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 34.873,36",0,price
+"a","","$ 34.873,36",1,link
+"span","product-price","$ 34.873,36",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     6683.99",0,
 "div","product-add-cart js-product-add-cart-5273-0","Seleccionar",0,
@@ -2673,22 +2571,15 @@ Joystick",0,
 "dt","name","PSU length limitation",0,
 "dd","value","standar",0,
 "div","product-category-name text-muted","Gabinetes Sin Psu",0,
-"h3","h3 product-title","Gabinete Raptor Vortex Tg Mid-tower",0,
-"a","","Gabinete Raptor Vortex Tg Mid-tower",0,
+"h3","h3 product-title","Gabinete Raptor Vortex Tg Mid-tower",1,title
+"a","","Gabinete Raptor Vortex Tg Mid-tower",1,link
 "div","product-reference text-muted","105553",0,
 "a","","105553",0,
-"div","product-price-and-shipping","$ 36.989,05
-                        
-                        
-                                      ",0,
-"a","","$ 36.989,05",0,
-"span","product-price","$ 36.989,05",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 36.989,05",0,price
+"a","","$ 36.989,05",1,link
+"span","product-price","$ 36.989,05",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     7089.56",0,
 "div","product-description-short text-muted","Gabinete Raptor Vortex TG Mid-Tower con panel lateral de vidrio templado, diseño gaming agresivo, ex",0,
@@ -2746,22 +2637,15 @@ Joystick",0,
 "dt","name","Formato de memoria",0,
 "dd","value","Udimm",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 16gb 3200mhz Hiksemi Hiker",0,
-"a","","Memoria Ram Ddr4 16gb 3200mhz Hiksemi Hiker",0,
+"h3","h3 product-title","Memoria Ram Ddr4 16gb 3200mhz Hiksemi Hiker",1,title
+"a","","Memoria Ram Ddr4 16gb 3200mhz Hiksemi Hiker",1,link
 "div","product-reference text-muted","105591",0,
 "a","","105591",0,
-"div","product-price-and-shipping","$ 40.964,84
-                        
-                        
-                                      ",0,
-"a","","$ 40.964,84",0,
-"span","product-price","$ 40.964,84",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 40.964,84",0,price
+"a","","$ 40.964,84",1,link
+"span","product-price","$ 40.964,84",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     7851.43",0,
 "div","product-description-short text-muted","",0,
@@ -2821,22 +2705,15 @@ Joystick",0,
 "dt","name","Tipo De Refrigeración",0,
 "dd","value","Cooler Gabinete",0,
 "div","product-category-name text-muted","Refrigeracion",0,
-"h3","h3 product-title","Cooler Cpu Cooler Master Hyper 411 Nano Argb (1700 / Am5)",0,
-"a","","Cooler Cpu Cooler Master Hyper 411 Nano Argb (1700 / Am5)",0,
+"h3","h3 product-title","Cooler Cpu Cooler Master Hyper 411 Nano Argb (1700 / Am5)",1,title
+"a","","Cooler Cpu Cooler Master Hyper 411 Nano Argb (1700 / Am5)",1,link
 "div","product-reference text-muted","105788",0,
 "a","","105788",0,
-"div","product-price-and-shipping","$ 48.666,81
-                        
-                        
-                                      ",0,
-"a","","$ 48.666,81",0,
-"span","product-price","$ 48.666,81",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 48.666,81",0,price
+"a","","$ 48.666,81",1,link
+"span","product-price","$ 48.666,81",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9327.65",0,
 "div","product-description-short text-muted","El Hyper 411 Nano ARGB ofrece gran rendimiento en formato compacto. Compatible con Intel 1700 y AM5,",0,
@@ -2863,24 +2740,17 @@ Joystick",0,
 "h2","","Todas las caracteristicas de este producto:",0,
 "div","body-popup","",0,
 "div","product-category-name text-muted","Lectograbadoras",0,
-"h3","h3 product-title","Grabadora Int Lg Slim Dvd-rw 22x",0,
-"a","","Grabadora Int Lg Slim Dvd-rw 22x",0,
+"h3","h3 product-title","Grabadora Int Lg Slim Dvd-rw 22x",1,title
+"a","","Grabadora Int Lg Slim Dvd-rw 22x",1,link
 "div","product-brand text-muted","Lg",0,
 "a","","Lg",0,
 "div","product-reference text-muted","100484",0,
 "a","","100484",0,
-"div","product-price-and-shipping","$ 46.147,56
-                        
-                        
-                                      ",0,
-"a","","$ 46.147,56",0,
-"span","product-price","$ 46.147,56",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 46.147,56",0,price
+"a","","$ 46.147,56",1,link
+"span","product-price","$ 46.147,56",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     8844.84",0,
 "div","product-add-cart js-product-add-cart-79-0","Seleccionar",0,
@@ -2911,22 +2781,15 @@ Joystick",0,
 "h2","","Todas las caracteristicas de este producto:",0,
 "div","body-popup","",0,
 "div","product-category-name text-muted","Gabinetes Con Psu",0,
-"h3","h3 product-title","Gabinete Kit Jalatec / Sfx / Over",0,
-"a","","Gabinete Kit Jalatec / Sfx / Over",0,
+"h3","h3 product-title","Gabinete Kit Jalatec / Sfx / Over",1,title
+"a","","Gabinete Kit Jalatec / Sfx / Over",1,link
 "div","product-reference text-muted","100205",0,
 "a","","100205",0,
-"div","product-price-and-shipping","$ 46.578,24
-                        
-                        
-                                      ",0,
-"a","","$ 46.578,24",0,
-"span","product-price","$ 46.578,24",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 46.578,24",0,price
+"a","","$ 46.578,24",1,link
+"span","product-price","$ 46.578,24",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     8927.45",0,
 "div","product-description-short text-muted","",0,
@@ -2996,22 +2859,15 @@ Joystick",0,
 "dt","name","Ranuras de Expansión",0,
 "dd","value","4",0,
 "div","product-category-name text-muted","Gabinetes Sin Psu",0,
-"h3","h3 product-title","Gabinete Raptor Nova Prime Tg Mid-tower Rgb Fan X3 Black",0,
-"a","","Gabinete Raptor Nova Prime Tg Mid-tower Rgb Fan X3 Black",0,
+"h3","h3 product-title","Gabinete Raptor Nova Prime Tg Mid-tower Rgb Fan X3 Black",1,title
+"a","","Gabinete Raptor Nova Prime Tg Mid-tower Rgb Fan X3 Black",1,link
 "div","product-reference text-muted","105803",0,
 "a","","105803",0,
-"div","product-price-and-shipping","$ 46.792,88
-                        
-                        
-                                      ",0,
-"a","","$ 46.792,88",0,
-"span","product-price","$ 46.792,88",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 46.792,88",0,price
+"a","","$ 46.792,88",1,link
+"span","product-price","$ 46.792,88",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     8968.47",0,
 "div","product-description-short text-muted","Gabinete Raptor Nova Prime Mid-Tower con vidrio templado, diseño elegante, tres ventiladores RGB inc",0,
@@ -3069,22 +2925,15 @@ Joystick",0,
 "dt","name","Velocidad de Lectura",0,
 "dd","value","550 MB/s",0,
 "div","product-category-name text-muted","Ssd",0,
-"h3","h3 product-title","Disco Solido Ssd Sata Hiksemi 480gb Wave 550mb/s",0,
-"a","","Disco Solido Ssd Sata Hiksemi 480gb Wave 550mb/s",0,
+"h3","h3 product-title","Disco Solido Ssd Sata Hiksemi 480gb Wave 550mb/s",1,title
+"a","","Disco Solido Ssd Sata Hiksemi 480gb Wave 550mb/s",1,link
 "div","product-reference text-muted","105589",0,
 "a","","105589",0,
-"div","product-price-and-shipping","$ 46.545,14
-                        
-                        
-                                      ",0,
-"a","","$ 46.545,14",0,
-"span","product-price","$ 46.545,14",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 46.545,14",0,price
+"a","","$ 46.545,14",1,link
+"span","product-price","$ 46.545,14",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     8921.12",0,
 "div","product-description-short text-muted","El SSD SATA Hiksemi 480GB Wave ofrece velocidad de lectura de hasta 550MB/s. Ideal para acelerar el ",0,
@@ -3155,22 +3004,15 @@ Joystick",0,
 "dt","name","Ranuras de Expansión",0,
 "dd","value","7",0,
 "div","product-category-name text-muted","Gabinetes Sin Psu",0,
-"h3","h3 product-title","Gabinete Raptor Blaze Force Tg Mid-tower Rgb Fan X1",0,
-"a","","Gabinete Raptor Blaze Force Tg Mid-tower Rgb Fan X1",0,
+"h3","h3 product-title","Gabinete Raptor Blaze Force Tg Mid-tower Rgb Fan X1",1,title
+"a","","Gabinete Raptor Blaze Force Tg Mid-tower Rgb Fan X1",1,link
 "div","product-reference text-muted","105806",0,
 "a","","105806",0,
-"div","product-price-and-shipping","$ 47.107,70
-                        
-                        
-                                      ",0,
-"a","","$ 47.107,70",0,
-"span","product-price","$ 47.107,70",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 47.107,70",0,price
+"a","","$ 47.107,70",1,link
+"span","product-price","$ 47.107,70",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9028.84",0,
 "div","product-description-short text-muted","",0,
@@ -3227,24 +3069,17 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","8GB",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 8gb 3600mhz Corsair Vengeance Rgb Rs Black",0,
-"a","","Memoria Ram Ddr4 8gb 3600mhz Corsair Vengeance Rgb Rs Black",0,
+"h3","h3 product-title","Memoria Ram Ddr4 8gb 3600mhz Corsair Vengeance Rgb Rs Black",1,title
+"a","","Memoria Ram Ddr4 8gb 3600mhz Corsair Vengeance Rgb Rs Black",1,link
 "div","product-brand text-muted","Corsair",0,
 "a","","Corsair",0,
 "div","product-reference text-muted","104479",0,
 "a","","104479",0,
-"div","product-price-and-shipping","$ 46.857,53
-                        
-                        
-                                      ",0,
-"a","","$ 46.857,53",0,
-"span","product-price","$ 46.857,53",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 46.857,53",0,price
+"a","","$ 46.857,53",1,link
+"span","product-price","$ 46.857,53",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     8980.92",0,
 "div","product-add-cart js-product-add-cart-1695-0","Seleccionar",0,
@@ -3302,22 +3137,15 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","8GB",0,
 "div","product-category-name text-muted","Memorias Soddimm",0,
-"h3","h3 product-title","Memoria Ram Sodimm Ddr5 8gb 5600mhz Kingston Kcp",0,
-"a","","Memoria Ram Sodimm Ddr5 8gb 5600mhz Kingston Kcp",0,
+"h3","h3 product-title","Memoria Ram Sodimm Ddr5 8gb 5600mhz Kingston Kcp",1,title
+"a","","Memoria Ram Sodimm Ddr5 8gb 5600mhz Kingston Kcp",1,link
 "div","product-reference text-muted","105558",0,
 "a","","105558",0,
-"div","product-price-and-shipping","$ 47.879,87
-                        
-                        
-                                      ",0,
-"a","","$ 47.879,87",0,
-"span","product-price","$ 47.879,87",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 47.879,87",0,price
+"a","","$ 47.879,87",1,link
+"span","product-price","$ 47.879,87",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9176.81",0,
 "div","product-description-short text-muted","Mejora el rendimiento de tu laptop con la memoria RAM SODIMM DDR5 8GB 5600MHz Kingston KCP. Mayor ve",0,
@@ -3371,22 +3199,15 @@ Joystick",0,
 "dt","name","Velocidad de Lectura",0,
 "dd","value","4700 MB/s",0,
 "div","product-category-name text-muted","Ssd",0,
-"h3","h3 product-title","Disco Solido Ssd M.2 Crucial 480gb E100 4700mb/s Gen4 Nvme",0,
-"a","","Disco Solido Ssd M.2 Crucial 480gb E100 4700mb/s Gen4 Nvme",0,
+"h3","h3 product-title","Disco Solido Ssd M.2 Crucial 480gb E100 4700mb/s Gen4 Nvme",1,title
+"a","","Disco Solido Ssd M.2 Crucial 480gb E100 4700mb/s Gen4 Nvme",1,link
 "div","product-reference text-muted","105477",0,
 "a","","105477",0,
-"div","product-price-and-shipping","$ 47.965,07
-                        
-                        
-                                      ",0,
-"a","","$ 47.965,07",0,
-"span","product-price","$ 47.965,07",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 47.965,07",0,price
+"a","","$ 47.965,07",1,link
+"span","product-price","$ 47.965,07",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9193.29",0,
 "div","product-add-cart js-product-add-cart-5114-0","Seleccionar",0,
@@ -3439,22 +3260,15 @@ Joystick",0,
 "dt","name","Velocidad de Lectura",0,
 "dd","value","525MB/S",0,
 "div","product-category-name text-muted","Ssd",0,
-"h3","h3 product-title","Disco Solido Ssd M.2 Hiksemi 512gb Wave 350mb/s",0,
-"a","","Disco Solido Ssd M.2 Hiksemi 512gb Wave 350mb/s",0,
+"h3","h3 product-title","Disco Solido Ssd M.2 Hiksemi 512gb Wave 350mb/s",1,title
+"a","","Disco Solido Ssd M.2 Hiksemi 512gb Wave 350mb/s",1,link
 "div","product-reference text-muted","105344",0,
 "a","","105344",0,
-"div","product-price-and-shipping","$ 48.589,83
-                        
-                        
-                                      ",0,
-"a","","$ 48.589,83",0,
-"span","product-price","$ 48.589,83",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 48.589,83",0,price
+"a","","$ 48.589,83",1,link
+"span","product-price","$ 48.589,83",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9312.89",0,
 "div","product-add-cart js-product-add-cart-5054-0","Seleccionar",0,
@@ -3521,22 +3335,15 @@ Joystick",0,
 "dt","name","Ranuras de Expansión",0,
 "dd","value","4",0,
 "div","product-category-name text-muted","Gabinetes Sin Psu",0,
-"h3","h3 product-title","Gabinete Raptor Thunder Strike Tg Mid-tower Rgb Fan X1 White",0,
-"a","","Gabinete Raptor Thunder Strike Tg Mid-tower Rgb Fan X1 White",0,
+"h3","h3 product-title","Gabinete Raptor Thunder Strike Tg Mid-tower Rgb Fan X1 White",1,title
+"a","","Gabinete Raptor Thunder Strike Tg Mid-tower Rgb Fan X1 White",1,link
 "div","product-reference text-muted","105805",0,
 "a","","105805",0,
-"div","product-price-and-shipping","$ 49.540,35
-                        
-                        
-                                      ",0,
-"a","","$ 49.540,35",0,
-"span","product-price","$ 49.540,35",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 49.540,35",0,price
+"a","","$ 49.540,35",1,link
+"span","product-price","$ 49.540,35",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9495.17",0,
 "div","product-description-short text-muted","Gabinete Raptor Thunder Strike Mid-Tower con panel lateral de vidrio templado, diseño agresivo, vent",0,
@@ -3602,22 +3409,15 @@ Joystick",0,
 "dt","name","Ranuras de Expansión",0,
 "dd","value","4",0,
 "div","product-category-name text-muted","Gabinetes Sin Psu",0,
-"h3","h3 product-title","Gabinete Raptor Thunder Strike Tg Mid-tower Rgb Fan X1 Black",0,
-"a","","Gabinete Raptor Thunder Strike Tg Mid-tower Rgb Fan X1 Black",0,
+"h3","h3 product-title","Gabinete Raptor Thunder Strike Tg Mid-tower Rgb Fan X1 Black",1,title
+"a","","Gabinete Raptor Thunder Strike Tg Mid-tower Rgb Fan X1 Black",1,link
 "div","product-reference text-muted","105804",0,
 "a","","105804",0,
-"div","product-price-and-shipping","$ 49.540,35
-                        
-                        
-                                      ",0,
-"a","","$ 49.540,35",0,
-"span","product-price","$ 49.540,35",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 49.540,35",0,price
+"a","","$ 49.540,35",1,link
+"span","product-price","$ 49.540,35",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9495.17",0,
 "div","product-description-short text-muted","Gabinete Raptor Thunder Strike Mid-Tower con panel lateral de vidrio templado, diseño agresivo, vent",0,
@@ -3671,22 +3471,15 @@ Joystick",0,
 "dt","name","Tipo De Refrigeración",0,
 "dd","value","Air Cooler",0,
 "div","product-category-name text-muted","Refrigeracion",0,
-"h3","h3 product-title","Cooler Cpu Cooler Master Hyper 212 Black (1700 / Am5)",0,
-"a","","Cooler Cpu Cooler Master Hyper 212 Black (1700 / Am5)",0,
+"h3","h3 product-title","Cooler Cpu Cooler Master Hyper 212 Black (1700 / Am5)",1,title
+"a","","Cooler Cpu Cooler Master Hyper 212 Black (1700 / Am5)",1,link
 "div","product-reference text-muted","105786",0,
 "a","","105786",0,
-"div","product-price-and-shipping","$ 54.077,68
-                        
-                        
-                                      ",0,
-"a","","$ 54.077,68",0,
-"span","product-price","$ 54.077,68",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 54.077,68",0,price
+"a","","$ 54.077,68",1,link
+"span","product-price","$ 54.077,68",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     10364.76",0,
 "div","product-add-cart js-product-add-cart-5377-0","Seleccionar",0,
@@ -3738,22 +3531,15 @@ Joystick",0,
 "dt","name","Velocidad de Lectura",0,
 "dd","value","550mb/s",0,
 "div","product-category-name text-muted","Ssd",0,
-"h3","h3 product-title","Disco Solido Ssd Sata 480gb Lexar Nq100 550mb/s",0,
-"a","","Disco Solido Ssd Sata 480gb Lexar Nq100 550mb/s",0,
+"h3","h3 product-title","Disco Solido Ssd Sata 480gb Lexar Nq100 550mb/s",1,title
+"a","","Disco Solido Ssd Sata 480gb Lexar Nq100 550mb/s",1,link
 "div","product-reference text-muted","105560",0,
 "a","","105560",0,
-"div","product-price-and-shipping","$ 51.060,50
-                        
-                        
-                                      ",0,
-"a","","$ 51.060,50",0,
-"span","product-price","$ 51.060,50",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 51.060,50",0,price
+"a","","$ 51.060,50",1,link
+"span","product-price","$ 51.060,50",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9786.50",0,
 "div","product-add-cart js-product-add-cart-5164-0","Seleccionar",0,
@@ -3821,24 +3607,17 @@ Joystick",0,
 "dt","name","Tamaño De Memoria Ram",0,
 "dd","value","8GB",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 8gb 3200mhz Xpg Spectrix D50",0,
-"a","","Memoria Ram Ddr4 8gb 3200mhz Xpg Spectrix D50",0,
+"h3","h3 product-title","Memoria Ram Ddr4 8gb 3200mhz Xpg Spectrix D50",1,title
+"a","","Memoria Ram Ddr4 8gb 3200mhz Xpg Spectrix D50",1,link
 "div","product-brand text-muted","Adata",0,
 "a","","Adata",0,
 "div","product-reference text-muted","102403",0,
 "a","","102403",0,
-"div","product-price-and-shipping","$ 51.685,27
-                        
-                        
-                                      ",0,
-"a","","$ 51.685,27",0,
-"span","product-price","$ 51.685,27",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 51.685,27",0,price
+"a","","$ 51.685,27",1,link
+"span","product-price","$ 51.685,27",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9906.29",0,
 "div","product-description-short text-muted","Potencia tu rendimiento con la Memoria RAM DDR4 8GB 3200MHz XPG Spectrix D50, ofreciendo velocidad y",0,
@@ -3871,22 +3650,15 @@ Joystick",0,
 "h2","","Todas las caracteristicas de este producto:",0,
 "div","body-popup","",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 16gb 3200mhz Adata Blister",0,
-"a","","Memoria Ram Ddr4 16gb 3200mhz Adata Blister",0,
+"h3","h3 product-title","Memoria Ram Ddr4 16gb 3200mhz Adata Blister",1,title
+"a","","Memoria Ram Ddr4 16gb 3200mhz Adata Blister",1,link
 "div","product-reference text-muted","105821",0,
 "a","","105821",0,
-"div","product-price-and-shipping","$ 51.947,96
-                        
-                        
-                                      ",0,
-"a","","$ 51.947,96",0,
-"span","product-price","$ 51.947,96",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 51.947,96",0,price
+"a","","$ 51.947,96",1,link
+"span","product-price","$ 51.947,96",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     9956.51",0,
 "div","product-description-short text-muted","",0,
@@ -3919,22 +3691,15 @@ Joystick",0,
 "h2","","Todas las caracteristicas de este producto:",0,
 "div","body-popup","",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Sodimm Ddr4 16gb 3200mhz Adata",0,
-"a","","Memoria Ram Sodimm Ddr4 16gb 3200mhz Adata",0,
+"h3","h3 product-title","Memoria Ram Sodimm Ddr4 16gb 3200mhz Adata",1,title
+"a","","Memoria Ram Sodimm Ddr4 16gb 3200mhz Adata",1,link
 "div","product-reference text-muted","105770",0,
 "a","","105770",0,
-"div","product-price-and-shipping","$ 61.212,97
-                        
-                        
-                                      ",0,
-"a","","$ 61.212,97",0,
-"span","product-price","$ 61.212,97",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 61.212,97",0,price
+"a","","$ 61.212,97",1,link
+"span","product-price","$ 61.212,97",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     11732.30",0,
 "div","product-description-short text-muted","",0,
@@ -3997,22 +3762,15 @@ Joystick",0,
 "dt","name","Ranuras de Expansión",0,
 "dd","value","4",0,
 "div","product-category-name text-muted","Gabinetes Sin Psu",0,
-"h3","h3 product-title","Gabinete Msi Mag Shield M301 Micro Atx 1x Fan",0,
-"a","","Gabinete Msi Mag Shield M301 Micro Atx 1x Fan",0,
+"h3","h3 product-title","Gabinete Msi Mag Shield M301 Micro Atx 1x Fan",1,title
+"a","","Gabinete Msi Mag Shield M301 Micro Atx 1x Fan",1,link
 "div","product-reference text-muted","105267",0,
 "a","","105267",0,
-"div","product-price-and-shipping","$ 61.340,76
-                        
-                        
-                                      ",0,
-"a","","$ 61.340,76",0,
-"span","product-price","$ 61.340,76",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 61.340,76",0,price
+"a","","$ 61.340,76",1,link
+"span","product-price","$ 61.340,76",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     11756.83",0,
 "div","product-description-short text-muted","El MSI MAG Shield M301 es un gabinete Micro ATX con diseño robusto, panel lateral de vidrio templado",0,
@@ -4070,24 +3828,17 @@ Joystick",0,
 "dt","name","Formato de memoria",0,
 "dd","value","Udimm",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr4 8gb 3200mhz Corsair Vengeance Rs",0,
-"a","","Memoria Ram Ddr4 8gb 3200mhz Corsair Vengeance Rs",0,
+"h3","h3 product-title","Memoria Ram Ddr4 8gb 3200mhz Corsair Vengeance Rs",1,title
+"a","","Memoria Ram Ddr4 8gb 3200mhz Corsair Vengeance Rs",1,link
 "div","product-brand text-muted","Corsair",0,
 "a","","Corsair",0,
 "div","product-reference text-muted","104349",0,
 "a","","104349",0,
-"div","product-price-and-shipping","$ 62.760,69
-                        
-                        
-                                      ",0,
-"a","","$ 62.760,69",0,
-"span","product-price","$ 62.760,69",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 62.760,69",0,price
+"a","","$ 62.760,69",1,link
+"span","product-price","$ 62.760,69",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     12029.00",0,
 "div","product-description-short text-muted","",0,
@@ -4153,22 +3904,15 @@ Joystick",0,
 "dt","name","Ventilador",0,
 "dd","value","120 mm",0,
 "div","product-category-name text-muted","Fuentes",0,
-"h3","h3 product-title","Fuente Thermaltake 600w 80+ White Smart Rgb",0,
-"a","","Fuente Thermaltake 600w 80+ White Smart Rgb",0,
+"h3","h3 product-title","Fuente Thermaltake 600w 80+ White Smart Rgb",1,title
+"a","","Fuente Thermaltake 600w 80+ White Smart Rgb",1,link
 "div","product-reference text-muted","105627",0,
 "a","","105627",0,
-"div","product-price-and-shipping","$ 70.403,61
-                        
-                        
-                                      ",0,
-"a","","$ 70.403,61",0,
-"span","product-price","$ 70.403,61",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 70.403,61",0,price
+"a","","$ 70.403,61",1,link
+"span","product-price","$ 70.403,61",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     13493.91",0,
 "div","product-description-short text-muted","Fuente Thermaltake Smart RGB 600W 80+ White: potencia confiable, eficiencia certificada y 10 luces L",0,
@@ -4229,22 +3973,15 @@ Joystick",0,
 "dt","name","Ventilador",0,
 "dd","value","120 mm",0,
 "div","product-category-name text-muted","Fuentes",0,
-"h3","h3 product-title","Fuente Gigabyte 550w 80+ Silver P550ss Atx 3.0",0,
-"a","","Fuente Gigabyte 550w 80+ Silver P550ss Atx 3.0",0,
+"h3","h3 product-title","Fuente Gigabyte 550w 80+ Silver P550ss Atx 3.0",1,title
+"a","","Fuente Gigabyte 550w 80+ Silver P550ss Atx 3.0",1,link
 "div","product-reference text-muted","105521",0,
 "a","","105521",0,
-"div","product-price-and-shipping","$ 71.367,62
-                        
-                        
-                                      ",0,
-"a","","$ 71.367,62",0,
-"span","product-price","$ 71.367,62",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 71.367,62",0,price
+"a","","$ 71.367,62",1,link
+"span","product-price","$ 71.367,62",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     13678.67",0,
 "div","product-add-cart js-product-add-cart-5118-0","Seleccionar",0,
@@ -4289,18 +4026,11 @@ Joystick",0,
 "a","","Kingston",0,
 "div","product-reference text-muted","103960",0,
 "a","","103960",0,
-"div","product-price-and-shipping","$ 74.399,57
-                        
-                        
-                                      ",0,
-"a","","$ 74.399,57",0,
-"span","product-price","$ 74.399,57",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 74.399,57",0,price
+"a","","$ 74.399,57",1,link
+"span","product-price","$ 74.399,57",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     14259.81",0,
 "div","product-description-short text-muted","",0,
@@ -4366,22 +4096,15 @@ Joystick",0,
 "dt","name","Ventilador",0,
 "dd","value","120 mm",0,
 "div","product-category-name text-muted","Fuentes",0,
-"h3","h3 product-title","Fuente Xpg 700w 80+ Bronze Probe",0,
-"a","","Fuente Xpg 700w 80+ Bronze Probe",0,
+"h3","h3 product-title","Fuente Xpg 700w 80+ Bronze Probe",1,title
+"a","","Fuente Xpg 700w 80+ Bronze Probe",1,link
 "div","product-reference text-muted","105557",0,
 "a","","105557",0,
-"div","product-price-and-shipping","$ 74.881,58
-                        
-                        
-                                      ",0,
-"a","","$ 74.881,58",0,
-"span","product-price","$ 74.881,58",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 74.881,58",0,price
+"a","","$ 74.881,58",1,link
+"span","product-price","$ 74.881,58",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     14352.19",0,
 "div","product-description-short text-muted","La fuente XPG 700W 80+ Bronze Probe ofrece potencia estable y eficiente para tu setup gamer, con cer",0,
@@ -4435,22 +4158,15 @@ Joystick",0,
 "dt","name","Tipo De Refrigeración",0,
 "dd","value","Air Cooler",0,
 "div","product-category-name text-muted","Refrigeracion",0,
-"h3","h3 product-title","Cooler Cpu Cooler Master Hyper 212 Black X Duo (1700 / Am5)",0,
-"a","","Cooler Cpu Cooler Master Hyper 212 Black X Duo (1700 / Am5)",0,
+"h3","h3 product-title","Cooler Cpu Cooler Master Hyper 212 Black X Duo (1700 / Am5)",1,title
+"a","","Cooler Cpu Cooler Master Hyper 212 Black X Duo (1700 / Am5)",1,link
 "div","product-reference text-muted","105787",0,
 "a","","105787",0,
-"div","product-price-and-shipping","$ 75.721,20
-                        
-                        
-                                      ",0,
-"a","","$ 75.721,20",0,
-"span","product-price","$ 75.721,20",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 75.721,20",0,price
+"a","","$ 75.721,20",1,link
+"span","product-price","$ 75.721,20",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     14513.19",0,
 "div","product-add-cart js-product-add-cart-5378-0","Seleccionar",0,
@@ -4507,22 +4223,15 @@ Joystick",0,
 "dt","name","Incluye",0,
 "dd","value","pasta termica",0,
 "div","product-category-name text-muted","Refrigeracion",0,
-"h3","h3 product-title","Cooler Cpu Cooler Master Hyper 620s (1700 / Am5)",0,
-"a","","Cooler Cpu Cooler Master Hyper 620s (1700 / Am5)",0,
+"h3","h3 product-title","Cooler Cpu Cooler Master Hyper 620s (1700 / Am5)",1,title
+"a","","Cooler Cpu Cooler Master Hyper 620s (1700 / Am5)",1,link
 "div","product-reference text-muted","105539",0,
 "a","","105539",0,
-"div","product-price-and-shipping","$ 78.193,41
-                        
-                        
-                                      ",0,
-"a","","$ 78.193,41",0,
-"span","product-price","$ 78.193,41",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 78.193,41",0,price
+"a","","$ 78.193,41",1,link
+"span","product-price","$ 78.193,41",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     14986.99",0,
 "div","product-add-cart js-product-add-cart-5148-0","Seleccionar",0,
@@ -4594,24 +4303,17 @@ Joystick",0,
 "dt","name","Fan Support - Bottom",0,
 "dd","value","No",0,
 "div","product-category-name text-muted","Gabinetes Sin Psu",0,
-"h3","h3 product-title","Gabinete Gamer Aerocool Bionic White Rgb Vidrio G-wt-v2",0,
-"a","","Gabinete Gamer Aerocool Bionic White Rgb Vidrio G-wt-v2",0,
+"h3","h3 product-title","Gabinete Gamer Aerocool Bionic White Rgb Vidrio G-wt-v2",1,title
+"a","","Gabinete Gamer Aerocool Bionic White Rgb Vidrio G-wt-v2",1,link
 "div","product-brand text-muted","Aerocool",0,
 "a","","Aerocool",0,
 "div","product-reference text-muted","103517",0,
 "a","","103517",0,
-"div","product-price-and-shipping","$ 73.836,10
-                        
-                        
-                                      ",0,
-"a","","$ 73.836,10",0,
-"span","product-price","$ 73.836,10",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 73.836,10",0,price
+"a","","$ 73.836,10",1,link
+"span","product-price","$ 73.836,10",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     14151.90",0,
 "div","product-description-short text-muted","Experimenta la vanguardia del diseño y rendimiento con el Aerocool Bionic White RGB. Iluminación RGB",0,
@@ -4659,22 +4361,15 @@ Joystick",0,
 "dt","name","Capacidad",0,
 "dd","value","256GB",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Tarjeta Micro Sd 256gb Adata Class 10 V30s",0,
-"a","","Tarjeta Micro Sd 256gb Adata Class 10 V30s",0,
+"h3","h3 product-title","Tarjeta Micro Sd 256gb Adata Class 10 V30s",1,title
+"a","","Tarjeta Micro Sd 256gb Adata Class 10 V30s",1,link
 "div","product-reference text-muted","104645",0,
 "a","","104645",0,
-"div","product-price-and-shipping","$ 84.443,90
-                        
-                        
-                                      ",0,
-"a","","$ 84.443,90",0,
-"span","product-price","$ 84.443,90",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 84.443,90",0,price
+"a","","$ 84.443,90",1,link
+"span","product-price","$ 84.443,90",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     16184.91",0,
 "div","product-description-short text-muted","",0,
@@ -4745,22 +4440,15 @@ Joystick",0,
 "dt","name","Optimización (Memoria)",0,
 "dd","value","INTEL XMP",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr5 16gb 5600mhz Corsair Vengeance Rgb Black Cl40",0,
-"a","","Memoria Ram Ddr5 16gb 5600mhz Corsair Vengeance Rgb Black Cl40",0,
+"h3","h3 product-title","Memoria Ram Ddr5 16gb 5600mhz Corsair Vengeance Rgb Black Cl40",1,title
+"a","","Memoria Ram Ddr5 16gb 5600mhz Corsair Vengeance Rgb Black Cl40",1,link
 "div","product-reference text-muted","104805",0,
 "a","","104805",0,
-"div","product-price-and-shipping","$ 78.209,47
-                        
-                        
-                                      ",0,
-"a","","$ 78.209,47",0,
-"span","product-price","$ 78.209,47",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 78.209,47",0,price
+"a","","$ 78.209,47",1,link
+"span","product-price","$ 78.209,47",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     14990.06",0,
 "div","product-description-short text-muted","Memoria RAM DDR5 Corsair Vengeance RGB 16GB 5600MHz CL40 en color negro. Rendimiento extremo, ilumin",0,
@@ -4810,22 +4498,15 @@ Joystick",0,
 "dt","name","Formato de memoria",0,
 "dd","value","Udimm",0,
 "div","product-category-name text-muted","Memorias",0,
-"h3","h3 product-title","Memoria Ram Ddr5 16gb 6000mhz Crucial Pro Black Cl48",0,
-"a","","Memoria Ram Ddr5 16gb 6000mhz Crucial Pro Black Cl48",0,
+"h3","h3 product-title","Memoria Ram Ddr5 16gb 6000mhz Crucial Pro Black Cl48",1,title
+"a","","Memoria Ram Ddr5 16gb 6000mhz Crucial Pro Black Cl48",1,link
 "div","product-reference text-muted","105636",0,
 "a","","105636",0,
-"div","product-price-and-shipping","$ 78.706,44
-                        
-                        
-                                      ",0,
-"a","","$ 78.706,44",0,
-"span","product-price","$ 78.706,44",0,
-"div","cuotas-grid-list","6 cuotas
-                                                            sin interés al
-                ",0,
-"div","precio-de-lista","6 cuotas
-                                                            sin interés al
-                ",0,
+"div","product-price-and-shipping","$ 78.706,44",0,price
+"a","","$ 78.706,44",1,link
+"span","product-price","$ 78.706,44",1,price
+"div","cuotas-grid-list","6 cuotas sin interés al",1,cuotas
+"div","precio-de-lista","6 cuotas sin interés al",1,cuotas
 "span","text-muted-precio-lista","precio de lista $
                                     15085.32",0,
 "div","product-add-cart js-product-add-cart-5259-0","Seleccionar",0,
@@ -4950,8 +4631,7 @@ Joystick",0,
 "span","custom-checkbox","",0,
 "span","ps-shown-by-js","",0,
 "span","magnitude","(29)",0,
-"label","facet-label","Crucial
-                                                                (5)",0,
+"label","face label","Crucial                                                (51,cuotas,0,
 "span","custom-checkbox","",0,
 "span","ps-shown-by-js","",0,
 "span","magnitude","(5)",0,
@@ -5055,8 +4735,7 @@ Joystick",0,
 "span","custom-checkbox","",0,
 "span","ps-shown-by-js","",0,
 "span","magnitude","(5)",0,
-"label","facet-label","Western Digital
-                                                                (4)",0,
+"label","facet ","Western Digital                                                (41,cuotas,0,
 "span","custom-checkbox","",0,
 "span","ps-shown-by-js","",0,
 "span","magnitude","(4)",0,
@@ -7943,212 +7622,157 @@ Joystick",0,
 "span","","Cooler Stock",0,
 "a","","Si",0,
 "a","","No",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_15645","",0,
-"a","product-box-price clearfix","$ 4.990",0,
-"span","current-price","$ 4.990",0,
+"a","product-box-price clearfix","$ 4.990",1,link
+"span","current-price","$ 4.990",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_15841","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Placa De Red USB Mercusys Nano 15",0,
-"h3","product-box-title","Placa De Red USB Mercusys Nano 150 mw150us",0,
-"a","","Placa De Red USB Mercusys Nano 150 mw150us",0,
-"a","product-box-price clearfix","$ 5.699",0,
-"span","current-price","$ 5.699",0,
+"div","product-box-body clearfix","Precio en un pago: Placa De Red USB Mercusys Nano 15",1,productWrapper
+"h3","product-box-title","Placa De Red USB Mercusys Nano 150 mw150us",1,title
+"a","","Placa De Red USB Mercusys Nano 150 mw150us",1,link
+"a","product-box-price clearfix","$ 5.699",1,link
+"span","current-price","$ 5.699",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_19200","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Fan Cooler Gamdias Aeolus M2-1201",0,
-"h3","product-box-title","Fan Cooler Gamdias Aeolus M2-1201",0,
-"a","","Fan Cooler Gamdias Aeolus M2-1201",0,
-"a","product-box-price clearfix","$ 6.979",0,
-"span","current-price","$ 6.979",0,
+"div","product-box-body clearfix","Precio en un pago: Fan Cooler Gamdias Aeolus M2-1201",1,productWrapper
+"h3","product-box-title","Fan Cooler Gamdias Aeolus M2-1201",1,title
+"a","","Fan Cooler Gamdias Aeolus M2-1201",1,link
+"a","product-box-price clearfix","$ 6.979",1,link
+"span","current-price","$ 6.979",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_17469","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Fan Cooler Gamdias Aeolus M3-1201",0,
-"h3","product-box-title","Fan Cooler Gamdias Aeolus M3-1201 120mm ARGB",0,
-"a","","Fan Cooler Gamdias Aeolus M3-1201 120mm ARGB",0,
-"a","product-box-price clearfix","$ 6.979",0,
-"span","current-price","$ 6.979",0,
+"div","product-box-body clearfix","Precio en un pago: Fan Cooler Gamdias Aeolus M3-1201",1,productWrapper
+"h3","product-box-title","Fan Cooler Gamdias Aeolus M3-1201 120mm ARGB",1,title
+"a","","Fan Cooler Gamdias Aeolus M3-1201 120mm ARGB",1,link
+"a","product-box-price clearfix","$ 6.979",1,link
+"span","current-price","$ 6.979",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_15137","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Grasa Termica Cooler Master RPD H",0,
-"h3","product-box-title","Grasa Termica Cooler Master RPD High Performance",0,
-"a","","Grasa Termica Cooler Master RPD High Performance",0,
-"a","product-box-price clearfix","$ 7.490",0,
-"span","current-price","$ 7.490",0,
+"div","product-box-body clearfix","Precio en un pago: Grasa Termica Cooler Master RPD H",1,productWrapper
+"h3","product-box-title","Grasa Termica Cooler Master RPD High Performance",1,title
+"a","","Grasa Termica Cooler Master RPD High Performance",1,link
+"a","product-box-price clearfix","$ 7.490",1,link
+"span","current-price","$ 7.490",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_16273","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Placa De Red USB Netmark NM-CS150",0,
-"h3","product-box-title","Placa De Red USB Netmark NM-CS150 Wifi 150Mb/s",0,
-"a","","Placa De Red USB Netmark NM-CS150 Wifi 150Mb/s",0,
-"a","product-box-price clearfix","$ 7.689",0,
-"span","current-price","$ 7.689",0,
+"div","product-box-body clearfix","Precio en un pago: Placa De Red USB Netmark NM-CS150",1,productWrapper
+"h3","product-box-title","Placa De Red USB Netmark NM-CS150 Wifi 150Mb/s",1,title
+"a","","Placa De Red USB Netmark NM-CS150 Wifi 150Mb/s",1,link
+"a","product-box-price clearfix","$ 7.689",1,link
+"span","current-price","$ 7.689",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_19569","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Adaptador Bluetooth TP-Link UB500",0,
-"h3","product-box-title","Adaptador Bluetooth TP-Link UB500 Plus USB Bluetooth 5.3",0,
-"a","","Adaptador Bluetooth TP-Link UB500 Plus USB Bluetooth 5.3",0,
-"a","product-box-price clearfix","$ 8.450",0,
-"span","current-price","$ 8.450",0,
+"div","product-box-body clearfix","Precio en un pago: Adaptador Bluetooth TP-Link UB500",1,productWrapper
+"h3","product-box-title","Adaptador Bluetooth TP-Link UB500 Plus USB Bluetooth 5.3",1,title
+"a","","Adaptador Bluetooth TP-Link UB500 Plus USB Bluetooth 5.3",1,link
+"a","product-box-price clearfix","$ 8.450",1,link
+"span","current-price","$ 8.450",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_18417","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Memoria Ram Notebook Hiksemi Hike",0,
-"h3","product-box-title","Memoria Ram Notebook Hiksemi Hiker DDR3 4Gb 1600Mhz",0,
-"a","","Memoria Ram Notebook Hiksemi Hiker DDR3 4Gb 1600Mhz",0,
-"a","product-box-price clearfix","$ 8.989",0,
-"span","current-price","$ 8.989",0,
+"div","product-box-body clearfix","Precio en un pago: Memoria Ram Notebook Hiksemi Hike",1,productWrapper
+"h3","product-box-title","Memoria Ram Notebook Hiksemi Hiker DDR3 4Gb 1600Mhz",1,title
+"a","","Memoria Ram Notebook Hiksemi Hiker DDR3 4Gb 1600Mhz",1,link
+"a","product-box-price clearfix","$ 8.989",1,link
+"span","current-price","$ 8.989",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_14723","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Adaptador Bluetooth Tp-Link UB500",0,
-"h3","product-box-title","Adaptador Bluetooth Tp-Link UB500 USB Nano",0,
-"a","","Adaptador Bluetooth Tp-Link UB500 USB Nano",0,
-"a","product-box-price clearfix","$ 9.099",0,
-"span","current-price","$ 9.099",0,
+"div","product-box-body clearfix","Precio en un pago: Adaptador Bluetooth Tp-Link UB500",1,productWrapper
+"h3","product-box-title","Adaptador Bluetooth Tp-Link UB500 USB Nano",1,title
+"a","","Adaptador Bluetooth Tp-Link UB500 USB Nano",1,link
+"a","product-box-price clearfix","$ 9.099",1,link
+"span","current-price","$ 9.099",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_19397","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Memoria Ram DDR2 2Gb 800Mhz Kimot",0,
-"h3","product-box-title","Memoria Ram DDR2 2Gb 800Mhz Kimota",0,
-"a","","Memoria Ram DDR2 2Gb 800Mhz Kimota",0,
-"a","product-box-price clearfix","$ 9.389",0,
-"span","current-price","$ 9.389",0,
+"div","product-box-body clearfix","Precio en un pago: Memoria Ram DDR2 2Gb 800Mhz Kimot",1,productWrapper
+"h3","product-box-title","Memoria Ram DDR2 2Gb 800Mhz Kimota",1,title
+"a","","Memoria Ram DDR2 2Gb 800Mhz Kimota",1,link
+"a","product-box-price clearfix","$ 9.389",1,link
+"span","current-price","$ 9.389",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_4565","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Placa De Red Usb Tp-Link Tl-Wn725",0,
-"h3","product-box-title","Placa De Red Usb Tp-Link Tl-Wn725n Nano Wifi 150m",0,
-"a","","Placa De Red Usb Tp-Link Tl-Wn725n Nano Wifi 150m",0,
-"a","product-box-price clearfix","$ 9.990",0,
-"span","current-price","$ 9.990",0,
+"div","product-box-body clearfix","Precio en un pago: Placa De Red Usb Tp-Link Tl-Wn725",1,productWrapper
+"h3","product-box-title","Placa De Red Usb Tp-Link Tl-Wn725n Nano Wifi 150m",1,title
+"a","","Placa De Red Usb Tp-Link Tl-Wn725n Nano Wifi 150m",1,link
+"a","product-box-price clearfix","$ 9.990",1,link
+"span","current-price","$ 9.990",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
-"div","product-box-media","",0,
+"div","product-box-media","",1,productWrapper
 "a","","",0,
 "div","thumb-container","",0,
 "div","thumb","",0,
-"img","img-contained","",0,
+"img","img-contained","",1,image
 "div","products_label_16293","",0,
-"div","product-box-body clearfix","Precio en un pago:                
-
-
-
-            
-                Adaptador Mercusys Mini USB N300 ",0,
-"h3","product-box-title","Adaptador Mercusys Mini USB N300 Mw300UM",0,
-"a","","Adaptador Mercusys Mini USB N300 Mw300UM",0,
-"a","product-box-price clearfix","$ 10.990",0,
-"span","current-price","$ 10.990",0,
+"div","product-box-body clearfix","Precio en un pago: Adaptador Mercusys Mini USB N300 ",1,productWrapper
+"h3","product-box-title","Adaptador Mercusys Mini USB N300 Mw300UM",1,title
+"a","","Adaptador Mercusys Mini USB N300 Mw300UM",1,link
+"a","product-box-price clearfix","$ 10.990",1,link
+"span","current-price","$ 10.990",1,price
 "p","product-box-payment","Contado efectivo",0,
 "a","product-box-overlay","",0,
 "div","row","12345...",0,
@@ -10147,8 +9771,7 @@ Joystick",0,
                     
             ",0,
 "div","tax-note text-sm sm:text-base rte","Los impuestos y gastos de envío se calculan en la pantalla de pago",0,
-"div","totals grid place-self-end gap-1","Subtotal
-                      $0,00 ARS",0,
+"div","totals grid place-self-end ga 1","Subtotal      $01,cuotas0 ARS",0,
 "span","totals__subtotal text-sm sm:text-base","Subtotal",0,
 "div","totals__subtotal-value text-lg-2xl font-bold leading-none tracking-tight","$0,00 ARS",0,
 "span","money","$0,00 ARS",0,
