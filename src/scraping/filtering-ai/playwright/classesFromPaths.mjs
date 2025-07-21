@@ -62,6 +62,7 @@ const pathsData = [
 	"https://www.tiendatrade.com.ar/listado/computacion/perifericos-pc/",
 ];
 */
+// dejado en linea 20k
 const pathsData = [
 	"https://www.armytech.com.ar/405-hardware",
 	"https://www.maximus.com.ar/Productos/maximus.aspx?/CAT=-1/SCAT=-1/M=-1/BUS=*/OR=1",
@@ -75,7 +76,7 @@ const pathsData = [
 	"https://www.37bytes.com.ar/productos/",
 	"https://dinobyte.ar/categoria-producto/hardware/",
 	"https://fullh4rd.com.ar/pcarmada",
-	"https://gnpoint.com.ar/productos/notebooks/",
+	"https://gnpoint.com.ar/productos/notebooks/", // lineas 18k, no esta clasificado por qe staba caida la pagina el 7/20
 	"https://www.gamerspoint.com.ar/categoria/componentes-de-pc/",
 	"https://www.gamingcity.com.ar/listado/computacion/laptops-accesorios/notebooks/notebooks",
 	"https://www.gezatek.com.ar/tienda/pc-hogar-y-oficina/",
