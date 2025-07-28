@@ -69,7 +69,7 @@ const pathsData = [
 	"https://www.venex.com.ar/componentes-de-pc",
 	"https://compragamer.com/productos?cate=58",
 	"https://www.ngtechnologies.com.ar/search/?q=*",
-	"https://mgmgamers.store/search/?q=*",
+	"https://mgmgamers.store/search/?q=*", // falta lkinea 8k
 	"https://www.slot-one.com.ar/search/?q=*",
 	"https://www.puertominero.com.ar/productos",
 	"https://www.710tech.com.ar/accesorios/",

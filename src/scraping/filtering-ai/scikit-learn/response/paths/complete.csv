@@ -38,7 +38,7 @@ feed/,0,0
 wp-json/wp/v2/pages/24,0,0
 wp-json/oembed/1.0/embed,0,0
 arma-tu-pc/,0,0
-etiqueta/🔥/,1,0
+etiqueta/🔥/,0,0
 arma-tu-pc/,0,0
 mi-cuenta/,0,0
 carrito/,0,0
@@ -573,7 +573,7 @@ placas-de-video/,1,1
 procesadores/,1,1
 term-conditions/,0,0
 wp-json/wp/v2/pages/24,0,0
-etiqueta/🔥/,1,0
+etiqueta/🔥/,0,0
 facturas/,0,0
 mis-consultas/,0,0
 mis-preguntas/,0,0
@@ -940,7 +940,7 @@ iniciar-sesion,0,0
 centro-de-ayuda.htm,0,0
 pagina-inicial.htm,0,0
 configurador-de-pc.htm,1,0
-quienes-somos.htm,1,0
+quienes-somos.htm,0,0
 contactanos.htm,0,0
 como-comprar/,0,0
 quienes-somos/,0,0
