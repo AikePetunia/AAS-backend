@@ -1,229 +1,123 @@
 "tag","class","text_preview","is_valid","type"
-"div","header-banner","",0,
-"div","container","¡Envíos a todo el pais!",0,
-"div","row justify-content-between","¡Envíos a todo el pais!",0,
-"div","col col-auto col-md left-nav","",0,
-"div","col col-auto center-nav text-center","¡Envíos a todo el pais!",0,
-"div","d-inline-block","¡Envíos a todo el pais!",0,
-"div","rte-content d-inline-block","¡Envíos a todo el pais!",0,
-"p","","¡Envíos a todo el pais!",0,
-"span","","¡Envíos a todo el pais!",0,
-"span","","¡Envíos a todo el pais!",0,
-"div","col col-auto col-md right-nav text-right","",0,
-"div","col col-auto col-header-left","",0,
-"div","","",0,
-"a","","",0,
-"img","logo img-fluid","",0,
-"div","col col-header-center","",0,
-"div","input-group","",0,
-"div","autocomplete-suggestions ","",0,
-"div","col col-auto header-btn-w header-user-btn-w","Ingresar",0,
-"a","header-btn header-user-btn","Ingresar",0,
-"span","title","Ingresar",0,
-"span","cart-products-count-btn  d-none","0",0,
-"div","cart-title","Descripción de tu pedido
-            
-                ×",0,
-"span","modal-title","Descripción de tu pedido",0,
-"span","","×",0,
-"div","col-12","",0,
-"div","row","",0,
-"span","cbp-tab-title","Productos",0,
-"div","tabs-links col-2","Computadoras 																									
-																						
-												
-																								 ",0,
-"ul","cbp-hrsub-tabs-names cbp-tabs-names","Computadoras 																									
-																						
-												
-																								 ",0,
-"li","innertab-8 ","Computadoras",0,
-"img","cbp-mainlink-iicon","",0,"
-"li","innertab-9 ","Hardware",0,"
-"img","cbp-mainlink-iicon","",0,
-"li","innertab-10 ","Periféricos",0,
-"img","cbp-mainlink-iicon","",0,
-"li","innertab-11 ","Gaming House",0,
-"img","cbp-mainlink-iicon","",0,
-"li","innertab-12 ","Monitores",0,
-"img","cbp-mainlink-iicon","",0,
-"li","innertab-13 ","Impresoras",0,
-"img","cbp-mainlink-iicon","",0,
-"li","innertab-14 ","Conectividad",0,
-"img","cbp-mainlink-iicon","",0,
-"li","innertab-15 ","Energía",0,
-"img","cbp-mainlink-iicon","",0,
-"li","innertab-19 ","Videovigilancia",0,
-"img","cbp-mainlink-iicon","",0,
-"li","innertab-22 ","Tablets",0,
-"img","cbp-mainlink-iicon","",0,
-"a","","Pc Hogar & Oficina",0,
-"a","","Pc Gamer",0,
-"a","","Pc Diseño",0,
-"a","","Mini Pc",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-6 ","Notebooks 
-                                    
-                
-                                   ",0,
-"div","cbp-menu-column-inner","Notebooks 
-                                    
-                
-                                   ",0,
-"ul","cbp-links cbp-valinks","Notebook Oficina
-                                    
-                                              ",0,
-"a","","Notebook Oficina",0,
-"a","","Notebook Gamer",0,
-"a","","Notebook Diseño",0,
-"a","","Mochilas",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-4 ","Software 
-                                    
-                
-                                    ",0,
-"div","cbp-menu-column-inner","Software 
-                                    
-                
-                                    ",0,
-"ul","cbp-links cbp-valinks cbp-valinks-vertical","Sistemas Operativos",0,
-"a","","Sistemas Operativos",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-5 ","Combos de actualización 
-                                    
-                
-                     ",0,
-"div","cbp-menu-column-inner","Combos de actualización 
-                                    
-                
-                     ",0,
-"ul","cbp-links cbp-valinks","Combos AMD
-                                    
-                                                    ",0,
-"a","","Combos AMD",0,
-"a","","Combos Intel",0,
-"div","tab-pane cbp-tab-pane  innertabcontent-9","Procesadores 
-                                    
-                
-                                ",0,
-"div","clearfix","Procesadores 
-                                    
-                
-                                ",0,
-"div","row menu_row menu-element  first_rows menu-element-id-1","Procesadores 
-                                    
-                
-                                ",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-3 ","Procesadores 
-                                    
-                
-                                ",0,
-"div","cbp-menu-column-inner","Procesadores 
-                                    
-                
-                                ",0,
-"ul","cbp-links cbp-valinks","AMD
-                                    
-                                                           ",0,
-"a","","AMD",0,
-"a","","INTEL",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-2 ","Motherboards 
-                                    
-                
-                                ",0,
-"div","cbp-menu-column-inner","Motherboards 
-                                    
-                
-                                ",0,
-"ul","cbp-links cbp-valinks","AMD
-                                    
-                                                           ",0,
-"a","","AMD",0,
-"a","","INTEL",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-6 ","Placa de Video 
-                                    
-                
-                              ",0,
-"div","cbp-menu-column-inner","Placa de Video 
-                                    
-                
-                              ",0,
-"ul","cbp-links cbp-valinks","AMD Radeon
-                                    
-                                                    ",0,
-"a","","AMD Radeon",0,
-"a","","Nvidia",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-4 ","Memorias 
-                                    
-                
-                                    ",0,
-"div","cbp-menu-column-inner","Memorias 
-                                    
-                
-                                    ",0,
-"ul","cbp-links cbp-valinks","PC de Escritorio
-                                    
-                                              ",0,
-"a","","PC de Escritorio",0,
-"a","","Notebook",0,
-"a","","Micro SD",0,
-"div","row menu_row menu-element  first_rows menu-element-id-7","Discos Rígidos 
-                                    
-                
-                              ",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-8 ","Discos Rígidos 
-                                    
-                
-                              ",0,
-"div","cbp-menu-column-inner","Discos Rígidos 
-                                    
-                
-                              ",0,
-"ul","cbp-links cbp-valinks","Internos
-                                    
-                                                      ",0,
-"a","","Internos",0,
-"a","","Externos",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-10 ","Discos Sólidos 
-                                    
-                
-                              ",0,
-"div","cbp-menu-column-inner","Discos Sólidos 
-                                    
-                
-                              ",0,
-"ul","cbp-links cbp-valinks","M.2
-                                    
-                                                           ",0,
-"a","","M.2",0,
-"a","","SATA III",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-11 ","Gabinetes 
-                                    
-                
-                                   ",0,
-"div","cbp-menu-column-inner","Gabinetes 
-                                    
-                
-                                   ",0,
-"ul","cbp-links cbp-valinks","Con Fuente
-                                    
-                                                    ",0,
-"a","","Con Fuente",0,
-"a","","Sin Fuente",0,
-"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-12 ","Refrigeración 
-                                    
-                
-                               ",0,
-"div","cbp-menu-column-inner","Refrigeración 
-                                    
-                
-                               ",0,
-"ul","cbp-links cbp-valinks","Air Cooler
-                                    
-                                                    ",0,
-"a","","Air Cooler",0,
-"a","","Cooler Gabinete",0,
-"a","","Water Cooler",0,
-"a","","Pasta Térmica",0,
-"div","cbp-menu-column-inner","Fuentes de Alimentación",0,
-"div","cbp-menu-column-inner","Lectograbadoras",0,
+"div","header-banner","",0,""
+"div","container","¡Envíos a todo el pais!",0,""
+"div","row justify-content-between","¡Envíos a todo el pais!",0,""
+"div","col col-auto col-md left-nav","",0,""
+"div","col col-auto center-nav text-center","¡Envíos a todo el pais!",0,""
+"div","d-inline-block","¡Envíos a todo el pais!",0,""
+"div","rte-content d-inline-block","¡Envíos a todo el pais!",0,""
+"p","","¡Envíos a todo el pais!",0,""
+"span","","¡Envíos a todo el pais!",0,""
+"span","","¡Envíos a todo el pais!",0,""
+"div","col col-auto col-md right-nav text-right","",0,""
+"div","col col-auto col-header-left","",0,""
+"div","","",0,""
+"a","","",0,""
+"img","logo img-fluid","",0,""
+"div","col col-header-center","",0,""
+"div","input-group","",0,""
+"div","autocomplete-suggestions ","",0,""
+"div","col col-auto header-btn-w header-user-btn-w","Ingresar",0,""
+"a","header-btn header-user-btn","Ingresar",0,""
+"span","title","Ingresar",0,""
+"span","cart-products-count-btn  d-none","0",0,""
+"div","cart-title","Descripción de tu pedido × ",0,""
+"span","modal-title","Descripción de tu pedido",0,""
+"span","","×",0,""
+"div","col-12","",0,""
+"div","row","",0,""
+"span","cbp-tab-title","Productos",0,""
+"div","tabs-links col-2","Computadoras",0,""
+"ul","cbp-hrsub-tabs-names cbp-tabs-names","Computadoras",0,""
+"li","innertab-8 ","Computadoras",0,""
+"img","cbp-mainlink-iicon","",0,""
+"li","innertab-9 ","Hardware",0,""
+"img","cbp-mainlink-iicon","",0,""
+"li","innertab-10 ","Periféricos",0,""
+"img","cbp-mainlink-iicon","",0,""
+"li","innertab-11 ","Gaming House",0,""
+"img","cbp-mainlink-iicon","",0,""
+"li","innertab-12 ","Monitores",0,""
+"img","cbp-mainlink-iicon","",0,""
+"li","innertab-13 ","Impresoras",0,""
+"img","cbp-mainlink-iicon","",0,""
+"li","innertab-14 ","Conectividad",0,""
+"img","cbp-mainlink-iicon","",0,""
+"li","innertab-15 ","Energía",0,""
+"img","cbp-mainlink-iicon","",0,""
+"li","innertab-19 ","Videovigilancia",0,""
+"img","cbp-mainlink-iicon","",0,""
+"li","innertab-22 ","Tablets",0,""
+"img","cbp-mainlink-iicon","",0,""
+"a","","Pc Hogar & Oficina",0,""
+"a","","Pc Gamer",0,""
+"a","","Pc Diseño",0,""
+"a","","Mini Pc",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-6 ","Notebooks",0,""
+"div","cbp-menu-column-inner","Notebooks",0,""
+"ul","cbp-links cbp-valinks","Notebook Oficina",0,""
+"a","","Notebook Oficina",0,""
+"a","","Notebook Gamer",0,""
+"a","","Notebook Diseño",0,""
+"a","","Mochilas",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-4 ","Software",0,""
+"div","cbp-menu-column-inner","Software",0,""
+"ul","cbp-links cbp-valinks cbp-valinks-vertical","Sistemas Operativos",0,""
+"a","","Sistemas Operativos",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-5 ","Combos de actualización",0,""
+"div","cbp-menu-column-inner","Combos de actualización",0,""
+"ul","cbp-links cbp-valinks","Combos AMD",0,""
+"a","","Combos AMD",0,""
+"a","","Combos Intel",0,""
+"div","tab-pane cbp-tab-pane  innertabcontent-9","Procesadores",0,""
+"div","clearfix","Procesadores",0,""
+"div","row menu_row menu-element  first_rows menu-element-id-1","Procesadores",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-3 ","Procesadores",0,""
+"div","cbp-menu-column-inner","Procesadores",0,""
+"ul","cbp-links cbp-valinks","AMD",0,""
+"a","","AMD",0,""
+"a","","INTEL",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-2 ","Motherboards",0,""
+"div","cbp-menu-column-inner","Motherboards",0,""
+"ul","cbp-links cbp-valinks","AMD",0,""
+"a","","AMD",0,""
+"a","","INTEL",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-6 ","Placa de Video",0,""
+"div","cbp-menu-column-inner","Placa de Video",0,""
+"ul","cbp-links cbp-valinks","AMD Radeon",0,""
+"a","","AMD Radeon",0,""
+"a","","Nvidia",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-4 ","Memorias",0,""
+"div","cbp-menu-column-inner","Memorias",0,""
+"ul","cbp-links cbp-valinks","PC de Escritorio",0,""
+"a","","PC de Escritorio",0,""
+"a","","Notebook",0,""
+"a","","Micro SD",0,""
+"div","row menu_row menu-element  first_rows menu-element-id-7","Discos Rígidos",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-8 ","Discos Rígidos",0,""
+"div","cbp-menu-column-inner","Discos Rígidos",0,""
+"ul","cbp-links cbp-valinks","Internos",0,""
+"a","","Internos",0,""
+"a","","Externos",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-10 ","Discos Sólidos",0,""
+"div","cbp-menu-column-inner","Discos Sólidos",0,""
+"ul","cbp-links cbp-valinks","M.2",0,""
+"a","","M.2",0,""
+"a","","SATA III",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-11 ","Gabinetes",0,""
+"div","cbp-menu-column-inner","Gabinetes",0,""
+"ul","cbp-links cbp-valinks","Con Fuente",0,""
+"a","","Con Fuente",0,""
+"a","","Sin Fuente",0,""
+"div","col-3 cbp-menu-column cbp-menu-element menu-element-id-12 ","Refrigeración",0,""
+"div","cbp-menu-column-inner","Refrigeración",0,""
+"ul","cbp-links cbp-valinks","Air Cooler",0,""
+"a","","Air Cooler",0,""
+"a","","Cooler Gabinete",0,""
+"a","","Water Cooler",0,""
+"a","","Pasta Térmica",0,""
+"div","cbp-menu-column-inner","Fuentes de Alimentación",0,""
+"div","cbp-menu-column-inner","Lectograbadoras",0,""
 "div","tab-pane cbp-tab-pane  innertabcontent-10","Periféricos 
                                     
                 
@@ -889,68 +783,6 @@ Externos",0,
                                 
                         
                            ",0,
-"li","mm_blocks_li","Discos Sólidos
-                                
-                        
-                           ",0,
-"div","ets_mm_block mm_block_type_html","Discos Sólidos
-                                
-                        
-                           ",0,
-"span","h4","Discos Sólidos",0,
-"div","ets_mm_block_content","M2
-
-SATA",0,
-"a","","M2",0,
-"a","","SATA",0,
-"div","clearfix","",0,
-"li","mm_columns_li column_size_12  mm_has_sub","Gabinetes
-                                
-                        
-                            Con ",0,
-"ul","mm_blocks_ul","Gabinetes
-                                
-                        
-                            Con ",0,
-"li","mm_blocks_li","Gabinetes
-                                
-                        
-                            Con ",0,
-"div","ets_mm_block mm_block_type_html","Gabinetes
-                                
-                        
-                            Con ",0,
-"span","h4","Gabinetes",0,
-"div","ets_mm_block_content","Con fuente
-
-Sin fuente",0,
-"a","","Con fuente",0,
-"a","","Sin fuente",0,
-"div","clearfix","",0,
-"li","mm_columns_li column_size_12  mm_has_sub","Refrigeración
-                                
-                        
-                            ",0,
-"ul","mm_blocks_ul","Refrigeración
-                                
-                        
-                            ",0,
-"li","mm_blocks_li","Refrigeración
-                                
-                        
-                            ",0,
-"div","ets_mm_block mm_block_type_html","Refrigeración
-                                
-                        
-                            ",0,
-"span","h4","Refrigeración",0,
-"div","ets_mm_block_content","Air Cooler
-
-Cooler Gabinete
-
-Water Cooler
-
-Pasta Térmica",0,
 "a","","Air Cooler",0,
 "a","","Cooler Gabinete",0,
 "a","","Water Cooler",0,
@@ -1387,47 +1219,6 @@ Joystick",0,
                         
                                 
   ",0,
-"li","mm_columns_li column_size_3  mm_has_sub","Outlet
-                                
-                        
-                                
-  ",0,
-"ul","mm_blocks_ul","Outlet
-                                
-                        
-                                
-  ",0,
-"li","mm_blocks_li","Outlet
-                                
-                        
-                                
-  ",0,
-"div","ets_mm_block mm_block_type_category","Outlet
-                                
-                        
-                                
-  ",0,
-"span","h4","Outlet",0,
-"div","ets_mm_block_content","Outlet",0,
-"ul","ets_mm_categories","Outlet",0,
-"a","ets_mm_url","Outlet",0,
-"div","clearfix","",0,
-"a","ets_mm_url","Ingresar",0,
-"span","mm_menu_content_title","Ingresar",0,
-"a","","",0,
-"img","logo img-fluid","",0,
-"span","cart-products-count cart-products-count-btn","0",0,
-"div","elementor-container elementor-column-gap-default","",0,
-"div","elementor-row","",0,
-"div","elementor-column elementor-element elementor-element-lus4gff elementor-col-100 elementor-top-column","",0,
-"div","elementor-column-wrap elementor-element-populated","",0,
-"div","elementor-widget-wrap","",0,
-"div","elementor-widget elementor-element elementor-element-nsmyw8y elementor-widget-prestashop-widget-Search","",0,
-"div","elementor-widget-container","",0,
-"div","input-group","",0,
-"div","autocomplete-suggestions ","",0,
-"span","","Hardware",0,
-"div","col col-auto","",0,
 "div","","Hardware",0,
 "h1","h1 page-title","Hardware",0,
 "span","","Hardware",0,
@@ -1509,32 +1300,6 @@ Joystick",0,
 "a","btn-iqitwishlist-add js-iqitwishlist-add","",0,
 "a","btn-iqitcompare-add js-iqitcompare-add","",0,
 "a","js-quick-view-iqit","",0,
-"div","product-availability d-block","Últimas unidades en stock",0,
-"span","badge badge-warning d-none product-last-items mt-2","Últimas unidades en stock",0,
-"div","product-description ","Todas las caracteristicas de este producto:
-                        
-                    
-          ",0,
-"div","popup-con-info","",0,
-"div","popup-descripcion","Todas las caracteristicas de este producto:
-                        
-                    
-          ",0,
-"div","contenedor-popup","Todas las caracteristicas de este producto:
-                        
-                    
-          ",0,
-"div","header-popup","Todas las caracteristicas de este producto:",0,
-"h2","","Todas las caracteristicas de este producto:",0,
-"div","body-popup","Formato de memoria
-                            Micro SD
-                                            ",0,
-"dl","data-sheet","Formato de memoria
-                            Micro SD
-                                            ",0,
-"dt","name","Formato de memoria",0,
-"dd","value","Micro SD",0,
-"dt","name","Capacidad",0,
 "dd","value","64GB",0,
 "div","product-category-name text-muted","Memorias",0,
 "h3","h3 product-title","Tarjeta Micro Sd Sandisk Ultra 64gb C10 C/ada 100m",1,title
@@ -1575,28 +1340,6 @@ Joystick",0,
                         
                     
           ",0,
-"div","contenedor-popup","Todas las caracteristicas de este producto:
-                        
-                    
-          ",0,
-"div","header-popup","Todas las caracteristicas de este producto:",0,
-"h2","","Todas las caracteristicas de este producto:",0,
-"div","body-popup","EAN
-                            740617282733
-                                                    Tip",0,
-"dl","data-sheet","EAN
-                            740617282733
-                                                    Tip",0,
-"dt","name","EAN",0,
-"dd","value","740617282733",0,
-"dt","name","Tipo de Memoria",0,
-"dd","value","DDR4",0,
-"dt","name","Cantidad de Slots de Memoria Ram",0,
-"dd","value","1",0,
-"dt","name","Frecuencia Memoria Ram",0,
-"dd","value","2666MHZ",0,
-"dt","name","Conexión Led",0,
-"dd","value","No",0,
 "dt","name","Latencia",0,
 "dd","value","CL18",0,
 "dt","name","Voltaje",0,
@@ -1699,21 +1442,6 @@ Joystick",0,
 "dl","data-sheet","Conexión Led
                             No
                                                     Vent",0,
-"dt","name","Conexión Led",0,
-"dd","value","No",0,
-"dt","name","Ventilador",0,
-"dd","value","80 mm",0,
-"dt","name","Velocidad Del Fan",0,
-"dd","value","1000RPM",0,
-"dt","name","Cantidad de Coolers",0,
-"dd","value","1",0,
-"dt","name","Tipo De Conector",0,
-"dd","value","3 Pines",0,
-"dt","name","Compatibilidad",0,
-"dd","value","LGA1200, AM4",0,
-"dt","name","Tipo De Refrigeración",0,
-"dd","value","Air Cooler",0,
-"dt","name","Incluye",0,
 "dd","value","pasta termica",0,
 "div","product-category-name text-muted","Refrigeracion",0,
 "h3","h3 product-title","Cooler Cpu Aerocool Verkho I (1200)",1,title
@@ -6847,7 +6575,7 @@ Joystick",0,
 "div","js-product-item-image-container-private  product-item-image-container ","Sin stock
 "a","js-product-item-image-link-private ","",0,
 "div","labels product-labels","Sin stock
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
 "div","js-payment-discount-price-product-container payment-discount-price-product-container font-small font-md-normal text-accent font-weight-bold mt-2","$47.070,51
 		con
@@ -6889,16 +6617,14 @@ Joystick",0,
 		
 					
 																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
 "div","product-item-information d-flex flex-column pt-3 pb-2","GAMEPAD T-DAGGER TGP802 SCORPIO PC/PS4 NEGRO- NG
-							
-					
-						$76.735,86
+						$76 ,1,productWrapper
 					
 											
 		",0,
-"a","product-item-link ","GAMEPAD T-DAGGER TGP802 SCORPIO PC/PS4 NEGRO- NG $76.735,86",1,link"span","js-price-display product-item-price ","$76.735,86",1,pri1,pri0,
+"a","product-item-link ","GAMEPAD T-DAGGER TGP802 SCORPIO PC/PS4 NEGRO- NG $76.735,86",1,link"span","js-price-display product-item-price ","$76.735,86",1,pri1,price
 "span","js-offer-percentag0",0,div","js-max-installments-container js-max-installments custom-installments mt-1","6
 
 						
@@ -6970,22 +6696,20 @@ Joystick",0,
 		
 					
 																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
 "div","product-item-information d-flex flex-column pt-3 pb-2","MOUSE QBOX GAMER M993 RGB USB NG
-							
-					
-						$23.569,00
+						$23 ,1,productWrapper
 					
 											
 							$0,00
 					",0,
-"a","product-item-link ","MOUSE QBOX GAMER M993 RGB USB NG						$23.569,00$0,00",1,link
+"a","product-item-link ","MOUSE QBOX GAMER M993 RGB USB NG						$23.569,00$0,1,link
 "div","js-item-name product-item-name mb-2","MOUSE QBOX GAMER M993 RGB USB NG",1,title
 "div","product-item-price-container ","$23.569,00
 							$0,00
 							0% OFF",0,
-"span","js-price-display product-item-price ","$23.569,00",0,
+"span","js-price-display product-item-price ","$23.569,00",1,price
 "span","js-compare-price-display product-item-price-compare order-first mb-1","$0,00",0,
 "span","product-item-discount text-accent font-medium ml-2","0% OFF",0,
 "span","js-offer-percentage","0",0,
@@ -7062,17 +6786,15 @@ Joystick",0,
 		
 					
 																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
 "div","product-item-information d-flex flex-column pt-3 pb-2","TECLADO QBOX MK07 RGB USB MEC GAMER
-							
-					
-						$33.943,00
+						$33 ,1,productWrapper
 					
 											
 							$0,00
 		",0,
-"a","product-item-link ","TECLADO QBOX MK07 RGB USB MEC GAMER						$33.943,00$0,00",1,link
+"a","product-item-link ","TECLADO QBOX MK07 RGB USB MEC GAMER						$33.943,00$0,1,link
 "div","js-item-name product-item-name mb-2","TECLADO QBOX MK07 RGB USB MEC GAMER",1,title
 "div","product-item-price-container ","$33.943,00
 					
@@ -7081,7 +6803,7 @@ Joystick",0,
 						
 																
 							0% OFF",0,
-"span","js-price-display product-item-price ","$33.943,00",0,
+"span","js-price-display product-item-price ","$33.943,00",1,price
 "span","js-compare-price-display product-item-price-compare order-first mb-1","$0,00",0,
 "span","product-item-discount text-accent font-medium ml-2","0% OFF",0,
 "span","js-offer-percentage","0",0,
@@ -7158,21 +6880,11 @@ Joystick",0,
 		
 					
 																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
-"div","product-item-information d-flex flex-column pt-3 pb-2","PC GAMER RYZEN 5 5500, 16GB /32GB , SSD A ELECCION, RTX 2060 6GB
-							
-					
-						$815.138,63
-			",0,
-"a","product-item-link ","PC GAMER RYZEN 5 5500, 16GB /32GB , SSD A ELECCION, RTX 2060 6GB						$815.138,1,link
-"div","product-item-price-container ",".138,6					
-											
-							$907.418,00
-						
-																
-							10% OFF",0,
-"span","js-price-display product-item-price ","$815.138,63",0,
+"div","product-item-information d-flex flex-column pt-3 pb-2","PC GAMER RYZEN 5 5500, 16GB /32GB  SSD A ELECCION, RTX 2060 6GB $815 ",1,productWrapper
+"a","product-item-link ","PC GAMER RYZEN 5 5500 16GB /32GB SSD A ELECCION RTX 2060 6GB $815.1"1,link
+"span","js-price-display product-item-price ","$815.138,63",1,price
 "span","js-compare-price-display product-item-price-compare order-first mb-1","$907.418,00",0,
 "span","product-item-discount text-accent font-medium ml-2","10% OFF",0,
 "span","js-offer-percentage","10",0,
@@ -7245,15 +6957,10 @@ Joystick",0,
 		
 					
 																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
-"div","product-item-information d-flex flex-column pt-3 pb-2","AURICULAR RAPTOR INFERNO PRO X 7.1 WIRELESS C DONGLE NEGRO- NG
-							
-					
-						$67.812,00
-					
-",0,
-"a","product-item-link ","AURICULAR RAPTOR INFERNO PRO X 7.1 WIRELESS C DONGLE NEGRO- NG						$67.812,1,link
+"div","product-item-information d-flex flex-column pt-3 pb-2","AURICULAR RAPTOR INFERNO PRO X 7.1 WIRELESS C DONGLE NEGRO- NG $67",1,productWrapper
+"a","product-item-link ","AURICULAR RAPTOR INFERNO PRO X 7.1 WIRELESS C DONGLE NEGRO- NG $67.81",1,link
 "div","js-item-name product-item-name mb-2","AURICULAR RAPTOR INFERNO PRO X 7.1 WIRELESS C DONGLE NEGRO-",1,title
 "div","product-item-price-container ","$67.812,00
 					
@@ -7262,7 +6969,7 @@ Joystick",0,
 						
 																
 							0% OFF",0,
-"span","js-price-display product-item-price ","$67.812,00",0,
+"span","js-price-display product-item-price ","$67.812,00",1,price
 "span","js-compare-price-display product-item-price-compare order-first mb-1","$0,00",0,
 "span","product-item-discount text-accent font-medium ml-2","0% OFF",0,
 "span","js-offer-percentage","0",0,
@@ -7337,24 +7044,11 @@ Joystick",0,
 		
 					
 																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
-"div","product-item-information d-flex flex-column pt-3 pb-2","MONITOR 25 GIGABYTE GS25F2 GAMING IPS 200HZ -NG
-							
-					
-						$275.426,00
-					
-											
-		",0,
-"a","product-item-link ","MONITOR 25 GIGABYTE GS25F2 GAMING IPS 200HZ -NG						$275.426,0		",0,div","js-item-name product-item-name mb-2","MONITOR 25 GIGABYTE GS25F2 GAMING IPS 200HZ -NG",1,tit1,link
-"div","product-item-price-container ","$275.426,00
-					
-											
-							$0,00
-						
-																
-							0% OFF",0,
-"span","js-price-display product-item-price ","$275.426,00",0,
+"div","product-item-information d-flex flex-column pt-3 pb-2","MONITOR 25 GIGABYTE GS25F2 GAMING IPS 200HZ -NG $275",1,productWrapper
+"a","product-item-link ","MONITOR 25 GIGABYTE GS25F2 GAMING IPS 200HZ -NG						$275.426,0		",0,div","js-item-name product-item-name mb-2","MONITOR 25 GIGABYTE GS25F2 GAMING IPS 200HZ -NG",1,link
+"span","js-price-display product-item-price ","$275.426,00",1,price
 "span","js-compare-price-display product-item-price-compare order-first mb-1","$0,00",0,
 "span","product-item-discount text-accent font-medium ml-2","0% OFF",0,
 "span","js-offer-percentage","0",0,
@@ -7429,16 +7123,10 @@ Joystick",0,
 		
 					
 																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
-"div","product-item-information d-flex flex-column pt-3 pb-2","TP-LINK ADAPTADOR BT NANO USB 5.0 PLUS -NG
-							
-					
-						$11.077,00
-					
-											
-							$",0,
-"a","product-item-link ","TP-LINK ADAPTADOR BT NANO USB 5.0 PLUS -NG						$11.077,0							$",0,div","js-item-name product-item-name mb-2","TP-LINK ADAPTADOR BT NANO USB 5.0 PLUS -NG",1,tit1,link
+"div","product-item-information d-flex flex-column pt-3 pb-2","TP-LINK ADAPTADOR BT NANO USB 5.0 PLUS -NG $11$",1,productWrapper 
+"a","product-item-link ","TP-LINK ADAPTADOR BT NANO USB 5.0 PLUS -NG						$11.077,0							$",0,div","js-item-name product-item-name mb-2","TP-LINK ADAPTADOR BT NANO USB 5.0 PLUS -NG",1,link
 "div","product-item-price-container ","$11.077,00
 					
 											
@@ -7446,7 +7134,7 @@ Joystick",0,
 						
 																
 							0% OFF",0,
-"span","js-price-display product-item-price ","$11.077,00",0,
+"span","js-price-display product-item-price ","$11.077,00",1,price
 "span","js-compare-price-display product-item-price-compare order-first mb-1","$0,00",0,
 "span","product-item-discount text-accent font-medium ml-2","0% OFF",0,
 "span","js-offer-percentage","0",0,
@@ -7523,49 +7211,19 @@ Joystick",0,
 		
 					
 																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
-"div","product-item-information d-flex flex-column pt-3 pb-2","PC GAMER RYZEN 7 8700G, WIFI Y BLUETOOTH IDEAL GAMER INTERMEDIO, ELEGI LA VARIANTE QUE MAS TE GUSTE
-",0,
-"a","product-item-link ","PC GAMER RYZEN 7 8700G, WIFI Y BLUETOOTH IDEAL GAMER INTERMEDIO, ELEGI LA VARIANTE QUE MAS TE GUSTE"div","product-item-price-container ","$932.689,36$0,0				1,link
-																
-							0% OFF",0,
-"span","js-price-display product-item-price ","$932.689,36",0,
+"div","product-item-information d-flex flex-column pt-3 pb-2","PC GAMER RYZEN 7 8700G, WIFI Y BLUETOOTH IDEAL GAMER INTERMEDIO, ELEGI LA VARIANTE QUE MAS TE GUST 0% OFF",1,productWrapper 
+"span","js-price-display product-item-price ","$932.689,36",1,price
 "span","js-compare-price-display product-item-price-compare order-first mb-1","$0,00",0,
 "span","product-item-discount text-accent font-medium ml-2","0% OFF",0,
 "span","js-offer-percentage","0",0,
-"div","js-max-installments-container js-max-installments custom-installments mt-1","6
-
-						
-						
-															
-									x
-								
-							
-													
-
-						
-						$155.448,23",0,
-"div","js-max-installments product-installments installment-no-interest","6
-
-						
-						
-															
-									x
-								
-							
-													
-
-						
-						$155.448,23",0,
 "span","js-installment-amount product-installment-amount","6",0,
 "span","","x",0,
 "span","installment-short-separator","x",0,
 "span","js-installment-price product-installment-value","$155.448,23",0,
 "span","","sin interés",0,
-"div","js-payment-discount-price-product-container payment-discount-price-product-container font-small font-md-normal text-accent font-weight-bold mt-2","$792.785,96
-		con
-		Transferencia / Efectivo",0,
+"div","js-payment-discount-price-product-container payment-discount-price-product-container font-small font-md-normal text-accent font-weight-bold mt-2","$792.785,96 con Transferencia / Efectivo",0,
 "span","js-payment-discount-price-product payment-discount-price-product ","$792.785,96",1,price
 "span","","con",0,
 "span","","Transferencia / Efectivo",0,
@@ -7573,49 +7231,11 @@ Joystick",0,
 "div","js-latest-products-available text-stock font-small mt-2","¡Solo quedan 3 en stock!",0,
 "span","js-product-stock","3",0,
 "div","js-product-item-image-container-private  product-item-image-container ","Sin stock
-							
-		
-				
-		
-		
-		
-		
-					
-																										Gratis",0,
-"div","","Sin stock
-							
-		
-				
-		
-		
-		
-		
-					
-																										Gratis",0,
-"a","js-product-item-image-link-private ","",0,
-"div","labels product-labels","Sin stock
-							
-		
-				
-		
-		
-		
-		
-					
-																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
-"div","product-item-information d-flex flex-column pt-3 pb-2","PC GAMER RYZEN 7 7700X, 32G, 1TB, RTX 5070 EAGLE ICE IDEAL GAMING EN 2K
-							
-					
-						$3.316.9",0,
-"a","product-item-link ","PC GAMER RYZEN 7 7700X, 32G, 1TB, RTX 5070 EAGLE ICE IDEAL GAMING EN 2K						$3.316",1,link
-															
-							$3.467.637,25
-						
-																
-							4% OFF",0,
-"span","js-price-display product-item-price ","$3.316.960,89",0,
+"div","product-item-information d-flex flex-column pt-3 pb-2","PC GAMER RYZEN 7 7700X, 32G, 1TB, RTX 5070 EAGLE ICE IDEAL GAMING EN 2K $3.316 ",1,productWrapper
+"a","product-item-link ","PC GAMER RYZEN 7 7700X, 32G, 1TB, RTX 5070 EAGLE ICE IDEAL GAMING EN 2K $3.467.637,25 4% OFF",1,link
+"span","js-price-display product-item-price ","$3.316.960,89",1,price
 "span","js-compare-price-display product-item-price-compare order-first mb-1","$3.467.637,25",0,
 "span","product-item-discount text-accent font-medium ml-2","4% OFF",0,
 "span","js-offer-percentage","4",0,
@@ -7688,18 +7308,11 @@ Joystick",0,
 		
 					
 																										Gratis",0,
-"div","js-stock-label-private label mb-2","Sin stock",0,
+"div","js-stock-label-private label mb-2","Sin stock",1,is_stocked
 "div","js-shipping-label-private js-free-shipping-minimum-label label shipping-label","Gratis",0,
-"div","product-item-information d-flex flex-column pt-3 pb-2","COMBO GAMER PC RYZEN A ELECCION + MONITOR F HD 24"" + COMBO PERIFERICOS 3 EN 1 GAMER
-							
-					
-		",0,
-"a","product-item-link ","COMBO GAMER PC RYZEN A ELECCION + MONITOR F HD 24"" + COMBO PERIFERICOS 3 EN 1 GAMER",0,													1,link
-							$1.117.097,76
-						
-																
-							30% OFF",0,
-"span","js-price-display product-item-price ","$782.642,90",0,
+"div","product-item-information d-flex flex-column pt-3 pb-2","COMBO GAMER PC RYZEN A ELECCION + MONITOR F HD 24"" + COMBO PERIFERICOS 3 EN 1 GAMER ",1,productWrapper
+"a","product-item-link ","COMBO GAMER PC RYZEN A ELECCION + MONITOR F HD 24"" + COMBO PERIFERICOS 3 EN 1 GAMER",1,link
+"span","js-price-display product-item-price ","$782.642,90",1,price
 "span","js-compare-price-display product-item-price-compare order-first mb-1","$1.117.097,76",0,
 "span","product-item-discount text-accent font-medium ml-2","30% OFF",0,
 "span","js-offer-percentage","30",0,
@@ -7755,112 +7368,6 @@ Joystick",0,
 "li","mb-3 font-medium ","01134922372",0,
 "a","","01134922372",0,
 "li","mb-3 font-medium ","Art Gallery Office, Oficina 115, Pilar, Buenos Aires",0,
-"span","d-inline-block align-middle","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"img","icon-logo lazyload ","",0,
-"span","d-inline-block align-middle","",0,
-"img","icon-logo lazyload ","",0,
-"div","footer-seals-container mb-4","(function (c, s, q, u, a, r, e) {
-        c.hj=c.hj||function(){(c.hj.q=c.hj.q||[]).push(arguments)}",0,
-"div","footer-seals-container","(function (c, s, q, u, a, r, e) {
-        c.hj=c.hj||function(){(c.hj.q=c.hj.q||[]).push(arguments)}",0,
-"div","custom-seal custom-seal-code","(function (c, s, q, u, a, r, e) {
-        c.hj=c.hj||function(){(c.hj.q=c.hj.q||[]).push(arguments)}",0,
-"span","","/",0,
-"span","d-block d-md-inline-block mb-2 mb-md-0 mr-1","",0,
-"div","powered-by-logo","",0,
-"a","","",0,
-"mouse-cursor","mouse-cursor z-50 fixed select-none flex items-center justify-center pointer-events-none rounded-full","",0,
-"div","topbar topbar--center topbar--only page-width page-width--full section section--rounded relative grid py-0 h-full w-full items-center section--first-rounded section--last-rounded","ENVÍOS A TODO EL PAÍS  🇦🇷
-                  ENVÍOS A TODO EL PAÍS  🇦🇷",0,
-"div","announcement-bar h-full flex justify-center lg:justify-center relative","ENVÍOS A TODO EL PAÍS  🇦🇷
-                  ENVÍOS A TODO EL PAÍS  🇦🇷",0,
-"announcement-bar","announcement__slides","ENVÍOS A TODO EL PAÍS  🇦🇷
-                  ENVÍOS A TODO EL PAÍS  🇦🇷",0,
-"div","announcement__slide flex h-full","ENVÍOS A TODO EL PAÍS  🇦🇷
-                  ENVÍOS A TODO EL PAÍS  🇦🇷",0,
-"div","announcement__content flex items-center gap-2","ENVÍOS A TODO EL PAÍS  🇦🇷
-                  ENVÍOS A TODO EL PAÍS  🇦🇷",0,
-"span","announcement-icon","",0,
-"span","drawer__title heading lg:text-3xl text-2xl leading-none tracking-tight","",0,
-"span","btn-fill","",0,
-"span","btn-text","",0,
-"li","drawer__menu-group","🔥 OFERTAS 🔥",0,
-"a","drawer__menu-item block heading text-2xl leading-none tracking-tight","🔥 OFERTAS 🔥",0,
-"li","drawer__menu-group","Mousepads",0,
-"a","drawer__menu-item block heading text-2xl leading-none tracking-tight","Mousepads",0,
-"li","drawer__menu-group","Personalizar",0,
-"a","drawer__menu-item block heading text-2xl leading-none tracking-tight","Personalizar",0,
-"li","drawer__menu-group","Importados",0,
-"a","drawer__menu-item block heading text-2xl leading-none tracking-tight","Importados",0,
-"li","drawer__menu-group","Alfombras",0,
-"a","drawer__menu-item block heading text-2xl leading-none tracking-tight","Alfombras",0,
-"li","drawer__menu-group","Accesorios 3D",0,
-"a","drawer__menu-item block heading text-2xl leading-none tracking-tight","Accesorios 3D",0,
-"div","drawer__scrollable flex flex-col h-full","",0,
-"div","drawer__footer-top flex","Español",0,
-"button","flex gap-3 grow items-center justify-between","Español",0,
-"span","text-sm leading-none flex items-center gap-2 w-auto","Español",0,
-"overlay-element","fixed-modal opacity-0 z-1 absolute top-0 left-0 w-full h-full","",0,
-"div","modal__container flex flex-col z-3 absolute left-0 bottom-0 w-full","",0,
-"span","inline-block","",0,
-"span","btn-fill","",0,
-"span","btn-loader","",0,
-"span","","",0,
-"span","","",0,
-"span","","",0,
-"div","header__logo flex justify-center z-2","MgMGamers",0,
-"a","header__logo-link has-white-logo flex items-center relative","MgMGamers",0,
-"a","menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer","🔥 OFERTAS 🔥🔥 OFERTAS 🔥",0,
-"span","btn-text","🔥 OFERTAS 🔥",0,
-"span","btn-text btn-duplicate","🔥 OFERTAS 🔥",0,
-"a","menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer","MousepadsMousepads",0,
-"span","btn-text","Mousepads",0,
-"span","btn-text btn-duplicate","Mousepads",0,
-"a","menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer","PersonalizarPersonalizar",0,
-"span","btn-text","Personalizar",0,
-"span","btn-text btn-duplicate","Personalizar",0,
-"a","menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer","ImportadosImportados",0,
-"span","btn-text","Importados",0,
-"span","btn-text btn-duplicate","Importados",0,
-"a","menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer","AlfombrasAlfombras",0,
-"span","btn-text","Alfombras",0,
-"span","btn-text btn-duplicate","Alfombras",0,
-"a","menu__item text-sm-lg flex items-center font-medium z-2 relative cursor-pointer","Accesorios 3DAccesorios 3D",0,
-"span","btn-text","Accesorios 3D",0,
-"span","btn-text btn-duplicate","Accesorios 3D",0,
-"li","opacity-0","Cómo cuidar tu mousepad",0,
-"p","","Cómo cuidar tu mousepad",0,
-"a","reversed-link text-sm-base","Cómo cuidar tu mousepad",0,
-"li","opacity-0","Venta mayorista",0,
-"p","","Venta mayorista",0,
-"a","reversed-link text-sm-base","Venta mayorista",0,
-"li","opacity-0","Sobre nosotros",0,
-"p","","Sobre nosotros",0,
-"a","reversed-link text-sm-base","Sobre nosotros",0,
-"cart-count","count absolute top-0 right-0 text-xs","0",0,
-"span","header__cutout cutout opacity-0 absolute left-0 top-100 w-full pointer-events-none","",0,
-"span","overlay opacity-0 z-1 fixed left-0 w-full pointer-events-none","",0,
-"div","shopify-section shopify-section-group-header-group hero-section","",0,
-"cart-count","count absolute font-medium text-xs lg:text-sm leading-none","0",0,
-"button","drawer__tab","miralo de nuevo",0,
-"span","drawer__title heading lg:text-3xl text-2xl leading-none tracking-tight","miralo de nuevo",0,
-"span","btn-fill","",0,
-"span","btn-text","",0,
-"h5","","Podes seguir viendo...",0,
-"a","flex items-center justify-between","FORMS",0,
-"span","flex items-center gap-3","FORMS",0,
 "a","flex items-center justify-between","IMPORTADOSS",0,
 "span","flex items-center gap-3","IMPORTADOSS",0,
 "div","free-shipping-bar grid gap-3 w-full","¡Te faltan solo $100.000,00 para conseguir envío gratis!",0,
@@ -8056,11 +7563,11 @@ Joystick",0,
         $5.000,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad Black 25x25 Classic | PERSONALIZADO
         $5.000,00",0,
-"p","grow","Mousepad Black 25x25 Classic | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Black 25x25 Classic | PERSONALIZADO",0,
+"p","grow","Mousepad Black 25x25 Classic | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Black 25x25 Classic | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$5.000,00",0,
-"span","price__regular whitespace-nowrap","$5.000,00",0,
-"span","money","$5.000,00",0,
+"span","price__regular whitespace-nowrap","$5.000,00",1,price
+"span","money","$5.000,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8068,11 +7575,11 @@ Joystick",0,
         $21.250,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad Full Black 45x40 PRO | PERSONALIZADO
         $21.250,00",0,
-"p","grow","Mousepad Full Black 45x40 PRO | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Full Black 45x40 PRO | PERSONALIZADO",0,
+"p","grow","Mousepad Full Black 45x40 PRO | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Full Black 45x40 PRO | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$21.250,00",0,
-"span","price__regular whitespace-nowrap","$21.250,00",0,
-"span","money","$21.250,00",0,
+"span","price__regular whitespace-nowrap","$21.250,00",1,price
+"span","money","$21.250,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8080,11 +7587,11 @@ Joystick",0,
         $21.250,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad Dolar real 90x40 Classic | PERSONALIZADO
         $21.250,00",0,
-"p","grow","Mousepad Dolar real 90x40 Classic | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Dolar real 90x40 Classic | PERSONALIZADO",0,
+"p","grow","Mousepad Dolar real 90x40 Classic | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Dolar real 90x40 Classic | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$21.250,00",0,
-"span","price__regular whitespace-nowrap","$21.250,00",0,
-"span","money","$21.250,00",0,
+"span","price__regular whitespace-nowrap","$21.250,00",1,price
+"span","money","$21.250,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8092,16 +7599,12 @@ Joystick",0,
         $21.250,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad Zebra Black 90x40 Classic | PERSONALIZADO
         $21.250,00",0,
-"p","grow","Mousepad Zebra Black 90x40 Classic | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Zebra Black 90x40 Classic | PERSONALIZADO",0,
+"p","grow","Mousepad Zebra Black 90x40 Classic | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Zebra Black 90x40 Classic | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$21.250,00",0,
-"span","price__regular whitespace-nowrap","$21.250,00",0,
-"span","money","$21.250,00",0,
-"div","card product-card product-card--standard flex flex-col leading-none relative","Ver producto
-                    
-                  
-        
-          Mousepad 1000 Pesos Hornero ",0,
+"span","price__regular whitespace-nowrap","$21.250,00",1,price
+"span","money","$21.250,00",1,price
+"div","card product-card product-card--standard flex flex-col leading-none relative","Ver producto Mousepad 1000 Pesos Hornero ",1,productWrapper
 "div","product-card__media relative h-auto","Ver producto",0,
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "a","block relative media media--square media--contain loading","",0,
@@ -8114,11 +7617,11 @@ Joystick",0,
         A partir de $21.250,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad 1000 Pesos Hornero | MGMGAMERS
         A partir de $21.250,00",0,
-"p","grow","Mousepad 1000 Pesos Hornero | MGMGAMERS",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad 1000 Pesos Hornero | MGMGAMERS",0,
+"p","grow","Mousepad 1000 Pesos Hornero | MGMGAMERS",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad 1000 Pesos Hornero | MGMGAMERS",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","A partir de $21.250,00",0,
-"span","price__regular whitespace-nowrap","A partir de $21.250,00",0,
-"span","money","$21.250,00",0,
+"span","price__regular whitespace-nowrap","A partir de $21.250,00",1,price
+"span","money","$21.250,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8126,11 +7629,11 @@ Joystick",0,
         $24.375,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad Morgan fgo 70x30 PRO | PERSONALIZADO
         $24.375,00",0,
-"p","grow","Mousepad Morgan fgo 70x30 PRO | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Morgan fgo 70x30 PRO | PERSONALIZADO",0,
+"p","grow","Mousepad Morgan fgo 70x30 PRO | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Morgan fgo 70x30 PRO | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$24.375,00",0,
-"span","price__regular whitespace-nowrap","$24.375,00",0,
-"span","money","$24.375,00",0,
+"span","price__regular whitespace-nowrap","$24.375,00",1,price
+"span","money","$24.375,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8138,11 +7641,11 @@ Joystick",0,
         $23.750,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad QUINTEROGOD 50x40 PRO | PERSONALIZADO
         $23.750,00",0,
-"p","grow","Mousepad QUINTEROGOD 50x40 PRO | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad QUINTEROGOD 50x40 PRO | PERSONALIZADO",0,
+"p","grow","Mousepad QUINTEROGOD 50x40 PRO | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad QUINTEROGOD 50x40 PRO | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$23.750,00",0,
-"span","price__regular whitespace-nowrap","$23.750,00",0,
-"span","money","$23.750,00",0,
+"span","price__regular whitespace-nowrap","$23.750,00",1,price
+"span","money","$23.750,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8150,11 +7653,11 @@ Joystick",0,
         $5.000,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad Full anashe 25x25 Classic | PERSONALIZADO
         $5.000,00",0,
-"p","grow","Mousepad Full anashe 25x25 Classic | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Full anashe 25x25 Classic | PERSONALIZADO",0,
+"p","grow","Mousepad Full anashe 25x25 Classic | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Full anashe 25x25 Classic | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$5.000,00",0,
-"span","price__regular whitespace-nowrap","$5.000,00",0,
-"span","money","$5.000,00",0,
+"span","price__regular whitespace-nowrap","$5.000,00",1,price
+"span","money","$5.000,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8162,11 +7665,11 @@ Joystick",0,
         $15.625,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad pinturita 82x32 Classic | PERSONALIZADO
         $15.625,00",0,
-"p","grow","Mousepad pinturita 82x32 Classic | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad pinturita 82x32 Classic | PERSONALIZADO",0,
+"p","grow","Mousepad pinturita 82x32 Classic | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad pinturita 82x32 Classic | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$15.625,00",0,
-"span","price__regular whitespace-nowrap","$15.625,00",0,
-"span","money","$15.625,00",0,
+"span","price__regular whitespace-nowrap","$15.625,00",1,price
+"span","money","$15.625,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8174,11 +7677,11 @@ Joystick",0,
         $15.625,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad verdesage 82x32 Classic | PERSONALIZADO
         $15.625,00",0,
-"p","grow","Mousepad verdesage 82x32 Classic | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad verdesage 82x32 Classic | PERSONALIZADO",0,
+"p","grow","Mousepad verdesage 82x32 Classic | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad verdesage 82x32 Classic | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$15.625,00",0,
-"span","price__regular whitespace-nowrap","$15.625,00",0,
-"span","money","$15.625,00",0,
+"span","price__regular whitespace-nowrap","$15.625,00",1,price
+"span","money","$15.625,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8186,11 +7689,11 @@ Joystick",0,
         $15.625,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad Girl anime 82x32 Classic | PERSONALIZADO
         $15.625,00",0,
-"p","grow","Mousepad Girl anime 82x32 Classic | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Girl anime 82x32 Classic | PERSONALIZADO",0,
+"p","grow","Mousepad Girl anime 82x32 Classic | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Girl anime 82x32 Classic | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$15.625,00",0,
-"span","price__regular whitespace-nowrap","$15.625,00",0,
-"span","money","$15.625,00",0,
+"span","price__regular whitespace-nowrap","$15.625,00",1,price
+"span","money","$15.625,00",1,price
 "div","badges z-2 absolute grid gap-3 pointer-events-none","",0,
 "img","","",0,
 "span","btn-fill","",0,
@@ -8198,11 +7701,11 @@ Joystick",0,
         $21.250,00",0,
 "div","product-card__details flex flex-col lg:flex-row items-baseline gap-2 w-full","Mousepad Natsu y Lucy 90x40 Classic | PERSONALIZADO
         $21.250,00",0,
-"p","grow","Mousepad Natsu y Lucy 90x40 Classic | PERSONALIZADO",0,
-"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Natsu y Lucy 90x40 Classic | PERSONALIZADO",0,
+"p","grow","Mousepad Natsu y Lucy 90x40 Classic | PERSONALIZADO",1,title
+"a","product-card__title reversed-link text-base-xl font-medium leading-tight","Mousepad Natsu y Lucy 90x40 Classic | PERSONALIZADO",1,link
 "div","price flex flex-wrap lg:flex-col lg:items-end gap-2 md:gap-1d5","$21.250,00",0,
-"span","price__regular whitespace-nowrap","$21.250,00",0,
-"span","money","$21.250,00",0,
+"span","price__regular whitespace-nowrap","$21.250,00",1,price
+"span","money","$21.250,00",1,price
 "span","page current flex items-center justify-center rounded-full pointer-events-none","1",0,
 "a","page flex items-center justify-center rounded-full","2",0,
 "span","btn-text","2",0,
@@ -8277,8 +7780,7 @@ Joystick",0,
                                     
      ",0,
 "a","item-link","Aire Comprimido Aerosol CHEMITEC 400GR PACK X 12 UNIDADES
-                                    
-     ",0,
+     ",1,link
 "div","js-item-name item-name mb-3","Aire Comprimido Aerosol CHEMITEC 400GR PACK X 12 UNIDADES",1,title
 "div","item-price-container mb-1 row","Precio de Lista
                         
@@ -8290,14 +7792,13 @@ Joystick",0,
                       ",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$138.500",0,
-"span","js-price-display item-price","$124.700",1,price
+"span","js-price-display item-price","$124.700",0,
 "div","col-6 border-left","Precio Slot One
-                        
-                            $96.019",0,
+                            $96.019",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$96.019",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8319,8 +7820,7 @@ Joystick",0,
                         
           ",0,
 "a","item-link","Adaptador Bluetooth Usb 5.0
-                                    
-                        
+        1,link
           ",0,
 "div","js-item-name item-name mb-3","Adaptador Bluetooth Usb 5.0",1,title
 "div","item-price-container mb-1 row","Precio de Lista
@@ -8335,14 +7835,13 @@ Joystick",0,
    ",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$0",0,
-"span","js-price-display item-price","$10.400",1,price
+"span","js-price-display item-price","$10.400",0,
 "div","col-6 border-left","Precio Slot One
-                        
-                            $8.008",0,
+                            $8.008",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$8.008",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8363,8 +7862,7 @@ Joystick",0,
                                     
                 ",0,
 "a","item-link","Monitor AOC LED GAMER 27"" 2790VX FHD 144HZ 1MS
-                                    
-                ",0,
+                ",1,link
 "div","js-item-name item-name mb-3","Monitor AOC LED GAMER 27"" 2790VX FHD 144HZ 1MS",1,title
 "div","item-price-container mb-1 row","Precio de Lista
                         
@@ -8378,14 +7876,13 @@ Joystick",0,
    ",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$0",0,
-"span","js-price-display item-price","$571.707,02",1,price
+"span","js-price-display item-price","$571.707,02",0,
 "div","col-6 border-left","Precio Slot One
-                        
-                            $440.214",0,
+                            $440.214",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$440.214",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8407,8 +7904,7 @@ Joystick",0,
                         
             ",0,
 "a","item-link","Silla GAMER RAZER ISKUR X
-                                    
-                        
+        1,link
             ",0,
 "div","js-item-name item-name mb-3","Silla GAMER RAZER ISKUR X",1,title
 "div","item-price-container mb-1 row","Precio de Lista
@@ -8423,14 +7919,13 @@ Joystick",0,
    ",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$0",0,
-"span","js-price-display item-price","$1.058.676,76",1,price
+"span","js-price-display item-price","$1.058.676,76",0,
 "div","col-6 border-left","Precio Slot One
-                        
-                            $815.181",0,
+                            $815.181",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$815.181",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8452,8 +7947,7 @@ Joystick",0,
                         
                    ",0,
 "a","item-link","Cable Datos Sata 3
-                                    
-                        
+        1,link
                    ",0,
 "div","js-item-name item-name mb-3","Cable Datos Sata 3",1,title
 "div","item-price-container mb-1 row","Precio de Lista
@@ -8468,14 +7962,13 @@ Joystick",0,
    ",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$0",0,
-"span","js-price-display item-price","$3.300",1,price
+"span","js-price-display item-price","$3.300",0,
 "div","col-6 border-left","Precio Slot One
-                        
-                            $2.541",0,
+                            $2.541",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$2.541",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8496,8 +7989,7 @@ Joystick",0,
                                     
             ",0,
 "a","item-link","Alcohol Isopropilico CHEMITEC AEROSOL PROMAX 175ML
-                                    
-            ",0,
+            ",1,link
 "div","js-item-name item-name mb-3","Alcohol Isopropilico CHEMITEC AEROSOL PROMAX 175ML",1,title
 "div","item-price-container mb-1 row","Precio de Lista
                         
@@ -8511,14 +8003,13 @@ Joystick",0,
    ",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$0",0,
-"span","js-price-display item-price","$11.600",1,price
+"span","js-price-display item-price","$11.600",0,
 "div","col-6 border-left","Precio Slot One
-                        
-                            $8.932",0,
+                            $8.932",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$8.932",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8540,8 +8031,7 @@ Joystick",0,
                         
               ",0,
 "a","item-link","Cable Power Trebol 220v
-                                    
-                        
+        1,link
               ",0,
 "div","js-item-name item-name mb-3","Cable Power Trebol 220v",1,title
 "div","item-price-container mb-1 row","Precio de Lista
@@ -8556,14 +8046,13 @@ Joystick",0,
    ",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$0",0,
-"span","js-price-display item-price","$6.500",1,price
+"span","js-price-display item-price","$6.500",0,
 "div","col-6 border-left","Precio Slot One
-                        
-                            $5.005",0,
+                            $5.005",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$5.005",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8584,8 +8073,7 @@ Joystick",0,
                                     
 ",0,
 "a","item-link","Combo Actualización Pc Intel Core I7 14700 + H610M + 16gb Ddr4
-                                    
-",0,
+",1,link
 "div","js-item-name item-name mb-3","Combo Actualización Pc Intel Core I7 14700 + H610M + 16gb Ddr4",1,title
 "div","item-price-container mb-1 row","Precio de Lista
                         
@@ -8599,14 +8087,13 @@ Joystick",0,
    ",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$0",0,
-"span","js-price-display item-price","$840.000",1,price
+"span","js-price-display item-price","$840.000",0,
 "div","col-6 border-left","Precio Slot One
-                        
-                            $646.800",0,
+                            $646.800",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$646.800",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8626,8 +8113,7 @@ Joystick",0,
 "div","item-description py-4 px-1","Notebook MSI Cyborg 15 A13VE INTEL CORE I5-13420H - 16GB - SSD 512gb - RTX 4050 - WIN 11
            ",0,
 "a","item-link","Notebook MSI Cyborg 15 A13VE INTEL CORE I5-13420H - 16GB - SSD 512gb - RTX 4050 - WIN 11
-           ",0,
-"div","js-item-name item-name mb-3","Notebook MSI Cyborg 15 A13VE INTEL CORE I5-13420H - 16GB - SSD 512gb - RTX 4050 - WIN 11",1,title
+"div","js-item-name item-name mb-3","Notebook MSI Cyborg 15 A13VE INTEL CORE I5-13420H - 16GB - SSD 512gb - RTX 4050 - WIN 11",1,tit1,link
 "div","item-price-container mb-1 row","Precio de Lista
                         
                             $0
@@ -8641,13 +8127,12 @@ Joystick",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$0",0,
 "span","js-price-display item-price","$2.440.165,86",1,price
-"div","col-6 border-left","Precio Slot One
-                        
-                            $1.878.928",0,
+"div","col-6 border-left","Precio Slo0,
+                            $1.878.928",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$1.878.928",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8668,8 +8153,7 @@ Joystick",0,
                                     
    ",0,
 "a","item-link","Memoria ADATA DIMM LANCER SINGLE 2x16 32GB DDR5 6400MHZ RGB
-                                    
-   ",0,
+   ",1,link
 "div","js-item-name item-name mb-3","Memoria ADATA DIMM LANCER SINGLE 2x16 32GB DDR5 6400MHZ RGB",1,title
 "div","item-price-container mb-1 row","Precio de Lista
                         
@@ -8683,14 +8167,13 @@ Joystick",0,
    ",0,
 "span","text-accent","Precio de Lista",0,
 "span","js-compare-price-display price-compare","$0",0,
-"span","js-price-display item-price","$266.588,63",1,price
+"span","js-price-display item-price","$266.588,63",0,
 "div","col-6 border-left","Precio Slot One
-                        
-                            $205.273",0,
+                            $205.273",1,price
 "span","text-accent","Precio Slot One",0,
 "span","text-tertiary item-price-efectivo","$205.273",0,
 "span","js-max-installments-container js-max-installments d-none item-installments","Hasta 12 cuotas",0,
-"span","","Hasta 12 cuotas",0,
+"span","","Hasta 12 cuotas",1,cuotas
 "span","installment-amount","12",0,
 "span","js-addtocart-success transition-container btn-transition-success-small","",0,
 "div","js-addtocart-adding transition-container transition-soft btn-transition-progress","",0,
@@ -8711,8 +8194,7 @@ Joystick",0,
                                     
      ",0,
 "a","item-link","Motherboard ASUS (AM4) ROG STRIX B550-F GAMING (WI-FI) II
-                                    
-     ",0,
+     ",1,link
 "div","js-item-name item-name mb-3","Motherboard ASUS (AM4) ROG STRIX B550-F GAMING (WI-FI) II",1,title
 "div","item-price-container mb-1 row","Precio de Lista
                         
