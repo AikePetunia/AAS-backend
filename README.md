@@ -16,3 +16,4 @@ setup incluye lo que debería tener una "habitación gamer", desde escritorios, 
 ## Setup:  
 ```sh
 npm init playwright@latest
+hola
