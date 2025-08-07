@@ -7,7 +7,7 @@ from sklearn.metrics import classification_report           # accuracy
 import joblib  # easy simple parallel computing
 
 # data loading
-r_csv = pd.read_csv('./datasets/classes.csv')
+r_csv = pd.read_csv('../datasets/classes.csv')
 x = r_csv[["tag","class","text_preview"]].values.astype(str)
 y = r_csv[["is_valid", "type"]].values.astype(str)
 

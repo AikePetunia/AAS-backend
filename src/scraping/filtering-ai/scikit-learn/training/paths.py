@@ -6,13 +6,15 @@ from sklearn.model_selection import train_test_split
 import joblib  # easy simple parallel computing
 
 # data loading
-r_csv = pd.read_csv('./datasets/paths.csv')
+r_csv = pd.read_csv('../datasets/paths.csv')
 x = r_csv["path"].values.astype('U') # gives NaN if it's not Unicode
 y = r_csv["is_valid"]
 original_paths = x
 
 # split and prepares data, vectorization (representation of non-numerical input data)
-vectorizer = CountVectorizer(tokenizer= lambda x: x.split('/'))
+def slash_tokenizer(x):
+    return x.split('/')
+vectorizer = CountVectorizer(tokenizer=slash_tokenizer) # changed from lamba to def,  causes pickle error
 vec_x = vectorizer.fit_transform(x)
 
 # train are the exercises, test is the test
@@ -37,7 +39,7 @@ def complete_output(y_all_pred):
         "prediction": y_all_pred,
         "is_valid": y,
     })
-    complete.to_csv("./response/paths/complete.csv", index=False)
+    complete.to_csv("../response/paths/complete.csv", index=False)
     print("complete paths saved successfully")
 
 def filter_fine(y_all_pred):
@@ -45,7 +47,7 @@ def filter_fine(y_all_pred):
     fine_output = pd.DataFrame({
         "path": fine_paths
     })
-    fine_output.to_csv("./response/paths/fine.csv", index=False)
+    fine_output.to_csv("../response/paths/fine.csv", index=False)
     print("fine paths saved successfully")
 
 vec_x_total = vectorizer.transform(x)
@@ -53,6 +55,7 @@ y_all_pred = model.predict(vec_x_total)
 filter_fine(y_all_pred)
 complete_output(y_all_pred)
 
-joblib.dump(model, "./model/model_paths.pkl")
+joblib.dump(model, "../model/model_paths.pkl")
+joblib.dump(vectorizer, "../model/vectorizer_paths.pkl")
 # es basico, pero concluimos que la manera de que se usa playwright para scrapear y dar un
 # un resultado es bastante mala, entonces deberiamos cambiar totalmente toda la clasificacion
