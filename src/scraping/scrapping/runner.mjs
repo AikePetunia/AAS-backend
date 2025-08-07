@@ -5,27 +5,27 @@ import { scrapeUnderTaker } from "./undertaker.mjs";
 import fs from "fs/promises";
 
 async function main() {
-  const results = {};
+	const results = {};
 
-  try {
-    for (const [siteName, config] of Object.entries(siteConfigs)) {
-      console.log(`Starting scrape of ${siteName}...`);
-      const scraper = new Scraper(config);
-      const products = await scraper.scrapeProducts();
-      results[siteName] = products;
-    }
+	try {
+		for (const [siteName, config] of Object.entries(siteConfigs)) {
+			console.log(`Starting scrape of ${siteName}...`);
+			const scraper = new Scraper(config);
+			const products = await scraper.scrapeProducts();
+			results[siteName] = products;
+		}
 
-    console.log("Starting scrape of Undertaker...");
-    const underTakerProducts = await scrapeUnderTaker();
-    results["undertaker"] = underTakerProducts;
+		console.log("Starting scrape of Undertaker...");
+		const underTakerProducts = await scrapeUnderTaker();
+		results["undertaker"] = underTakerProducts;
 
-    await fs.writeFile("products.json", JSON.stringify(results, null, 2));
-    console.log("finished scraping");
-    process.exit(0);
-  } catch (error) {
-    console.error("Error during scraping:", error);
-    process.exit(1);
-  }
+		await fs.writeFile("products.json", JSON.stringify(results, null, 2));
+		console.log("finished scraping");
+		process.exit(0);
+	} catch (error) {
+		console.error("Error during scraping:", error);
+		process.exit(1);
+	}
 }
 
 main();

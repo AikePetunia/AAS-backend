@@ -1,8 +1,9 @@
 import pandas as pd                                         # reading csv files
-from sklearn.ensemble import RandomForestClassifier         # comparing from strings
+from sklearn.ensemble import RandomForestClassifier         # Model
 from sklearn.metrics import accuracy_score                  # accuracy
-from sklearn.feature_extraction.text import CountVectorizer # separate the '/'
+from sklearn.feature_extraction.text import CountVectorizer # traits strings for the randomForestClassifier
 from sklearn.model_selection import train_test_split
+import joblib  # easy simple parallel computing
 
 # data loading
 r_csv = pd.read_csv('./datasets/paths.csv')
@@ -52,5 +53,6 @@ y_all_pred = model.predict(vec_x_total)
 filter_fine(y_all_pred)
 complete_output(y_all_pred)
 
+joblib.dump(model, "./model/model_paths.pkl")
 # es basico, pero concluimos que la manera de que se usa playwright para scrapear y dar un
 # un resultado es bastante mala, entonces deberiamos cambiar totalmente toda la clasificacion
