@@ -366,7 +366,7 @@ export const siteConfigs = {
 		isOutOfStock: (element) => element.textContent.includes("Sin stock"),
 	}),
 
-	gamingCity: new SiteConfig({
+	GamingCity: new SiteConfig({
 		//this has the ui of mercado libre, and the pages (1,2,3,4etc) are very, very weird
 		name: "Gaming City",
 		siteImage: "/images/stores/gamingcity.png",

@@ -31,3 +31,4 @@ for _, row in df.iterrows():
 with open("test.json", "w") as f:
     json.dump(grouped, f, indent=4, ensure_ascii=False)
 
+print("filtered all paths")
