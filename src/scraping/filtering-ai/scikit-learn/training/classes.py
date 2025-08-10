@@ -1,13 +1,13 @@
 import pandas as pd                                         # reading csv files
-from sklearn.ensemble import RandomForestClassifier         # model
+from sklearn.ensemble import RandomForestClassifier         # models
 from sklearn.feature_extraction.text import CountVectorizer # traits strings for the randomForestClassifier
 from sklearn.model_selection import train_test_split        # we have y_type, y_pred
 from sklearn.multioutput import MultiOutputClassifier       # ya que necesitamos saber además si es valido, el tipo
 from sklearn.metrics import classification_report           # accuracy
-import joblib  # easy simple parallel computing
+import joblib                                               # easy simple parallel computing and importing the mdoel
 
 # data loading
-r_csv = pd.read_csv('../datasets/classes.csv')
+r_csv = pd.read_csv('./datasets/classes.csv')
 x = r_csv[["tag","class","text_preview"]].values.astype(str)
 y = r_csv[["is_valid", "type"]].values.astype(str)
 
@@ -33,6 +33,7 @@ print(classification_report(y_test[:, 0], y_pred[:, 0]))
 print("type:")
 print(classification_report(y_test[:, 1], y_pred[:, 1]))
 
+"""
 def complete_output(y_all_pred):
     complete = pd.DataFrame({
         "tag": r_csv["tag"].values.astype(str),
@@ -52,10 +53,13 @@ def filter_fine(y_all_pred):
     filtered_df = r_csv.loc[mask_valid, ["tag", "class", "text_preview", "type"]].copy()
     filtered_df.to_csv("./response/paths/fine_class.csv", index=False)
     print(f"fine paths saved successfully, {len(filtered_df)} rows")
+"""
 
 vec_x_total = vectorizer.transform(x_joined)
 y_all_pred = model.predict(vec_x_total)
-complete_output(y_all_pred)
-filter_fine(y_all_pred)
+# complete_output(y_all_pred)
+# filter_fine(y_all_pred)
 
-# once trained, how do i use the model that i trained?
+# importing the model
+joblib.dump(model, "./training/models/model_classes.pkl")
+joblib.dump(vectorizer, "./training/models/vectorizer_classes.pkl")

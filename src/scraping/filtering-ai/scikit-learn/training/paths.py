@@ -3,7 +3,7 @@ from sklearn.ensemble import RandomForestClassifier         # Model
 from sklearn.metrics import accuracy_score                  # accuracy
 from sklearn.feature_extraction.text import CountVectorizer # traits strings for the randomForestClassifier
 from sklearn.model_selection import train_test_split
-import joblib  # easy simple parallel computing
+import joblib                                               # easy simple parallel computing and importing the model
 
 # data loading
 r_csv = pd.read_csv('../datasets/paths.csv')
@@ -23,7 +23,7 @@ vec_x_train, vec_x_test, y_train, y_test, paths_train, paths_test = train_test_s
     vec_x, y, original_paths, test_size=0.1, random_state=42
 )
 
-# train model
+# train models
 model = RandomForestClassifier(n_estimators=100) # how many trees
 model.fit(vec_x_train, y_train)
 
@@ -32,7 +32,8 @@ y_pred = model.predict(vec_x_test)
 acc = accuracy_score(y_test, y_pred)
 print("Accuracy", acc )
 
-# saves the correct data
+"""
+# saves the correct data (useful to see training results)
 def complete_output(y_all_pred):
     complete = pd.DataFrame({
         "path": x,
@@ -49,13 +50,13 @@ def filter_fine(y_all_pred):
     })
     fine_output.to_csv("../response/paths/fine.csv", index=False)
     print("fine paths saved successfully")
-
+"""
 vec_x_total = vectorizer.transform(x)
 y_all_pred = model.predict(vec_x_total)
-filter_fine(y_all_pred)
-complete_output(y_all_pred)
+# filter_fine(y_all_pred)
+# complete_output(y_all_pred)
 
-joblib.dump(model, "../model/model_paths.pkl")
-joblib.dump(vectorizer, "../model/vectorizer_paths.pkl")
+joblib.dump(model, "models/model_paths.pkl")
+joblib.dump(vectorizer, "models/vectorizer_paths.pkl")
 # es basico, pero concluimos que la manera de que se usa playwright para scrapear y dar un
 # un resultado es bastante mala, entonces deberiamos cambiar totalmente toda la clasificacion
