@@ -72,7 +72,27 @@ const getPaths = [
 	"https://www.shopgamer.com.ar",
 	"https://www.tiendatrade.com.ar",
 	"https://goldgaming.com.ar/",
+	// new ones (13/8/25)
+	"https://modex.com.ar/",
+	"https://herrerogamer2.mitiendanube.com/",
+	"https://www.makenametal.com.ar/",
+	"https://diangi.online/",
+	"https://www.onicaps.online/",
+	"https://www.elevecomponentes.com/",
+	"https://playhubshop.com.ar/",
+	"https://www.cuadrosmodernos.com.ar/",
+	"https://farbermuebles.com.ar/" // que carajos los precios kjj
+
 ];
+
+console.log("domanins", getPaths.lenght);
+/* 
+ todo: add pageName AND THEN FORMAT THE PY
+
+	const formatDomain = new URL(path).hostname.replace('www.', '');
+	const pageName = formatDomain.replace(/\.(com|ar|net|com\.ar)$/, '');
+*/
+
 
 const stats = {
 	failedPages: 0,
@@ -102,8 +122,9 @@ export async function gourlex(page) {
 		}, 120000);
 
 		const baseUrl = page.replace(/\/$/, "");
-		const terminal = spawn("C:\\Users\\mjhb4\\go\\bin\\gourlex.exe", ["-t", page]); // adapt to linux
-
+		// const terminal = spawn("C:\\Users\\mjhb4\\go\\bin\\gourlex.exe", ["-t", page]); // windows
+		const terminal = spawn("gourlex", ["-t", page]);
+		
 		terminal.stdout.on("data", (data) => {
 			outputBuffer += data.toString();
 			const lines = outputBuffer.split("\n");
@@ -143,9 +164,9 @@ export async function gourlex(page) {
 					let path = cleanedLine.replace(/\?.*$/, "").replace(/#.*$/, "");
 
 					if (
-						!path.match(
-							/\.(php|html|png|jpg|jpeg|gif|css|js|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg)$/
-						)
+						!path.match( 
+							/\.(|php|html|png|jpg|jpeg|gif|css|js|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg)$/
+						) 
 					) {
 						paths.add(path);
 					}

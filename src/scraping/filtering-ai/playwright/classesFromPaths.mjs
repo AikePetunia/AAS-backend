@@ -2,66 +2,6 @@ import { chromium } from "playwright";
 import fs from "fs/promises";
 // tag, selector, text_preview, es_valido, tipo
 
-/*
-const pathsData = [
-	"https://nextgames.com.ar/componentes-de-pc",
-	"https://gorilagames.com/componentes-de-pc",
-	"https://www.thegamershop.com.ar/componentes-de-pc/",
-	"https://ruidos.com.ar/pc-gaming",
-	"https://alltek.ar/componentes-de-pc",
-	"https://insumaxinformatica.com.ar/componentes-de-pc",
-	"https://compucordoba.com.ar/componentes-de-pc",
-	"https://macroinsumos.com.ar/componentes-de-pc",
-	"https://storelaplata.com.ar/accesorios-pc",
-	"https://cellplay.com.ar/perifericos",
-	"https://hydraxtreme.com/componentes-de-pc",
-	"https://casatecno.com.ar/componentes-pc",
-	"https://epocasvideogames.com.ar/componentes-pc",
-	"https://gztienda.com.ar/componentes-de-pc",
-	"https://hftecnologia.com.ar/componentes-de-pc",
-	"https://elevengamesar.com/componentes-pc",
-	"https://intecnova.com.ar/audio-y-video",
-	"https://31store.com.ar/perifericos",
-	"https://kenshinanimestore.com/accesorios",
-	"https://manabigames.org/computadoras",
-	"https://ibtech.com.ar/tienda/accesorios-celulares",
-	"https://gameroutlet.com.ar/accesorios",
-	"https://smarttucuman.com/componentes-de-pc",
-	"https://www.rockethard.com.ar/perifericos/",
-	"https://www.armytech.com.ar/436-perifericos",
-	"https://www.maximus.com.ar/Productos/perifericos/maximus.aspx",
-	"https://www.venex.com.ar/perifericos",
-	"https://www.ngtechnologies.com.ar/perifericos/",
-	"https://mgmgamers.store/collections/mousepads",
-	"https://www.slot-one.com.ar/perifericos/",
-	"https://www.puertominero.com.ar/productos",
-	"https://www.710tech.com.ar/perifericos-/",
-	"https://www.37bytes.com.ar/perifericos/",
-	"https://dinobyte.ar/categoria-producto/hardware/",
-	"https://fullh4rd.com.ar/tag/perifericos",
-	"https://gnpoint.com.ar/productos/",
-	"https://www.gamerspoint.com.ar/categoria/perifericos/",
-	"https://www.gamingcity.com.ar/listado/computacion/",
-	"https://www.gezatek.com.ar/tienda/",
-	"https://goldentechstore.com.ar/perifericos/",
-	"https://ar-shop.com.ar/perifericos/",
-	"https://www.insumosacuario.com.ar/perifericos/",
-	"https://www.xt-pc.com.ar/tag/perifericos",
-	"https://empeniogamer.com.ar/categoria-producto/perifericos-mouses",
-	"https://hardcorecomputacion.com.ar/categoria-producto/perifericos/",
-	"https://www.hypergaming.com.ar/perifericos/",
-	"https://www.ignatech.com.ar/perifericos/",
-	"https://www.integradosargentinos.com/shop/category/auriculares-1103",
-	"https://katech.com.ar/categoria/mouse/",
-	"https://www.malditohard.com.ar/categoria/teclados/",
-	"https://maxtecno.com.ar/perifericos/",
-	"https://www.megasoftargentina.com.ar/Perifericos-Pc/",
-	"https://www.mexx.com.ar/productos-rubro/gamers/",
-	"https://www.noxiestore.com/teclados-y-mouses/",
-	"",
-];
-*/
-// dejado en linea 20k
 const pathsData = [
 	"https://www.tiendatrade.com.ar/listado/computacion/perifericos-pc/",
 	"https://www.shopgamer.com.ar/perifericos/",
@@ -122,7 +62,19 @@ const pathsData = [
 	"https://gameroutlet.com.ar/accesorios",
 	"https://smarttucuman.com/componentes-de-pc",
 	"https://www.rockethard.com.ar/perifericos/",
+	// new ones (13/8/25)
+	"https://herrerogamer2.mitiendanube.com/productos",
+	"https://www.makenametal.com.ar/productos/",
+	"https://diangi.online/productos",
+	"https://www.onicaps.online/keycaps",
+	"https://www.elevecomponentes.com/productos",
+	"https://playhubshop.com.ar/consolas",
+	"https://www.cuadrosmodernos.com.ar/stock",
+	"https://farbermuebles.com.ar/product-category/mas-vendidos/"
+
+
 ];
+console.log("paginas: ", pathsData.length);
 
 export async function ElementsFromPaths() {
 	const allPages = [];
@@ -381,7 +333,11 @@ export async function ElementsFromPaths() {
 				};
 			});
 
-			const pageName = new URL(path).hostname.replace("www.", "").split("/")[0];
+			//const parts = url.hostname.replace('www', "").split('.');
+			//const pageName = parts.slice(0, -1).join('.')
+
+			const formatDomain = new URL(path).hostname.replace('www.', '');
+			const pageName = formatDomain.replace(/\.(com|ar|net|com\.ar)$/, '');
 
 			totalFiltered += stats.filtered;
 			totalProcessed += stats.processed;

@@ -1,9 +1,35 @@
 import { Scraper } from "./coreScrapper.mjs";
 import { siteConfigs } from "./constPages.mjs";
 import { scrapeUnderTaker } from "./undertaker.mjs";
-
 import fs from "fs/promises";
+import { SiteConfig } from "./siteConfig.mjs";
 
+const __directory = "../../filtering-ai/scikit-learn/response/final_sites.json";
+
+async function loadSite() {
+	try {
+		const sitesData = await fs.readFile(__directory, "utf-8");
+		const sitesArray = JSON.parse(sitesData);
+		const siteConfigs = {}
+
+		for (const site of sitesArray) {
+			siteConfigs[site.pageName] = new SiteConfig({
+				pageName: site.pageName,
+				siteImage: '',
+				baseUrl: site.baseUrl,
+				isPcComponent: site.isPcComponent,
+				isSetup: site.isSetup,
+				paths: site.paths,
+				elements: site.elements,
+				pagination: site.pagination,
+			})
+		}
+
+		return siteConfigs;
+	} catch (error) {
+    console.error('Error loading sites from JSON:', error);
+	}
+}
 async function main() {
 	const results = {};
 
@@ -29,52 +55,3 @@ async function main() {
 }
 
 main();
-/*
-37 Bytes
-AR Shop
-Acuario Insumos
-Dinobyte
-Full H4rd
-GN Point
-Gamers Point
-Gaming City
-Gezatek
-GoldenTech Store
-HF Tecnologia
-HardCore
-Hyper Gaming
-IgnaTech
-Integrados Argentinos
-Katech
-Liontech Gaming
-Maldito Hard
-Max Tecno
-
-Megasoft
-Mexx
-Noxie Store
-Peak Computacion
-Rocket Hard
-SCP Hardstore
-ShopGamer
-Space
-The Gamer Shop
-Tiendatrade
-Turtech
-Urano Stream
-WIZ TECH
-Xt-PC
-empenio gamer
-
-Puerto Minero :white_check_mark: 
-Undertaker :white_check_mark: 
-Compragamer :white_check_mark:
-"HardGamers :white_check_mark:"
-"710 Tech :white_check_mark:"
-NG Tech :white_check_mark:
-Slot One :white_check_mark: 
-MGM Gamers :white_check_mark:
-ArmyTech :white_check_mark:
-Venex :white_check_mark:   
-Maximus
-*/
