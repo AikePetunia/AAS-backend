@@ -52,10 +52,23 @@ with open(common_path + 'paths_filtered.json') as f:
 
 # if the entry is the pages on the paths
 classes_by_page = defaultdict(list)
+# the coreScrapper need to know with what are we working
+valid_types = ["title", "link", "price", "image", "productWrapper", "isStocked", "cuotas"]
+
 for entry in data_classes:
-    page = entry.get('pageName')
-    if page:
-        classes_by_page[page].append(entry)
+    page_name = entry.get('pageName')
+    elements_ = entry.get('elements', [])
+
+
+    for elem in elements_:
+        tag = elem.get('tag')
+        for key in valid_types:
+            if key in elem:
+                value = elem[key]
+                classes_by_page[page_name].append({
+                    "tag": tag,
+                    key: value
+                })
 
 final_sites = []
 for path_entry in data_paths:

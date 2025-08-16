@@ -60,9 +60,9 @@ def validate_types(elements):
             if key in el:
                 validations[key] += 1
 
-    isError = validations["title"] == 0 & validations["link"] == 0
-    isWarning = validations["price"] == 0 & validations["productWrapper"] == 0  & validations["price"] == 0
-    isAlert = validations["cuotas"] == 0 & validations["isStocked"] == 0
+    isError = validations["title"] == 0 | validations["link"] == 0
+    isWarning = validations["price"] == 0 | validations["productWrapper"] == 0  | validations["price"] == 0 | validations['image'] == 0
+    isAlert = validations["cuotas"] == 0 | validations["isStocked"] == 0
 
     return {
             "validations": validations,
@@ -84,7 +84,7 @@ for _, row in filtered_df.iterrows():
     grouped[page]['elements'].append({
         "tag": row['tag'],
         row['pred_type']: row['class'],
-        "text_preview": row["text_preview"], # only to see the content
+        # "text_preview": row["text_preview"], # only to see the content
     })
 
 grouped_list = list(grouped.values())
