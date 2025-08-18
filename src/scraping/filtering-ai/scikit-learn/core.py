@@ -55,21 +55,48 @@ classes_by_page = defaultdict(list)
 # the coreScrapper need to know with what are we working
 valid_types = ["title", "link", "price", "image", "productWrapper", "isStocked", "cuotas"]
 
+# (Add a '.' to the start of each class)?
+# ! TODO: do not repeat the same classes and tags.
+"""
+// Current (incorrect):
+{
+  "image": ".img-fluid p-4 mh-100 img"
+  "title": ".card-title mb-1 h-40* h4"
+  "price": ".mt-0 pecio_final ft h4"
+}
+
+// Should be:
+{
+  "image": ".img-fluid.p-4.mh-100 img"
+  "title": ".card-title.mb-1.h-40 h4"  // also remove the * 
+  "price": ".mt-0.pecio_final.ft h4"
+}
+"""
+
 for entry in data_classes:
     page_name = entry.get('pageName')
     elements_ = entry.get('elements', [])
 
-
+    seen_class = set()
+    seen_tag = set()
     for elem in elements_:
         tag = elem.get('tag')
         for key in valid_types:
             if key in elem:
-                value = elem[key]
-                classes_by_page[page_name].append({
-                    "tag": tag,
-                    key: value
-                })
+                class_ = elem[key]
+                format_class = "." + class_.replace(' ', '.').replace('*','')
+                combo = (key, format_class, tag)
 
+                if combo not in seen_class and class_:
+                    seen_class.add(combo)
+                    classes_by_page[page_name].append({
+                        key: f"{format_class} {tag}"
+                    })
+                elif tag not in seen_tag and not class_:
+                    seen_tag.add(tag)
+                    classes_by_page[page_name].append({
+                        key: tag
+                    })
 final_sites = []
 for path_entry in data_paths:
     page_name = path_entry.get("pageName")
@@ -87,7 +114,7 @@ for path_entry in data_paths:
         # "maxPages": 1
     })
 
-with open("./response/final_sites.json", "w", encoding="utf-8") as f:
+with open("response/final_sites_full.json", "w", encoding="utf-8") as f:
     json.dump(final_sites, f, indent=2, ensure_ascii=False)
 
 print("Finalizado el proceso !!!!! de hacer todo la puta madre !!")

@@ -7,6 +7,7 @@ import re
 with open('../playwright/resultsClasses/elements_by_pages.json', 'r') as f:
     data = json.load(f)
 
+
 rows = []
 for page in data:
     pageName = page["pageName"]
@@ -15,9 +16,9 @@ for page in data:
         rows.append({
             "pageName": pageName,
             "url": url,
-            "tag": element.get("tag", "") ,
+            "tag": element.get("tag", ""), # testing only
             "class": element.get("class", ""),
-            "text_preview": element.get("text_preview", "")
+            "text_preview": element.get("text_preview", "") # testing only
         })
 
 def pageName(domain):

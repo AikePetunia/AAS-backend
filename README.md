@@ -10,7 +10,7 @@ A web scraping project focused on finding the best prices across Argentinian tec
 I'll try my best to not put ads on the page, or sponsored brands and be transparent with the costs. 
 
 ## Tech Stack used so far
-- Html
+- Figma (?)
 - Css  
 - React + Typescript
 - Node + playwright
@@ -19,19 +19,21 @@ I'll try my best to not put ads on the page, or sponsored brands and be transpar
 ## General Roadmap (2025)
 - [X] Very basic front-end to show products
 - [X] Get paths and classes from pages with playwright to get datasets to train AI
-- [ ] Train AI to predict valid paths, classes from pages to automate scrappig new pages. [50%]
+- [X] Train AI to predict valid paths, classes from pages to automate scrappig new pages.
+- [ ] Learn figma, do the UI/UX 
 - [ ] Create a basic, styled and functional front-end, that only show products by category and Deploy a very first version.
 
 ## 💡 Future Features
 
 - [ ] Countdown for sales (hot sale, prime day, black friday)
-- [ ] Put services near you! (Pc builders, windows optimization, software recommendations)
+- [ ] Services near you (Pc builders, windows optimization, software recommendations)
 - [ ] A reputation system for companies, based on google reviews or a system like reddit (Basic, no account required). 
-- [ ] 3D interactive object on playcanvas to see deeply.
-- [ ] Account creation, to save products, build setups/pcs, etc. With pages recommendations to see the final build on your setup.
+- [ ] 3D interactive object on playcanvas.
+- [ ] Account creation, save products, build setups/pcs, etc. With pages recommendations to see the final build on your setup.
 
 ## Things learnt so far in the project 
-- Scikit-learn
+- Scikit-learn, LMM, and re-learned python
+- 
 
 ## ✨ Creator
 Made by [Venuss](https://venuss.me) 🇦🇷
@@ -39,3 +41,8 @@ Made by [Venuss](https://venuss.me) 🇦🇷
 si se que es algo argentino y hablo en inglés, pero tambien para practicar inglés ;)
 
 npm init playwright@latest
+
+todo:
+- [] re format files and names
+- [] centralize in one file the running of all the files required for the final response
+- [] make a final file with the errors, todo, thiungs to improve, how to handle non paths, non classes, etc

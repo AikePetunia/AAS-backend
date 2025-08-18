@@ -40,11 +40,11 @@ for _, row in df.iterrows():
 
     if grouped[p_name]['pageName'] is None:
         grouped[p_name]['pageName'] = p_name
-        grouped[p_name]['url'] = row['domain']
+        grouped[p_name]['url'] = row['domain'] #.rstrip('/')
 
     grouped[p_name]['paths'].append(row['path'])
 
-grouped_list = list(grouped.values()) # no name at the beggining if its a list and not a diccionary
+grouped_list = list(grouped.values()) # no name at the beggining if it's a list and not a diccionary
 
 with open("./response/filtered/paths_filtered.json", "w") as f:
     json.dump(grouped_list, f, indent=4, ensure_ascii=False)

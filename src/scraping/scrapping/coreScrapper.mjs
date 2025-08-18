@@ -28,10 +28,10 @@ export class Scraper {
         });
 
         const products = await this.extractProductsFromPage();
-        if (!products.length) {
-          console.log(`No products found for ${url}`);
-          continue;
-        }
+        // if (!products.length) {
+        //   console.log(`No products found for ${url}`);
+        //   continue;
+        // }
 
         allProducts = allProducts.concat(products);
       } catch (error) {
@@ -51,10 +51,28 @@ export class Scraper {
 
   async extractProductsFromPage() {
     const { elements } = this.config;
+  
+  // since elements - same as the paths - are arrays of objects
+  if (!elements || !Array.isArray(elements) || elements.length === 0) {
+    console.log(`No elements defined for ${this.config.pageName}`);
+    return [];
+  }
 
-    const isError = !elements.title || !elements.link;
-    const isWarning = !elements.price || !elements.productWrapper || !elements.image; 
-    const isAlert = !elements.cuotas || !elements.isStocked;
+  const selectors = {};
+  for (const element of elements) {
+
+    for (const [key, value] of Object.entries(element)) {
+      if (key === "type") continue;
+      
+      selectors[key] = value;
+    }
+  }
+  // problem that the classes doesn't start with the . so it cant be selected
+  // its not making use of the tags 
+  // its using only one class (must format my self)
+    const isError = !selectors.title || !selectors.link ; 
+    const isWarning = !selectors.price || !selectors.productWrapper || !selectors.image; 
+    const isAlert = !selectors.cuotas || !selectors.isStocked;
     const isOk = !isError && !isWarning && !isAlert;
     
     /*
@@ -68,12 +86,12 @@ export class Scraper {
     */
 
     try {
-      if (isError) {
-        console.log(`Missing critical selectors for ${this.config.pageName}`);
-        return [];
-      }
+      //if (isError) {  // checked before on runner.mjs
+      //  console.log(`Missing critical selectors for ${this.config.pageName}`);
+      //  return null;
+      // }
        if (isOk) {
-      return this.page.$$eval(elements.productWrapper, (products, sel) => {
+      return this.page.$$eval(selectors.productWrapper, (products, sel) => {
         return products
           .map((product) => {
             const title = product.querySelector(sel.title)?.innerText?.trim();
@@ -81,18 +99,19 @@ export class Scraper {
             const link = product.querySelector(sel.link)?.href;
             const image = product.querySelector(sel.image)?.src;
             const isStocked = product.querySelector(sel.isStocked)
-              
-            return { title, price: price, link, image,isStocked };
+            console.log("scrapped usins exhausitive succesfully")
+            return { title, price, link, image,isStocked };
           })
-      }, elements);
+          
+      }, selectors);
     } else {
       // "fallback", look on the full html despite the perfomance
-        console.log(`Using fallback selectors for ${this.config.pageName}`);
-        const titles = await this.page.$$eval(elements.title, 
+        console.log(`Using non exhausitive selectors for ${this.config.pageName}`);
+        const titles = await this.page.$$eval(selectors.title, 
           (els) => els.map(el => el.innerText.trim()));
-        const links = await this.page.$$eval(elements.link,
+        const links = await this.page.$$eval(selectors.link,
           (els) => els.map(el => el.href));
-        const prices = isWarning ? [] : await this.page.$$eval(elements.price,
+        const prices = isWarning ? [] : await this.page.$$eval(selectors.price,
           (els) => els.map(el => el.innerText.trim()));
         const products = [];
         for (let i = 0; i < Math.min(titles.length, links.length); i++) {
@@ -103,13 +122,13 @@ export class Scraper {
             image: "" 
           });
         }
-      
+      console.log("scrapped using non exhausitive succesfully")
       return products;
     }
   } catch (error) {
     console.error(`Error extracting products from ${this.config.pageName}:`, error);
     // await this.saveFullHtml(); // debugging
-    return [];
+    return null;
   }
   
 }

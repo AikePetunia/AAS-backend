@@ -12,42 +12,67 @@ const __filename = fileURLToPath(import.meta.url);		// url of current module
 const __dirname = path.dirname(__filename);				// directory of current module
 
 async function loadSite() {
-	try {
-		const sitesPath = path.resolve(__dirname, "../filtering-ai/response/final_sites.json");
+    try {
+        const sitesPath = path.resolve(__dirname, "../filtering-ai/scikit-learn/response/final_sites.json");
+        console.log("Loading sites from:", sitesPath); 
         
         const sitesData = await fs.readFile(sitesPath, "utf-8");
         const sitesArray = JSON.parse(sitesData);
-		const siteConfigs = {}
-		for (const site of sitesArray) {
-			siteConfigs[site.pageName] = new SiteConfig({
-				pageName: site.pageName,
-				siteImage: '',
-				baseUrl: site.baseUrl,
-				isPcComponent: site.isPcComponent,
-				isSetup: site.isSetup,
-				paths: site.paths,
-				elements: site.elements,
-				pagination: site.pagination,
-			})
-		}
+        console.log(`Loaded ${sitesArray.length} sites from JSON`); 
+        
+        const siteConfigs = {}
+        for (const site of sitesArray) {
+            siteConfigs[site.pageName] = new SiteConfig({
+                pageName: site.pageName,
+                siteImage: '',
+                baseUrl: site.baseUrl,
+                isPcComponent: site.isPcComponent,
+                isSetup: site.isSetup,
+                paths: site.paths,
+                elements: site.elements,
+                pagination: site.pagination,
+            })
+        }
 
-		return siteConfigs;
-	} catch (error) {
-   		console.error('Error loading sites from JSON:', error);
-		return null;
-	}
+        console.log(`Created ${Object.keys(siteConfigs).length} site configs`); 
+        return siteConfigs;
+    } catch (error) {
+           console.error('Error loading sites from JSON:', error);
+        return null;
+    }
 }
 
 async function main() {
 	const results = {};
 
 	try {
-			const loadedSite = await loadSite();
-			if (loadedSite === null) {
-				console.error(`Failed to load site configuration for ${loadedSite.pageName}`);
-			}
+		const loadedSite = await loadSite();
+		 if (loadedSite === null) {
+            console.error(`Failed to load site configurations`);
+            process.exit(1); 
+        }
 			
 		for (const [siteName, config] of Object.entries(loadedSite)) {
+			if (!config.elements || !Array.isArray(config.elements) || config.elements.length === 0) {
+                console.log(`Skipping ${siteName} - no elements defined for scraping`);
+                continue;
+            }
+
+			const selectors = {};
+            for (const element of config.elements) {
+                for (const [key, value] of Object.entries(element)) {
+                    if (key === "type" || key === "tag") continue;
+                    selectors[key] = value;
+                }
+            }
+            
+            const isError = !selectors.title || !selectors.link;
+            
+            if (isError) {
+                console.log(`Skipping ${siteName} - missing critical selectors (title or link)`);
+                continue;
+            }
+			
 			const scraper = new Scraper(config);
 			const products = await scraper.scrapeProducts();
 			results[siteName] = products;

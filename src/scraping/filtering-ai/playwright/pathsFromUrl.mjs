@@ -81,7 +81,9 @@ const getPaths = [
 	"https://www.elevecomponentes.com/",
 	"https://playhubshop.com.ar/",
 	"https://www.cuadrosmodernos.com.ar/",
-	"https://farbermuebles.com.ar/" // que carajos los precios kjj
+	"https://farbermuebles.com.ar/", // que carajos los precios kjj
+	// new ones, setup testing 18/8
+	"https://www.shibuyacomicstore.com.ar/",
 
 ];
 
@@ -154,7 +156,7 @@ export async function gourlex(page) {
 						// Filter out unwanted extensions
 						if (
 							!path.match(
-								/\.(php|html|png|jpg|jpeg|gif|css|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg)$/
+								/\.(js|php|html|png|jpg|jpeg|gif|css|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg)$/
 							)
 						) {
 							paths.add(path);
