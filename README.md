@@ -43,9 +43,9 @@ si se que es algo argentino y hablo en inglés, pero tambien para practicar ingl
 npm init playwright@latest
 
 todo:
-- [] re format files and names
-- [] centralize in one file the running of all the files required for the final response
-- [] make a final file with the errors, todo, thiungs to improve, how to handle non paths, non classes, etc
+- [ ] re format files and names
+- [ ] centralize in one file the running of all the files required for the final response
+- [ ] make a final file with the errors, todo, thiungs to improve, how to handle non paths, non classes, etc
 
 
 // things for my self on dev, idk why are u reading non important checkpoints xd
@@ -53,7 +53,5 @@ todo:
 The current status of this checkpoint or branch, is that using playwright after filtering all and have final_sites, it's giving a ton of null items because some classes fails. And i cant get a response (Currently not using tag.closest()).
 But, on classes, i already have all the info that i need, like Title, Price, Cuotas, Stocked, and nothing more else (NO link, NO image)
 
-Branch N1: branch/playwright-extracting
-    - Explore the tag.closest() option
-Branch N2: branch/classes-extracting
-    - Explore the classes option.
+# Branch N1: branch/playwright-extracting
+##     - Explore the tag.closest() option
