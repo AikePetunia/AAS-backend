@@ -85,7 +85,7 @@ for _, row in filtered_df.iterrows():
     grouped[page]['elements'].append({
         "tag": row['tag'],
         row['pred_type']: row['class'],
-        # "text_preview": row["text_preview"], # only to see the content
+        "text_preview": row["text_preview"], # only to see the content
     })
 
 grouped_list = list(grouped.values())

@@ -21,9 +21,9 @@ export class Scraper {
          const url = this.buildUrl(currentPath);
           console.log(`Scraping ${this.config.pageName}: ${url}`);
 
-          try {
+        try {
         await this.page.goto(url, {
-          timeout: this.config.timeout ,
+          timeout: this.config.timeout,
           waitUntil: "networkidle",
         });
 
@@ -49,8 +49,8 @@ export class Scraper {
     return allProducts;
   }
 
-  async extractProductsFromPage() {
-    const { elements } = this.config;
+async extractProductsFromPage() {
+  const { elements } = this.config;
   
   // since elements - same as the paths - are arrays of objects
   if (!elements || !Array.isArray(elements) || elements.length === 0) {
@@ -60,20 +60,16 @@ export class Scraper {
 
   const selectors = {};
   for (const element of elements) {
-
     for (const [key, value] of Object.entries(element)) {
       if (key === "type") continue;
-      
       selectors[key] = value;
     }
   }
-  // problem that the classes doesn't start with the . so it cant be selected
-  // its not making use of the tags 
-  // its using only one class (must format my self)
-    const isError = !selectors.title || !selectors.link ; 
-    const isWarning = !selectors.price || !selectors.productWrapper || !selectors.image; 
-    const isAlert = !selectors.cuotas || !selectors.isStocked;
-    const isOk = !isError && !isWarning && !isAlert;
+
+  const isError = !selectors.title || !selectors.link ; 
+  const isWarning = !selectors.price || !selectors.productWrapper || !selectors.image; 
+  const isAlert = !selectors.cuotas || !selectors.isStocked;
+  const isOk = !isError && !isWarning && !isAlert;
     
     /*
       Error handling: 
@@ -86,11 +82,9 @@ export class Scraper {
     */
 
     try {
-      //if (isError) {  // checked before on runner.mjs
-      //  console.log(`Missing critical selectors for ${this.config.pageName}`);
-      //  return null;
-      // }
-       if (isOk) {
+      console.log("trying...")
+      // if (isError) {  // checked before on runner.mjs
+      if (isOk) {
       return this.page.$$eval(selectors.productWrapper, (products, sel) => {
         return products
           .map((product) => {
@@ -106,13 +100,22 @@ export class Scraper {
       }, selectors);
     } else {
       // "fallback", look on the full html despite the perfomance
+
+      /* thougths:
+        - it fails A LOT with the code rn, because some classes are failing.
+        - the title or some tag can be used as a anchor to look for closes tags that MAY contain the things.
+      */
+
         console.log(`Using non exhausitive selectors for ${this.config.pageName}`);
         const titles = await this.page.$$eval(selectors.title, 
           (els) => els.map(el => el.innerText.trim()));
+        // console.log("productos:", titles)
         const links = await this.page.$$eval(selectors.link,
           (els) => els.map(el => el.href));
+          // console.log("some links", links)
         const prices = isWarning ? [] : await this.page.$$eval(selectors.price,
           (els) => els.map(el => el.innerText.trim()));
+          // console.log("some prices", prices)
         const products = [];
         for (let i = 0; i < Math.min(titles.length, links.length); i++) {
           products.push({
@@ -123,15 +126,17 @@ export class Scraper {
           });
         }
       console.log("scrapped using non exhausitive succesfully")
+      // console.log(`Some products of ${this.config.pageName}:`, products)
       return products;
     }
   } catch (error) {
+    // error, can't have a "." after class name. 
     console.error(`Error extracting products from ${this.config.pageName}:`, error);
     // await this.saveFullHtml(); // debugging
-    return null;
+    return null; // ! it's droping here ;-;
   }
-  
 }
+
 /*
 async saveFullHtml() {
   try {

@@ -55,39 +55,26 @@ classes_by_page = defaultdict(list)
 # the coreScrapper need to know with what are we working
 valid_types = ["title", "link", "price", "image", "productWrapper", "isStocked", "cuotas"]
 
-# (Add a '.' to the start of each class)?
-# ! TODO: do not repeat the same classes and tags.
-"""
-// Current (incorrect):
-{
-  "image": ".img-fluid p-4 mh-100 img"
-  "title": ".card-title mb-1 h-40* h4"
-  "price": ".mt-0 pecio_final ft h4"
-}
-
-// Should be:
-{
-  "image": ".img-fluid.p-4.mh-100 img"
-  "title": ".card-title.mb-1.h-40 h4"  // also remove the * 
-  "price": ".mt-0.pecio_final.ft h4"
-}
-"""
-
 for entry in data_classes:
     page_name = entry.get('pageName')
     elements_ = entry.get('elements', [])
 
     seen_class = set()
     seen_tag = set()
+    seen_type = set()
     for elem in elements_:
         tag = elem.get('tag')
         for key in valid_types:
             if key in elem:
                 class_ = elem[key]
                 format_class = "." + class_.replace(' ', '.').replace('*','')
-                combo = (key, format_class, tag)
+                # some classes are finishing with the .
+                if format_class.endswith("."):
+                    format_class = format_class[:-1]
 
-                if combo not in seen_class and class_:
+                # there are some dupes like price
+                combo = (key, format_class, tag)
+                if combo not in seen_class and class_ :
                     seen_class.add(combo)
                     classes_by_page[page_name].append({
                         key: f"{format_class} {tag}"
@@ -97,6 +84,7 @@ for entry in data_classes:
                     classes_by_page[page_name].append({
                         key: tag
                     })
+
 final_sites = []
 for path_entry in data_paths:
     page_name = path_entry.get("pageName")
@@ -119,8 +107,3 @@ with open("response/final_sites_full.json", "w", encoding="utf-8") as f:
 
 print("Finalizado el proceso !!!!! de hacer todo la puta madre !!")
 
-"""
-Ok, pensamientos "como una version de 0.1.0":
-Si bien, cuando scrapeo las cosas, me está dando 23 titles, 0 links, 3 cuotas, etc. Informacion o disuelta, mucha info, o poca, o asi (mejor visto en stats de classes_classification)
-Idealmente seria algo automatica, (ahora en este proceso es semi, ya que la validacion final la hago yo), pero, me brinda lo suficiente para no entrar pagina por pagina y ver todo.
-"""

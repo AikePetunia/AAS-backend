@@ -269,6 +269,7 @@ export async function ElementsFromPaths() {
 						"Cerrar",
 					];
 
+					// ! some way it's exctracting the "data-store" or "data-thing"
 					const tagForbidden = forbiddenElements.includes(element.tagName.toLowerCase());
 
 					// some classes are not strings

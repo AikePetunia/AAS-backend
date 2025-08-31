@@ -48,13 +48,13 @@
         "title": ".js-item-name.product-item-name.mb-2 div"
       },
       {
-        "price": ".js-price-display.product-item-price. span"
+        "price": ".js-price-display.product-item-price span"
       },
       {
-        "price": ".js-payment-discount-price-product.payment-discount-price-product. span"
+        "price": ".js-payment-discount-price-product.payment-discount-price-product span"
       },
       {
-        "link": ".product-item-link. a"
+        "link": ".product-item-link a"
       }
     ]
   },
@@ -207,13 +207,6 @@
     "isPcComponent": false,
     "isSetup": false,
     "paths": [
-      "/feed/",
-      "/comments/feed/",
-      "/wp-json/",
-      "/wp-json/wp/v2/pages/15",
-      "/wp-json/oembed/1.0/embed",
-      "/cuenta/lost-password/",
-      "/politica-de-devoluciones-y-reembolsos/",
       "/p/73432/mother-gigabyte-lga-1851-b860m-e/",
       "/p/73600/mother-gigabyte-am5-b650-a-elite-ax-v2/",
       "/p/73588/mother-gigabyte-am4-b550i-aorus-pro-ax/",
@@ -246,12 +239,6 @@
       "/p/49540/mouse-trust-primo-wireless-bk/",
       "/p/71776/mouse-genius-rs2-eco-8150-black-grey/",
       "/p/71560/procesador-amd-am5-ryzen-9-9950x/",
-      "//fonts.googleapis.com",
-      "/colab-logitech",
-      "/colab-aorus",
-      "/colab-asus",
-      "/colab-solarmax",
-      "/ayuda",
       "/c/micros",
       "/c/mothers",
       "/c/placas-de-video",
@@ -311,12 +298,6 @@
     "isPcComponent": false,
     "isSetup": false,
     "paths": [
-      "/feed/",
-      "/comments/feed/",
-      "/wp-json/",
-      "/wp-json/wp/v2/pages/11",
-      "/wp-json/oembed/1.0/embed",
-      "/ingresar/",
       "/categoria/pc-gamer/",
       "/categoria/pc-gamer/gama-alta/",
       "/categoria/pc-gamer/gama-baja/",
@@ -391,8 +372,6 @@
       "/categoria/tecnologia/tablet-tecnologia/",
       "/categoria/tecnologia/impresora/",
       "/PCArmada/",
-      "/razer/",
-      "/corsair/",
       "/pcarmada/",
       "/producto/gabinete-kit/",
       "/producto/fuente-gamer-aureox-550w-bronze-80psu/",
@@ -402,14 +381,6 @@
       "/producto/mother-asus-lga1700-prime-b860m-a/",
       "/producto/mother-gigabyte-h510m-h-1200/",
       "/producto/placa-de-video-gt-1030-2gb-gigabyte-lp/",
-      "/garantia/",
-      "/informar-pago/",
-      "/politica-de-privacidad/",
-      "//cdn.jsdelivr.net",
-      "//www.google.com",
-      "//fonts.googleapis.com",
-      "/favoritos/",
-      "/armatupc/",
       "/categoria/mouses/",
       "/categoria/mouses/mouses-gamer/",
       "/categoria/conectividad/"
@@ -663,11 +634,7 @@
       "/productos/pack-50-stickers-pokemon/",
       "/productos/pack-50-stickers-blue-lock/",
       "/productos/pack-50-stickers-chainsawman/",
-      "/golosinas-snacks-bebidas/",
-      "/otros/",
-      "/blog/",
-      "/productos/",
-      "/contacto/"
+      "/golosinas-snacks-bebidas/"
     ],
     "elements": []
   }
