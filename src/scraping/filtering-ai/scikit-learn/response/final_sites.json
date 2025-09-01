@@ -44,17 +44,8 @@
       "/productos/"
     ],
     "elements": [
-      {
-        "title": ".js-item-name.product-item-name.mb-2 div"
-      },
-      {
-        "price": ".js-price-display.product-item-price span"
-      },
-      {
-        "price": ".js-payment-discount-price-product.payment-discount-price-product span"
-      },
-      {
-        "link": ".product-item-link a"
+       {
+        "title": ".js-item-name.item-name.mb-3 div"
       }
     ]
   },

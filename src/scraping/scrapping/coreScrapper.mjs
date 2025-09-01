@@ -1,4 +1,5 @@
 import { chromium } from "playwright";
+import { text } from "stream/consumers";
 
 export class Scraper {
   constructor(config) {
@@ -66,24 +67,13 @@ async extractProductsFromPage() {
     }
   }
 
-  const isError = !selectors.title || !selectors.link ; 
-  const isWarning = !selectors.price || !selectors.productWrapper || !selectors.image; 
+  const isError = !selectors.title ; 
+  const isWarning = !selectors.price || !selectors.productWrapper || !selectors.image || !selectors.link ; 
   const isAlert = !selectors.cuotas || !selectors.isStocked;
   const isOk = !isError && !isWarning && !isAlert;
-    
-    /*
-      Error handling: 
-       the response its needed when it's not an error. 
-       isWarning, isAlert, isOk, can give the full response, and notify the not founded elements/error elements/no elements
-       on the same function (i know that the error are notified on classes_classification.py)
-       but this are the real results.
-       So i think that the best aproach right here is to create a function, that depending the error
-       can give an answer or not, and adding to a stat.
-    */
 
     try {
       console.log("trying...")
-      // if (isError) {  // checked before on runner.mjs
       if (isOk) {
       return this.page.$$eval(selectors.productWrapper, (products, sel) => {
         return products
@@ -99,41 +89,165 @@ async extractProductsFromPage() {
           
       }, selectors);
     } else {
-      // "fallback", look on the full html despite the perfomance
-
-      /* thougths:
-        - it fails A LOT with the code rn, because some classes are failing.
-        - the title or some tag can be used as a anchor to look for closes tags that MAY contain the things.
-      */
-
+      // "fallback", look for elements based on a anchor element
         console.log(`Using non exhausitive selectors for ${this.config.pageName}`);
-        const titles = await this.page.$$eval(selectors.title, 
-          (els) => els.map(el => el.innerText.trim()));
-        // console.log("productos:", titles)
-        const links = await this.page.$$eval(selectors.link,
-          (els) => els.map(el => el.href));
-          // console.log("some links", links)
-        const prices = isWarning ? [] : await this.page.$$eval(selectors.price,
-          (els) => els.map(el => el.innerText.trim()));
-          // console.log("some prices", prices)
-        const products = [];
-        for (let i = 0; i < Math.min(titles.length, links.length); i++) {
-          products.push({
-            title: titles[i],
-            link: links[i],
-            price: i < prices.length ? prices[i] : "Consultar precio",
-            image: "" 
-          });
+
+        // (priority: title > price > link > image)
+        function anchorCandidate(sel) {
+          if(!sel) return true;
+          const s = sel.trim()
+          return s === 'a' || s === 'img' || s === 'span' || s === 'div' || /^h[1-6]$/.test(s);
         }
+
+        function pickAnchor(sel) {
+          const candidates = [sel.title, sel.price, sel.link, sel.image]
+          const finalCandidate = candidates.find(s => s && !anchorCandidate(s)) || candidates.find(Boolean) || null
+          console.log("final candidate", finalCandidate)
+          return finalCandidate;
+        }
+
+        const anchorSelector = pickAnchor(selectors);
+        if (!anchorSelector) return [];
+
+        const products = await this.page.$$eval(anchorSelector, (anchorEls, sel) => {
+          console.log("using closer selectors")
+
+          const getText = el => (el?.innerText || el?.textContent || '').trim();
+
+          const findNearElement = (el, css, maxUp=5) => {
+            let node = el;
+            /* if element not found,  look for the parent */
+            for (let i = 0; i <= maxUp && node; i++) {
+              const found = node.querySelector?.(css) 
+              if (found) return found
+              node = node.parentElement;
+            }
+            return null;  
+          }
+
+          const findNearWithText = (el, textPattern='', maxUp=5) => {
+            if (!textPattern) return null;
+
+            const pattern = textPattern ? (
+            typeof textPattern === 'string' 
+                ? new RegExp(textPattern.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i')
+                : textPattern
+              ) : null;
+          
+          const matchesText = element => {
+            if (!pattern) return false;
+            const text = (element.innerText || element.textContent || '').trim();
+            // executes the search of the text, if exists returns true.
+            return pattern.test(text)
+          }
+
+          if ((pattern && matchesText(el))) {
+            // if matches exact, returns the exact
+            if (matchesText(el)) {
+              return el;
+            } else {
+              // returns the childres if it's not found
+              const children = Array.from(el.children || []);
+              const textChild = children.find(matchesText);
+              if (textChild) {
+                return textChild;
+              } else {
+                // 
+                const allDescendants = Array.from(el.querySelectorAll('*') || []);
+                const textMatch = allDescendants.find(matchesText);
+                if (textMatch) return textMatch;
+              }
+            } 
+          }
+
+          let currentNode = el.parentElement;
+          if (el.parentElement) {
+            const siblings = Array.from(el.parentElement.children);
+
+            for (const sibling of siblings) {
+              if (sibling === el) continue;
+              
+              if ((pattern && matchesText(sibling))) {
+                return sibling;
+              }
+
+              // checks the siblings, and if it contains something with the text, then pick it
+              if (pattern) {
+                const siblingDescendants = Array.from(sibling.querySelectorAll('*') || []);
+                const textMatch = siblingDescendants.find(matchesText);
+                if (textMatch) return textMatch;
+              }
+
+            }
+            currentNode = currentNode.parentElement;
+          }
+          return null;
+        }
+
+          return Array.from(anchorEls).slice(0, 60).map(el => {
+            const title = sel.title
+                ? (el.matches?.(sel.title) ? el : (el.querySelector?.(sel.title) || findNearElement(el, sel.title)))
+                : null;
+
+            const linkEl = el.closest('a[href]') || findNearElement(el, 'a[href]');
+            let link = linkEl?.href || null;
+            
+            if (link && (link.startsWith('javascript:') || link.endsWith('#'))) {
+              link = null;
+            }
+
+            const priceEl = sel.price ? (el.querySelector?.(sel.price) || findNearElement(el, sel.price))  : findNearWithText(
+                            el, 
+                            /(?:\$|USD|ARS|AR\$|U\$S|U\$D|pesos?|dólares?)\s*[\d.,]+|[\d.,]+\s*(?:\$|USD|ARS|pesos?|dólares?)/i,
+                            '.price,[class*="price"],[class*="precio"],[itemprop="price"]'
+                          );
+
+            const imgEl = (sel.image && (el.querySelector?.(sel.image) || findNearElement(el, sel.image)))
+                        || findNearElement(el, 'img,[data-src],[data-original]') || findNearWithText(
+                          el, 
+                          '', 
+                          'img[src],[data-src],[data-lazy-src],[data-original],[data-lazy],[class*="product-image"]'
+                        );
+            
+            const image = (imgEl?.currentSrc)
+                || imgEl?.getAttribute?.('src')
+                || imgEl?.getAttribute?.('data-src')
+                || imgEl?.getAttribute?.('data-original')
+                || null;
+
+                const stockEl  = sel.isStocked ? (el.querySelector?.(sel.isStocked) || findNearElement(el, sel.isStocked)) : findNearWithText(
+                                el, 
+                                /(?:en stock|disponible|in stock|out of stock|sin stock|agotado|no disponible|consultar|consulte|sold out)/i,
+                                '[class*="stock"],[class*="availability"],[class*="disponib"]'
+                              );
+
+                const cuotasEl = sel.cuotas    ? (el.querySelector?.(sel.cuotas)    || findNearElement(el, sel.cuotas))    : null;
+
+                const isStocked = stockEl ? getText(stockEl) : null;  
+                const cuotas    = cuotasEl ? getText(cuotasEl) : null;
+
+                if (!titleText || !link) return null;
+
+              return {
+                title: title ? getText(title) : null, 
+                price: priceEl ? getText(priceEl) : 'Consultar precio',
+                link: linkEl?.href || null,
+                image,
+                cuotas,
+                isStocked
+              };
+          });
+          }, selectors)
+
       console.log("scrapped using non exhausitive succesfully")
-      // console.log(`Some products of ${this.config.pageName}:`, products)
+      console.log(`Some products of ${this.config.pageName}:`, products)
       return products;
     }
-  } catch (error) {
+   } catch (error) {
     // error, can't have a "." after class name. 
     console.error(`Error extracting products from ${this.config.pageName}:`, error);
     // await this.saveFullHtml(); // debugging
-    return null; // ! it's droping here ;-;
+    return []; // ! it's droping here ;-;
   }
 }
 

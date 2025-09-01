@@ -273,8 +273,7 @@ export async function ElementsFromPaths() {
 					const tagForbidden = forbiddenElements.includes(element.tagName.toLowerCase());
 
 					// some classes are not strings
-					const classNameStr = element.className ? element.className.toString() : "";
-					const classForbidden = forbiddenClasses.some((forbiddenClass) =>
+					const classNameStr = Array.from(element.classList || []).join(' ');					const classForbidden = forbiddenClasses.some((forbiddenClass) =>
 						classNameStr.includes(forbiddenClass)
 					);
 
@@ -307,6 +306,7 @@ export async function ElementsFromPaths() {
 				let pageProcessed = 0;
 				let pageFiltered = 0;
 
+				// sometimes it was extraciting this that are not a class, like data, or others.
 				domElements.forEach((element) => {
 					pageProcessed++;
 					const filterResult = filterElement(element);
@@ -315,7 +315,7 @@ export async function ElementsFromPaths() {
 						// TODO se debe devolver como string, ya que el csv puede pensar que son más columnas
 						elements.push({
 							tag: element.tagName.toLowerCase(),
-							class: element.className ? element.className.toString() : "",
+							class: Array.from(element.classList || []).join(' '),
 							text_preview: element.textContent?.trim().substring(0, 100) || "",
 							// is_valid: 0,		commented, only for training
 							// type: "",		commented, only for training
