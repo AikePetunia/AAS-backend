@@ -74,7 +74,7 @@ const pathsData = [
 
 
 ];
-console.log("paginas: ", pathsData.length);
+console.log("PAGES: ", pathsData.length);
 
 export async function ElementsFromPaths() {
 	const allPages = [];
@@ -291,6 +291,7 @@ export async function ElementsFromPaths() {
 					const hasNoClassName = !element.className;
 
 					// Allow img, anchor, and content tags even without className
+					// helps to ai to improve a little bit
 					if (
 						classForbidden ||
 						tagForbidden ||
@@ -317,6 +318,12 @@ export async function ElementsFromPaths() {
 							tag: element.tagName.toLowerCase(),
 							class: element.className ? element.className.toString() : "",
 							text_preview: element.textContent?.trim().substring(0, 100) || "",
+							href:
+								element.tagName.toLowerCase() === "a"
+									? element.getAttribute("href")
+									: element.tagName.toLowerCase() === "img"
+										? element.getAttribute("src")
+										: "", // testing
 							// is_valid: 0,		commented, only for training
 							// type: "",		commented, only for training
 						});
@@ -337,8 +344,8 @@ export async function ElementsFromPaths() {
 			//const parts = url.hostname.replace('www', "").split('.');
 			//const pageName = parts.slice(0, -1).join('.')
 
-			const formatDomain = new URL(path).hostname.replace('www.', '');
-			const pageName = formatDomain.replace(/\.(com|ar|net|com\.ar)$/, '');
+			const formatDomain = new URL(path).hostname.replace("www.", "");
+			const pageName = formatDomain.replace(/\.(com|ar|net|com\.ar)$/, "");
 
 			totalFiltered += stats.filtered;
 			totalProcessed += stats.processed;
@@ -381,15 +388,16 @@ export async function ElementsFromPaths() {
 			return '"' + stringField + '"';
 		}
 
-		const csvColumns = ['"tag","class","text_preview","is_valid","type"'];
+		const csvColumns = ['"tag","class","text_preview","href","is_valid","type"'];
 
 		allElements.forEach((element) => {
 			const row = [
 				escapeCsvField(element.tag),
 				escapeCsvField(element.class),
 				escapeCsvField(element.text_preview),
-				//element.is_valid,		commented, only for training
-				//element.type, 		commented, only for training
+				escapeCsvField(element.href), // testing links
+				//element.is_valid,        commented, only for training
+				//element.type,            commented, only for training
 			].join(",");
 
 			csvColumns.push(row);

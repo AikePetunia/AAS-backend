@@ -8,6 +8,11 @@ with open('../playwright/resultsClasses/elements_by_pages.json', 'r') as f:
     data = json.load(f)
 
 
+    """
+        if tag "a" o "img" o antes de la clase, es a, que tenga href y lo clenee
+        "[0-9 y no se como hacer para q detecte que sean mas de 4 cifras, contenga . y $ xd]"
+    """
+
 rows = []
 for page in data:
     pageName = page["pageName"]
@@ -18,8 +23,10 @@ for page in data:
             "url": url,
             "tag": element.get("tag", ""), # testing only
             "class": element.get("class", ""),
-            "text_preview": element.get("text_preview", "") # testing only
+            "text_preview": element.get("text_preview", "").replace('EN STOCK', ''),
+            "href": element.get('href', '')
         })
+
 
 def pageName(domain):
     parsed = urlparse(domain)
@@ -45,7 +52,6 @@ df['pred_type'] = preds[:, 1]
 filtered_df = df[(df['pred_is_valid'] == "1") & (df['pred_type'] != 'nan')]
 
 def validate_types(elements):
-
     validations = {
         "title": 0,
         "link": 0,
@@ -82,11 +88,37 @@ for _, row in filtered_df.iterrows():
         grouped[page]['pageName'] = p_name
         grouped[page]['url'] = row['url']
 
-    grouped[page]['elements'].append({
-        "tag": row['tag'],
-        row['pred_type']: row['class'],
-        "text_preview": row["text_preview"], # only to see the content
-    })
+    item = {
+        "tag": row["tag"],
+        row["pred_type"]: row["class"],
+        "text_preview": row["text_preview"],
+        **(
+            {"href": row.get("href")} if (row["pred_type"] == "link" and pd.notna(row.get("href")))
+            else ({"src": row.get("src")} if (row["pred_type"] == "image" and pd.notna(row.get("src")))
+                  else {})
+        ),
+    }
+    grouped[page]['elements'].append(item)
+
+    # classes is no longer being used for this version
+    # row["pred_type"]: row["class"],
+    """
+    item = {
+        "tag": row["tag"],
+        "text_preview": row["text_preview"],
+        **(
+            {(row["pred_type"]): if (row["pred_type"] == 'price') -> row["text_preview"] # y que solo contenga numeros y el precio, nada mas}
+            # el otro caso, seria que si el pred type es title, que limpie si tiene numeros como el precio
+            # otro caso, que quede pred type y el text preview
+          ),
+        **(
+            {"href": row.get("href")} if (row["pred_type"] == "link" and pd.notna(row.get("href")))
+            else ({"src": row.get("src")} if (row["pred_type"] == "image" and pd.notna(row.get("href")))
+                  else {})
+        ),
+    }
+    grouped[page]['elements'].append(item)
+     """
 
 grouped_list = list(grouped.values())
 countError = countWarning = countAlert = countOk = 0
