@@ -80,7 +80,7 @@
 				"image": ".attachment-us_1080_1080.size-us_1080_1080.wp-post-image img"
 			},
 			{
-				"title": ".w-post-elm.post_title span"
+				"title": ".w-post-elm span"
 			},
 			{
 				"link": "a"
@@ -186,16 +186,16 @@
 		],
 		"elements": [
 			{
-				"price": ".woocommerce-Price-amount.amount span"
+				"price": ".woocommerce-Price-amount span"
 			},
 			{
-				"image": ".attachment-us_300_300_crop.size-us_300_300_crop.wp-post-image img"
+				"image": ".attachment-us_300_300_crop img"
 			},
 			{
-				"title": ".w-post-elm.post_title.usg_post_title_2.has_text_color.woocommerce-loop-product__title.color_link_inherit h2"
+				"title": ".w-post-elm h2"
 			},
 			{
-				"price": ".w-hwrapper.usg_hwrapper_2.align_none.valign_middle div"
+				"price": ".w-hwrapper div"
 			}
 		]
 	},
