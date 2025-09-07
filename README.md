@@ -51,7 +51,9 @@ todo:
 // things for my self on dev, idk why are u reading non important checkpoints xd
 - 31/8/25. Created two branches, bc of this:
 The current status of this checkpoint or branch, is that using playwright after filtering all and have final_sites, it's giving a ton of null items because some classes fails. And i cant get a response (Currently not using tag.closest()).
-But, on classes, i already have all the info that i need, like Title, Price, Cuotas, Stocked, and nothing more else (NO link, NO image)
+
+# literally, i surrender. It doesn't return anything useful, too complex for 1 in 35 useful responses . IS HSIT !!!!!
+
 
 # Branch N1: branch/playwright-extracting
 ##     - Explore the tag.closest() option
