@@ -2686,13 +2686,10 @@
         "cuotas": ".precio-de-lista div"
       },
       {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-3882.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
+        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-1825.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
         "productWrapper": ".product-miniature.product-miniature-default.product-miniature-grid.product-miniature-layout-1.js-product-miniature article"
-      },
-      {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-1825.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-1117.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
@@ -2704,22 +2701,13 @@
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5402.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5240.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
-      },
-      {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-1055.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
-      },
-      {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5154.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
-      },
-      {
-        "price": ".price-countdown.badge-discount.discount div"
-      },
-      {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-1658.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-1437.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
+      },
+      {
+        "price": ".product-price-and-shipping div"
       },
       {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-1659.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
@@ -2728,10 +2716,10 @@
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5366.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5441.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
+        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5500.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
-        "price": ".product-price-and-shipping div"
+        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5441.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5379.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
@@ -2749,25 +2737,22 @@
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5162.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5407.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
-      },
-      {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5405.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5404.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
+        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5407.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
+      },
+      {
+        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-4942.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
+      },
+      {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5440.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5243.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
-      },
-      {
-        "price": ".regular-price.text-muted span"
-      },
-      {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5367.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
+        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5474.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-1501.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
@@ -2776,7 +2761,7 @@
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5429.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
-        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-4942.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
+        "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5367.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
       },
       {
         "productWrapper": ".js-product-miniature-wrapper.js-product-miniature-wrapper-5439.........col-6.col-md-6.col-lg-4.col-xl-3.... div"
@@ -3053,13 +3038,13 @@
         "title": ".product-box-title h3"
       },
       {
-        "link": "a"
-      },
-      {
         "link": ".product-box-price.clearfix a"
       },
       {
         "price": ".current-price span"
+      },
+      {
+        "link": "a"
       }
     ]
   },
@@ -3109,16 +3094,7 @@
     ],
     "elements": [
       {
-        "title": ".js-item-name.product-item-name.mb-2 div"
-      },
-      {
-        "price": ".js-price-display.product-item-price span"
-      },
-      {
-        "price": ".js-payment-discount-price-product.payment-discount-price-product span"
-      },
-      {
-        "link": ".product-item-link a"
+        "title": ".js-item-name.item-name.mb-3 div"
       }
     ]
   },
@@ -3161,6 +3137,9 @@
       },
       {
         "price": ".money span"
+      },
+      {
+        "price": ".transfer-price span"
       }
     ]
   },
@@ -3252,13 +3231,10 @@
     ],
     "elements": [
       {
+        "price": "span"
+      },
+      {
         "title": ".js-item-name.item-name.mb-3 div"
-      },
-      {
-        "cuotas": "span"
-      },
-      {
-        "link": ".item-link a"
       }
     ]
   },
@@ -3408,19 +3384,22 @@
     ],
     "elements": [
       {
-        "price": ".js-price-display.product-item-price span"
-      },
-      {
         "price": ".js-payment-discount-price-product.payment-discount-price-product span"
       },
       {
-        "title": ".js-item-name.product-item-name.mb-2 div"
+        "title": ".js-item-name.item-name.mt-1.mb-3.opacity-80 div"
       },
       {
-        "link": ".product-item-link a"
+        "title": ".js-item-description.item-description div"
       },
       {
-        "title": ".product-item-link a"
+        "title": ".item-link a"
+      },
+      {
+        "link": ".js-item-description.item-description div"
+      },
+      {
+        "link": ".item-link a"
       }
     ]
   },
@@ -3832,10 +3811,10 @@
     ],
     "elements": [
       {
-        "price": ".andes-money-amount.andes-money-amount--cents-superscript span"
+        "link": ".poly-component__title a"
       },
       {
-        "link": ".poly-component__title a"
+        "price": ".andes-money-amount.andes-money-amount--cents-superscript span"
       },
       {
         "image": ".poly-component__picture.lazy-loadable img"
@@ -3871,13 +3850,13 @@
         "image": ".img-responsive.img-center.img-tienda img"
       },
       {
+        "price": ".price.pull-left.precio_web h3"
+      },
+      {
         "link": "h2"
       },
       {
         "link": ".click a"
-      },
-      {
-        "price": ".price.pull-left.precio_web h3"
       },
       {
         "title": ".click a"
@@ -4247,9 +4226,6 @@
       },
       {
         "link": "a"
-      },
-      {
-        "price": ".price div"
       }
     ]
   },
@@ -4356,10 +4332,10 @@
         "price": ".price-promo span"
       },
       {
-        "title": "h3"
+        "price": ".price div"
       },
       {
-        "price": ".price div"
+        "title": "h3"
       }
     ]
   },
@@ -4577,6 +4553,9 @@
       },
       {
         "price": ".price span"
+      },
+      {
+        "price": ".price-wrapper div"
       }
     ]
   },
@@ -5293,16 +5272,16 @@
         "title": ".w-post-elm.post_title.usg_post_title_1.has_text_color.woocommerce-loop-product__title.color_link_inherit.wp-dark-mode-bg-image h2"
       },
       {
-        "link": ".wp-dark-mode-bg-image a"
+        "price": ".w-post-elm.product_field.price.usg_product_field_3.has_text_color.wp-dark-mode-bg-image p"
       },
       {
         "price": ".woocommerce-Price-amount.amount.wp-dark-mode-bg-image span"
       },
       {
-        "link": ".icon-list.wp-dark-mode-bg-image ul"
+        "link": ".wp-dark-mode-bg-image a"
       },
       {
-        "price": ".w-post-elm.product_field.price.usg_product_field_3.has_text_color.wp-dark-mode-bg-image p"
+        "link": ".icon-list.wp-dark-mode-bg-image ul"
       }
     ]
   },
@@ -5423,19 +5402,19 @@
         "image": ".img-fluid.p-0.mh-100 img"
       },
       {
+        "productWrapper": ".card.card-ecommerce.mt-0.ta-c div"
+      },
+      {
         "image": ".img-fluid.p-4.mh-100 img"
       },
       {
         "title": ".card-title.mb-1.h-40 h4"
       },
       {
-        "price": ".mt-0.pecio_final.ft h4"
-      },
-      {
-        "productWrapper": ".card.card-ecommerce.mt-0.ta-c div"
-      },
-      {
         "link": "a"
+      },
+      {
+        "price": ".mt-0.pecio_final.ft h4"
       }
     ]
   },
@@ -5615,6 +5594,9 @@
       },
       {
         "price": ".mt-0.pecio_final.ft h4"
+      },
+      {
+        "price": ".price div"
       }
     ]
   },
@@ -6025,20 +6007,7 @@
       "/productos/grip/",
       "/productos/velted/"
     ],
-    "elements": [
-      {
-        "price": "span"
-      },
-      {
-        "title": ".js-item-name.item-name.mb-2.font-small.opacity-80 div"
-      },
-      {
-        "price": ".js-price-display.item-price span"
-      },
-      {
-        "price": ".js-payment-discount-price-product.payment-discount-price-product span"
-      }
-    ]
+    "elements": []
   },
   {
     "pageName": "onicaps.online",
@@ -6635,6 +6604,9 @@
       },
       {
         "price": ".woocommerce-Price-amount.amount span"
+      },
+      {
+        "price": ".descuento span"
       },
       {
         "price": ".precio-sin-impuestos span"

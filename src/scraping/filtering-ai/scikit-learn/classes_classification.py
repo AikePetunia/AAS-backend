@@ -7,12 +7,9 @@ import re
 with open('../playwright/resultsClasses/elements_by_pages.json', 'r') as f:
     data = json.load(f)
 
-
-    """
-        if tag "a" o "img" o antes de la clase, es a, que tenga href y lo clenee
-        "[0-9 y no se como hacer para q detecte que sean mas de 4 cifras, contenga . y $ xd]"
-    """
-
+# classes & tag is no longer being used for this version
+# row["pred_type"]: row["class"],
+# row["tag"]: row["tag"]
 rows = []
 for page in data:
     pageName = page["pageName"]
@@ -35,7 +32,6 @@ def pageName(domain):
     hostname = re.sub(r'\.(com|ar|net|com\.ar)$', '', hostname)
     return hostname
 
-
 # in elements there is tag, class, text_preview
 df = pd.DataFrame(rows)
 
@@ -49,76 +45,90 @@ preds = model.predict(vec_x)
 df['pred_is_valid'] = preds[:, 0]
 df['pred_type'] = preds[:, 1]
 
-filtered_df = df[(df['pred_is_valid'] == "1") & (df['pred_type'] != 'nan')]
+filtered_df = df[(df['pred_is_valid'] == "1") & (pd.notna(df['pred_type']))]
 
 def validate_types(elements):
-    validations = {
-        "title": 0,
-        "link": 0,
-        "price": 0,
-        "image": 0,
-        "productWrapper": 0,
-        "isStocked": 0,
-        "cuotas": 0,
-    }
+    keys = ["title","link","price","image","productWrapper","isStocked","cuotas"]
+    validations = {k: sum(1 for el in elements if k in el) for k in keys}
 
-    for el in elements:
-        for key in validations:
-            if key in el:
-                validations[key] += 1
+    isError   = (validations["title"] == 0) or (validations["link"] == 0)
+    isWarning = (validations["price"] == 0) or (validations["productWrapper"] == 0) or (validations["image"] == 0)
+    isAlert   = (validations["cuotas"] == 0) or (validations["isStocked"] == 0)
 
-    isError = validations["title"] == 0 | validations["link"] == 0
-    isWarning = validations["price"] == 0 | validations["productWrapper"] == 0  | validations["price"] == 0 | validations['image'] == 0
-    isAlert = validations["cuotas"] == 0 | validations["isStocked"] == 0
+    return {"validations": validations, "error": isError, "warning": isWarning, "alert": isAlert}
 
-    return {
-            "validations": validations,
-            "error": isError,
-            "warning": isWarning,
-            "alert": isAlert
-        }
 
-grouped = defaultdict(lambda: {'pageName': None, 'url': None,  'elements': []})
+def _has(val):
+    return val is not None and pd.notna(val) and str(val).strip() != ""
 
+def clean_value(kind: str, text: str | None) -> str | None:
+    t = (text or "")
+    t = re.sub(r"\s+", " ", t).strip()
+    if not t:
+        return None
+    if kind == "title":
+        t = re.sub(r"(?:ars|\$|usd|u\$s|u\$d)\s*[\d.,]+", "", t, flags=re.I)
+        t = re.sub(r"\b(en\s+stock|disponible|sin\s+stock|agotado|out\s+of\s+stock)\b", "", t, flags=re.I)
+        t = re.sub(r"\s+", " ", t).strip()
+        return t or None
+    if kind == "price":
+        m = re.search(r"(?:ars|\$|usd|u\$s|u\$d)?\s*([\d]{1,3}(?:[.,]\d{3})*(?:[.,]\d{2})?)", t, flags=re.I)
+        return m.group(0).strip() if m else None
+    if kind == "isStocked":
+        if re.search(r"\b(agotado|sin\s+stock|no\s+disponible|out\s+of\s+stock)\b", t, flags=re.I):
+            return "Sin stock"
+        if re.search(r"\b(en\s+stock|disponible|in\s+stock)\b", t, flags=re.I):
+            return "En stock"
+        return t or None
+    if kind == "cuotas":
+        m = re.search(r"\b(\d{1,2})\s+cuotas?\b(?:.*?sin\s+inter[eé]s)?", t, flags=re.I)
+        return (m.group(0) if m else t) or None
+
+grouped = defaultdict(lambda: {'pageName': None, 'url': None, 'elements': []})
+ALLOWED_SUFFIXES = ('.jpg', '.jpeg', '.png', '.avif', '.webp', ".svg")
 for _, row in filtered_df.iterrows():
-    page = row['pageName']
-    p_name = pageName(row['url'])
-    # if url and elements exist, in the second iteration doesn't add it.
-    if grouped[page]['pageName'] is None:
-        grouped[page]['pageName'] = p_name
-        grouped[page]['url'] = row['url']
+
+    page = row["pageName"]
+    p_name = pageName(row["url"])
+    kind = row["pred_type"]
+
+    grouped.setdefault(page, {"pageName": None, "url": None, "elements": []})
+    if grouped[page]["pageName"] is None:
+        grouped[page]["pageName"] = p_name
+        grouped[page]["url"] = row["url"]
 
     item = {
-        "tag": row["tag"],
-        row["pred_type"]: row["class"],
-        "text_preview": row["text_preview"],
-        **(
-            {"href": row.get("href")} if (row["pred_type"] == "link" and pd.notna(row.get("href")))
-            else ({"src": row.get("src")} if (row["pred_type"] == "image" and pd.notna(row.get("src")))
-                  else {})
-        ),
+        row["pred_type"]: row.get("text_preview"),
     }
-    grouped[page]['elements'].append(item)
 
-    # classes is no longer being used for this version
-    # row["pred_type"]: row["class"],
-    """
-    item = {
-        "tag": row["tag"],
-        "text_preview": row["text_preview"],
-        **(
-            {(row["pred_type"]): if (row["pred_type"] == 'price') -> row["text_preview"] # y que solo contenga numeros y el precio, nada mas}
-            # el otro caso, seria que si el pred type es title, que limpie si tiene numeros como el precio
-            # otro caso, que quede pred type y el text preview
-          ),
-        **(
-            {"href": row.get("href")} if (row["pred_type"] == "link" and pd.notna(row.get("href")))
-            else ({"src": row.get("src")} if (row["pred_type"] == "image" and pd.notna(row.get("href")))
-                  else {})
-        ),
-    }
-    grouped[page]['elements'].append(item)
-     """
+    if kind == "link":
+        href = row.get("href")
+        if _has(href):
+            item["link"] = href
+    elif kind == "image":
+        src = row.get("href")
+        if _has(src) and not str(src).startswith("data:image/") and src.endswith(ALLOWED_SUFFIXES):
+            item["image"] = str(src).strip()
+    else:
+        # title / price / isStocked / cuotas
+        item[kind] = clean_value(kind, row.get("text_preview"))
+    grouped[page]["elements"].append(item)
+
+"""
+expected answer for using ON THIS STATE them:
+title
+link
+price
+image
+isStocked
+Cuotas
+
+gracias a dios, parece q estan separados correctamente y diferenciaods. El tema es como mierda doy una respuesta q contenga
+los 6 y nose saltee nunca nada xd
+podriamos pensarlo como una linked list? tiene que si o si empezar con el ciclo que tiene arriba
+y si el siguiente elemento, es el igual al mismo, que se elimine (yta que debe haber uno solo, y no repetidos)
+"""
+
 
 grouped_list = list(grouped.values())
 countError = countWarning = countAlert = countOk = 0
@@ -157,27 +167,4 @@ print("------*------*------*------")
 
 with open('./response/filtered/classes_filtered.json', 'w', encoding='utf-8') as f:
     json.dump(grouped_list, f, indent=4, ensure_ascii=False)
-
-print('filtered all classes')
-
-"""
-input:
-[
-  {
-    "pageName": "tiendatrade.com.ar",
-    "url": "https://www.tiendatrade.com.ar/listado/computacion/perifericos-pc/",
-    "elements": [
-      {
-        "tag": "andes-modal",
-        "class": "andes-modal--iframe",
-        "text_preview": ""
-      },
-
-expected output:
-
-elements: [
-tag: ""
-type: class
-]
-"""
 
