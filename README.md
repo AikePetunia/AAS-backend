@@ -38,12 +38,11 @@ I'll try my best to not put ads on the page, or sponsored brands and be transpar
 ## ✨ Creator
 Made by [Venuss](https://venuss.me) 🇦🇷
 
-si se que es algo argentino y hablo en inglés, pero tambien para practicar inglés ;)
 
 npm init playwright@latest
 
 todo:
-- [] re format files and names
+- [X] re format files and names
 - [] centralize in one file the running of all the files required for the final response
 - [] make a final file with the errors, todo, thiungs to improve, how to handle non paths, non classes, etc
 
