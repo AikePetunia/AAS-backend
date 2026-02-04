@@ -56,3 +56,5 @@ Branch N1: branch/playwright-extracting
     - Explore the tag.closest() option
 Branch N2: branch/classes-extracting
     - Explore the classes option.
+
+    https://miro.com/app/board/uXjVGGZlam0=/?share_link_id=870584074040
