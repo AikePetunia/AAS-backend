@@ -47,14 +47,5 @@ todo:
 - [] make a final file with the errors, todo, thiungs to improve, how to handle non paths, non classes, etc
 
 
-// things for my self on dev, idk why are u reading non important checkpoints xd
-- 31/8/25. Created two branches, bc of this:
-The current status of this checkpoint or branch, is that using playwright after filtering all and have final_sites, it's giving a ton of null items because some classes fails. And i cant get a response (Currently not using tag.closest()).
-But, on classes, i already have all the info that i need, like Title, Price, Cuotas, Stocked, and nothing more else (NO link, NO image)
-
-Branch N1: branch/playwright-extracting
-    - Explore the tag.closest() option
-Branch N2: branch/classes-extracting
-    - Explore the classes option.
 
     https://miro.com/app/board/uXjVGGZlam0=/?share_link_id=870584074040
