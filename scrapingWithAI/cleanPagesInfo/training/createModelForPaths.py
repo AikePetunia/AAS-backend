@@ -4,17 +4,19 @@ from sklearn.metrics import accuracy_score                      # accuracy
 from sklearn.feature_extraction.text import CountVectorizer     # traits strings for the randomForestClassifier
 from sklearn.model_selection import train_test_split            # we have y_type, y_pred
 import joblib                                                   # easy simple parallel computing and importing the model
+from tokenizers import slash_tokenizer
 
 r_csv = pd.read_csv('../datasets/formatedPathsForTraining.csv')
-x = r_csv["path"].values.astype('U')  # gives NaN if it's not Unicode
+x = r_csv["path"].values.astype('U')
 y = r_csv["is_valid"]
+
+# Remove rows where the training label is missing.
+valid_rows_mask = y.notna()
+x = x[valid_rows_mask]
+y = y[valid_rows_mask].astype(int)
 original_paths = x
 
-# split and prepares data, vectorization (representation of non-numerical input data)
-def slash_tokenizer(x):
-    return x.split('/')
-
-vectorizer = CountVectorizer(tokenizer=slash_tokenizer)
+vectorizer = CountVectorizer(tokenizer=slash_tokenizer, token_pattern=None)
 vec_x = vectorizer.fit_transform(x)
 
 vec_x_train, vec_x_test, y_train, y_test, paths_train, paths_test = (

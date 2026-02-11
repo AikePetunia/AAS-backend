@@ -6,12 +6,12 @@ from sklearn.multioutput import MultiOutputClassifier       # validation is 1 or
 from sklearn.metrics import classification_report           # accuracy
 import joblib                                               # easy simple parallel computing and importing the model
 
-r_csv = pd.read_csv('./datasets/formatedClassesForTraining.csv')
-x = r_csv[["tag","class","text_preview"]].values.astype(str)
-y = r_csv[["is_valid", "type"]].values.astype(str)
+r_csv = pd.read_csv('../datasets/formatedElementsForTraining.csv')
+x = r_csv[["tag", "class", "text_preview"]].fillna("").astype(str).values
+y = r_csv[["is_valid", "type"]].fillna("").astype(str).values
 
 # separate the data and vectorize
-x_raw = r_csv[["tag", "class", "text_preview"]].astype(str)
+x_raw = r_csv[["tag", "class", "text_preview"]].fillna("").astype(str)
 x_joined = x_raw.apply(lambda row: ' '.join(row), axis=1)
 vectorizer = CountVectorizer()
 vec_x = vectorizer.fit_transform(x_joined)
@@ -33,8 +33,8 @@ vec_x_total = vectorizer.transform(x_joined)
 y_all_pred = model.predict(vec_x_total)
 
 # exporting the model
-joblib.dump(model, "./training/models/modelForClasses.pkl")
-joblib.dump(vectorizer, "./training/models/vectorizerForClasses.pkl")
+joblib.dump(model, "models/modelForElements.pkl")
+joblib.dump(vectorizer, "models/vectorizerForElements.pkl")
 
 """
 def complete_output(y_all_pred):

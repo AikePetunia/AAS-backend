@@ -38,8 +38,8 @@ def pageName(domain):
 # in elements there is tag, class, text_preview
 df = pd.DataFrame(rows)
 
-model = joblib.load('./training/models/modelForClasses.pkl')
-vectorizer = joblib.load('./training/models/vectorizerForClasses.pkl')
+model = joblib.load('training/models/modelForElements.pkl')
+vectorizer = joblib.load('training/models/vectorizerForElements.pkl')
 
 df['input_text'] = df[['tag', 'class', 'text_preview']].astype(str).apply(lambda row: ' '.join(row), axis=1)
 vec_x = vectorizer.transform(df['input_text'])

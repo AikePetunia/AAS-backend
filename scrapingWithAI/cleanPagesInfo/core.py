@@ -43,11 +43,11 @@ armyTech: new SiteConfig({
 import json
 from collections import defaultdict
 
-common_path = 'response/classified/'
-with open(common_path + "classifiedElements.json") as f:
+common_path = './response/classified'
+with open(common_path + "/classifiedElements.json", "r", encoding="utf-8") as f:
     data_classes = json.load(f)
 
-with open(common_path + 'classifiedPaths.json') as f:
+with open(common_path + '/classifiedPaths.json', "r", encoding="utf-8") as f:
     data_paths = json.load(f)
 
 # if the entry is the pages on the paths
