@@ -51,9 +51,7 @@ todo:
 - [] centralize in one file the running of all the files required for the final response
 - [] make a final file with the errors, todo, thiungs to improve, how to handle non paths, non classes, etc
 
-  https://miro.com/app/board/uXjVGGZlam0=/?share_link_id=870584074040
+https://miro.com/app/board/uXjVGGZlam0=/?share_link_id=870584074040
 
 
-IDEA DE BRANCH:
-
-Simplemente extraer la pagina entera, y a traves de los modelos entrenados que detectan que es un producto y sus partes, clasifique bien.
+Por no tirar cosas a la mierda, me decidi en mezclar la primera opcion + la tercera (me quedo con los Paths.)
