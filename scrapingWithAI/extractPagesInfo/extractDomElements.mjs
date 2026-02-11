@@ -115,28 +115,28 @@ const FORBIDDEN_TAGS = [
 ];
 
 const FORBIDDEN_CLASSES = [
-	"[object Object]",
-	"mobile",
-	"search",
-	"filter",
-	"hidden",
-	"[object SVGAnimatedString]",
-	"fake-svg-icon",
-	"empty",
-	"nav-",
-	"navbar",
-	"dropdown",
-	"accordion",
-	"sidebar",
-	"toggle",
-	"close",
-	"collapse",
-	"fade",
-	"hide",
-	"invisible",
-	"sr-only",
-	"screen-reader",
-	"visually-hidden",
+	// "[object Object]",
+	// "mobile",
+	// "search",
+	// "filter",
+	// "hidden",
+	// "[object SVGAnimatedString]",
+	// "fake-svg-icon",
+	// "empty",
+	// "nav-",
+	// "navbar",
+	// "dropdown",
+	// "accordion",
+	// "sidebar",
+	// "toggle",
+	// "close",
+	// "collapse",
+	// "fade",
+	// "hide",
+	// "invisible",
+	// "sr-only",
+	// "screen-reader",
+	// "visually-hidden",
 ];
 
 const FORBIDDEN_TEXT = [
@@ -151,6 +151,8 @@ const FORBIDDEN_TEXT = [
 	"Filtros",
 	"Envio",
 	"envios",
+	"¡Envíos a todo el pais!",
+	"header-btn",
 	"compra",
 	"Realizamos",
 	"@",
@@ -254,7 +256,7 @@ const FORBIDDEN_TEXT = [
 	"Cerrar",
 ];
 
-const OUTPUT_DIR = "./resultsElements";
+const OUTPUT_DIR = "./scrapingWithAI/playwright/resultsElements";
 
 export async function extractDomElements() {
 	const successfulPages = [];
@@ -388,14 +390,14 @@ async function scrapePage(url) {
 }
 
 async function saveResults(successfulPages, failedPages) {
-	await fs.mkdir(OUTPUT_DIR, { recursive: true });
+  await fs.mkdir(OUTPUT_DIR, { recursive: true });
 
-	await fs.writeFile(
-		`./scrapingWithAI/playwright/${OUTPUT_DIR}/elementsToClassify.json`,
+  await fs.writeFile(
+		`${OUTPUT_DIR}/elementsToClassify.json`,
 		JSON.stringify(successfulPages, null, 2)
 	);
 
-	const allElements = successfulPages.flatMap((page) => page.elements);
+  const allElements = successfulPages.flatMap((page) => page.elements);
 	const csvHeader = '"tag","class","text_preview","href"';
 	const csvRows = allElements.map((el) => {
 		return [
@@ -406,19 +408,13 @@ async function saveResults(successfulPages, failedPages) {
 		].join(",");
 	});
 
-	await fs.writeFile(
-		`./scrapingWithAI/playwright/${OUTPUT_DIR}/elementsDataset.csv`,
-		[csvHeader, ...csvRows].join("\n")
-	);
+  await fs.writeFile(`${OUTPUT_DIR}/elementsDataset.csv`, [csvHeader, ...csvRows].join("\n"));
 
-	if (failedPages.length > 0) {
-		await fs.writeFile(
-			`./scrapingWithAI/playwright/${OUTPUT_DIR}/failed_pages.json`,
-			JSON.stringify(failedPages, null, 2)
-		);
+  if (failedPages.length > 0) {
+		await fs.writeFile(`${OUTPUT_DIR}/failed_pages.json`, JSON.stringify(failedPages, null, 2));
 	}
 
-	console.log(`\n Results saved to ${OUTPUT_DIR}/`);
+  console.log(`\n Results saved to ${OUTPUT_DIR}/`);
 }
 
 function extractPageName(url) {
