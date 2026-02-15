@@ -34,14 +34,14 @@ async function main() {
 
 main();
 /*
-
     "store": {
       "store_id": "armytech",
-      "store_name": "ArmyTech",
-      "base_url": "https://www.armytech.com.ar/",
-      "trust_factor_manual": 90,
-      "seller_type": ["setup", "componentes", "otaku", "poster"],
-      "tags": ["argentina", "cordoba", "buena_reputacion"],
+      "store_name": "ArmyTech", 
+      "base_url": "https://www.armytech.com.ar/",                   // manual
+      "store_image": "https://www.armytech.com.ar/img/logo.png",    // manual
+      "trust_factor_manual": 90,                                    // manual
+      "seller_type": ["setup", "componentes", "otaku", "poster"],   // manual
+      "tags": ["argentina", "cordoba", "buena_reputacion"],         // manual
       "products": [
       {
         "listing_id": "armytech::5921",
@@ -58,7 +58,7 @@ main();
         },
         "stock_status": "in_stock",
         "stock_raw": "Stock disponible",
-        "product_tags": ["pc_components", "cooling", "thermal_paste"],
+        "product_tags": ["pc_components", "cooling", "thermal_paste"], // manual (?)
         "extra": {
           "installments": null
         },
@@ -66,7 +66,6 @@ main();
       }
     ],
     "groups": [
-      {
         "group_id": "g_thermal_paste_pastermax_b30_white",
         "display_name": "Pasta Térmica Pastermax B30 Blanca",
         "category": "thermal_paste",
@@ -75,7 +74,6 @@ main();
         },
         "created_by": "rules",
         "created_at": "2026-02-13T19:10:00.000Z"
-      }
     ]
     },
   ]

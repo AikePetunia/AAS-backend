@@ -1,0 +1,1 @@
+// validateListing (placeholder)
