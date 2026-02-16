@@ -1,1 +1,0 @@
-// normalizeText (placeholder)

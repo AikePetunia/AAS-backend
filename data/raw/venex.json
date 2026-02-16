@@ -1,0 +1,3490 @@
+{
+  "store_name": "Venex",
+  "store_id": "venex",
+  "store_url": "https://www.venex.com.ar",
+  "store_image": "/images/stores/venex.png",
+  "trust_factor_manual": 85,
+  "seller_type": [
+    "setup",
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "cordoba",
+    "buena_reputacion",
+    "componentes"
+  ],
+  "products": [
+    {
+      "listing_id": "venex::2a97194e",
+      "store_id": "venex",
+      "title_slug_id": "caddy_para_discos_nb_grabadora_9.5_mm",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/caddy-para-discos-nb-grabadora-95-mm.html",
+      "title_raw": "Caddy Para DIscos NB Grabadora 9.5 MM",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1590019094_1585848959_caddy_notebook.jpg",
+      "price": {
+        "raw": "$ 6.499",
+        "value": 6499,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::486140c3",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_1tb_seagate_sata_iii_skyhawk_(simil_purple)",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/disco-duro-hdd-1tb-seagate-sata-iii-skyhawk.html",
+      "title_raw": "Disco Duro HDD 1TB Seagate SATA III Skyhawk (SIMIL PURPLE)",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1734442076_652260-mla76988693618_062024-f.jpg",
+      "price": {
+        "raw": "$ 127.999",
+        "value": 127999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::50ba6cfb",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_2tb_seagate_sata_iii_skyhawk_(simil_purple)",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/disco-duro-hdd-2-tb-seagate-skyhawk.html",
+      "title_raw": "Disco Duro HDD 2TB Seagate Sata III Skyhawk (SIMIL PURPLE)",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1610712616_skyhawk-2tb-2.jpg",
+      "price": {
+        "raw": "$ 146.999",
+        "value": 146999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::116954b2",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_2tb_western_digital_wd_sata_iii_blue",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/disco-duro-2-tb-s-ata-iii-varias-marcas.html",
+      "title_raw": "Disco Duro HDD 2TB Western Digital WD Sata III Blue",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1585582201_hd_2_tb_sata_iii_64mb_wd_blue.jpg",
+      "price": {
+        "raw": "$ 159.999",
+        "value": 159999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::2a458960",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_2tb_western_digital_wd_sata_iii_purple_2tb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/hd-2-tb-s-ata-ii-64mb-western-digital-purple.html",
+      "title_raw": "Disco Duro HDD 2TB Western Digital WD Sata III Purple 2tb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1585582334_hd_2_tb_sata_iii_64mb_wd_purple.jpg",
+      "price": {
+        "raw": "$ 164.999",
+        "value": 164999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::586aac54",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_4tb_seagate_sata_iii_skyhawk_(simil_purple)",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/disco-duro-4-tb-seagate-skyhawk.html",
+      "title_raw": "Disco Duro HDD 4TB Seagate Sata III Skyhawk (SIMIL PURPLE)",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1615295542_disco_duro_hdd_4_tb_seagate_sata_iii_skyhawk.jpg",
+      "price": {
+        "raw": "$ 199.999",
+        "value": 199999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::79bbfd61",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_1tb_western_digital_wd_sata_iii_64mb/s_purple",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/hd-1-tb-s-ata-ii-64mb-western-digital-purple--.html",
+      "title_raw": "Disco Duro HDD 1TB Western Digital WD Sata III 64Mb/S Purple",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1586464823_disc5.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::77bc5204",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_1tb_western_digital_wd_blue",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/disco-duro-1-tb-s-ata-iii-western-digital.html",
+      "title_raw": "Disco Duro HDD 1TB Western Digital WD Blue",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1586464610_disc3.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::324a9b70",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_4tb_western_digital_wd_sata_iii_blue",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/hd-4-tb-s-ata-iii-64mb-western-digital.html",
+      "title_raw": "Disco Duro HDD 4TB Western Digital Wd Sata III Blue",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1585583667_hd_4_tb_sata_iii_64mb_wd_blue_2.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::3862db99",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_4tb_western_digital_wd_sata_iii_purple",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/hd-4-tb-s-ata-ii-64mb-western-digital-purple-.html",
+      "title_raw": "Disco Duro HDD 4TB Western Digital WD Sata III Purple",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1710422986_4tb-2.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::058da179",
+      "store_id": "venex",
+      "title_slug_id": "disco_duro_hdd_4tb_wd_sata_iii_para_nas_red_plus",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-duros-mecanicos/disco-duro-hdd-4tb-wd-sata-iii-para-nas-red-plus.html",
+      "title_raw": "Disco Duro HDD 4Tb WD SATA III Para NAS Red Plus",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1710336822_4tb.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:57.230Z"
+    },
+    {
+      "listing_id": "venex::0c63fcc5",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_hiksemi_120gb_wave_sata",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-hiksemi-120gb-wave-sata.html",
+      "title_raw": "Disco Solido SSD Hiksemi 120Gb Wave Sata",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1721244719_ssd_120gb_hiksemi_wave_sata.jpg",
+      "price": {
+        "raw": "$ 49.990",
+        "value": 49990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::49887c62",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_256gb_x-micro_copious_sata_iii",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-256gb-x-micro-sata-iii.html",
+      "title_raw": "Disco solido SSD 256GB X-MICRO COPIOUS SATA III",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1770308385_1png",
+      "price": {
+        "raw": "$ 69.990",
+        "value": 69990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::3def2d59",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_240gb_hiksemi_wave_s_sata_bulk",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-240gb-hiksemi-wave-s-sata-bulk.html",
+      "title_raw": "Disco Solido SSD 240Gb Hiksemi WAVE S SATA Bulk",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1767093610_ssd_240_bulk-1.jpg",
+      "price": {
+        "raw": "$ 73.990",
+        "value": 73990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::354040cc",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_hiksemi_256gb_m.2_nvme_wave_pci_3.0_2280mb/s",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-hiksemi-m-2-nvme-wave-2280mb-s.html",
+      "title_raw": "Disco Solido SSD Hiksemi 256Gb M.2 Nvme Wave PCI 3.0 2280Mb/s",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1728485983_1.jpg",
+      "price": {
+        "raw": "$ 76.500",
+        "value": 76500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::6e88dc7b",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_256gb_hiksemi_s_sata_iii_wave",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-256gb-hiksemi-s-sata-iii-wave.html",
+      "title_raw": "Disco Solido SSD 256Gb Hiksemi S SATA III WAVE",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1767097195_ssd_256_hiksemi-1.jpg",
+      "price": {
+        "raw": "$ 79.990",
+        "value": 79990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::2689a956",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_240gb_msi_spatium_s270_sata",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-240gb-msi-spatium-s270-sata.html",
+      "title_raw": "Disco Solido SSD 240Gb MSI SPATIUM S270 SATA",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1758542565_1.jpg",
+      "price": {
+        "raw": "$ 88.500",
+        "value": 88500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::1ac181b8",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_256gb_adata_m.2_nvme_legend_700_2000mb/s",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-256gb-adata-m-2-nvme-legend-700-2000mb-s.html",
+      "title_raw": "Disco Solido SSD 256Gb Adata M.2 NVME Legend 700 2000Mb/s",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1729175104_4.jpg",
+      "price": {
+        "raw": "$ 89.990",
+        "value": 89990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::5edb3f0f",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_240gb_adata_sata_iii_su630",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-240gb-su630-adata-25.html",
+      "title_raw": "Disco Solido SSD 240Gb Adata Sata III SU630",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1714397020_sssd-1.jpg",
+      "price": {
+        "raw": "$ 99.990",
+        "value": 99990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::22aad1db",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_512gb_x-micro_copious_sata_iii",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-512gb-x-micro-sata-iii.html",
+      "title_raw": "Disco Solido SSD 512GB X-MICRO COPIOUS SATA III",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1770308871_1png",
+      "price": {
+        "raw": "$ 104.990",
+        "value": 104990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::6ab83598",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_hiksemi_480gb_wave_sata",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-hiksemi-480gb-wave-sata.html",
+      "title_raw": "Disco Solido SSD Hiksemi 480Gb Wave Sata",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1724162936_1.jpg",
+      "price": {
+        "raw": "$ 110.500",
+        "value": 110500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::34710f1f",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_240gb_kingston_a400_sata_iii",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-duro-ssd-240gb-kingston-a400-sata-iii-25.html",
+      "title_raw": "Disco Solido SSD 240Gb Kingston A400 Sata III",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1701195950_240.jpg",
+      "price": {
+        "raw": "$ 117.990",
+        "value": 117990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::0dc83958",
+      "store_id": "venex",
+      "title_slug_id": "disco_solido_ssd_512gb_hiksemi_s_sata_iii_wave",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/discos-solidos-ssd/disco-solido-ssd-512gb-hiksemi-s-sata-iii-wave.html",
+      "title_raw": "Disco Solido SSD 512Gb Hiksemi S SATA III WAVE",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1767091508_ssd_512gb_hiksemi_s-1.jpg",
+      "price": {
+        "raw": "$ 119.990",
+        "value": 119990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:56:58.632Z"
+    },
+    {
+      "listing_id": "venex::57f4cd97",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_ddr3_4gb_1600mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-hiksemi-ddr3-4gb-1600mhz.html",
+      "title_raw": "Memoria RAM Hiksemi DDR3 4Gb 1600Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1706621762_ram-2.jpg",
+      "price": {
+        "raw": "$ 23.990",
+        "value": 23990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::2e52a9e5",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_ddr3_8gb_1600mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-hiksemi-ddr3-8gb-1600mhz.html",
+      "title_raw": "Memoria RAM Hiksemi DDR3 8Gb 1600Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1706622095_ram-2.jpg",
+      "price": {
+        "raw": "$ 49.990",
+        "value": 49990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::537c506f",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_hiker_ddr4_8gb_2666mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/ddr4-8gb-2666mhz-hiksemi-hiker.html",
+      "title_raw": "Memoria Ram Hiksemi Hiker DDR4 8Gb 2666MHZ",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1765797101_memoria_ram_ddr4_8gb_2666mhz-1.jpg",
+      "price": {
+        "raw": "$ 96.990",
+        "value": 96990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::514af442",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_ddr4_8gb_3200mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-hiksemi-ddr4-8gb-3200mhz.html",
+      "title_raw": "Memoria RAM Hiksemi DDR4 8Gb 3200Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1706622354_ram-2.jpg",
+      "price": {
+        "raw": "$ 98.990",
+        "value": 98990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::412368e6",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_ddr4_8gb_3200mhz_armor_black",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-hiksemi-ddr4-8gb-3200mhz-armor-black.html",
+      "title_raw": "Memoria Ram Hiksemi DDR4 8Gb 3200Mhz Armor Black",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1728056511_4.jpg",
+      "price": {
+        "raw": "$ 114.990",
+        "value": 114990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::2fe76530",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_ddr4_8gb_3200mhz_armor_white",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-hiksemi-ddr4-8gb-3200mhz-armor-white.html",
+      "title_raw": "Memoria Ram Hiksemi DDR4 8Gb 3200Mhz Armor White",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1728056818_5.jpg",
+      "price": {
+        "raw": "$ 119.990",
+        "value": 119990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::1ec35adc",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_ddr4_8gb_3200mhz_future_rgb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-hiksemi-ddr4-8gb-3200mhz-future-rgb.html",
+      "title_raw": "Memoria Ram Hiksemi DDR4 8Gb 3200Mhz Future RGB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1728057097_2.jpg",
+      "price": {
+        "raw": "$ 129.990",
+        "value": 129990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::1326d022",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_kingston_fury_beast_ddr4_8gb_3200mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-ddr4-8gb-3200mhz-kingston-fury-beast.html",
+      "title_raw": "Memoria Ram Kingston Fury Beast DDR4 8Gb 3200Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1627329889_sdfgsdfgsdfg.jpg",
+      "price": {
+        "raw": "$ 159.990",
+        "value": 159990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::64137842",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_hiker_ddr4_16gb_3200mhz_bulk",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-hiksemi-hiker-ddr4-16gb-3200mhz-bulk.html",
+      "title_raw": "Memoria Ram Hiksemi Hiker DDR4 16Gb 3200MHz Bulk",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1764681068_51.jpg",
+      "price": {
+        "raw": "$ 187.990",
+        "value": 187990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::686a03b0",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_hiker_ddr4_16gb_3200mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-hiksemi-hiker-16gb-3200mhz.html",
+      "title_raw": "Memoria RAM Hiksemi Hiker DDR4 16Gb 3200Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1712946050_hikvision-1.jpg",
+      "price": {
+        "raw": "$ 199.990",
+        "value": 199990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::35fdb89b",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_kingston_ddr4_16gb_3200mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-kingston-16gb-3200mhz.html",
+      "title_raw": "Memoria RAM Kingston DDR4 16Gb 3200Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1649863745_sdfsf.jpg",
+      "price": {
+        "raw": "$ 209.990",
+        "value": 209990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::525e022d",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_ddr4_16gb_3200mhz_armor_white",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/desktop",
+      "product_url": "https://www.venex.com.ar/memorias-ram/desktop/memoria-ram-hiksemi-ddr4-16gb-3200mhz-armor-white.html",
+      "title_raw": "Memoria Ram Hiksemi DDR4 16Gb 3200Mhz Armor White",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1728056726_5.jpg",
+      "price": {
+        "raw": "$ 212.990",
+        "value": 212990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:00.048Z"
+    },
+    {
+      "listing_id": "venex::1cfa9875",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_sodimm_hiksemi_hiker_ddr3_4gb_1600mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-notebook-ddr3-4gb1600mhz-hiksemi-hiker.html",
+      "title_raw": "Memoria Ram Notebook Sodimm Hiksemi Hiker DDR3 4Gb 1600Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1726491188_1.jpg",
+      "price": {
+        "raw": "$ 23.990",
+        "value": 23990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::0f2ea1c2",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_sodimm_ddr3_8gb_1600mhz_hiksemi_hiker",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-notebook-sodimm-ddr3-8gb-1600mhz-hiksemi-hiker.html",
+      "title_raw": "Memoria Ram Notebook Sodimm DDR3 8Gb 1600Mhz Hiksemi Hiker",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1725540811_1.jpg",
+      "price": {
+        "raw": "$ 49.990",
+        "value": 49990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::2a2047a9",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_hiksemi_hiker_sodimm_ddr4_8gb_3200mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-hiksemi-hiker-sodimm-ddr4-3200mhz.html",
+      "title_raw": "Memoria RAM Notebook Hiksemi Hiker Sodimm DDR4 8GB 3200Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1713895196_hiksemi-4.jpg",
+      "price": {
+        "raw": "$ 112.990",
+        "value": 112990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::07049513",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_hiksemi_hiker_sodimm_ddr4_16gb_2666mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-hiksemi-hiker-sodimm-ddr4-16gb-2666mhz.html",
+      "title_raw": "Memoria Ram Hiksemi Hiker Sodimm DDR4 16Gb 2666Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1760544049_181.jpg",
+      "price": {
+        "raw": "$ 189.990",
+        "value": 189990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::0364f977",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_sodimm_ddr5_16gb_5600mhz_hiksemi_hiker",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-notebook-sodimm-ddr5-16gb-5600mhz-hiksemi-hiker.html",
+      "title_raw": "Memoria Ram Notebook Sodimm DDR5 16Gb 5600MHZ Hiksemi Hiker",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1767095316_sodimm_ddr5_16gb_hiksemi_hiker-1.jpg",
+      "price": {
+        "raw": "$ 275.990",
+        "value": 275990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::1358fd39",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_sodimm_ddr5_16gb_5600mhz_adata_gold",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-notebook-ddr5-16gb-5600mhz-adata-gold.html",
+      "title_raw": "Memoria Ram Notebook Sodimm DDR5 16Gb 5600Mhz Adata Gold",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1753364193_1.jpg",
+      "price": {
+        "raw": "$ 299.990",
+        "value": 299990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::16fb317f",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_sodimm_ddr5_32gb_5600mhz_adata_gold",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-notebook-ddr5-32gb-5600mhz-adata-gold.html",
+      "title_raw": "Memoria Ram Notebook Sodimm DDR5 32Gb 5600Mhz Adata Gold",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1753363391_1.jpg",
+      "price": {
+        "raw": "$ 649.990",
+        "value": 649990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::22830422",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_sodimm_ddr5_32gb_5600mhz_kingston_cl46",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-notebook-sodimm-ddr5-32gb-5600mhz-kingston-cl46.html",
+      "title_raw": "Memoria Ram Notebook Sodimm DDR5 32Gb 5600Mhz Kingston CL46",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1741607541_9.jpg",
+      "price": {
+        "raw": "$ 799.990",
+        "value": 799990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::6b475ec9",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_adata_sodimm_ddr4_32gb_3200mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-adata-sodimm-ddr4-32gb-3200mhz.html",
+      "title_raw": "Memoria RAM Notebook Adata Sodimm DDr4 32Gb 3200Mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1721414262_sodimm-1.jfif",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::62bf1b40",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_sodimm_kingston_ddr4_8gb_3200mhz",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-sodimm-kingston-ddr4-8gb-3200mhz.html",
+      "title_raw": "Memoria Ram Notebook Sodimm Kingston DDR4 8Gb 3200mhz",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1649864124_1638305331_dfdfg.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::389c6747",
+      "store_id": "venex",
+      "title_slug_id": "memodria_ram_notebook_sodimm_ddr4_32gb_3200mhz_kingston",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memodria-ram-notebook-sodimm-ddr4-32gb-32000mhz-kingston.html",
+      "title_raw": "Memodria Ram Notebook Sodimm DDR4 32Gb 3200Mhz Kingston",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1727106526_2.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::755473b0",
+      "store_id": "venex",
+      "title_slug_id": "memoria_ram_notebook_sodimm_ddr4_16gb_3200mhz_hiksemi_single...",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/memorias-ram/notebook",
+      "product_url": "https://www.venex.com.ar/memorias-ram/notebook/memoria-ram-notebook-sodimm-ddr4-16gb-3200mhz-hiksemi-single-tray.html",
+      "title_raw": "Memoria Ram Notebook Sodimm DDR4 16Gb 3200Mhz Hiksemi Single...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1728313386_26.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:01.458Z"
+    },
+    {
+      "listing_id": "venex::20861859",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_amd_athlon_3000g_3.5ghz_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-amd-athlon-3000g-35ghz-am4.html",
+      "title_raw": "Microprocesador AMD Athlon 3000G 3.5GHZ AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1709898569_athlomn.jpg",
+      "price": {
+        "raw": "$ 54.499",
+        "value": 54499,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::34f289cc",
+      "store_id": "venex",
+      "title_slug_id": "outlet_cpu_amd_ryzen_3_4100_4/8_4.0ghz_zen2",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/outlet-cpu-amd-ryzen-3-4100-4-8-4-0ghz-zen2.html",
+      "title_raw": "Outlet CPU AMD Ryzen 3 4100 4/8 4.0GHZ ZEN2",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1764611357_4100.jpg",
+      "price": {
+        "raw": "$ 79.990",
+        "value": 79990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::0cd2fd94",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_amd_ryzen_3_3200g_wraith_stealth_zen2_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-amd-ryzen-5-3200g-cooler-graficos-zen2.html",
+      "title_raw": "Microprocesador AMD Ryzen 3 3200G Wraith Stealth ZEN2 AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1585940629_amd_ryzen_3_3200g_am4.jpg",
+      "price": {
+        "raw": "$ 95.399",
+        "value": 95399,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::0b79a656",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_amd_ryzen_5_3400g_wraith_spire_c/g_zen2_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-amd-ryzen-5-3400g-cooler-graficos-zen2.html",
+      "title_raw": "Microprocesador AMD Ryzen 5 3400G Wraith Spire C/G ZEN2 AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1764333574_3400g.jpg",
+      "price": {
+        "raw": "$ 101.999",
+        "value": 101999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::19111afc",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_amd_ryzen_5_4500_6/12_4.1ghz_zen3_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-amd-ryzen-5-4500-6-12-4-1ghz-zen3-am4.html",
+      "title_raw": "Microprocesador AMD Ryzen 5 4500 6/12 4.1Ghz Zen3 AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1754309092_1.jpg",
+      "price": {
+        "raw": "$ 117.990",
+        "value": 117990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::3f10923c",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_intel_core_i3_12100f_alderlake_4.3ghz_4/8_12mb...",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-intel-core-i3-12100f-alderlake-4-3ghz-4-8-12mb-lga1700-s-video.html",
+      "title_raw": "Microprocesador Intel Core I3 12100F Alderlake 4.3GHZ 4/8 12MB...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1645120123_sadasdas.jpg",
+      "price": {
+        "raw": "$ 126.299",
+        "value": 126299,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::64ed7bf1",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_intel_core_i3_14100f_raptorlake_4/8_4.70ghz...",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-intel-core-i3-14100f-raptorlake-4-8-4-70ghz-12mb-s1700.html",
+      "title_raw": "Microprocesador Intel Core I3 14100F Raptorlake 4/8 4.70GHZ...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1767700365_microprocesador_i3_14100f.jpg",
+      "price": {
+        "raw": "$ 141.990",
+        "value": 141990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::0690368a",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_intel_core_i5_10400t_cometlake_6/12_3.60ghz...",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-intel-core-i5-10400t-cometlake-6-12-3-60ghz-12mb-lga1200-s-cooler.html",
+      "title_raw": "Microprocesador Intel Core i5 10400T Cometlake 6/12 3.60GHz...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1764775822_mic.jpg",
+      "price": {
+        "raw": "$ 150.500",
+        "value": 150500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::6ea93b81",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_cpu_amd_ryzen_5_5500_6/12_4.2ghz_zen3_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-cpu-amd-ryzen-5-5500-6-12-4-2ghz-zen3-am4.html",
+      "title_raw": "Microprocesador CPU AMD Ryzen 5 5500 6/12 4.2Ghz Zen3 AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1731510897_345.jpeg",
+      "price": {
+        "raw": "$ 152.999",
+        "value": 152999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::7d471347",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_intel_pentium_g7400_lga1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-intel-pentium-g7400-lga1700.html",
+      "title_raw": "Microprocesador Intel Pentium G7400 LGA1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1654794080_sin_t_tulo-fgdfgdfg1.jpg",
+      "price": {
+        "raw": "$ 154.990",
+        "value": 154990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::16c76835",
+      "store_id": "venex",
+      "title_slug_id": "microprocesador_intel_core_i3_12100_alderlake_4.30ghz_lga1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/microprocesador-intel-core-i3-12100-alderlake-4-30ghz-lga1700.html",
+      "title_raw": "Microprocesador Intel Core i3 12100 Alderlake 4.30Ghz LGA1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1650901553_1645120123_sadasdas.jpg",
+      "price": {
+        "raw": "$ 195.999",
+        "value": 195999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::43bfa4bf",
+      "store_id": "venex",
+      "title_slug_id": "cpu_intel_core_i3_14100_raptorlake_4/8_4.70ghz_12mb_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/microprocesadores/cpu-intel-core-i3-14100-raptorlake-4-8-4-70ghz-12mb-s1700.html",
+      "title_raw": "Cpu Intel Core I3 14100 RAPTORLAKE 4/8 4.70GHZ 12MB S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1754661021_7.jpg",
+      "price": {
+        "raw": "$ 205.999",
+        "value": 205999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:02.856Z"
+    },
+    {
+      "listing_id": "venex::7e9b7196",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_msi_a520m-a_pro_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-msi-a520m-a-pro-am4.html",
+      "title_raw": "Motherboard Msi A520M-A Pro AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1603986909_3456243562354.jpg",
+      "price": {
+        "raw": "$ 75.999",
+        "value": 75999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::4a932d33",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_biostar_a520m_h_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-biostar-a520mh-am4.html",
+      "title_raw": "Motherboard Biostar A520M H AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1742556439_1.jpg",
+      "price": {
+        "raw": "$ 82.999",
+        "value": 82999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::7dfeebca",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_gigabyte_a520m-k_v2_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-gigabyte-a520m-k-v2-am4.html",
+      "title_raw": "Motherboard Gigabyte A520M-K V2 AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1686594197_a520-3.jpg",
+      "price": {
+        "raw": "$ 83.799",
+        "value": 83799,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::38b8e89f",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_asus_prime_a520m-k_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-asus-prime-a520m-k-am4.html",
+      "title_raw": "Motherboard Asus Prime A520M-K AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1603824949_p_setting_fff_1_90_end_600.jpg",
+      "price": {
+        "raw": "$ 88.999",
+        "value": 88999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::66560091",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_asus_prime_a520m-k_csm_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-asus-prime-a520m-k-csm-am4.html",
+      "title_raw": "Motherboard Asus Prime A520M-K CSM AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1738932752_1.jpg",
+      "price": {
+        "raw": "$ 89.499",
+        "value": 89499,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::61f8841f",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_gigabyte_a520m_ds3h_v2_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-gigabyte-a520m-ds3h-v2-am4-1.html",
+      "title_raw": "Motherboard Gigabyte A520M DS3H V2 AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1742908147_2.jpg",
+      "price": {
+        "raw": "$ 108.399",
+        "value": 108399,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::041c939c",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_msi_pro_a620m-e_ddr5_am5",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-msi-a620m-e-pro-ddr5-am5.html",
+      "title_raw": "Motherboard MSI PRO A620M-E DDR5 AM5",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1713881331_msi-1.jpg",
+      "price": {
+        "raw": "$ 113.099",
+        "value": 113099,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::18275160",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_biostar_a620ms_am5",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-biostar-a620ms-am5.html",
+      "title_raw": "Motherboard Biostar A620MS AM5",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1718372323_a620m-1.jpg",
+      "price": {
+        "raw": "$ 119.599",
+        "value": 119599,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::5c9eebcb",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_asus_prime_a620m-k_ddr5_am5",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-asus-prime-a620m-k-ddr5-am5.html",
+      "title_raw": "Motherboard Asus Prime A620M-K DDR5 AM5",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1707499017_asus-1.jpg",
+      "price": {
+        "raw": "$ 121.999",
+        "value": 121999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::2ea5e3fd",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_gigabyte_a620m_h_am5_box_am5",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-gigabyte-a650m-h-am5-box-am5.html",
+      "title_raw": "Motherboard Gigabyte A620M H AM5 Box AM5",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1721836825_a620m_h-01.jpg",
+      "price": {
+        "raw": "$ 125.099",
+        "value": 125099,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::401bdca5",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_asus_prime_b550m-k_am4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-asus-prime-b550m-k-am4.html",
+      "title_raw": "Motherboard Asus Prime B550M-K AM4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1602010489_p_setting_fff_1_90_end_600.jpg",
+      "price": {
+        "raw": "$ 129.999",
+        "value": 129999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::0fa2721e",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_msi_pro_b840m-b_ddr5_am5",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/amd",
+      "product_url": "https://www.venex.com.ar/motherboards/amd/motherboard-msi-pro-b840m-b-ddr5-am5.html",
+      "title_raw": "Motherboard MSI PRO B840M-B DDR5 AM5",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1757680446_1.jpg",
+      "price": {
+        "raw": "$ 132.299",
+        "value": 132299,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:04.374Z"
+    },
+    {
+      "listing_id": "venex::678bf6e9",
+      "store_id": "venex",
+      "title_slug_id": "outlet_motherboard_asrock_h510_pro_btc+_mining_s1200_ddr4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/outlet-motherboard-asrock-h510-pro-btc-mining-s1200-ddr4.html",
+      "title_raw": "Outlet Motherboard Asrock H510 PRO BTC+ Mining S1200 DDR4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1661193404_h510-princ.jpg",
+      "price": {
+        "raw": "$ 83.919",
+        "value": 83919,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::42b5bd3d",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_biostar_h610mhc_2.0_ddr4_m-atx_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-biostar-h610mhc-2-0-ddr4-m-atx-s1700.html",
+      "title_raw": "Motherboard Biostar H610MHC 2.0 DDR4 M-ATX S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1750344756_1.jpg",
+      "price": {
+        "raw": "$ 91.499",
+        "value": 91499,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::284145ad",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_gigabyte_h610m_k_ddr4_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-gigabyte-h610m-k-ddr4-lga1700.html",
+      "title_raw": "Motherboard Gigabyte H610M K DDr4 S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1721313064_h610-1.jpg",
+      "price": {
+        "raw": "$ 104.899",
+        "value": 104899,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::3d60d5a9",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_msi_pro_h610m-s_ddr4_box_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-msi-pro-h610m-s-ddr4-box-s1700.html",
+      "title_raw": "Motherboard MSI Pro H610m-S DDR4 Box S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1737571657_11.jpg",
+      "price": {
+        "raw": "$ 104.899",
+        "value": 104899,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::2d5475b9",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_msi_pro_h610m-g_ddr5_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-msi-pro-h610m-g-ddr5-lga1700.html",
+      "title_raw": "Motherboard MSI PRO H610M-G DDR5 S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1709742151_msi.jpg",
+      "price": {
+        "raw": "$ 105.999",
+        "value": 105999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::7a581eb6",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_biostar_prime_h610mh_ddr5_box_m-atx_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-biostar-prime-h610mh-d4-box-m-atx-s1700.html",
+      "title_raw": "Motherboard Biostar Prime H610MH DDR5 Box M-ATX S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1723036850_h610-1.jpg",
+      "price": {
+        "raw": "$ 107.999",
+        "value": 107999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::46637c0e",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_gigabyte_h610m_k_v2_ddr5_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-gigabyte-h610m-k-ddr5-lga1700.html",
+      "title_raw": "Motherboard Gigabyte H610M K V2 DDR5 S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1728568522_1.jpg",
+      "price": {
+        "raw": "$ 113.699",
+        "value": 113699,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::7bf2cdb6",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_asus_prime_h610m-k_d4_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-asus-prime-h610m-k-d4-s1700.html",
+      "title_raw": "Motherboard Asus Prime H610M-K D4 S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1650480852_dfgdfg.jpg",
+      "price": {
+        "raw": "$ 116.999",
+        "value": 116999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::6fc7a763",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_asus_prime_h610m-k_ddr5_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-asus-prime-h610m-k-ddr5-s1700.html",
+      "title_raw": "Motherboard Asus Prime H610M-K DDR5 S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1764605033_58.jpg",
+      "price": {
+        "raw": "$ 120.399",
+        "value": 120399,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::2fb27589",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_msi_pro_b760m-e_ddr4_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-msi-pro-b760m-e-ddr4-s1700.html",
+      "title_raw": "Motherboard MSI PRO B760M-E DDR4 S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1721154513_mb_msi_pro_b760m-e_ddr4_s170-1.jpg",
+      "price": {
+        "raw": "$ 128.999",
+        "value": 128999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::62b5511c",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_gigabyte_b760m_k_v2_ddr4_s1700",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-gigabyte-b760m-k-ddr4-s1700.html",
+      "title_raw": "Motherboard Gigabyte B760M K V2 DDR4 S1700",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1740141059_4.jpg",
+      "price": {
+        "raw": "$ 136.999",
+        "value": 136999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::441cb1a4",
+      "store_id": "venex",
+      "title_slug_id": "motherboard_asrock_h510_pro_btc+_mining_s1200_ddr4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/motherboards/intel",
+      "product_url": "https://www.venex.com.ar/motherboards/intel/motherboard-asrock-h510-pro-btc-s1200-ddr4.html",
+      "title_raw": "Motherboard Asrock H510 Pro BTC+ Mining S1200 DDR4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1638903340_sdfsdfawefwe.jpg",
+      "price": {
+        "raw": "$ 143.849",
+        "value": 143849,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:05.643Z"
+    },
+    {
+      "listing_id": "venex::29bf07a5",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_palit_nvidia_geforce_rtx_3050_stormx_6gb_gddr6",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-palit-nvidia-geforce-rtx-3050-stormx-6gb-gddr6.html",
+      "title_raw": "Placa De Video Palit Nvidia GeForce RTX 3050 Stormx 6GB GDDR6",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1734531506_p05137_bigimage_1788658bbe05311fe.jpg",
+      "price": {
+        "raw": "$ 339.990",
+        "value": 339990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::57bd6462",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_msi_nvidia_geforce_rtx_3050_low_profile_oc_6gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-msi-nvidia-geforce-rtx-3050-low-profile-oc-6gb.html",
+      "title_raw": "Placa De Video MSI Nvidia Geforce RTX 3050 Low Profile OC 6Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1730908489_11.jpg",
+      "price": {
+        "raw": "$ 345.990",
+        "value": 345990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::4ddcd5b8",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_asus_nvidia_geforce_rtx_3050_dual_6gb_oc_ddr6",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/palca-de-video-asus-nvidia-geforce-rtx-3050-dual-06g-oc-d6.html",
+      "title_raw": "Placa De Video Asus Nvidia Geforce RTX 3050 Dual 6Gb OC DDR6",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1721310762_asus-1.jpg",
+      "price": {
+        "raw": "$ 385.990",
+        "value": 385990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::1f880268",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_msi_nvidia_geforce_rtx_3050_ventus_2x_6gb_oc...",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-msi-nvidia-geforce-rtx-3050-ventus-2x-6gb-oc-gddr6.html",
+      "title_raw": "Placa De Video MSI Nvidia Geforce RTX 3050 Ventus 2X 6Gb OC...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1716900388_3050-msi-ventus-3.jpg",
+      "price": {
+        "raw": "$ 394.990",
+        "value": 394990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::3713f9ce",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_gigabyte_nvidia_geforce_rtx_3050_windforce_oc_v2...",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-gigabyte-nvidia-geforce-rtx-3050-windforce-oc-6gb.html",
+      "title_raw": "Placa De Video Gigabyte Nvidia Geforce RTX 3050 Windforce OC V2...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1718385471_3050-2.jpg",
+      "price": {
+        "raw": "$ 449.999",
+        "value": 449999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::741b891e",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_sapphire_amd_radeon_rx_7600_pulse_oc_8gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-sphire-amd-radeon-rx-7600-pulse-8gb.html",
+      "title_raw": "Placa de Video Sapphire AMD Radeon RX 7600 Pulse OC 8Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1753197138_6.jpg",
+      "price": {
+        "raw": "$ 489.990",
+        "value": 489990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::4ba27196",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_msi_nvidia_geforce_rtx_5050_ventus_2x_oc_8gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-msi-nvidia-geforce-rtx-5050-ventus-2x-oc-8gb.html",
+      "title_raw": "Placa de Video MSI NVIDIA GEFORCE RTX 5050 Ventus 2X OC 8GB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1767621348_geforce_rtx_5050_ventus_2x_oc_8gb-1.jpg",
+      "price": {
+        "raw": "$ 529.990",
+        "value": 529990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::2e3e72b5",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_asus_nvidia_geforce_rtx_5050_dual_oc_8gb_gddr6",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6.html",
+      "title_raw": "Placa De Video Asus Nvidia Geforce RTX 5050 Dual OC 8Gb GDDR6",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1764681084_440.jpg",
+      "price": {
+        "raw": "$ 551.990",
+        "value": 551990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::62c376c7",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_asus_atiradeon_rx_7600_dual_8gb_evo_oc",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-asus-atiradeon-rx-7600-dual-8gb-evo-oc.html",
+      "title_raw": "Placa de Video ASUS ATIRadeon RX 7600 Dual 8Gb EVO OC",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1757423858_5.jpg",
+      "price": {
+        "raw": "$ 584.990",
+        "value": 584990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::15520bf8",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_asus_nvidia_geforce_rtx_5050_prime_oc_8gb_gddr6",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-asus-nvidia-geforce-rtx-5050-prime-oc-8gb-gddr6.html",
+      "title_raw": "Placa de Video ASUS NVIDIA GEFORCE RTX 5050 PRIME OC 8GB GDDR6",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1767625749_asus_prime_geforce_rtx_5050_8gb_gddr6_oc-1.jpg",
+      "price": {
+        "raw": "$ 589.990",
+        "value": 589990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::7f7787b1",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_gigabyte_nvidia_geforce_rtx_5050_windforce_oc_v2...",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-gigabyte-nvidia-geforce-rtx-5050-windforce-oc-v2-8gb.html",
+      "title_raw": "Placa de Video GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE OC V2...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1770291966_gpu_gigabyte_nvidia_geforce_rtx_5050png",
+      "price": {
+        "raw": "$ 609.990",
+        "value": 609990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::2b4fa415",
+      "store_id": "venex",
+      "title_slug_id": "placa_de_video_palit_nvidia_geforce_rtx_5060_infinity_2_oc_8g",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/placas-de-video/placa-de-video-palit-nvidia-geforce-rtx-5060-infinity-2-oc-8g.html",
+      "title_raw": "Placa de Video Palit NVIDIA Geforce RTX 5060 Infinity 2 OC 8G",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1765279005_462.jpg",
+      "price": {
+        "raw": "$ 619.990",
+        "value": 619990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:07.208Z"
+    },
+    {
+      "listing_id": "venex::375eb230",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_con_kit_fuente_mouse_y_teclado",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-con-kit-fuente-mose-y-teclado.html",
+      "title_raw": "Gabinete Con Kit Fuente Mouse y Teclado",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1645472162_kit.jpg",
+      "price": {
+        "raw": "$ 38.999",
+        "value": 38999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::1afa2745",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_gamemax_nova_n5_mid_tower_atx_rgb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-gamemax-nova-n5-mid-tower-atx-rgb.html",
+      "title_raw": "Gabinete Gamemax Nova N5 Mid Tower ATX RGB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1603225643_1590737053.jpg",
+      "price": {
+        "raw": "$ 40.990",
+        "value": 40990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::3c0b95df",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_gamemax_nova_n6_mid_tower_atx_argb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-gamemax-nova-n6-mid-tower-atx-argb.html",
+      "title_raw": "Gabinete Gamemax Nova N6 Mid Tower ATX ARGB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1743168340_1.jpg",
+      "price": {
+        "raw": "$ 47.990",
+        "value": 47990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::5b8d8da8",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_raptor_vortex_tg_c/coolers_black",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-raptor-vortex-tg-c-coolers-black.html",
+      "title_raw": "Gabinete Raptor Vortex TG C/Coolers Black",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1726153490_1.jpg",
+      "price": {
+        "raw": "$ 49.990",
+        "value": 49990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::5724c40a",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_gamdias_argus_e4_elite_c/coolers_x1_tg",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-gamdias-argus-e4-elite-c-coolers-x1-tg.html",
+      "title_raw": "Gabinete Gamdias Argus E4 Elite C/Coolers X1 TG",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1703693520_ar-bl-1.jpg",
+      "price": {
+        "raw": "$ 52.990",
+        "value": 52990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::4c02b891",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_raptor_blaze_force_tg_rgb_c/coolers_x1",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-raptor-blaze-force-tg-rgb-c-coolers-x2.html",
+      "title_raw": "Gabinete Raptor Blaze Force TG RGB C/Coolers x1",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1725886690_2.jpg",
+      "price": {
+        "raw": "$ 52.990",
+        "value": 52990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::6c96299a",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_fantech_aero_ii_cg83_c/coolers_x4_frgb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-fantech-aero-ii-cg83-c-coolers-x4-frgb.html",
+      "title_raw": "Gabinete Fantech Aero II CG83 C/Coolers X4 FRGB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1770900248_gabinete_fantech_aero_ii_cg83_ccoolers_x4_frgbpng",
+      "price": {
+        "raw": "$ 52.999",
+        "value": 52999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::1266048b",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_gamemax_aero_mini_eco",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-gamemax-aero-mini-eco.html",
+      "title_raw": "Gabinete Gamemax Aero Mini Eco",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1758553195_4.jpg",
+      "price": {
+        "raw": "$ 54.990",
+        "value": 54990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::01a64d20",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_raptor_nova_prime_tg_rgb_c/coolers_x3",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-raptor-nova-prime-tg-rgb-c-coolers-x3.html",
+      "title_raw": "Gabinete Raptor Nova Prime TG RGB C/Coolers x3",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1758553001_1.jpg",
+      "price": {
+        "raw": "$ 54.990",
+        "value": 54990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::571f75f6",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_fantech_aero_ii_cg83_c/coolers_x4_frgb_white",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-fantech-aero-ii-cg83-c-coolers-x4-frgb-white.html",
+      "title_raw": "Gabinete Fantech Aero II CG83 C/Coolers X4 FRGB White",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1770901143_gabinete_fantech_aero_ii_cg83_ccoolers_x4_frgb_whitepng",
+      "price": {
+        "raw": "$ 54.999",
+        "value": 54999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::55a657c9",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_gamdias_athena_m6_lite_c/coolers_x4_tg_white",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-gamdias-athena-m6-lite-c-coolers-x4-tg-white.html",
+      "title_raw": "Gabinete Gamdias Athena M6 Lite C/Coolers X4 TG White",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1703692296_blanco-0.jpg",
+      "price": {
+        "raw": "$ 57.990",
+        "value": 57990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::1cbea68e",
+      "store_id": "venex",
+      "title_slug_id": "gabinete_gamdias_aura_gc1_elite_argb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/gabinetes/gabinete-gamdias-aura-gc1-elite-argb.html",
+      "title_raw": "Gabinete Gamdias Aura GC1 Elite ARGB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1739276894_6.jpg",
+      "price": {
+        "raw": "$ 57.990",
+        "value": 57990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:08.516Z"
+    },
+    {
+      "listing_id": "venex::2982ceaf",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_gamdias_aeolus_m3-1201_120mm_argb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-gamdias-aeolus-m3-1201-120mm-argb.html",
+      "title_raw": "Fan Cooler Gamdias Aeolus M3-1201 120mm ARGB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1703703270_fan-1.jpg",
+      "price": {
+        "raw": "$ 5.990",
+        "value": 5990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::074e1342",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_gamdias_aeolus_m2-1203_lite_argb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-gamdias-aeolus-m2-1203-lite-120mm-x3-rgb.html",
+      "title_raw": "Fan Cooler Gamdias Aeolus M2-1203 Lite ARGB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1703703458_12032-1.jpg",
+      "price": {
+        "raw": "$ 19.990",
+        "value": 19990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::0d74795b",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_gamdias_aeolus_m3-1203r_120mm_argb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-gamdias-aeolus-m3-1203r-120mm-argb.html",
+      "title_raw": "Fan Cooler Gamdias Aeolus M3-1203R 120mm ARGB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1751036640_1.jpg",
+      "price": {
+        "raw": "$ 27.990",
+        "value": 27990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::4b3d1264",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_gamdias_aeolus_m2-1204r_white_pack_x4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-gamdias-aeolus-m2-1204r-white.html",
+      "title_raw": "Fan Cooler Gamdias Aeolus M2-1204R White Pack x4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1739798980_5.jpg",
+      "price": {
+        "raw": "$ 31.490",
+        "value": 31490,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::2e57caec",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_hp_dl_380_g11_x2_para_servidor",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-hp-dl-380-g11-x2-para-servidor.html",
+      "title_raw": "Fan Cooler HP DL 380 G11 X2 Para Servidor",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1744725806_1.jpg",
+      "price": {
+        "raw": "$ 29.629",
+        "value": 29629,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::437acf78",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_gamdias_aeolus_m2-1204r_pack_x4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-gamdias-aeolus-m2-1204r.html",
+      "title_raw": "Fan Cooler Gamdias Aeolus M2-1204R Pack x4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1739797680_13.jpg",
+      "price": {
+        "raw": "$ 32.990",
+        "value": 32990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::16de4a12",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_cooler_master_mobius_120p_argb_white",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-master-mobius-120p-white.html",
+      "title_raw": "Fan Cooler Cooler Master Mobius 120P ARGB WHITE",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1713986669_w1_-_copia.jpg",
+      "price": {
+        "raw": "$ 54.990",
+        "value": 54990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::260b36b4",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_thermaltake_ct120_ex_argb_black_pack_x3",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-thermaltake-ct120-ex-argb-black-pack-x3.html",
+      "title_raw": "Fan Cooler Thermaltake CT120 EX ARGB Black Pack x3",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1733857427_cl-f181-pl12sw-a_01_1.jpg",
+      "price": {
+        "raw": "$ 104.990",
+        "value": 104990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::70332162",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_thermaltake_ct120_ex_argb_white_pack_x3",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-thermaltake-ct120-ex-argb-white-pack-x3.html",
+      "title_raw": "Fan Cooler Thermaltake CT120 EX ARGB White Pack x3",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1733857670_cl-f190-pl12sw-a_01.jpg",
+      "price": {
+        "raw": "$ 109.990",
+        "value": 109990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::39f4c764",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_adata_xpg_hurricane_mag_c/cooler_argb_magnetic_fan...",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-adata-xpg-hurricane-mag-c-cooler-argb-magnetic-fan-black.html",
+      "title_raw": "Fan Cooler Adata XPG Hurricane Mag C/Cooler ARGB Magnetic Fan...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1764768916_469.jpg",
+      "price": {
+        "raw": "$ 129.990",
+        "value": 129990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::321db0aa",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_corsair_rs120_max_pwm_30mm_x3_black",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-corsair-rs120-max-pwm-30mm-x3-black.html",
+      "title_raw": "Fan Cooler Corsair RS120 MAX PWM 30mm X3 Black",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1753189462_1.jpg",
+      "price": {
+        "raw": "$ 144.990",
+        "value": 144990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::55006a86",
+      "store_id": "venex",
+      "title_slug_id": "fan_cooler_adata_xpg_hurricane_mag_c/cooler_argb_magnetic_fan...",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/refrigeracion/fan-coolers",
+      "product_url": "https://www.venex.com.ar/refrigeracion/fan-coolers/fan-cooler-adata-xpg-hurricane-mag-c-cooler-argb-magnetic-fan-white.html",
+      "title_raw": "Fan Cooler Adata XPG Hurricane Mag C/Cooler ARGB Magnetic Fan...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1764769635_473.jpg",
+      "price": {
+        "raw": "$ 132.990",
+        "value": 132990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:09.931Z"
+    },
+    {
+      "listing_id": "venex::5c1cd3a6",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_amd_athlon_3000g_+_8gb_ddr4",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-amd-athlon-240ge---4gb-ddr4---a320m.html",
+      "title_raw": "Combo de Actualizacion AMD Athlon 3000G + 8Gb DDR4",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1712757848_combo-athlon.jpg",
+      "price": {
+        "raw": "$ 227.489",
+        "value": 227489,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::70e80552",
+      "store_id": "venex",
+      "title_slug_id": "combo_actualizacion_amd_ryzen_3_3200g_-_8gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-actualizacion-amd-ryzen-3-3200g---8gb-2x4.html",
+      "title_raw": "Combo Actualizacion AMD Ryzen 3 3200G - 8GB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1733249739_combo.jpg",
+      "price": {
+        "raw": "$ 268.389",
+        "value": 268389,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::15635643",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_intel_core_i3_12100_8gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-intel-core-i3-12100-8gb.html",
+      "title_raw": "Combo De Actualizacion Intel Core i3 12100 8Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1747746346_5.jpg",
+      "price": {
+        "raw": "$ 397.889",
+        "value": 397889,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::0d969cbb",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_intel_core_i3_14100_8gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-intel-core-i3-14100-8gb.html",
+      "title_raw": "Combo De Actualizacion Intel Core i3 14100 8Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1747747568_9.jpg",
+      "price": {
+        "raw": "$ 407.889",
+        "value": 407889,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::72c560cc",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_amd_ryzen_5_5600gt_16gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-amd-ryzen-5-5600gt-16gb.html",
+      "title_raw": "Combo De Actualizacion AMD Ryzen 5 5600GT 16GB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1747747234_8.jpg",
+      "price": {
+        "raw": "$ 523.989",
+        "value": 523989,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::27114a1f",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_amd_ryzen_7_5700g_16gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-amd-ryzen-7-5700g-16gb.html",
+      "title_raw": "Combo De Actualizacion AMD Ryzen 7 5700G 16Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1747745868_3.jpg",
+      "price": {
+        "raw": "$ 560.489",
+        "value": 560489,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::71f01da1",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_intel_core_i5_12400_16gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-intel-core-i5-12400-16gb.html",
+      "title_raw": "Combo De Actualizacion Intel Core i5 12400 16Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1747746641_6.jpg",
+      "price": {
+        "raw": "$ 604.889",
+        "value": 604889,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::35abb0df",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_intel_core_i5_14400_16gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-intel-core-i5-14400-16gb.html",
+      "title_raw": "Combo De Actualizacion Intel Core i5 14400 16GB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1747747790_10.jpg",
+      "price": {
+        "raw": "$ 650.889",
+        "value": 650889,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::634f6f03",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_amd_ryzen_5_8600g_16gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-amd-ryzen-5-8600g-16gb.html",
+      "title_raw": "Combo De Actualizacion AMD Ryzen 5 8600G 16Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1747745984_4.jpg",
+      "price": {
+        "raw": "$ 729.589",
+        "value": 729589,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::2edff9b3",
+      "store_id": "venex",
+      "title_slug_id": "combo_actualizacion_amd_ryzen_5_7600_16gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-actualizacion-amd-ryzen-5-7600-16gb.html",
+      "title_raw": "Combo Actualizacion AMD Ryzen 5 7600 16Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1747744297_1.jpg",
+      "price": {
+        "raw": "$ 783.079",
+        "value": 783079,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::213312da",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_intel_core_i7_12700_16gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-intel-core-i7-12700-16gb.html",
+      "title_raw": "Combo De Actualizacion Intel Core i7 12700 16Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1747746943_7.jpg",
+      "price": {
+        "raw": "$ 827.889",
+        "value": 827889,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::197f0b5c",
+      "store_id": "venex",
+      "title_slug_id": "combo_de_actualizacion_amd_ryzen_7_8700g_16gb",
+      "source_page_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones",
+      "product_url": "https://www.venex.com.ar/componentes-de-pc/combos-de-actualizaciones/combo-de-actualizacion-amd-ryzen-7-8700g-16gb.html",
+      "title_raw": "Combo De Actualizacion AMD Ryzen 7 8700G 16Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1712772075_combo-7800g.jpg",
+      "price": {
+        "raw": "$ 842.089",
+        "value": 842089,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:11.249Z"
+    },
+    {
+      "listing_id": "venex::65c2cfdd",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_athlon_3000g_ssd_240gb",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-athlon-240ge-ssd-120gb.html",
+      "title_raw": "Pc Amd Athlon 3000G SSD 240Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1745591938_1.jpg",
+      "price": {
+        "raw": "$ 472.990",
+        "value": 472990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::6c2a445f",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_ryzen_3_3200g_16gb_ssd_240",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-ryzen-4-4100-8gb-ssd-240.html",
+      "title_raw": "Pc AMD Ryzen 3 3200g 16Gb SSD 240",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1748433428_6.jpg",
+      "price": {
+        "raw": "$ 549.990",
+        "value": 549990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::6f0fb1d9",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_slim_ryzen_3_3200g_16gb_ssd_240gb",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-slim-ryzen-3-3200g-16gb-ssd-240gb.html",
+      "title_raw": "PC AMD Slim Ryzen 3 3200G 16Gb SSD 240Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1749730227_24.jpg",
+      "price": {
+        "raw": "$ 593.990",
+        "value": 593990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::155af619",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_ryzen_5_3400g_16gb_ssd480",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-ryzen-5-3400g-16gb-ssd480.html",
+      "title_raw": "Pc AMD Ryzen 5 3400G 16GB SSD480",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1766754555_id-20846.jpg",
+      "price": {
+        "raw": "$ 637.990",
+        "value": 637990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::01c9d616",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_ryzen_5_5600gt_8gb_ssd_480gb",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-ryzen-5-5600g-8gb-ssd-240gb.html",
+      "title_raw": "Pc AMD Ryzen 5 5600GT 8GB SSD 480GB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1740656735_3453.jpg",
+      "price": {
+        "raw": "$ 637.990",
+        "value": 637990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::23aad2ef",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_gamer_kairos_essential_ryzen_5_3400g_16gb_ssd_480gb",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-gamer-kairos-essential-ryzen-5-3400g-16gb-ssd-480gb.html",
+      "title_raw": "Pc AMD Gamer Kairos Essential Ryzen 5 3400G 16GB SSD 480GB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1766767127_id-20848.jpg",
+      "price": {
+        "raw": "$ 714.990",
+        "value": 714990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::1df344fc",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_ryzen_3_3200g_16gb_ssd_240gb_+_monitor_22",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-ryzen-3-3200g-8gb-ssd-240gb-monitor-22.html",
+      "title_raw": "Pc AMD Ryzen 3 3200g 16Gb SSD 240Gb + Monitor 22",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1748433368_7.jpg",
+      "price": {
+        "raw": "$ 714.990",
+        "value": 714990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::261bb35d",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_ryzen_5_5600gt_16gb_ssd_480gb",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-ryzen-5-5600g-16gb-ssd-240gb.html",
+      "title_raw": "Pc AMD Ryzen 5 5600GT 16GB SSD 480GB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1739273559_cocarda-de-caracter_sticas---pc.jpg",
+      "price": {
+        "raw": "$ 714.990",
+        "value": 714990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::3eafd0c9",
+      "store_id": "venex",
+      "title_slug_id": "pc_intel_i5_10400t_ssd_480gb_16gb",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-intel-i5-10400-ssd-240gb-8gb.html",
+      "title_raw": "Pc Intel i5 10400T SSD 480Gb 16Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1753714652_4.jpg",
+      "price": {
+        "raw": "$ 725.990",
+        "value": 725990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::4fae1595",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_ryzen_7_5700g_8gb_ssd_480gb",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-ryzen-7-5700g-8gb-ssd-240gb.html",
+      "title_raw": "Pc Amd Ryzen 7 5700G 8GB SSD 480GB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1739274099_66314.jpg",
+      "price": {
+        "raw": "$ 747.990",
+        "value": 747990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::3fb20eb1",
+      "store_id": "venex",
+      "title_slug_id": "pc_amd_slim_ryzen_5_5600gt_16gb_ssd_480gb",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-amd-slim-ryzen-5-5600gt-16gb-ssd-480gb.html",
+      "title_raw": "PC AMD Slim Ryzen 5 5600GT 16Gb SSD 480Gb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1749730625_26.jpg",
+      "price": {
+        "raw": "$ 758.990",
+        "value": 758990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::39656662",
+      "store_id": "venex",
+      "title_slug_id": "pc_intel_i3_12100_16gb_ssd_480gb",
+      "source_page_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio",
+      "product_url": "https://www.venex.com.ar/pc-de-escritorio/pcs-de-escritorio/pc-intel-i3-12100-8gb-ssd-240gb.html",
+      "title_raw": "Pc Intel i3 12100 16GB SSD 480GB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1748432492_4.jpg",
+      "price": {
+        "raw": "$ 791.990",
+        "value": 791990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:12.665Z"
+    },
+    {
+      "listing_id": "venex::5b0c8cf6",
+      "store_id": "venex",
+      "title_slug_id": "escritorio_gamer_redragon_terra_rgb_esquinero_con_elevandor_de...",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/escritorio-gamer-redragon-terra-rgb-esquinero-con-elevandor-de-monitor.html",
+      "title_raw": "Escritorio Gamer Redragon Terra RGB Esquinero con Elevandor de...",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1753800030_1.jpg",
+      "price": {
+        "raw": "$ 189.990",
+        "value": 189990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::1209944a",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_redragon_gaia_black_c211-b",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-redragon-gaia-black-c211-b.html",
+      "title_raw": "Silla Gamer Redragon Gaia Black C211-B",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1710244873_gaia.jpeg",
+      "price": {
+        "raw": "$ 314.990",
+        "value": 314990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::32c890b4",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_redragon_gaia_black_c211-br_black_/_red",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-redragon-gaia-black-c211-br-black-red.html",
+      "title_raw": "Silla Gamer Redragon GAIA Black C211-BR Black / Red",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1767180463_silla_gaia_black-red-1.jpg",
+      "price": {
+        "raw": "$ 314.990",
+        "value": 314990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::45f8a1f7",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_fantech_ledare_tank_midnight_black",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-fantech-ledare-tank-midnight-black.html",
+      "title_raw": "Silla Gamer Fantech Ledare Tank Midnight Black",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1770913251_silla_gc192_blackpng",
+      "price": {
+        "raw": "$ 324.999",
+        "value": 324999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::61c08da7",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_fantech_ledare_tank_primastitch_grey",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-fantech-ledare-tank-primastitch-grey.html",
+      "title_raw": "Silla Gamer Fantech Ledare Tank Primastitch Grey",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1770914365_silla_gc192_greypng",
+      "price": {
+        "raw": "$ 324.999",
+        "value": 324999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::357420a7",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_fantech_ledare_tank_umber_brown",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-fantech-ledare-tank-umber-brown.html",
+      "title_raw": "Silla Gamer Fantech Ledare Tank Umber Brown",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1770915022_silla_gc192_brownpng",
+      "price": {
+        "raw": "$ 324.999",
+        "value": 324999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::79731bc5",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_adata_xpg_nexus_black",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-adata-xpg-nexus-black.html",
+      "title_raw": "Silla Gamer Adata XPG Nexus Black",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1766071391_silla_gamer_nexus_black-1.jpg",
+      "price": {
+        "raw": "$ 389.990",
+        "value": 389990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::1906e533",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_adata_xpg_nexus_red",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-adata-xpg-nexus-red.html",
+      "title_raw": "Silla Gamer Adata XPG Nexus Red",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1766071681_silla_gamer_nexus_red-1.jpg",
+      "price": {
+        "raw": "$ 389.990",
+        "value": 389990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::1db635c6",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_fantech_alpha_gc283_black",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-fantech-alpha-gc283-black.html",
+      "title_raw": "Silla Gamer Fantech Alpha GC283 Black",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1770918277_silla_gamer_fantech_alpha_gc283_blackpng",
+      "price": {
+        "raw": "$ 409.999",
+        "value": 409999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::161b2bf4",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_corsair_tc100_relaxed_fabric_negra",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-corsair-tc100-relaxed-fabric-negra.html",
+      "title_raw": "Silla Gamer Corsair TC100 Relaxed Fabric Negra",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1685460510_corsair-4.jpg",
+      "price": {
+        "raw": "$ 419.990",
+        "value": 419990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::2d04712b",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_corsair_t3_rush_carbon_v2_2024",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-corsair-t3-rush-carbon-v2-2023.html",
+      "title_raw": "Silla Gamer Corsair T3 Rush Carbon V2 2024",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1685726090_t3-1.jpg",
+      "price": {
+        "raw": "$ 519.990",
+        "value": 519990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.949Z"
+    },
+    {
+      "listing_id": "venex::25339632",
+      "store_id": "venex",
+      "title_slug_id": "silla_gamer_corsair_t3_rush_grey_/_white_v2_2023",
+      "source_page_url": "https://www.venex.com.ar/sillas-gamerssillas-gamers/sillas-gamer",
+      "product_url": "https://www.venex.com.ar/sillas-gamers/sillas-gamer/silla-gamer-corsair-t3-black--white.html",
+      "title_raw": "Silla Gamer Corsair T3 RUSH Grey / White V2 2023",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1750947932_1.jpg",
+      "price": {
+        "raw": "$ 529.990",
+        "value": 529990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:13.950Z"
+    },
+    {
+      "listing_id": "venex::3714c19e",
+      "store_id": "venex",
+      "title_slug_id": "luz_de_emergencia_56_led_trv",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/estabilizadores/luz-des-emergencia-56-led.html",
+      "title_raw": "Luz De Emergencia 56 Led Trv",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1672238321_luz.jpg",
+      "price": {
+        "raw": "$ 28.999",
+        "value": 28999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::0b0a2e99",
+      "store_id": "venex",
+      "title_slug_id": "ups_trv_dc_24w_udc002",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/estabilizadores/ups-trv-dc-24w-udc002.html",
+      "title_raw": "UPS TRV Dc 24W UDC002",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1711118218_trv-1.jpg",
+      "price": {
+        "raw": "$ 29.999",
+        "value": 29999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::071da04b",
+      "store_id": "venex",
+      "title_slug_id": "ups_hikvision_ds_600va",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/ups/ups-hikvision-ds-600va.html",
+      "title_raw": "UPS Hikvision DS 600VA",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1749739451_1.jpg",
+      "price": {
+        "raw": "$ 66.399",
+        "value": 66399,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::17dbec2f",
+      "store_id": "venex",
+      "title_slug_id": "estabilizador_trv_powersafe_gamer",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/estabilizadores/estabilizador-trv-powersafe-gamer.html",
+      "title_raw": "Estabilizador TRV Powersafe Gamer",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1652982123_fsdfs.jpg",
+      "price": {
+        "raw": "$ 67.999",
+        "value": 67999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::61ad7bb8",
+      "store_id": "venex",
+      "title_slug_id": "ups_trv_650a_neo",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/ups/ups-trv-650-neo.html",
+      "title_raw": "Ups Trv 650A Neo",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1606827839_d_nq_np_771436mla41838363207_052020w.jpg",
+      "price": {
+        "raw": "$ 80.999",
+        "value": 80999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::3e30f9ff",
+      "store_id": "venex",
+      "title_slug_id": "ups_trv_850a_neo_4_tomas_s/usb",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/ups/ups-trv--850-neo-4-tomas-c-soft---y-usb.html",
+      "title_raw": "Ups Trv 850A Neo 4 Tomas S/USB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1742557432_6.jpg",
+      "price": {
+        "raw": "$ 98.990",
+        "value": 98990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::7e132b52",
+      "store_id": "venex",
+      "title_slug_id": "ups_hikvision_ds_1000va",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/ups/ups-hikvision-ds-1000va.html",
+      "title_raw": "UPS Hikvision DS 1000VA",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1752497043_1.jpg",
+      "price": {
+        "raw": "$ 109.999",
+        "value": 109999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::6158b3b6",
+      "store_id": "venex",
+      "title_slug_id": "ups_trv_650_c/usb",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/ups/ups-trv-650-c-usb.html",
+      "title_raw": "UPS Trv 650 C/usb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1634849445_wdefg514.jpg",
+      "price": {
+        "raw": "$ 115.899",
+        "value": 115899,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::767f0472",
+      "store_id": "venex",
+      "title_slug_id": "ups_trv_1200_neo_4t_c/soft_y_usb",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/ups/ups-trv-1500-neo-5t-c-soft-y-usb-.html",
+      "title_raw": "UPS TRV 1200 NEO 4T C/Soft y USB",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1640803190_ups.jpg",
+      "price": {
+        "raw": "$ 231.999",
+        "value": 231999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::4eeab9d7",
+      "store_id": "venex",
+      "title_slug_id": "ups_trv_1500_neo_c/soft_y_usb",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/ups/ups-trv-1500-neo-5t-c-soft-y-usb.html",
+      "title_raw": "Ups Trv 1500 Neo C/Soft Y Usb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1609860084_d_nq_np_946706mla26995855100_032018w.jpg",
+      "price": {
+        "raw": "$ 254.999",
+        "value": 254999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::69c57209",
+      "store_id": "venex",
+      "title_slug_id": "ups_trv_2000_neo_4_tomas_c/soft_y_usb",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/ups/ups-trv-2000-neo-4-tomas-c-soft-y-usb--.html",
+      "title_raw": "Ups Trv 2000 Neo 4 Tomas C/Soft Y Usb",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1509997800_ioiop.jpg",
+      "price": {
+        "raw": "$ 329.990",
+        "value": 329990,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    },
+    {
+      "listing_id": "venex::58236f2c",
+      "store_id": "venex",
+      "title_slug_id": "ups_hikvision_ds_3000va",
+      "source_page_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas",
+      "product_url": "https://www.venex.com.ar/estabilizadores-ups-y-zapatillas/ups/ups-hikvision-ds-3000va.html",
+      "title_raw": "UPS Hikvision DS 3000VA",
+      "image_url": "https://www.venex.com.ar/products_images/thumb/1749751227_1.jpg",
+      "price": {
+        "raw": "$ 376.999",
+        "value": 376999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-16T18:57:16.181Z"
+    }
+  ]
+}

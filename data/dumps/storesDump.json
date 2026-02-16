@@ -1,0 +1,36 @@
+{
+  "armyTech": {
+    "store_name": "ArmyTech",
+    "store_id": "armytech",
+    "store_url": "https://www.armytech.com.ar",
+    "store_image": "/src/assets/stores/armytech.png",
+    "trust_factor_manual": 90,
+    "seller_type": [
+      "setup",
+      "componentes"
+    ],
+    "tags": [
+      "gaming",
+      "buenos aires",
+      "buena_reputacion",
+      "componentes"
+    ]
+  },
+  "venex": {
+    "store_name": "Venex",
+    "store_id": "venex",
+    "store_url": "https://www.venex.com.ar",
+    "store_image": "/images/stores/venex.png",
+    "trust_factor_manual": 85,
+    "seller_type": [
+      "setup",
+      "componentes"
+    ],
+    "tags": [
+      "gaming",
+      "cordoba",
+      "buena_reputacion",
+      "componentes"
+    ]
+  }
+}

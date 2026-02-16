@@ -1,1 +1,0 @@
-// extractStock (placeholder)
