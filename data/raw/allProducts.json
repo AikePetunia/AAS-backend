@@ -1,20 +1,364 @@
 {
-  "store_name": "Venex",
-  "store_id": "venex",
-  "store_url": "https://www.venex.com.ar",
-  "store_image": "/images/stores/venex.png",
-  "trust_factor_manual": 85,
-  "seller_type": [
-    "setup",
-    "componentes"
+  "armyTech": [
+    {
+      "listing_id": "armytech::4907c938",
+      "store_id": "armytech",
+      "title_slug_id": "pc_oficina_amd_ryzen_7_5700g_8gb_ssd_256gb_a520_gab_kit_+_teclado,_mouse_y_parlantes",
+      "source_page_url": "https://www.armytech.com.ar/371-pc-hogar-oficina",
+      "product_url": "https://www.armytech.com.ar/pc-hogar-oficina/1597-pc-oficina-amd-ryzen-7-5700g-8gb-ssd-256gb-a520-gab-kit-teclado-mouse-y-parlantes.html",
+      "title_raw": "Pc Oficina Amd Ryzen 7 5700g 8gb Ssd 256gb A520 Gab Kit + Teclado, Mouse Y Parlantes",
+      "image_url": "https://www.armytech.com.ar/5970-home_default/pc-oficina-amd-ryzen-7-5700g-8gb-ssd-256gb-a520-gab-kit-teclado-mouse-y-parlantes.jpg",
+      "price": {
+        "raw": "$ 583.587,52",
+        "value": 583587,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:12.063Z"
+    },
+    {
+      "listing_id": "armytech::34508ddd",
+      "store_id": "armytech",
+      "title_slug_id": "pc_oficina_intel_core_i5_10400t_32gb_ssd_1tb_h510_gab_kit_+_de_regalo_teclado,_mouse_y_parlantes",
+      "source_page_url": "https://www.armytech.com.ar/371-pc-hogar-oficina",
+      "product_url": "https://www.armytech.com.ar/pc-hogar-oficina/5762-pc-oficina-intel-core-i5-10400t-32gb-ssd-1tb-h510-gab-kit-de-regalo-teclado-mouse-y-parlantes.html",
+      "title_raw": "Pc Oficina Intel Core I5 10400t 32gb Ssd 1tb H510 Gab Kit + De Regalo Teclado, Mouse Y Parlantes",
+      "image_url": "https://www.armytech.com.ar/6558-home_default/pc-oficina-intel-core-i5-10400t-32gb-ssd-1tb-h510-gab-kit-de-regalo-teclado-mouse-y-parlantes.jpg",
+      "price": {
+        "raw": "$ 906.328,74",
+        "value": 906328,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:12.063Z"
+    },
+    {
+      "listing_id": "armytech::02408dab",
+      "store_id": "armytech",
+      "title_slug_id": "pc_oficina_intel_i7_14700_16gb_ssd_512gb_h510_gab_kit_+_teclado,_mouse_y_parlantes",
+      "source_page_url": "https://www.armytech.com.ar/371-pc-hogar-oficina",
+      "product_url": "https://www.armytech.com.ar/pc-hogar-oficina/5560-pc-oficina-intel-i7-14700-16gb-ssd-512gb-h510-gab-kit-teclado-mouse-y-parlantes.html",
+      "title_raw": "Pc Oficina Intel I7 14700 16gb Ssd 512gb H510 Gab Kit + Teclado, Mouse Y Parlantes",
+      "image_url": "https://www.armytech.com.ar/6130-home_default/pc-oficina-intel-i7-14700-16gb-ssd-512gb-h510-gab-kit-teclado-mouse-y-parlantes.jpg",
+      "price": {
+        "raw": "$ 1.012.189,39",
+        "value": 1012189,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:12.063Z"
+    },
+    {
+      "listing_id": "armytech::6c169f93",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_amd_ryzen_7_5700g_a520_16gb_(2x8gb)_ssd_480gb_+_kit",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/5636-pc-gamer-amd-ryzen-7-5700g-a520-16gb-2x8gb-ssd-480gb-kit.html",
+      "title_raw": "Pc Gamer Amd Ryzen 7 5700g A520 16gb (2x8gb) Ssd 480gb + Kit",
+      "image_url": "https://www.armytech.com.ar/6559-home_default/pc-gamer-amd-ryzen-7-5700g-a520-16gb-2x8gb-ssd-480gb-kit.jpg",
+      "price": {
+        "raw": "$ 785.871,58",
+        "value": 785871,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::31f66c75",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_amd_ryzen_7_5700g_a520_16gb_ssd_1tb_+_kit",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/4860-pc-gamer-amd-ryzen-7-5700g-a520-16gb-ssd-1tb-kit.html",
+      "title_raw": "Pc Gamer Amd Ryzen 7 5700g A520 16gb Ssd 1tb + Kit",
+      "image_url": "https://www.armytech.com.ar/5936-home_default/pc-gamer-amd-ryzen-7-5700g-a520-16gb-ssd-1tb-kit.jpg",
+      "price": {
+        "raw": "$ 862.630,57",
+        "value": 862630,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::63d286e0",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_amd_ryzen_5_8500g_16gb_512gb_b840_550w_80+_raptor_blaze",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/2975-pc-gamer-amd-ryzen-5-8500g-16gb-512gb-b840-550w-80-raptor-blaze.html",
+      "title_raw": "Pc Gamer Amd Ryzen 5 8500g 16gb 512gb B840 550w 80+ Raptor Blaze",
+      "image_url": "https://www.armytech.com.ar/5892-home_default/pc-gamer-amd-ryzen-5-8500g-16gb-512gb-b840-550w-80-raptor-blaze.jpg",
+      "price": {
+        "raw": "$ 985.207,50",
+        "value": 985207,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::036b31d5",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_intel_core_i5_10400t_h510m_16gb_ssd_512gb_rtx_3050_6gb_gab_kit",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/1621-pc-gamer-intel-core-i5-10400t-h510m-16gb-ssd-512gb-rtx-3050-6gb-gab-kit.html",
+      "title_raw": "Pc Gamer Intel Core I5 10400t H510m 16gb Ssd 512gb Rtx 3050 6gb Gab Kit",
+      "image_url": "https://www.armytech.com.ar/6555-home_default/pc-gamer-intel-core-i5-10400t-h510m-16gb-ssd-512gb-rtx-3050-6gb-gab-kit.jpg",
+      "price": {
+        "raw": "$ 1.027.269,77",
+        "value": 1027269,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::690b8bc6",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_amd_ryzen_7_5700g_a520_32gb_ssd_1tb_kit_+_teclado,_mouse_y_parlantes",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/5635-pc-gamer-amd-ryzen-7-5700g-a520-32gb-ssd-1tb-kit-teclado-mouse-y-parlantes.html",
+      "title_raw": "Pc Gamer Amd Ryzen 7 5700g A520 32gb Ssd 1tb Kit + Teclado, Mouse Y Parlantes",
+      "image_url": "https://www.armytech.com.ar/6190-home_default/pc-gamer-amd-ryzen-7-5700g-a520-32gb-ssd-1tb-kit-teclado-mouse-y-parlantes.jpg",
+      "price": {
+        "raw": "$ 1.065.353,65",
+        "value": 1065353,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::40dc33ad",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_amd_ryzen_5_3500x_rtx_3050_a520_16gb_ssd_1tb_550w_raptor_vortex",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/5784-pc-gamer-amd-ryzen-5-3500x-rtx-3050-a520-16gb-ssd-1tb-550w-raptor-vortex.html",
+      "title_raw": "Pc Gamer Amd Ryzen 5 3500x Rtx 3050 A520 16gb Ssd 1tb 550w Raptor Vortex",
+      "image_url": "https://www.armytech.com.ar/6553-home_default/pc-gamer-amd-ryzen-5-3500x-rtx-3050-a520-16gb-ssd-1tb-550w-raptor-vortex.jpg",
+      "price": {
+        "raw": "$ 1.105.006,13",
+        "value": 1105006,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::041d84f4",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_i5_10400t_rtx3050_16gb_ssd_512gb_h510_550w_80+_gabinete_gamer",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/4543-pc-gamer-i5-10400t-rtx3050-16gb-ssd-512gb-h510-550w-80-gabinete-gamer.html",
+      "title_raw": "Pc Gamer I5 10400t Rtx3050 16gb Ssd 512gb H510 550w 80+ Gabinete Gamer",
+      "image_url": "https://www.armytech.com.ar/6535-home_default/pc-gamer-i5-10400t-rtx3050-16gb-ssd-512gb-h510-550w-80-gabinete-gamer.jpg",
+      "price": {
+        "raw": "$ 1.163.028,41",
+        "value": 1163028,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::1e934b9f",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_intel_ultra_5_225_rtx_3050_16gb_ssd_512gb_h810_550w_80+_raptor_vortex",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/3561-pc-gamer-intel-ultra-5-225-rtx-3050-16gb-ssd-512gb-h810-550w-80-raptor-vortex.html",
+      "title_raw": "Pc Gamer Intel Ultra 5 225 Rtx 3050 16gb Ssd 512gb H810 550w 80+ Raptor Vortex",
+      "image_url": "https://www.armytech.com.ar/6530-home_default/pc-gamer-intel-ultra-5-225-rtx-3050-16gb-ssd-512gb-h810-550w-80-raptor-vortex.jpg",
+      "price": {
+        "raw": "$ 1.553.988,63",
+        "value": 1553988,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::32ece344",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_ryzen_7_7700_rtx_3050_b840_16gb_ssd_500gb_550w_80+_blaze_force",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/4988-pc-gamer-ryzen-7-7700-rtx-3050-b840-16gb-ssd-500gb-550w-80-blaze-force.html",
+      "title_raw": "Pc Gamer Ryzen 7 7700 Rtx 3050 B840 16gb Ssd 500gb 550w 80+ Blaze Force",
+      "image_url": "https://www.armytech.com.ar/6148-home_default/pc-gamer-ryzen-7-7700-rtx-3050-b840-16gb-ssd-500gb-550w-80-blaze-force.jpg",
+      "price": {
+        "raw": "$ 1.719.448,18",
+        "value": 1719448,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::5a1a566f",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_intel_core_i5_12400_rtx_5060ti_16gb_ssd_1tb_h610_750w_80+_solarmax_cm-5901",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/2596-pc-gamer-intel-core-i5-12400-rtx-5060ti-16gb-ssd-1tb-h610-750w-80-solarmax-cm-5901.html",
+      "title_raw": "Pc Gamer Intel Core I5 12400 Rtx 5060ti 16gb Ssd 1tb H610 750w 80+ Solarmax Cm-5901",
+      "image_url": "https://www.armytech.com.ar/6561-home_default/pc-gamer-intel-core-i5-12400-rtx-5060ti-16gb-ssd-1tb-h610-750w-80-solarmax-cm-5901.jpg",
+      "price": {
+        "raw": "$ 1.921.477,48",
+        "value": 1921477,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::0b1f7ca1",
+      "store_id": "armytech",
+      "title_slug_id": "pc_gamer_r7_7700_rtx_5060ti_b840_16gb_ssd_500gb_550w_80+_raptor_blaze_force",
+      "source_page_url": "https://www.armytech.com.ar/370-pc-gamer",
+      "product_url": "https://www.armytech.com.ar/pc-gamer/5173-pc-gamer-r7-7700-rtx-5060ti-b840-16gb-ssd-500gb-550w-80-raptor-blaze-force.html",
+      "title_raw": "Pc Gamer R7 7700 Rtx 5060ti B840 16gb Ssd 500gb 550w 80+ Raptor Blaze Force",
+      "image_url": "https://www.armytech.com.ar/6149-home_default/pc-gamer-r7-7700-rtx-5060ti-b840-16gb-ssd-500gb-550w-80-raptor-blaze-force.jpg",
+      "price": {
+        "raw": "$ 2.064.733,05",
+        "value": 2064733,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:15.137Z"
+    },
+    {
+      "listing_id": "armytech::5258612e",
+      "store_id": "armytech",
+      "title_slug_id": "mini_pc_asus_intel_i3_1220p_pn64_ddr5_barebone",
+      "source_page_url": "https://www.armytech.com.ar/372-mini-pc",
+      "product_url": "https://www.armytech.com.ar/mini-pc/5630-mini-pc-asus-intel-i3-1220p-pn64-ddr5-barebone.html",
+      "title_raw": "Mini Pc Asus Intel I3 1220p Pn64 Ddr5 Barebone",
+      "image_url": "https://www.armytech.com.ar/6239-home_default/mini-pc-asus-intel-i3-1220p-pn64-ddr5-barebone.jpg",
+      "price": {
+        "raw": "$ 562.437,82",
+        "value": 562437,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:19.993Z"
+    },
+    {
+      "listing_id": "armytech::13dd6e4a",
+      "store_id": "armytech",
+      "title_slug_id": "notebook_asus_tuf_15.6\"_ryzen_7_7435hs_16gb_ssd_512gb_rtx_4050_6gb_wqhd_165hz_freedos",
+      "source_page_url": "https://www.armytech.com.ar/507-notebook-gamer",
+      "product_url": "https://www.armytech.com.ar/notebook-gamer/5924-notebook-asus-tuf-156-ryzen-7-7435hs-16gb-ssd-512gb-rtx-4050-6gb-wqhd-165hz-freedos.html",
+      "title_raw": "Notebook Asus Tuf 15.6\" Ryzen 7 7435hs 16gb Ssd 512gb Rtx 4050 6gb Wqhd 165hz Freedos",
+      "image_url": "https://www.armytech.com.ar/6850-home_default/notebook-asus-tuf-156-ryzen-7-7435hs-16gb-ssd-512gb-rtx-4050-6gb-wqhd-165hz-freedos.jpg",
+      "price": {
+        "raw": "$ 1.481.616,60",
+        "value": 1481616,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:24.317Z"
+    },
+    {
+      "listing_id": "armytech::6e259bf6",
+      "store_id": "armytech",
+      "title_slug_id": "notebook_gigabyte_16\"_i7_13620h_16gb_512gb_rtx_5050_8gb_fhd_w11h",
+      "source_page_url": "https://www.armytech.com.ar/507-notebook-gamer",
+      "product_url": "https://www.armytech.com.ar/productos/5766-notebook-gigabyte-16-i7-13620h-16gb-512gb-rtx-5050-8gb-fhd-w11h.html",
+      "title_raw": "Notebook Gigabyte 16\" I7 13620h 16gb 512gb Rtx 5050 8gb Fhd W11h",
+      "image_url": "https://www.armytech.com.ar/6519-home_default/notebook-gigabyte-16-i7-13620h-16gb-512gb-rtx-5050-8gb-fhd-w11h.jpg",
+      "price": {
+        "raw": "$ 2.499.999,99",
+        "value": 2499999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-17T17:14:24.317Z"
+    }
   ],
-  "tags": [
-    "gaming",
-    "cordoba",
-    "buena_reputacion",
-    "componentes"
-  ],
-  "products": [
+  "venex": [
     {
       "listing_id": "venex::2a97194e",
       "store_id": "venex",

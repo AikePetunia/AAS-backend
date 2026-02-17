@@ -1,5 +1,5 @@
 import { chromium } from "playwright";
-
+import fs from "fs/promises";
 export class Scraper {
 	constructor(config) {
 		this.config = config;
