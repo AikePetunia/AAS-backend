@@ -15,14 +15,18 @@ export class Scraper {
 		await this.page.route("**/*.{png,jpg,jpeg,gif,webp}", (route) => route.abort());
 	}
 
-	async scrapeProducts() {
+	async scrapeProducts(storePathLimitTest = null) {
 		let allProducts = [];
-
 		try {
 			await this.initialize();
 
-			for (const page of this.config.pages) {
-				const url = this.buildUrl(page);
+			const pathsToScrape =
+				storePathLimitTest && Number.isInteger(storePathLimitTest) && storePathLimitTest > 0
+					? this.config.pages.slice(0, storePathLimitTest)
+					: this.config.pages;
+
+			for (const path of pathsToScrape) {
+				const url = this.buildUrl(path);
 				console.log(`Scraping ${this.config.store_name}: ${url}`);
 
 				try {

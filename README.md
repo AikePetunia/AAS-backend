@@ -12,25 +12,21 @@ I'll try my best to not put ads on the page, or sponsored brands and be transpar
 
 ## Tech Stack used so far
 
-- Figma (?)
-- Css
-- React + Typescript
 - Node + playwright
 - Python + scikit-learn
 
 ## General Roadmap (2025)
 
-- [x] Very basic front-end to show products
 - [x] Get paths and classes from pages with playwright to get datasets to train AI
 - [x] Train AI to predict valid paths, classes from pages to automate scrappig new pages.
-- [ ] Learn figma, do the UI/UX
-- [ ] Create a basic, styled and functional front-end, that only show products by category and Deploy a very first version.
+- [ ] Very basic front-end to show products
+- [ ] 
 
 ## 💡 Future Features
 
 - [ ] Countdown for sales (hot sale, prime day, black friday)
-- [ ] Services near you (Pc builders, windows optimization, software recommendations)
-- [ ] A reputation system for companies, based on google reviews or a system like reddit (Basic, no account required).
+- [ ] Services (Pc builders, windows optimization, software recommendations)
+- [ ] A real reputation system for companies
 - [ ] 3D interactive object on playcanvas.
 - [ ] Account creation, save products, build setups/pcs, etc. With pages recommendations to see the final build on your setup.
 
@@ -43,15 +39,9 @@ I'll try my best to not put ads on the page, or sponsored brands and be transpar
 
 Made by [Venuss](https://venuss.me) 🇦🇷
 
+- utils
+https://miro.com/app/board/uXjVGGZlam0=/share_link_id=870584074040
 npm init playwright@latest
+https://designengineer.io/
+https://www.figma.com/make/aImGfPjsMQ987v2dFUtdGo/AAS?p=f&t=6UAo3sfHFHKxR8Av-0
 
-todo:
-
-- [x] re format files and names
-- [] centralize in one file the running of all the files required for the final response
-- [] make a final file with the errors, todo, thiungs to improve, how to handle non paths, non classes, etc
-
-https://miro.com/app/board/uXjVGGZlam0=/?share_link_id=870584074040
-
-
-Por no tirar cosas a la mierda, me decidi en mezclar la primera opcion + la tercera (me quedo con los Paths.)
