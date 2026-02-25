@@ -1,0 +1,16 @@
+{
+  "store_name": "Tiendatrade",
+  "store_id": "tiendatrade",
+  "store_url": "https://www.tiendatrade.com.ar",
+  "store_image": "/images/stores/tiendatrade.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": []
+}

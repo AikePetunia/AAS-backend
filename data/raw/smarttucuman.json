@@ -1,0 +1,16 @@
+{
+  "store_name": "Smart Tucuman",
+  "store_id": "smarttucuman",
+  "store_url": "https://www.smarttucuman.com.ar",
+  "store_image": "/images/stores/smarttucuman.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": []
+}

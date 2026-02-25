@@ -24,12 +24,10 @@ const getPaths = [
 	"https://nextgames.com.ar/",
 	"https://www.turtech.com.ar",
 	"https://gorilagames.com/",
-	"https://www.uranostream.com.ar/",
+	"https://universosgamers.com.ar/",
 	"https://www.thegamershop.com.ar/",
-	"https://ruidos.com.ar/",
 	"https://alltek.ar/",
 	"https://insumaxinformatica.com.ar/",
-	"https://tlsastore.com/",
 	"https://compucordoba.com.ar/",
 	"https://macroinsumos.com.ar/",
 	"https://storelaplata.com.ar/",
@@ -42,35 +40,28 @@ const getPaths = [
 	"https://gamesargentina.com/",
 	"https://elevengamesar.com/",
 	"https://intecnova.com.ar/",
-	"https://31store.com.ar/",
 	"https://kenshinanimestore.com/",
 	"https://manabigames.org/",
-	"https://ibtech.com.ar/",
 	"https://gameroutlet.com.ar/",
-	"https://gamerstyle.com.ar/",
 	"https://smarttucuman.com/",
-	"https://www.space.com.ar",
-	"https://www.scphardstore.com.ar/",
+	"https://www.scphardstore.com",
 	"https://www.rockethard.com.ar/",
 	"https://www.armytech.com.ar",
 	"https://www.maximus.com.ar",
 	"https://www.venex.com.ar",
 	"https://compragamer.com/",
-	"https://compragamer.com/productos?",
 	"https://www.ngtechnologies.com.ar",
 	"https://mgmgamers.store",
 	"https://www.slot-one.com.ar",
 	"https://www.puertominero.com.ar",
 	"https://www.710tech.com.ar/",
 	"https://www.37bytes.com.ar/",
-	"https://dinobyte.ar/",
 	"https://dinobyte.ar/categoria-producto/",
 	"https://fullh4rd.com.ar/",
-	"https://gnpoint.com.ar/productos/",
+	"https://gamingpoint.com.ar/",
 	"https://www.gamerspoint.com.ar/",
 	"https://www.gamingcity.com.ar/",
 	"https://www.gezatek.com.ar/",
-	"https://www.gezatek.com.ar/tienda/",
 	"https://goldentechstore.com.ar/",
 	"https://ar-shop.com.ar/",
 	"https://www.insumosacuario.com.ar/",
@@ -89,7 +80,7 @@ const getPaths = [
 	"https://www.mexx.com.ar/",
 	"https://www.mexx.com.ar/productos-rubro/",
 	"https://www.noxiestore.com/",
-	"https://www.peakcomputacion.com.ar",
+	"https://www.peakcomputacion.com",
 	"https://www.shopgamer.com.ar",
 	"https://www.tiendatrade.com.ar",
 	"https://goldgaming.com.ar/",
@@ -99,11 +90,7 @@ const getPaths = [
 	"https://www.makenametal.com.ar/",
 	"https://diangi.online/",
 	"https://www.onicaps.online/",
-	"https://www.elevecomponentes.com/",
-	"https://playhubshop.com.ar/",
 	"https://www.cuadrosmodernos.com.ar/",
-	"https://farbermuebles.com.ar/", // que carajos los precios kjj
-	// new ones, setup testing 18/8
 	"https://www.shibuyacomicstore.com.ar/",
 ];
 
@@ -222,7 +209,7 @@ export async function extractPathsOnPage(page) {
 						// Filter out unwanted extensions
 						if (
 							!path.match(
-								/\.(js|php|html|png|jpg|jpeg|gif|css|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg)$/
+								/\.(js|php|png|jpg|jpeg|gif|css|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg|htm)$/
 							)
 						) {
 							paths.add(path);
@@ -233,7 +220,7 @@ export async function extractPathsOnPage(page) {
 
 					if (
 						!path.match(
-							/\.(|php|html|png|jpg|jpeg|gif|css|js|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg)$/
+							/\.(|php|png|jpg|jpeg|gif|css|js|svg|webp|woff|woff2|ttf|otf|eot|ico|xml|json|txt|pdf|zip|tar|gz|mp4|mp3|avi|mov|mkv|webm|wav|flac|exe|msi|dmg)$/
 						)
 					) {
 						paths.add(path);

@@ -1,0 +1,16 @@
+{
+  "store_name": "Urano Stream",
+  "store_id": "universoGamer",
+  "store_url": "https://www.universoGamer.com.ar",
+  "store_image": "/images/stores/universoGamer.png",
+  "trust_factor_manual": 20,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": []
+}

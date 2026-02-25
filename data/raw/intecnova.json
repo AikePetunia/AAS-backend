@@ -1,0 +1,118 @@
+{
+  "store_name": "IntecNova",
+  "store_id": "intecnova",
+  "store_url": "https://www.intecnova.com.ar",
+  "store_image": "/images/stores/intecnova.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": [
+    {
+      "listing_id": "intecnova::5fb143dc",
+      "store_id": "intecnova",
+      "title_slug_id": "apple_watch_se_3_gps_44mm_-_caja_de_aluminio_color_medianoche_-_correa_deportiva_medianoche_m/l_2025",
+      "source_page_url": "https://www.intecnova.com.ar/Marca/apple",
+      "product_url": "https://www.intecnova.com.ar/537805-smartwatches-apple-watch-se-3-gps-44mm-caja-de-aluminio-color-medianoche",
+      "title_raw": "Apple Watch SE 3 GPS 44mm - Caja de Aluminio Color Medianoche - Correa Deportiva Medianoche M/L 2025",
+      "image_url": "https://www.intecnova.com.ar/img/noPhoto.png",
+      "price": {
+        "raw": "$589.282",
+        "value": 589282,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.627Z"
+    },
+    {
+      "listing_id": "intecnova::2e321cb0",
+      "store_id": "intecnova",
+      "title_slug_id": "apple_watch_se_gps_(2da_gen)_40mm_-_caja_de_aluminio_color_medianoche_-_correa_deportiva_medianohce_s/m",
+      "source_page_url": "https://www.intecnova.com.ar/Marca/apple",
+      "product_url": "https://www.intecnova.com.ar/191748-smartwatches-apple-watch-se-gps-2da-gen-40mm-caja-de-aluminio-color-me",
+      "title_raw": "Apple Watch SE GPS (2da Gen) 40mm - Caja de Aluminio Color Medianoche - Correa Deportiva Medianohce S/M",
+      "image_url": "https://www.intecnova.com.ar/img/noPhoto.png",
+      "price": {
+        "raw": "$473.212",
+        "value": 473212,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.627Z"
+    },
+    {
+      "listing_id": "intecnova::0adfc442",
+      "store_id": "intecnova",
+      "title_slug_id": "sacacorchos_automático_eléctrico_destapador_para_vinos_premium",
+      "source_page_url": "https://www.intecnova.com.ar/smart-home",
+      "product_url": "https://www.intecnova.com.ar/478502-accesorios-smart-vonne-sacacorchos-automatico-electrico-destapador-para-vi",
+      "title_raw": "Sacacorchos Automático Eléctrico Destapador Para Vinos Premium",
+      "image_url": "https://www.intecnova.com.ar/img/noPhoto.png",
+      "price": {
+        "raw": "$33.639",
+        "value": 33639,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:40.933Z"
+    },
+    {
+      "listing_id": "intecnova::34046f1b",
+      "store_id": "intecnova",
+      "title_slug_id": "auriculares_inalámbricos_lenovo_lp1s_bluetooth_5.0_negro",
+      "source_page_url": "https://www.intecnova.com.ar/Marca/lenovo",
+      "product_url": "https://www.intecnova.com.ar/528880-audio-y-video-lenovo-auriculares-inalambricos-lp1s-bluetooth-5-0-negro",
+      "title_raw": "Auriculares Inalámbricos Lenovo LP1S Bluetooth 5.0 Negro",
+      "image_url": "https://www.intecnova.com.ar/img/Public/1132/8189-producto-2.JPG",
+      "price": {
+        "raw": "$34.995",
+        "value": 34995,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:14.427Z"
+    },
+    {
+      "listing_id": "intecnova::64463783",
+      "store_id": "intecnova",
+      "title_slug_id": "smartwatch_udfine_starry_pantalla_hd_1.8\"_con_alexa_color_black",
+      "source_page_url": "https://www.intecnova.com.ar/Marca/udfine",
+      "product_url": "https://www.intecnova.com.ar/452199-smartwatches-udfine-smartwatch-starry-pantalla-hd-1-8-con-alexa-color-bla",
+      "title_raw": "Smartwatch Udfine Starry Pantalla HD 1.8\" Con Alexa Color Black",
+      "image_url": "https://www.intecnova.com.ar/img/noPhoto.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:20.597Z"
+    }
+  ]
+}

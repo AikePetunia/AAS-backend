@@ -3,10 +3,9 @@ import fs from "fs/promises";
 
 export async function writeStoresDump() {
 	const results = {};
+			console.log("Writing all stores info to dump...");
 	try {
 		for (const [siteKey, config] of Object.entries(siteConfigs)) {
-			console.log("Writing all stores info to dump...");
-
 			results[siteKey] = {
 				store_name: config.store_name,
 				store_id: config.store_id,

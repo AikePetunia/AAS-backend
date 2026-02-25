@@ -1,0 +1,16 @@
+{
+  "store_name": "MGM Gamers",
+  "store_id": "mgmgamers",
+  "store_url": "https://mgmgamers.store",
+  "store_image": "/images/stores/mgmgamers.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "setup"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "setup"
+  ],
+  "products": []
+}

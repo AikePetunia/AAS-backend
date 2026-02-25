@@ -1,0 +1,17 @@
+{
+  "store_name": "AR Shop",
+  "store_id": "arshop",
+  "store_url": "https://ar-shop.com.ar/",
+  "store_image": "/images/stores/arshop.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "setup",
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "setup"
+  ],
+  "products": []
+}

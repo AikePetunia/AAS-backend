@@ -1,0 +1,3757 @@
+{
+  "store_name": "710Tech",
+  "store_id": "710tech",
+  "store_url": "https://www.710tech.com.ar/",
+  "store_image": "/images/stores/710tech.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": [
+    {
+      "listing_id": "710tech::3d4d5dfc",
+      "store_id": "710tech",
+      "title_slug_id": "adaptador_kelvx_hdmi_a_vga_1080p_c-audio",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/cables/adaptador-kelvx-hdmi-a-vga-1080p-c-audio-180471.html",
+      "title_raw": "Adaptador Kelvx Hdmi A Vga 1080p C-audio",
+      "image_url": "https://statics.qloud.ar/318/thumb_17-06-2025-04-06-10_000000000041704288259KL-CBL-HDTV-VGA.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::64674f2e",
+      "store_id": "710tech",
+      "title_slug_id": "cable_kelyx_hdmi_4k_-_5_metros",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/cables/cable-kelyx-hdmi-4k---5-metros-174220.html",
+      "title_raw": "Cable Kelyx Hdmi 4k - 5 Metros",
+      "image_url": "https://statics.qloud.ar/318/thumb_25-05-2025-11-05-08_5m.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::7abd79ce",
+      "store_id": "710tech",
+      "title_slug_id": "cable_kelvx_usb_type_c_a_type_c_240w_-_4k_ultra_hd_1m",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/cables/cable-kelvx-usb-type-c-a-type-c-240w---4k-ultra-hd-1m-180475.html",
+      "title_raw": "Cable Kelvx Usb Type C A Type C 240w - 4k Ultra Hd 1m",
+      "image_url": "https://statics.qloud.ar/318/thumb_17-06-2025-03-06-09_000000000041731117605417311--1-.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::247d2188",
+      "store_id": "710tech",
+      "title_slug_id": "cable_adaptador_sentey_controladora_-_9_ports_argb_-_pwm_gs-1000",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/cables/cable-adaptador-sentey-controladora---9-ports-argb---pwm-gs-1000-183296.html",
+      "title_raw": "Cable Adaptador Sentey Controladora - 9 Ports Argb - Pwm Gs-1000",
+      "image_url": "https://statics.qloud.ar/318/thumb_21-08-2025-05-08-21_IMG_06_controlARGB_2550x1620.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::028bdf95",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_de_escritorio_naku_sm-c09_para_monitor_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-de-escritorio-naku-sm-c09-para-monitor-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181410.html",
+      "title_raw": "Soporte De Escritorio Naku Sm-c09 Para Monitor De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/thumb_16-07-2025-06-07-26_SM-C09.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::020ab811",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_de_escritorio_naku_sm-c010_para_monitor_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-de-escritorio-naku-sm-c010-para-monitor-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181409.html",
+      "title_raw": "Soporte De Escritorio Naku Sm-c010 Para Monitor De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/thumb_16-07-2025-04-07-47_smartcof07-7bacde0ccf26ba517017458591094589-480-0.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::6e8471c3",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_de_escritorio_naku_sm-t01_para_monitor_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-de-escritorio-naku-sm-t01-para-monitor-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181411.html",
+      "title_raw": "Soporte De Escritorio Naku Sm-t01 Para Monitor De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/16-07-2025-04-07-51_smartcof07-f3a4c5640123cee6be17458585093626-1024-1024.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::5ebfd7cd",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_articulado_naku_sm-c024_de_mesa_para_monitores_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-articulado-naku-sm-c024-de-mesa-para-monitores-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181406.html",
+      "title_raw": "Soporte Articulado Naku Sm-c024 De Mesa Para Monitores De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/thumb_16-07-2025-04-07-43_6055c024.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::73ab4e18",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_hidraulico_naku_ss-1032m_de_mesa_para_tv-monitor_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-hidra%C2%81ulico-naku-ss-1032m-de-mesa-para-tv-monitor-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181413.html",
+      "title_raw": "Soporte Hidraulico Naku Ss-1032m De Mesa Para Tv-monitor De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/thumb_16-07-2025-04-07-54_naku-ss-1032m-1-2-5d3d50deb991c32ab917491547762742-480-0.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::794014e3",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_de_escritorio_naku_sm-t02_para_monitor_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-de-escritorio-naku-sm-t02-para-monitor-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181412.html",
+      "title_raw": "Soporte De Escritorio Naku Sm-t02 Para Monitor De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/thumb_16-07-2025-06-07-34_SM-T021.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::5b0f697c",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_articulado_naku_sm-c034_de_mesa_para_tres_monitores_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-articulado-naku-sm-c034-de-mesa-para-tres-monitores-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181407.html",
+      "title_raw": "Soporte Articulado Naku Sm-c034 De Mesa Para Tres Monitores De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/thumb_16-07-2025-06-07-48_SM-C034.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::3a5786f8",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_articulado_naku_sm-c011nbh_de_mesa_para_notebook_y_monitor_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-articulado-naku-sm-c011nbh-de-mesa-para-notebook-y-monitor-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181405.html",
+      "title_raw": "Soporte Articulado Naku Sm-c011nbh De Mesa Para Notebook Y Monitor De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/thumb_16-07-2025-05-07-49_smartcof07-3-47930ceb5aeac0f44f17458601846046-480-0.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::24ad3cde",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_articulado_naku_sm-c048_de_mesa_para_cuatro_monitores_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-articulado-naku-sm-c048-de-mesa-para-cuatro-monitores-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181408.html",
+      "title_raw": "Soporte Articulado Naku Sm-c048 De Mesa Para Cuatro Monitores De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/thumb_16-07-2025-06-07-21_SM-C0481.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::7111822f",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_hidraulico_naku_ss-c024d_de_mesa_para_tv-monitor_de_13”_a_32”",
+      "source_page_url": "https://710tech.com.ar/accesorios/",
+      "product_url": "https://710tech.com.ar/accesorios/soporte/soporte-hidra%C2%81ulico-naku-ss-c024d-de-mesa-para-tv-monitor-de-13a%C2%80%C2%9D-a-32a%C2%80%C2%9D-181414.html",
+      "title_raw": "Soporte Hidraulico Naku Ss-c024d De Mesa Para Tv-monitor De 13” A 32”",
+      "image_url": "https://statics.qloud.ar/318/thumb_16-07-2025-05-07-30_naku-ss-c024d-1-3-79b19f4f4b224c649f17491549179149-480-0.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:20:47.761Z"
+    },
+    {
+      "listing_id": "710tech::3c2164c6",
+      "store_id": "710tech",
+      "title_slug_id": "consola_sony_playstation_5_slim_edicion_digital_ps5",
+      "source_page_url": "https://710tech.com.ar/consolas/",
+      "product_url": "https://710tech.com.ar/consolas/playstation/consola-sony-playstation-5-slim-edicion-digital-ps5-123329.html",
+      "title_raw": "Consola Sony Playstation 5 Slim Edicion Digital Ps5",
+      "image_url": "https://statics.qloud.com.ar/710-technology-05-2024/318_20-07-2024-05-07-29-play-5.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:15.397Z"
+    },
+    {
+      "listing_id": "710tech::536abb38",
+      "store_id": "710tech",
+      "title_slug_id": "consola_sony_playstation_5_slim_edicion_con_lectora_ps5",
+      "source_page_url": "https://710tech.com.ar/consolas/",
+      "product_url": "https://710tech.com.ar/consolas/playstation/consola-sony-playstation-5-slim-edicion-con-lectora-ps5-123328.html",
+      "title_raw": "Consola Sony Playstation 5 Slim Edicion Con Lectora Ps5",
+      "image_url": "https://statics.qloud.com.ar/710-technology-05-2024/318_20-07-2024-04-07-30-diseno-sin-titulo-13.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:15.397Z"
+    },
+    {
+      "listing_id": "710tech::1a81232c",
+      "store_id": "710tech",
+      "title_slug_id": "playstation_5_pro_digital_2tb",
+      "source_page_url": "https://710tech.com.ar/consolas/",
+      "product_url": "https://710tech.com.ar/consolas/playstation/playstation-5-pro-digital-2tb-178035.html",
+      "title_raw": "Playstation 5 Pro Digital 2tb",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-06-2025-11-06-46_1920_1080-ps5_pro.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:15.397Z"
+    },
+    {
+      "listing_id": "710tech::76ef877e",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_raptor_volt_650w_80_plus_bronz",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-raptor-volt-650w-80-plus-bronz-190751.html",
+      "title_raw": "Fuente Raptor Volt 650w 80 Plus Bronz",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-01-2026-02-01-26_000000000041732609716417326_800x800.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::3ee9efce",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_gamer_raidmax_vortex_600w_bronze",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-gamer-raidmax-vortex-600w-bronze-187649.html",
+      "title_raw": "Fuente Gamer Raidmax Vortex 600w Bronze",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-GAMER-RAIDMAX-VORTEX-600W-BRONZE_ver_0df706e92b2fdb20c281ac5cd3734d94.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::5d5cfa83",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_gamer_raidmax_vortex_800w_white",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-gamer-raidmax-vortex-800w-white-187652.html",
+      "title_raw": "Fuente Gamer Raidmax Vortex 800w White",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-GAMER-RAIDMAX-VORTEX-800W-WHITE_ver_fa496d6a963eba8be279d9cef2cd6e8a.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::4fa500a8",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_gamer_raidmax_vortex_700w_bronze",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-gamer-raidmax-vortex-700w-bronze-187651.html",
+      "title_raw": "Fuente Gamer Raidmax Vortex 700w Bronze",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-GAMER-RAIDMAX-VORTEX-700W-BRONZE_ver_88eba40ceba829969a51a27278d71678.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::6774441e",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_cooler_master_mwe_gold_650w_v3_nm_fr_(no_modular)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-cooler-master-mwe-gold-650w-v3-nm-fr-no-modular-188138.html",
+      "title_raw": "Fuente Cooler Master Mwe Gold 650w V3 Nm Fr (no Modular)",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-COOLER-MASTER-MWE-GOLD-650W-V3-NM-FR-(No-Modular)_ver_4f9285c0f5828c826fc5d160b00f487a.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::60464683",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_gamer_gigabyte_750w_80_bronze",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-gamer-gigabyte-750w-80-bronze-186946.html",
+      "title_raw": "Fuente Gamer Gigabyte 750w 80 Bronze",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-GAMER-GIGABYTE-750W-80-BRONZE_ver_b3f978ea1e65c1c9e49a300a2e9d555b.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::1495ca7d",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_800w_redragon_80+_bronce_(usada)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/usado/fuente-800w-redragon-80+-bronce-usada-135330.html",
+      "title_raw": "Fuente 800w Redragon 80+ Bronce (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_22-10-2024-02-10-48_6.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::0e7fcce0",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_cooler_master_mwe_gold_750w_v3_nm_fr_(no_modular)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-cooler-master-mwe-gold-750w-v3-nm-fr-no-modular-188139.html",
+      "title_raw": "Fuente Cooler Master Mwe Gold 750w V3 Nm Fr (no Modular)",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-COOLER-MASTER-MWE-GOLD-750W-V3-NM-FR-(No-Modular)_ver_01ebc77b411741eb0c46adcc82bf26a5.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::05d1cd19",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_850w_redragon_80+_gold_(usada)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/usado/fuente-850w-redragon-80+-gold-usada-152957.html",
+      "title_raw": "Fuente 850w Redragon 80+ Gold (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_01-02-2025-12-02-54_Diseosinttulo74.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::28355096",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_850w_gigabyte_80+_gold_(usada)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/usado/fuente-850w-gigabyte-80+-gold-usada-135939.html",
+      "title_raw": "Fuente 850w Gigabyte 80+ Gold (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_08-11-2024-06-11-13_53.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::23f257f0",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_sentey_850w_80+_gold",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-sentey-850w-80+-gold-183000.html",
+      "title_raw": "Fuente Sentey 850w 80+ Gold",
+      "image_url": "https://statics.qloud.ar/318/thumb_11-08-2025-02-08-22_1GSP850GM_2880x1620.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::57b65d17",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_cooler_master_mwe_gold_850w_v3_nm_fr_(no_modular)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-cooler-master-mwe-gold-850w-v3-nm-fr-no-modular-188140.html",
+      "title_raw": "Fuente Cooler Master Mwe Gold 850w V3 Nm Fr (no Modular)",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-COOLER-MASTER-MWE-GOLD-850W-V3-NM-FR-(No-Modular)_ver_16f20fe3cd57072c5f55648cc5567701.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::3d10be22",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_raptor_volt_1000w_80_plus_gold_full_modular_pcie_5.1",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-raptor-volt-1000w-80-plus-gold-full-modular-pcie-5.1-190750.html",
+      "title_raw": "Fuente Raptor Volt 1000w 80 Plus Gold Full Modular Pcie 5.1",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-01-2026-02-01-45_0000000000417913414970417913-1.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::4993de47",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_gamer_thermaltake_tp_gt_750w_analog_80_plus_gold_white",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-gamer-thermaltake-tp-gt-750w-analog-80-plus-gold-white-186983.html",
+      "title_raw": "Fuente Gamer Thermaltake Tp Gt 750w Analog 80 Plus Gold White",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-GAMER-THERMALTAKE-TP-GT-750W-ANALOG-80-PLUS-GOLD-WHITE_ver_17613963603b7772f1f311dd2e001f69.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::5462c4a4",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_gamer_thermaltake_tp_gt_850w_analog_80_plus_gold_white",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-gamer-thermaltake-tp-gt-850w-analog-80-plus-gold-white-186985.html",
+      "title_raw": "Fuente Gamer Thermaltake Tp Gt 850w Analog 80 Plus Gold White",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-GAMER-THERMALTAKE-TP-GT-850W-ANALOG-80-PLUS-GOLD-WHITE_ver_8c09946949de3057588f601afc0c4d97.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::0b74a7ed",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_gamer_gigabyte_850w_80_plus_white_pg5",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-gamer-gigabyte-850w-80-plus-white-pg5-186953.html",
+      "title_raw": "Fuente Gamer Gigabyte 850w 80 Plus White Pg5",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-GAMER-GIGABYTE-850W-80-PLUS-ICE-(BLANCA)-PG5_ver_a068d17b52f39c1e1b59cf7ebec4270d.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::2a30ddef",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_asus_rog_strix_850w_80+_platinum_(usada)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/usado/fuente-asus-rog-strix-850w-80+-platinum-usada-182725.html",
+      "title_raw": "Fuente Asus Rog Strix 850w 80+ Platinum (usada)",
+      "image_url": "https://statics.qloud.ar/318/04-08-2025-02-08-31_fuente850wthor.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::38b32050",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_cooler_master_elite_gold_1000w_fm_(full_modular)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-cooler-master-elite-gold-1000w-fm-full-modular-188144.html",
+      "title_raw": "Fuente Cooler Master Elite Gold 1000w Fm (full Modular)",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-COOLER-MASTER-ELITE-GOLD-1000W-FM-(Full-Modular)_ver_4a8846d966cab612b3e3bf54547d1a0c.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.484Z"
+    },
+    {
+      "listing_id": "710tech::5a42a8c9",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_sentey_1050w_80_plus_gold",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-sentey-1050w-80-plus-gold-187383.html",
+      "title_raw": "Fuente Sentey 1050w 80 Plus Gold",
+      "image_url": "https://statics.qloud.ar/318/thumb_03-11-2025-09-11-00_1_GSP1050_GM_2880x1620.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.485Z"
+    },
+    {
+      "listing_id": "710tech::467d3775",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_gamer_adata_1000w_xpg_core_reactor_ii_80_plus_gold",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-gamer-adata-1000w-xpg-core-reactor-ii-80-plus-gold-186929.html",
+      "title_raw": "Fuente Gamer Adata 1000w Xpg Core Reactor Ii 80 Plus Gold",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-GAMER-ADATA-1000W-XPG-CORE-REACTOR-II-80-PLUS-GOLD_ver_34adfe036131921c159b8fddda54fbc3.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.485Z"
+    },
+    {
+      "listing_id": "710tech::4ac878ad",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_cooler_master_elite_gold_1200w_fm_(full_modular)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-cooler-master-elite-gold-1200w-fm-full-modular-188145.html",
+      "title_raw": "Fuente Cooler Master Elite Gold 1200w Fm (full Modular)",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-COOLER-MASTER-ELITE-GOLD-1200W-FM-(Full-Modular)_ver_d2cab48e95ce04773383a04b733756db.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.485Z"
+    },
+    {
+      "listing_id": "710tech::6f7d53be",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_asus_rog_strix_1200w_80+_platinum_(usada)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/usado/fuente-asus-rog-strix-1200w-80+-platinum-usada-182724.html",
+      "title_raw": "Fuente Asus Rog Strix 1200w 80+ Platinum (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_02-08-2025-02-08-21_fuente-de-poder-asus-rog-thor-1200w-aura-edition-80-plus-platinum-full-modular-.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.485Z"
+    },
+    {
+      "listing_id": "710tech::010633f6",
+      "store_id": "710tech",
+      "title_slug_id": "fuente_cooler_master_x_silent_edge_platinum_850w_(full_modular)",
+      "source_page_url": "https://710tech.com.ar/fuente/",
+      "product_url": "https://710tech.com.ar/fuente/nuevo/fuente-cooler-master-x-silent-edge-platinum-850w-full-modular-188141.html",
+      "title_raw": "Fuente Cooler Master X Silent Edge Platinum 850w (full Modular)",
+      "image_url": "https://static.nb.com.ar/i/nb_FUENTE-COOLER-MASTER-X-SILENT-EDGE-PLATINUM-850W-(Full-Modular)_ver_572d5398ec7bf22ef5a4ccb1bbc3305f.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:19.485Z"
+    },
+    {
+      "listing_id": "710tech::546fcd9f",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_raptor_nova_prime_tg_mid_tower_rgb_x3_black",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-raptor-nova-prime-tg-mid-tower-rgb-x3-black-174223.html",
+      "title_raw": "Gabinete Raptor Nova Prime Tg Mid Tower Rgb X3 Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_24-05-2025-04-05-28_concepto-16958807.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::2037965b",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_sentey_m40_black_x4_fans",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-sentey-m40-black-x4-fans-185168.html",
+      "title_raw": "Gabinete Sentey M40 Black X4 Fans",
+      "image_url": "https://statics.qloud.ar/318/thumb_15-09-2025-04-09-24_IMG_1_M40-28880x1620.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::5938b2de",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_msi_mag_forge_m100a_mid-tower_fan_x4_rgb",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-msi-mag-forge-m100a-mid-tower-fan-x4-rgb-165553.html",
+      "title_raw": "Gabinete Msi Mag Forge M100a Mid-tower Fan X4 Rgb",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_05-04-2025-01-04-02_10243.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::4c17b03c",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_raptor_nova_prime_c-fuente_650w_80+_bronze",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-raptor-nova-prime-c-fuente-650w-80+-bronze-187452.html",
+      "title_raw": "Gabinete Raptor Nova Prime C-fuente 650w 80+ Bronze",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-11-2025-04-11-46_0000000000418005458570418005---Portada.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::0cd4a294",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_raptor_sentinel_c-fuente_650w_80+_bronce",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-raptor-sentinel-c-fuente-650w-80+-bronce-187453.html",
+      "title_raw": "Gabinete Raptor Sentinel C-fuente 650w 80+ Bronce",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-11-2025-04-11-44_0000000000418003462420418006---Portada.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::149e49ec",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_corsair_4000d_frame_rs_argb_mid-tower_fanx3_black",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-corsair-4000d-frame-rs-argb-mid-tower-fanx3-black-185542.html",
+      "title_raw": "Gabinete Corsair 4000d Frame Rs Argb Mid-tower Fanx3 Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_24-09-2025-04-09-27_000000000041695750695CC-9011296-WW.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::28e341aa",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_thermaltake_view_380_tg_fan_argb_snow_white",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-thermaltake-view-380-tg-fan-argb-snow-white-151248.html",
+      "title_raw": "Gabinete Thermaltake View 380 Tg Fan Argb Snow White",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_10-02-2025-01-02-55_view_380_tg_argb_mid_tower_chassis_snow_img01.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::06d10d16",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_thermaltake_the_tower_300_mid-tower_tg_x3_fan_black",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-thermaltake-the-tower-300-mid-tower-tg-x3-fan-black-180604.html",
+      "title_raw": "Gabinete Thermaltake The Tower 300 Mid-tower Tg X3 Fan Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_24-06-2025-01-06-31_ca-1y4-00s1wn-00_02.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::6734d701",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_tt_the_tower_300_mid-tower_tg_x3_fan_x2_hydrangea_blue",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-tt-the-tower-300-mid-tower-tg-x3-fan-x2-hydrangea-blue-183318.html",
+      "title_raw": "Gabinete Tt The Tower 300 Mid-tower Tg X3 Fan X2 Hydrangea Blue",
+      "image_url": "https://statics.qloud.ar/318/thumb_21-08-2025-06-08-04_GAB316.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::45815ece",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_tt_the_tower_300_mid-tower_tg_x3_fan_x2_racing_green",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-tt-the-tower-300-mid-tower-tg-x3-fan-x2-racing-green-183319.html",
+      "title_raw": "Gabinete Tt The Tower 300 Mid-tower Tg X3 Fan X2 Racing Green",
+      "image_url": "https://statics.qloud.ar/318/thumb_21-08-2025-06-08-27_0000000000416289166361.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::26219dd5",
+      "store_id": "710tech",
+      "title_slug_id": "gabinete_thermaltake_view_390_air_mid-_tg_curvo_fan_x2_black",
+      "source_page_url": "https://710tech.com.ar/gabinetes/",
+      "product_url": "https://710tech.com.ar/gabinetes/todo-en-gabinete/gabinete-thermaltake-view-390-air-mid--tg-curvo-fan-x2-black-185055.html",
+      "title_raw": "Gabinete Thermaltake View 390 Air Mid- Tg Curvo Fan X2 Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_07-09-2025-08-09-38_view_390_air_mid_tower_chassis_img01_1.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:21.545Z"
+    },
+    {
+      "listing_id": "710tech::4fdb56da",
+      "store_id": "710tech",
+      "title_slug_id": "memoria_ram_8gb_2666mhz_kingdian",
+      "source_page_url": "https://710tech.com.ar/memoria-ram/",
+      "product_url": "https://710tech.com.ar/memoria-ram/todo-en-memorias-ram/memoria-ram-8gb-2666mhz-kingdian-187454.html",
+      "title_raw": "Memoria Ram 8gb 2666mhz Kingdian",
+      "image_url": "https://statics.qloud.ar/318/thumb_07-11-2025-10-11-41_memoria-ram-ddr4-16gb-3200mhz-cl22-kingdian.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:23.588Z"
+    },
+    {
+      "listing_id": "710tech::5e6a23fa",
+      "store_id": "710tech",
+      "title_slug_id": "memoria_ram_hiksemi_hiker_8gb_3200mhz_bulk",
+      "source_page_url": "https://710tech.com.ar/memoria-ram/",
+      "product_url": "https://710tech.com.ar/memoria-ram/todo-en-memorias-ram/memoria-ram-hiksemi-hiker-8gb-3200mhz-bulk-180791.html",
+      "title_raw": "Memoria Ram Hiksemi Hiker 8gb 3200mhz Bulk",
+      "image_url": "https://statics.qloud.ar/318/thumb_15-07-2025-03-07-04_memoria-8gb-ddr4-3200-hiksemi-hiker-bulk-0.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:23.588Z"
+    },
+    {
+      "listing_id": "710tech::6fa92acb",
+      "store_id": "710tech",
+      "title_slug_id": "memoria_ram_lexar_8gb_3200mhz_ddr4",
+      "source_page_url": "https://710tech.com.ar/memoria-ram/",
+      "product_url": "https://710tech.com.ar/memoria-ram/todo-en-memorias-ram/memoria-ram-lexar-8gb-3200mhz-ddr4-187432.html",
+      "title_raw": "Memoria Ram Lexar 8gb 3200mhz Ddr4",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-11-2025-04-11-40_LexarMemoriaDDR48Gb3200Mhz.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:23.588Z"
+    },
+    {
+      "listing_id": "710tech::44269fc5",
+      "store_id": "710tech",
+      "title_slug_id": "memoria_ram_hiksemi_hiker_16gb_3200mhz",
+      "source_page_url": "https://710tech.com.ar/memoria-ram/",
+      "product_url": "https://710tech.com.ar/memoria-ram/todo-en-memorias-ram/memoria-ram-hiksemi-hiker-16gb-3200mhz-190685.html",
+      "title_raw": "Memoria Ram Hiksemi Hiker 16gb 3200mhz",
+      "image_url": "https://cdn.qloud.ar/318/thumb_09-01-2026-02-01-26_000000000041586274274415857--1-.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:23.588Z"
+    },
+    {
+      "listing_id": "710tech::4ba03d98",
+      "store_id": "710tech",
+      "title_slug_id": "memoria_ram_16gb_adata_5600mhz_ddr5",
+      "source_page_url": "https://710tech.com.ar/memoria-ram/",
+      "product_url": "https://710tech.com.ar/memoria-ram/todo-en-memorias-ram/memoria-ram-16gb-adata-5600mhz-ddr5-190683.html",
+      "title_raw": "Memoria Ram 16gb Adata 5600mhz Ddr5",
+      "image_url": "https://statics.qloud.ar/318/thumb_30-12-2025-10-12-04_nb_MEMORIA-ADATA-SODIMM-DDR5-16GB-5600_ver_89989cccaa0c755e64721392175f7510.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:23.588Z"
+    },
+    {
+      "listing_id": "710tech::1d2a40fa",
+      "store_id": "710tech",
+      "title_slug_id": "memoria_ram_16gb_hiksemi_5600mhz_ddr5",
+      "source_page_url": "https://710tech.com.ar/memoria-ram/",
+      "product_url": "https://710tech.com.ar/memoria-ram/todo-en-memorias-ram/memoria-ram-16gb-hiksemi-5600mhz-ddr5-190684.html",
+      "title_raw": "Memoria Ram 16gb Hiksemi 5600mhz Ddr5",
+      "image_url": "https://cdn.qloud.ar/318/09-01-2026-02-01-57_000000000041586274274415857--1-.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:23.588Z"
+    },
+    {
+      "listing_id": "710tech::25f24919",
+      "store_id": "710tech",
+      "title_slug_id": "memoria_ram_16gb_ddr5_6000mhz_patriot_viper_elite_5_cl42",
+      "source_page_url": "https://710tech.com.ar/memoria-ram/",
+      "product_url": "https://710tech.com.ar/memoria-ram/todo-en-memorias-ram/memoria-ram-16gb-ddr5-6000mhz-patriot-viper-elite-5-cl42-190855.html",
+      "title_raw": "Memoria Ram 16gb Ddr5 6000mhz Patriot Viper Elite 5 Cl42",
+      "image_url": "https://cdn.qloud.ar/318/12-01-2026-07-01-50_nb_MEMORIA-PATRIOT-DDR5-VIPER-ELITE-5-16GB-DDR5-CL30-6000MTS-WHITE-HS-SINGLE-PE001087_ver_ec6161e250e4c53dcbddc8ed008c0f34.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:23.588Z"
+    },
+    {
+      "listing_id": "710tech::76b23843",
+      "store_id": "710tech",
+      "title_slug_id": "memoria_ram_16gb_6000mhz_ddr5_xpg_lancer_rgb",
+      "source_page_url": "https://710tech.com.ar/memoria-ram/",
+      "product_url": "https://710tech.com.ar/memoria-ram/todo-en-memorias-ram/memoria-ram-16gb-6000mhz-ddr5-xpg-lancer-rgb-190854.html",
+      "title_raw": "Memoria Ram 16gb 6000mhz Ddr5 Xpg Lancer Rgb",
+      "image_url": "https://cdn.qloud.ar/318/thumb_09-01-2026-02-01-35_concepto-18173506.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:23.588Z"
+    },
+    {
+      "listing_id": "710tech::00920c79",
+      "store_id": "710tech",
+      "title_slug_id": "memoria_ram_2x16gb_6400mhz_puskill_rgb",
+      "source_page_url": "https://710tech.com.ar/memoria-ram/",
+      "product_url": "https://710tech.com.ar/memoria-ram/todo-en-memorias-ram/memoria-ram-2x16gb-6400mhz-puskill-rgb-191034.html",
+      "title_raw": "Memoria Ram 2x16gb 6400mhz Puskill Rgb",
+      "image_url": "https://cdn.qloud.ar/318/thumb_19-01-2026-09-01-01_WhatsAppImage2026-01-19at9.38.46PM.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:23.588Z"
+    },
+    {
+      "listing_id": "710tech::586ecf56",
+      "store_id": "710tech",
+      "title_slug_id": "monitor_noblex_22_fhd_va_antirreflejo_adaptative_sm2200",
+      "source_page_url": "https://710tech.com.ar/monitores/",
+      "product_url": "https://710tech.com.ar/monitores/todo-en-monitores/monitor-noblex-22-fhd-va-antirreflejo-adaptative-sm2200-186624.html",
+      "title_raw": "Monitor Noblex 22 Fhd Va Antirreflejo Adaptative Sm2200",
+      "image_url": "https://static.nb.com.ar/i/nb_MONITOR-NOBLEX-22-FHD-VA-ANTIRREFLEJO-ADAPTATIVE-SM2200_ver_331d82adcc40dd3bb39c693f6b5cd4e6.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:25.595Z"
+    },
+    {
+      "listing_id": "710tech::30faf510",
+      "store_id": "710tech",
+      "title_slug_id": "monitor_27_asus_as_va27ehf_ips_100hz_1ms",
+      "source_page_url": "https://710tech.com.ar/monitores/",
+      "product_url": "https://710tech.com.ar/monitores/todo-en-monitores/monitor-27-asus-as-va27ehf-ips-100hz-1ms-186632.html",
+      "title_raw": "Monitor 27 Asus As Va27ehf Ips 100hz 1ms",
+      "image_url": "https://static.nb.com.ar/i/nb_MONITOR-27-ASUS-AS-VA27EHF-FHD-IPS-100Hz-1ms_ver_0128cd4540e11f741ddbfdb83c628e22.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:25.595Z"
+    },
+    {
+      "listing_id": "710tech::1a31b5aa",
+      "store_id": "710tech",
+      "title_slug_id": "monitor_gigabyte_gs25f2_25_gaming_ips_200hz",
+      "source_page_url": "https://710tech.com.ar/monitores/",
+      "product_url": "https://710tech.com.ar/monitores/todo-en-monitores/monitor-gigabyte-gs25f2-25-gaming-ips-200hz-192213.html",
+      "title_raw": "Monitor Gigabyte Gs25f2 25 Gaming Ips 200hz",
+      "image_url": "https://cdn.qloud.ar/318/thumb_18-02-2026-12-02-07_GS25F2GamingMonitor_12.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:25.595Z"
+    },
+    {
+      "listing_id": "710tech::6d3bc1ae",
+      "store_id": "710tech",
+      "title_slug_id": "monitor_solarmax_27¨_2k_165hz_qhd_argb_black",
+      "source_page_url": "https://710tech.com.ar/monitores/",
+      "product_url": "https://710tech.com.ar/monitores/todo-en-monitores/monitor-solarmax-27a-uml;-2k-165hz-qhd-argb-black-182838.html",
+      "title_raw": "Monitor Solarmax 27¨ 2k 165hz Qhd Argb Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_04-08-2025-05-08-28_944596-MLU77597307510_072024-F.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:25.595Z"
+    },
+    {
+      "listing_id": "710tech::4a09546c",
+      "store_id": "710tech",
+      "title_slug_id": "monitor_25\"_arkham_320hz_ips_fhd_hdmi-dp",
+      "source_page_url": "https://710tech.com.ar/monitores/",
+      "product_url": "https://710tech.com.ar/monitores/todo-en-monitores/monitor-25a-arkham-320hz-ips-fhd-hdmi-dp-189142.html",
+      "title_raw": "Monitor 25\" Arkham 320hz Ips Fhd Hdmi-dp",
+      "image_url": "https://statics.qloud.ar/318/thumb_06-12-2025-12-12-46_05-11-2025-12-11-26_0000000000007798170584316.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:25.595Z"
+    },
+    {
+      "listing_id": "710tech::7b8b39a8",
+      "store_id": "710tech",
+      "title_slug_id": "mother_msi_a520m_pro_ddr4_am4",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-msi-a520m-pro-ddr4-am4-163046.html",
+      "title_raw": "Mother Msi A520m Pro Ddr4 Am4",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_21-03-2025-12-03-46_102430.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::743d266a",
+      "store_id": "710tech",
+      "title_slug_id": "motherboard_msi_pro_a620m-e_ddr5_am5",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/motherboard-msi-pro-a620m-e-ddr5-am5-183322.html",
+      "title_raw": "Motherboard Msi Pro A620m-e Ddr5 Am5",
+      "image_url": "https://statics.qloud.ar/318/thumb_21-08-2025-06-08-15_102415.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::0fe40946",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_a620m_h",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-a620m-h-187067.html",
+      "title_raw": "Mother Gigabyte (am5) A620m H",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-A620M-H_ver_f9d96d560ddb93c1556d6dfaf6cf2392.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::11c6430a",
+      "store_id": "710tech",
+      "title_slug_id": "mother_msi_b550m_pro_vdh_ddr4_am4",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-msi-b550m-pro-vdh-ddr4-am4-163047.html",
+      "title_raw": "Mother Msi B550m Pro Vdh Ddr4 Am4",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_21-03-2025-12-03-00_102433.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::4ea23f2b",
+      "store_id": "710tech",
+      "title_slug_id": "mother_asus_(am4)_prime_b550m-k",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-asus-am4-prime-b550m-k-186835.html",
+      "title_raw": "Mother Asus (am4) Prime B550m-k",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-ASUS-(AM4)-PRIME-B550M-K_ver_ad551825fe8a719bde469e4f935be744.jpeg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::6c4845d9",
+      "store_id": "710tech",
+      "title_slug_id": "mother_asus_(am4)_prime_b550m-a_ac",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-asus-am4-prime-b550m-a-ac-186834.html",
+      "title_raw": "Mother Asus (am4) Prime B550m-a Ac",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-ASUS-(AM4)-PRIME-B550M-A-AC-WIFI_ver_230bdef1e1ba41069b651587b4cd08af.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::1c7468d5",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am4)_b550m_ds3h_ac_r2",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am4-b550m-ds3h-ac-r2-187091.html",
+      "title_raw": "Mother Gigabyte (am4) B550m Ds3h Ac R2",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM4)-B550M-DS3H-AC-R2_ver_429278a6993ba424a0dd7772f582b458.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::164fa3eb",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b840m_d2h",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b840m-d2h-187191.html",
+      "title_raw": "Mother Gigabyte (am5) B840m D2h",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B840M-D2H_ver_82cea209840f14e33a5ea4bffb867319.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::3d75942d",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b650m_d2hp",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b650m-d2hp-187125.html",
+      "title_raw": "Mother Gigabyte (am5) B650m D2hp",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B650M-D2HP_ver_d2f779761b4c3a95d942cb07c147db25.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::772ae1d5",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_a620m_ds3h",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-a620m-ds3h-187064.html",
+      "title_raw": "Mother Gigabyte (am5) A620m Ds3h",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-A620M-DS3H_ver_a9412fd275e34a467ccc797290dd8ae0.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::3f2225f4",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am4)_b550_eagle_wifi6",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am4-b550-eagle-wifi6-187077.html",
+      "title_raw": "Mother Gigabyte (am4) B550 Eagle Wifi6",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM4)-B550-EAGLE-WIFI6_ver_889084f83f23a117237e0e0621809dfc.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::03508973",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b840m_ds3h",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b840m-ds3h-187193.html",
+      "title_raw": "Mother Gigabyte (am5) B840m Ds3h",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B840M-DS3H_ver_37c09c669b12560d39bfdae605147ebc.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::113494fc",
+      "store_id": "710tech",
+      "title_slug_id": "mother_asus_(am5)_tuf_gaming_a620m-plus_wifi",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-asus-am5-tuf-gaming-a620m-plus-wifi-186888.html",
+      "title_raw": "Mother Asus (am5) Tuf Gaming A620m-plus Wifi",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-ASUS-(AM5)-TUF-GAMING-A620M-PLUS-WIFI_ver_e6f25afc7767a337fd51d60f279f8533.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::51fd212a",
+      "store_id": "710tech",
+      "title_slug_id": "mother_asus_prime_b650m-a_ii_box_ddr5_m-atx",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-asus-prime-b650m-a-ii-box-ddr5-m-atx-187430.html",
+      "title_raw": "Mother Asus Prime B650m-a Ii Box Ddr5 M-atx",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-11-2025-02-11-28_6700xtmsimech.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::6a290041",
+      "store_id": "710tech",
+      "title_slug_id": "mother_msi_pro_b650m-p_ddr5_am5",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-msi-pro-b650m-p-ddr5-am5-180772.html",
+      "title_raw": "Mother Msi Pro B650m-p Ddr5 Am5",
+      "image_url": "https://statics.qloud.ar/318/thumb_03-07-2025-12-07-10_102421.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::3662f6a3",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b650m_d3hp_ax",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b650m-d3hp-ax-191275.html",
+      "title_raw": "Mother Gigabyte (am5) B650m D3hp Ax",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B650M-D3HP-AX_ver_f1077a6c6dad43b5fb69744fbf0ce30f.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::3a7fd9ef",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b850m_d3hp",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b850m-d3hp-187209.html",
+      "title_raw": "Mother Gigabyte (am5) B850m D3hp",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B850M-D3HP_ver_50a14a37f0fce0c26e48a3170f34c4d6.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::150f2d7b",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b650_eagle_ax",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b650-eagle-ax-187108.html",
+      "title_raw": "Mother Gigabyte (am5) B650 Eagle Ax",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B650-EAGLE-AX_ver_2b3698dc29f9dcea65c94e9df7acba48.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::58bdfc34",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b840m_a_elite_wifi6e",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b840m-a-elite-wifi6e-187189.html",
+      "title_raw": "Mother Gigabyte (am5) B840m A Elite Wifi6e",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B840M-AORUS-ELITE-WIFI6E_ver_5a83f12b59e7c3d24926777f93943a74.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::338e2297",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b650_gaming_x_ax_v2_1.2",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b650-gaming-x-ax-v2-1.2-187112.html",
+      "title_raw": "Mother Gigabyte (am5) B650 Gaming X Ax V2 1.2",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B650-GAMING-X-AX-V2_ver_de2f3a8a35e7405c6232f0ec8dd0de4e.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::5a094534",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b650m_a_elite_ax_ice",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b650m-a-elite-ax-ice-187118.html",
+      "title_raw": "Mother Gigabyte (am5) B650m A Elite Ax Ice",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B650M-AORUS-ELITE-AX-ICE_ver_464cb04179785fb39ddeedc1af669000.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::2d735f7f",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b650_a_elite_ax_ice",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b650-a-elite-ax-ice-187097.html",
+      "title_raw": "Mother Gigabyte (am5) B650 A Elite Ax Ice",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B650-AORUS-ELITE-AX-ICE_ver_651c112505f8f014945da2064946d334.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::015f25e1",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b650_a_elite_ax_v2",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b650-a-elite-ax-v2-187100.html",
+      "title_raw": "Mother Gigabyte (am5) B650 A Elite Ax V2",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B650-AORUS-ELITE-AX-V2_ver_dcbe2b1082a2b8d782e0413af7c48cf5.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::4c30609d",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b650_aorus_elite_ax",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b650-aorus-elite-ax-187102.html",
+      "title_raw": "Mother Gigabyte (am5) B650 Aorus Elite Ax",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B650-AORUS-ELITE-AX_ver_686326c867f479b9e465e2ef72660efb.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::0c45bd01",
+      "store_id": "710tech",
+      "title_slug_id": "mother_asus_(am5)_tuf_gaming_b850m-plus_wifi",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-asus-am5-tuf-gaming-b850m-plus-wifi-186896.html",
+      "title_raw": "Mother Asus (am5) Tuf Gaming B850m-plus Wifi",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-ASUS-(AM5)-TUF-GAMING-B850M-PLUS-WIFI_ver_c255e6be3b09a00afa581ecd12b37558.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::0216c315",
+      "store_id": "710tech",
+      "title_slug_id": "mother_gigabyte_(am5)_b850i_aorus_pro",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-gigabyte-am5-b850i-aorus-pro-187206.html",
+      "title_raw": "Mother Gigabyte (am5) B850i Aorus Pro",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-GIGABYTE-(AM5)-B850I-AORUS-PRO_ver_a0e7a134f45974385e201b300cba88cf.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::0beca4a2",
+      "store_id": "710tech",
+      "title_slug_id": "mother_asus_(am5)_prime_x870-p_wifi",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-asus-am5-prime-x870-p-wifi-186854.html",
+      "title_raw": "Mother Asus (am5) Prime X870-p Wifi",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-ASUS-(AM5)-PRIME-X870-P-WIFI_ver_fdc03e288e69d0514cac67ef651e9d71.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::132d07de",
+      "store_id": "710tech",
+      "title_slug_id": "mother_asus_(am5)_rog_strix_b850-a_gaming_wifi",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-asus-am5-rog-strix-b850-a-gaming-wifi-186871.html",
+      "title_raw": "Mother Asus (am5) Rog Strix B850-a Gaming Wifi",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-ASUS-(AM5)-ROG-STRIX-B850-A-GAMING-WIFI_ver_518ce6ea138dcc77eee28196096876cf.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::5477c5df",
+      "store_id": "710tech",
+      "title_slug_id": "mother_asus_(am5)_rog_strix_b850-f_gaming_wifi",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-asus-am5-rog-strix-b850-f-gaming-wifi-186873.html",
+      "title_raw": "Mother Asus (am5) Rog Strix B850-f Gaming Wifi",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-ASUS-(AM5)-ROG-STRIX-B850-F-GAMING-WIFI_ver_c4e1dd5ed446df51cec2fa89b0c616e3.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::25a31481",
+      "store_id": "710tech",
+      "title_slug_id": "mother_asus_(am5)_rog_strix_b850-e_gaming_wifi",
+      "source_page_url": "https://710tech.com.ar/motherboard/",
+      "product_url": "https://710tech.com.ar/motherboard/amd/mother-asus-am5-rog-strix-b850-e-gaming-wifi-186872.html",
+      "title_raw": "Mother Asus (am5) Rog Strix B850-e Gaming Wifi",
+      "image_url": "https://static.nb.com.ar/i/nb_MOTHER-ASUS-(AM5)-ROG-STRIX-B850-E-GAMING-WIFI_ver_64a7649e94d280dbfc2162f24c043832.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:27.686Z"
+    },
+    {
+      "listing_id": "710tech::61ab1efc",
+      "store_id": "710tech",
+      "title_slug_id": "exo_notebook_smart_r41_n4020_4+128gb",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/exo-notebook-smart-r41-n4020-4+128gb-186687.html",
+      "title_raw": "Exo Notebook Smart R41 N4020 4+128gb",
+      "image_url": "https://static.nb.com.ar/i/nb_EXO-NOTEBOOK-SMART-R41-N4020-4+128GB_ver_60b3a71d900dd46dcafa1450d3603c29.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::60809030",
+      "store_id": "710tech",
+      "title_slug_id": "notebook_hp_255_g10_r3-7330u_15_8gb/256_freedos",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/notebook-hp-255-g10-r3-7330u-15-8gb-256-freedos-186692.html",
+      "title_raw": "Notebook Hp 255 G10 R3-7330u 15 8gb/256 Freedos",
+      "image_url": "https://static.nb.com.ar/i/nb_NOTEBOOK-HP-255-G10-R3-7330U-15-8GB/256-FREEDOS_ver_9acb8e746162b73a29a6fd2f99e3807c.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::2092bb80",
+      "store_id": "710tech",
+      "title_slug_id": "notebook_hp_250g10_i3-1315u_15_8gb/256",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/notebook-hp-250g10-i3-1315u-15-8gb-256-186691.html",
+      "title_raw": "Notebook Hp 250g10 I3-1315u 15 8gb/256",
+      "image_url": "https://static.nb.com.ar/i/nb_NOTEBOOK-HP-250G10-I3-1315U-15-8GB/256_ver_7b99872b47225f3ca705538b2d27351e.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::30c909a7",
+      "store_id": "710tech",
+      "title_slug_id": "notebook_lenovo_amd_r3_7320u_16gb_512gb_15.6_full_hd",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/notebook-lenovo-amd-r3-7320u-16gb-512gb-15.6-full-hd-186712.html",
+      "title_raw": "Notebook Lenovo Amd R3 7320u 16gb 512gb 15.6 Full Hd",
+      "image_url": "https://static.nb.com.ar/i/nb_NOTEBOOK-LENOVO-v15-AMD-R3-7320U-16GB-512GB-15.6-FULL-HD_ver_10a0f609a5653d0b83ac70ac8ea93f9c.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::5a5f559b",
+      "store_id": "710tech",
+      "title_slug_id": "lenovo_notebook_v15_i3_1315u_8gb_512gb_ssd",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/lenovo-notebook-v15-i3-1315u-8gb-512gb-ssd-186715.html",
+      "title_raw": "Lenovo Notebook V15 I3 1315u 8gb 512gb Ssd",
+      "image_url": "https://static.nb.com.ar/i/nb_LENOVO-NOTEBOOK-V15-I3-1315U-8GB-512GB-SSD_ver_5508af99257dc7f6b5faa0e6196f31f9.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::4bedb78f",
+      "store_id": "710tech",
+      "title_slug_id": "lenovo_notebook_v14_r3_8gb_256ssd_fdos14",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/lenovo-notebook-v14-r3-8gb-256ssd-fdos14-186697.html",
+      "title_raw": "Lenovo Notebook V14 R3 8gb 256ssd Fdos14",
+      "image_url": "https://static.nb.com.ar/i/nb_LENOVO-NOTEBOOK-V14-R3-8GB-256SSD-FDOS14_ver_bea6ff8f187dfa562aca0a765e00b7a4.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::331eba53",
+      "store_id": "710tech",
+      "title_slug_id": "lenovo_notebook_v15_i5_13420h_8gb_512gb_ssd",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/lenovo-notebook-v15-i5-13420h-8gb-512gb-ssd-186714.html",
+      "title_raw": "Lenovo Notebook V15 I5 13420h 8gb 512gb Ssd",
+      "image_url": "https://static.nb.com.ar/i/nb_LENOVO-NOTEBOOK-V15-I5-13420H-8GB-512GB-SSD_ver_ff232d215a27e46df55e4b495012c5cd.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::36bd90e1",
+      "store_id": "710tech",
+      "title_slug_id": "asus_notebook_x515ea_i3_15.6_fhd_256_gb_4gb_windows_11",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/asus-notebook-x515ea-i3-15.6-fhd-256-gb-4gb-windows-11-186724.html",
+      "title_raw": "Asus Notebook X515ea I3 15.6 Fhd 256 Gb 4gb Windows 11",
+      "image_url": "https://static.nb.com.ar/i/nb_ASUS-NOTEBOOK-X515EA-I3-15.6-FHD-256-GB-4GB-WINDOWS-11_ver_e88a3fb5689e916a9d0c68afba6f87e2.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::6bdaf279",
+      "store_id": "710tech",
+      "title_slug_id": "notebook_hp_250g10_i5-1334u_8gb_512gb_15",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/notebook-hp-250g10-i5-1334u-8gb-512gb-15-186736.html",
+      "title_raw": "Notebook Hp 250g10 I5-1334u 8gb 512gb 15",
+      "image_url": "https://static.nb.com.ar/i/nb_NOTEBOOK-HP-250G10-I5-1334U-8GB-512GB-15_ver_7bc79becaf8ea44528894b7257212d58.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::6c773c3c",
+      "store_id": "710tech",
+      "title_slug_id": "lenovo_notebook_v15_i5_8gb_256ssd_free_dos15",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/lenovo-notebook-v15-i5-8gb-256ssd-free-dos15-186702.html",
+      "title_raw": "Lenovo Notebook V15 I5 8gb 256ssd Free Dos15",
+      "image_url": "https://static.nb.com.ar/i/nb_LENOVO-NOTEBOOK-V15-I5-8GB-256SSD-FREE-DOS15_ver_558566fb167527e9831af99de1e09d19.jpeg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::263890db",
+      "store_id": "710tech",
+      "title_slug_id": "bangho_notebook_max_l5_i7_15_16gb_480gb_free",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/bangho-notebook-max-l5-i7-15-16gb-480gb-free-186799.html",
+      "title_raw": "Bangho Notebook Max L5 I7 15 16gb 480gb Free",
+      "image_url": "https://static.nb.com.ar/i/nb_BANGHO-NOTEBOOK-MAX-L5-I7-15-16GB-480GB-FREE_ver_4513bc9fc1cbea4941cce4e74e95b3b9.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::73e99b64",
+      "store_id": "710tech",
+      "title_slug_id": "lenovo_notebook_tb_16_r5_7430u_8gb_512gb",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/lenovo-notebook-tb-16-r5-7430u-8gb-512gb-186677.html",
+      "title_raw": "Lenovo Notebook Tb 16 R5 7430u 8gb 512gb",
+      "image_url": "https://static.nb.com.ar/i/nb_LENOVO-NOTEBOOK-TB-16-R5-7430U-8GB-512GB_ver_fcb2d5d058b96e738b96a46afb45cda0.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::4514f120",
+      "store_id": "710tech",
+      "title_slug_id": "lenovo_notebook_v15_i5_512ssd_8gb_82tt00f0ar",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/lenovo-notebook-v15-i5-512ssd-8gb-82tt00f0ar-186710.html",
+      "title_raw": "Lenovo Notebook V15 I5 512ssd 8gb 82tt00f0ar",
+      "image_url": "https://static.nb.com.ar/i/nb_LENOVO-NOTEBOOK-V15-I5-512SSD-8GB-82TT00F0AR_ver_6925809f18e30218d14073ff67190310.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::3db072db",
+      "store_id": "710tech",
+      "title_slug_id": "notebook_lenovo_v15_i7_8gb_512ssd_fdos",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/notebook-lenovo-v15-i7-8gb-512ssd-fdos-186716.html",
+      "title_raw": "Notebook Lenovo V15 I7 8gb 512ssd Fdos",
+      "image_url": "https://static.nb.com.ar/i/nb_NOTEBOOK-LENOVO-V15-I7-8GB-512SSD-FDOS_ver_ddea3366a4a72a397d57819740e8ada7.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::05cea217",
+      "store_id": "710tech",
+      "title_slug_id": "lenovo_notebook_ip_3_15itl6_i7_8gb_256g_11s",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/lenovo-notebook-ip-3-15itl6-i7-8gb-256g-11s-186699.html",
+      "title_raw": "Lenovo Notebook Ip 3 15itl6 I7 8gb 256g 11s",
+      "image_url": "https://static.nb.com.ar/i/nb_LENOVO-NOTEBOOK-IP-3-15ITL6-I7-8GB-256G-11S_ver_1fc32f79920bf5c9efda0a45ef969116.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::51aac3be",
+      "store_id": "710tech",
+      "title_slug_id": "notebook_hp_g10_i7-1355u_15_8gb/512_freedos",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/notebook-hp-g10-i7-1355u-15-8gb-512-freedos-186766.html",
+      "title_raw": "Notebook Hp G10 I7-1355u 15 8gb/512 Freedos",
+      "image_url": "https://static.nb.com.ar/i/nb_NOTEBOOK-HP-G10-I7-1355U-15-8GB/512-FREEDOS_ver_75ad4a998963df315b8726fa8669dba0.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::12bec867",
+      "store_id": "710tech",
+      "title_slug_id": "bangho_notebook_best_pro_t5_i7_15_8_gb_480_gb_w11p",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/bangho-notebook-best-pro-t5-i7-15-8-gb-480-gb-w11p-186797.html",
+      "title_raw": "Bangho Notebook Best Pro T5 I7 15 8 Gb 480 Gb W11p",
+      "image_url": "https://static.nb.com.ar/i/nb_BANGHO-NOTEBOOK-BEST-PRO-T5-I7-15-8-GB-480-GB-W11P_ver_6e9f597bb1a78009bdce068dbc4da42f.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::402acf83",
+      "store_id": "710tech",
+      "title_slug_id": "gigabyte_notebook_i7_13620h_16gb_ddr5_rtx_5050_m2_512gb_16\"_win_11",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/gigabyte-notebook-i7-13620h-16gb-ddr5-rtx-5050-m2-512gb-16a-win-11-191504.html",
+      "title_raw": "Gigabyte Notebook I7 13620h 16gb Ddr5 Rtx 5050 M2 512gb 16\" Win 11",
+      "image_url": "https://static.nb.com.ar/i/nb_GIGABYTE-NOTEBOOK-I7-13620H-16GB-DDR5-RTX-5050-M2-512GB-16-WIN-11_ver_4856905bc7aa7a349a2425b3ea9cde1d.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::436ae63c",
+      "store_id": "710tech",
+      "title_slug_id": "notebook_msi_summit_13_ai+_evo_13.3”_16:10_touchscreen_+_core_ultra_7_258v_embedded_32gb_+_1tb_+_intel_arc_graphics_win11",
+      "source_page_url": "https://710tech.com.ar/notebook/",
+      "product_url": "https://710tech.com.ar/notebook/todo-en-notebook/notebook-msi-summit-13-ai+-evo-13.3a%C2%80%C2%9D-16:10-touchscreen-+-core-ultra-7-258v-embedded-32gb-+-1tb-+-intel-arc-graphics-win11-186738.html",
+      "title_raw": "Notebook Msi Summit 13 Ai+ Evo 13.3” 16:10 Touchscreen + Core Ultra 7 258v Embedded 32gb + 1tb + Intel Arc Graphics Win11",
+      "image_url": "https://static.nb.com.ar/i/nb_Notebook-MSI-Summit-13-AI+-Evo-13.3%E2%80%9D-16:10-Touchscreen-+-Core-Ultra-7-258V-Embedded-32gb-+-1TB-+-Intel-Arc-Graphics-Win11_ver_8b449c28406d669fbb763fbac8223dc4.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:29.746Z"
+    },
+    {
+      "listing_id": "710tech::49855c16",
+      "store_id": "710tech",
+      "title_slug_id": "parlante_jbl_charge_5_red",
+      "source_page_url": "https://710tech.com.ar/parlantes/",
+      "product_url": "https://710tech.com.ar/parlantes/jbl/parlante-jbl-charge-5-red-123320.html",
+      "title_raw": "Parlante Jbl Charge 5 Red",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-06-2025-12-06-46_JBLCHARGE5REDA-2-1024x1024.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:31.782Z"
+    },
+    {
+      "listing_id": "710tech::6dc42390",
+      "store_id": "710tech",
+      "title_slug_id": "parlante_jbl_charge_5_black",
+      "source_page_url": "https://710tech.com.ar/parlantes/",
+      "product_url": "https://710tech.com.ar/parlantes/jbl/parlante-jbl-charge-5-black-123317.html",
+      "title_raw": "Parlante Jbl Charge 5 Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-06-2025-12-06-02_image_1024.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:31.782Z"
+    },
+    {
+      "listing_id": "710tech::5e9dae92",
+      "store_id": "710tech",
+      "title_slug_id": "parlante_jbl_charge_5_camuflado",
+      "source_page_url": "https://710tech.com.ar/parlantes/",
+      "product_url": "https://710tech.com.ar/parlantes/jbl/parlante-jbl-charge-5-camuflado-183534.html",
+      "title_raw": "Parlante Jbl Charge 5 Camuflado",
+      "image_url": "https://statics.qloud.ar/318/thumb_27-08-2025-09-08-52_71ANHYJXWKL._UF8941000_QL80_.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:31.782Z"
+    },
+    {
+      "listing_id": "710tech::24d2f030",
+      "store_id": "710tech",
+      "title_slug_id": "parlante_jbl_charge_5_teal",
+      "source_page_url": "https://710tech.com.ar/parlantes/",
+      "product_url": "https://710tech.com.ar/parlantes/jbl/parlante-jbl-charge-5-teal-183536.html",
+      "title_raw": "Parlante Jbl Charge 5 Teal",
+      "image_url": "https://statics.qloud.ar/318/thumb_27-08-2025-10-08-03_859974-MLA48707625843_122021-F.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:31.782Z"
+    },
+    {
+      "listing_id": "710tech::11dbacb8",
+      "store_id": "710tech",
+      "title_slug_id": "parlante_jbl_charge_5_gray",
+      "source_page_url": "https://710tech.com.ar/parlantes/",
+      "product_url": "https://710tech.com.ar/parlantes/jbl/parlante-jbl-charge-5-gray-183535.html",
+      "title_raw": "Parlante Jbl Charge 5 Gray",
+      "image_url": "https://statics.qloud.ar/318/thumb_10-09-2025-12-09-40_jblgray1.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:31.782Z"
+    },
+    {
+      "listing_id": "710tech::3a84afe6",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_pad_raptor_ultra_glide_antideslizante_impermeable_l",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse-pad/mouse-pad-raptor-ultra-glide-antideslizante-impermeable-l-183119.html",
+      "title_raw": "Mouse Pad Raptor Ultra Glide Antideslizante Impermeable L",
+      "image_url": "https://statics.qloud.ar/318/thumb_13-08-2025-08-08-50_0000000000417331405980417329-1_800x800.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::2088c694",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_raptor_storm_grip_8000dpi_retroiluminado",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-raptor-storm-grip-8000dpi-retroiluminado-163049.html",
+      "title_raw": "Mouse Raptor Storm Grip 8000dpi Retroiluminado",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_21-03-2025-12-03-11_000000000041709790606RAP-MOU-LED-9BOT.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::1a936bc1",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_pad_raptor_ultra_glide_antideslizante_xl",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/todo-en-perifericos-/mouse-pad-raptor-ultra-glide-antideslizante-xl-163048.html",
+      "title_raw": "Mouse Pad Raptor Ultra Glide Antideslizante Xl",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_21-03-2025-12-03-49_000000000041709989003RAP-MOU-PAD-AD-9403_800x800.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::61217b55",
+      "store_id": "710tech",
+      "title_slug_id": "soporte_raptor_arclaw_p-auricular",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/auriculares/soporte-raptor-arclaw-p-auricular-183629.html",
+      "title_raw": "Soporte Raptor Arclaw P-auricular",
+      "image_url": "https://statics.qloud.ar/318/thumb_29-08-2025-07-08-31_0000000000417611893884.-RENDE-PRODUCTO-1.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::3092e6dc",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_mecanico_gamer_solarmax_mini_60-por-ciento_usb_negro",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-mecanico-gamer-solarmax-mini-60-por-ciento-usb-negro-187837.html",
+      "title_raw": "Teclado Mecanico Gamer Solarmax Mini 60-por-ciento Usb Negro",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-01-2026-02-01-43_GMKB76CB_section_02_galeria_01.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::660eb83e",
+      "store_id": "710tech",
+      "title_slug_id": "solarmax_teclado_gamer_mecanico_espanol_usb_negro",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/solarmax-teclado-gamer-mecanico-espaa%C2%91ol-usb-negro-187854.html",
+      "title_raw": "Solarmax Teclado Gamer Mecanico Espanol Usb Negro",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-01-2026-02-01-41_GMKB76CB_section_02_galeria_021.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::30b0aba6",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_mecanico_gamer_solarmax_mini_60_-por-ciento_usb_white",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-mecanico-gamer-solarmax-mini-60--por-ciento-usb-white-187838.html",
+      "title_raw": "Teclado Mecanico Gamer Solarmax Mini 60 -por-ciento Usb White",
+      "image_url": "https://statics.qloud.ar/318/thumb_25-11-2025-09-11-57_TEC235.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::392bc28f",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_gamer_logitech_g203_lightsync_blue",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-gamer-logitech-g203-lightsync-blue-183112.html",
+      "title_raw": "Mouse Gamer Logitech G203 Lightsync Blue",
+      "image_url": "https://statics.qloud.ar/318/thumb_13-08-2025-07-08-36_000000000041298916986412989.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::1ebe0e4a",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_raptor_fireclaw_m87_mecanico_retroiluminado_switch_red",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-163051.html",
+      "title_raw": "Teclado Raptor Fireclaw M87 Mecanico Retroiluminado Switch Red",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_20-03-2025-11-03-16_000000000041709495485RAP-TEC-MEC-87-SN.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::60a0c1eb",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_gamer_logitech_g203_lightsync_black",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-gamer-logitech-g203-lightsync-black-178207.html",
+      "title_raw": "Mouse Gamer Logitech G203 Lightsync Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_07-06-2025-03-06-59_concepto-4151203.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::61cffd77",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_gamer_raptor_storm_grip_wireless_24000dpi_rgb_white",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-gamer-raptor-storm-grip-wireless-24000dpi-rgb-white-187427.html",
+      "title_raw": "Mouse Gamer Raptor Storm Grip Wireless 24000dpi Rgb White",
+      "image_url": "https://statics.qloud.ar/318/thumb_04-11-2025-07-11-41_0000000000417785765180000000000417785402743.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::425aa572",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_gamer_raptor_fireclaw_m87_mecanico_retroiluminado_white",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-white-187428.html",
+      "title_raw": "Teclado Gamer Raptor Fireclaw M87 Mecanico Retroiluminado White",
+      "image_url": "https://statics.qloud.ar/318/thumb_04-11-2025-07-11-20_0000000000417784662570000000000417784755840417784.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::7d69e80b",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_raptor_fireclaw_m68_wireless_mecanico_retroiluminado_red",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-raptor-fireclaw-m68-wireless-mecanico-retroiluminado-red-182883.html",
+      "title_raw": "Teclado Raptor Fireclaw M68 Wireless Mecanico Retroiluminado Red",
+      "image_url": "https://statics.qloud.ar/318/thumb_07-08-2025-03-08-18_0000000000417332338170417329-1.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::149dce2c",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_raptor_fireclaw_m104_mecanico_retroiluminado_switch_red",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-raptor-fireclaw-m104-mecanico-retroiluminado-switch-red-180588.html",
+      "title_raw": "Teclado Raptor Fireclaw M104 Mecanico Retroiluminado Switch Red",
+      "image_url": "https://statics.qloud.ar/318/thumb_23-06-2025-04-06-40_000000000041709317812RAP-TEC-MEC-104-CN_800x800.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::00fa72f4",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_pad_razer_gigantus_v2_soft_xxl",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse-pad/mouse-pad-razer-gigantus-v2-soft-xxl-183113.html",
+      "title_raw": "Mouse Pad Razer Gigantus V2 Soft Xxl",
+      "image_url": "https://statics.qloud.ar/318/thumb_13-08-2025-08-08-53_0000000000415037000150876RZ02-03330400-R3U1--1-.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::34111a5e",
+      "store_id": "710tech",
+      "title_slug_id": "microfono_raptor_vox_rgb_usb_p-streaming",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/microfono/microfono-raptor-vox-rgb-usb-p-streaming-180478.html",
+      "title_raw": "Microfono Raptor Vox Rgb Usb P-streaming",
+      "image_url": "https://statics.qloud.ar/318/thumb_17-06-2025-03-06-35_0000000000417301000127369RAP-MICRO-RGB-USB-1-.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::17c88a37",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_logitech_g305_lightspeed_wireless_white",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-logitech-g305-lightspeed-wireless-white-174226.html",
+      "title_raw": "Mouse Logitech G305 Lightspeed Wireless White",
+      "image_url": "https://statics.qloud.ar/318/thumb_24-05-2025-04-05-47_concepto-7229239.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::10bff1cb",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_logitech_g305_lightspeed_wireless_blue",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-logitech-g305-lightspeed-wireless-blue-174225.html",
+      "title_raw": "Mouse Logitech G305 Lightspeed Wireless Blue",
+      "image_url": "https://statics.qloud.ar/318/thumb_24-05-2025-04-05-48_117_06-04-2023-12-04-07-910-0060133.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::0d2d0f61",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_gamer_logitech_g305_lightspeed_wireless_black",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-gamer-logitech-g305-lightspeed-wireless-black-178209.html",
+      "title_raw": "Mouse Gamer Logitech G305 Lightspeed Wireless Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_07-06-2025-03-06-24_117_06-04-2023-12-04-09-910-0052814.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::674e8bdc",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_solarmax_mecanico_gamer_60_-por-ciento_switch_red_rgb",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-solarmax-mecanico-gamer-60--por-ciento-switch-red-rgb-187841.html",
+      "title_raw": "Teclado Solarmax Mecanico Gamer 60 -por-ciento Switch Red Rgb",
+      "image_url": "https://statics.qloud.ar/318/thumb_25-11-2025-09-11-25_609410-MLA92851149511_092025-F.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::3533fc73",
+      "store_id": "710tech",
+      "title_slug_id": "auricular_raptor_inferno_pro_rgb_7.1_usb",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/auriculares/auricular-raptor-inferno-pro-rgb-7.1-usb-183628.html",
+      "title_raw": "Auricular Raptor Inferno Pro Rgb 7.1 Usb",
+      "image_url": "https://statics.qloud.ar/318/thumb_29-08-2025-07-08-18_0000000000417612899654.-FOTO-RENDE-PRODUCTO-2.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::44a16844",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_mecanico_gamer_solarmax_60_-por-ciento_switch_red_rgb",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-mecanico-gamer-solarmax-60--por-ciento-switch-red-rgb-187836.html",
+      "title_raw": "Teclado Mecanico Gamer Solarmax 60 -por-ciento Switch Red Rgb",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-01-2026-02-01-32_GMKB64RW_section_02_galeria_01.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::4afde286",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_razer_cobra_lightweight_w-razer_chroma_rgb",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-razer-cobra-lightweight-w-razer-chroma-rgb-183114.html",
+      "title_raw": "Mouse Razer Cobra Lightweight W-razer Chroma Rgb",
+      "image_url": "https://statics.qloud.ar/318/thumb_13-08-2025-08-08-38_000000000041557790091415577--1-.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::4d971f7a",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_mecanico_solarmax_gamer_tkl_switch_red_rgb_black",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-mecanico-solarmax-gamer-tkl-switch-red-rgb-black-187839.html",
+      "title_raw": "Teclado Mecanico Solarmax Gamer Tkl Switch Red Rgb Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-01-2026-02-01-44_GMKB88RB_section_02_galeria_011.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::271ecb5a",
+      "store_id": "710tech",
+      "title_slug_id": "teclado_mecanico_solarmax_gamer_tkl_switch_red_rgb_white",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/teclado-mecanico-solarmax-gamer-tkl-switch-red-rgb-white-187840.html",
+      "title_raw": "Teclado Mecanico Solarmax Gamer Tkl Switch Red Rgb White",
+      "image_url": "https://statics.qloud.ar/318/25-11-2025-09-11-56_GMKB88RW_section_02_galeria_02.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::71bde496",
+      "store_id": "710tech",
+      "title_slug_id": "solarmax_teclado_mecanico_gamer_tri_-modo_tkl_switch_rojo_rgb_negro",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/teclado/solarmax-teclado-mecanico-gamer-tri--modo-tkl-switch-rojo-rgb-negro-187855.html",
+      "title_raw": "Solarmax Teclado Mecanico Gamer Tri -modo Tkl Switch Rojo Rgb Negro",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-01-2026-02-01-09_GMKB88RB_section_02_galeria_01.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::07c6e0e2",
+      "store_id": "710tech",
+      "title_slug_id": "auricular_raptor_infierno_pro_x_7.1_wireless_white",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/auriculares/auricular-raptor-infierno-pro-x-7.1-wireless-white-191196.html",
+      "title_raw": "Auricular Raptor Infierno Pro X 7.1 Wireless White",
+      "image_url": "https://cdn.qloud.ar/318/21-01-2026-03-01-39_0000000000417915013130417915-1.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::21c0f439",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_razer_deathadder_v3_ergonomic",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-razer-deathadder-v3-ergonomic-183117.html",
+      "title_raw": "Mouse Razer Deathadder V3 Ergonomic",
+      "image_url": "https://statics.qloud.ar/318/thumb_13-08-2025-08-08-03_000000000041557388254415573--1-.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::48c34667",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_logitech_g_pro_x_superlight_black",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-logitech-g-pro-x-superlight-black-174224.html",
+      "title_raw": "Mouse Logitech G Pro X Superlight Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_25-05-2025-11-05-06_concepto-5138210.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::109f1bc2",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_razer_cobra_pro_lightweight_wireless_w-razer_chroma_rgb",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-razer-cobra-pro-lightweight-wireless-w-razer-chroma-rgb-183115.html",
+      "title_raw": "Mouse Razer Cobra Pro Lightweight Wireless W-razer Chroma Rgb",
+      "image_url": "https://statics.qloud.ar/318/thumb_13-08-2025-08-08-59_000000000041558485480415584--1-1.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::21182309",
+      "store_id": "710tech",
+      "title_slug_id": "mouse_inalambrico_fps_ragnok_ergostrike7_black_26000dpi",
+      "source_page_url": "https://710tech.com.ar/perifericos-/",
+      "product_url": "https://710tech.com.ar/perifericos-/mouse/mouse-inalambrico-fps-ragnok-ergostrike7-black-26000dpi-191235.html",
+      "title_raw": "Mouse Inalambrico Fps Ragnok Ergostrike7 Black 26000dpi",
+      "image_url": "https://cdn.qloud.ar/318/thumb_23-01-2026-11-01-32_1766577389_mouse_inalambrico_ergostrike7-1.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:33.919Z"
+    },
+    {
+      "listing_id": "710tech::5f524eec",
+      "store_id": "710tech",
+      "title_slug_id": "gtx_1660_super_colorful_battle_ax_6gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/gtx-1660-super-colorful-battle-ax-6gb-usada-159854.html",
+      "title_raw": "Gtx 1660 Super Colorful Battle Ax 6gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_28-02-2025-12-02-46_Diseosinttulo7.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.185Z"
+    },
+    {
+      "listing_id": "710tech::6bfc1ec2",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6600_powercolor_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6600-powercolor-8gb-usada-182853.html",
+      "title_raw": "Rx 6600 Powercolor 8gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-08-2025-08-08-40_6600powercolor.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.185Z"
+    },
+    {
+      "listing_id": "710tech::321c28d8",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_2060_super_palit_dual_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-2060-super-palit-dual-8gb-usada-174170.html",
+      "title_raw": "Rtx 2060 Super Palit Dual 8gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_20-06-2025-03-06-24_p03338_bigimage_7660384abb8ce16.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.185Z"
+    },
+    {
+      "listing_id": "710tech::14c1ccd4",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_2060_super_galax_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-2060-super-galax-8gb-usada-150538.html",
+      "title_raw": "Rtx 2060 Super Galax 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_23-12-2024-03-12-02_03-12-2024-10-12-04_x5.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.185Z"
+    },
+    {
+      "listing_id": "710tech::14bd750d",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_2060_super_msi_ventus_8gb_oc_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-2060-super-msi-ventus-8gb-oc-usada-123231.html",
+      "title_raw": "Rtx 2060 Super Msi Ventus 8gb Oc (usada)",
+      "image_url": "https://statics.qloud.com.ar/710-technology-05-2024/318_18-07-2024-04-07-57-1024-3.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.185Z"
+    },
+    {
+      "listing_id": "710tech::1a4ce83f",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3060_ti_zotac_twin_edge_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3060-ti-zotac-twin-edge-8gb-usada-123551.html",
+      "title_raw": "Rtx 3060 Ti Zotac Twin Edge 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_22-10-2024-03-10-47_zt-a30620h-10p-image-01.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.185Z"
+    },
+    {
+      "listing_id": "710tech::0c989ec1",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3060_ti_pny_xlr8_revel_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3060-ti-pny-xlr8-revel-8gb-usada-165538.html",
+      "title_raw": "Rtx 3060 Ti Pny Xlr8 Revel 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_04-04-2025-04-04-53_3_PNY-GeForce-RTX-3060Ti-LED-Green-ra1.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.185Z"
+    },
+    {
+      "listing_id": "710tech::35b7b451",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3060_ti_evga_xc_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3060-ti-evga-xc-8gb-usada-143752.html",
+      "title_raw": "Rtx 3060 Ti Evga Xc 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_21-11-2024-07-11-17_Diseosinttulo56.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::0b6f0ee2",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3060_ti_msi_ventus_x2_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3060-ti-msi-ventus-x2-usada-152679.html",
+      "title_raw": "Rtx 3060 Ti Msi Ventus X2 (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_26-01-2025-09-01-46_1024-2025-01-26T213321.177.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::5e961aa0",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6700_xt_asrock_challenger_12gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6700-xt-asrock-challenger-12gb-usada-150249.html",
+      "title_raw": "Rx 6700 Xt Asrock Challenger 12gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_13-12-2024-03-12-06_RadeonRX6700XTChallengerD12GBM2.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::227f7728",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6700_xt_gigabyte_oc_12gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6700-xt-gigabyte-oc-12gb-usada-180499.html",
+      "title_raw": "Rx 6700 Xt Gigabyte Oc 12gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_18-06-2025-02-06-02_GeForceRTX3080GAMINGOC10G-09.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::0cba9217",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6700_xt_red_devil_12gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6700-xt-red-devil-12gb-usada-152845.html",
+      "title_raw": "Rx 6700 Xt Red Devil 12gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_29-01-2025-10-01-08_Diseosinttulo4.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::7673bce1",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_gainward_phoenix_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-gainward-phoenix-8gb-usada-174182.html",
+      "title_raw": "Rtx 3070 Gainward Phoenix 8gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_25-05-2025-10-05-15_3070gainward.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::407afe58",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_zotac_twin_edge_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-zotac-twin-edge-8gb-usada-152687.html",
+      "title_raw": "Rtx 3070 Zotac Twin Edge 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_26-01-2025-09-01-28_zt-a30700e-10p-image01_1.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::1cafa918",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_palit_gamerock_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-palit-gamerock-8gb-usada-143755.html",
+      "title_raw": "Rtx 3070 Palit Gamerock 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_21-11-2024-11-11-16_p03819_bigimage_4055f744ea1ae3ed.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::1527549b",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_pny_xlr8_revel_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-pny-xlr8-revel-8gb-usada-177578.html",
+      "title_raw": "Rtx 3070 Pny Xlr8 Revel 8gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_31-05-2025-10-05-45_XLR8-RTX-3070-EPIC-X-Triple-Fan-P-gr.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::50f85045",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6700_xt_sapphire_pulse_12gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6700-xt-sapphire-pulse-12gb-usada-152847.html",
+      "title_raw": "Rx 6700 Xt Sapphire Pulse 12gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_29-01-2025-09-01-53_11306_02_RX6700XT_Pulse_12GBGDDR6_3DP_HDMI_C01_800x500.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::3eef7e8d",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6700_xt_xfx_merc_12gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6700-xt-xfx-merc-12gb-usada-180550.html",
+      "title_raw": "Rx 6700 Xt Xfx Merc 12gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_23-06-2025-04-06-38_Disenosintitulo52.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::60235f4d",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_msi_ventus_x3_oc_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-msi-ventus-x3-oc-8gb-usada-135409.html",
+      "title_raw": "Rtx 3070 Msi Ventus X3 Oc 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_23-10-2024-07-10-43_10248.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::480a30ee",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_evga_ftw3_ultra_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-evga-ftw3-ultra-8gb-usada-149826.html",
+      "title_raw": "Rtx 3070 Evga Ftw3 Ultra 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_03-12-2024-10-12-40_Diseosinttulo18.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::506c9d1d",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_8gb_asus_megalodon_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-8gb-asus-megalodon-usada-192333.html",
+      "title_raw": "Rtx 3070 8gb Asus Megalodon (usada)",
+      "image_url": "https://710tech.com.ar/IMG/no_image.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::6c634fd4",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_gigabyte_vision_oc_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-gigabyte-vision-oc-8gb-usada-135561.html",
+      "title_raw": "Rtx 3070 Gigabyte Vision Oc 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/29-10-2024-06-10-46_FileUploadGlobalWebPage660img5.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::774954a5",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_ti_pny_xlr8_uprising_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-ti-pny-xlr8-uprising-8gb-usada-183255.html",
+      "title_raw": "Rtx 3070 Ti Pny Xlr8 Uprising 8gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_10-09-2025-10-09-20_concepto-7181891.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::78bfd5a8",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_ti_pny_revel_xlr8_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-ti-pny-revel-xlr8-8gb-usada-165921.html",
+      "title_raw": "Rtx 3070 Ti Pny Revel Xlr8 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_17-04-2025-10-04-51_XLR8-RTX-3070-Ti-EPIC-X-Triple-Fan-P-gr.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::2adb4dec",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_ti_igame_advanced_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-ti-igame-advanced-8gb-usada-185010.html",
+      "title_raw": "Rtx 3070 Ti Igame Advanced 8gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_08-09-2025-02-09-28_3070tiigame.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::453a410f",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_ti_msi_ventus_x3_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-ti-msi-ventus-x3-8gb-usada-150870.html",
+      "title_raw": "Rtx 3070 Ti Msi Ventus X3 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_06-01-2025-05-01-47_1024-2025-01-06T170249.136.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::3e920616",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6800_powercolor_fighter_16gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6800-powercolor-fighter-16gb-usada-123266.html",
+      "title_raw": "Rx 6800 Powercolor Fighter 16gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/710-technology-05-2024/tumb_318_25-07-2024-05-07-04-diseno-sin-titulo-9.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::5c6b55e0",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3070_ti_msi_gaming_x_8gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3070-ti-msi-gaming-x-8gb-usada-135635.html",
+      "title_raw": "Rtx 3070 Ti Msi Gaming X 8gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_31-10-2024-08-10-44_10241.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::10b72595",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6800_xfx_qick_319_16gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6800-xfx-qick-319-16gb-usada-185787.html",
+      "title_raw": "Rx 6800 Xfx Qick 319 16gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/04-10-2025-11-10-25_60084425feb347e1ea23d2a8_6800_Qick_319_Black_01.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::6dee335e",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6800_xt_sapphire_nitro_16gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6800-xt-sapphire-nitro-16gb-usada-180708.html",
+      "title_raw": "Rx 6800 Xt Sapphire Nitro 16gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_15-10-2025-12-10-30_concepto-4815910.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::3e362266",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6800_xt_red_dragon_16gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6800-xt-red-dragon-16gb-usada-190909.html",
+      "title_raw": "Rx 6800 Xt Red Dragon 16gb (usada)",
+      "image_url": "https://cdn.qloud.ar/318/12-01-2026-07-01-48_s6nTBWKk79.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::755ad264",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6800_xt_asrock_phantom_gaming_16gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6800-xt-asrock-phantom-gaming-16gb-usada-174318.html",
+      "title_raw": "Rx 6800 Xt Asrock Phantom Gaming 16gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_24-05-2025-04-05-17_RadeonRX6800XTPhantomGaming16GBOCL1.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::49b240e6",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6800_xt_sapphire_pulse_16gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6800-xt-sapphire-pulse-16gb-usada-152849.html",
+      "title_raw": "Rx 6800 Xt Sapphire Pulse 16gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_30-01-2025-03-01-28_placa-de-video-rx-6800-xt-16gb-gddr6-sapphire-radeon-pulse-displayport-hdmi.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::457267ad",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6800_xt_gigabyte_gaming_oc_16gb_(usada)_sc",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6800-xt-gigabyte-gaming-oc-16gb-usada-sc-185149.html",
+      "title_raw": "Rx 6800 Xt Gigabyte Gaming Oc 16gb (usada) Sc",
+      "image_url": "https://statics.qloud.ar/318/thumb_12-09-2025-02-09-19_82.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::2a81e0a6",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6800_xt_xfx_merc_319_16gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6800-xt-xfx-merc-319-16gb-usada-165762.html",
+      "title_raw": "Rx 6800 Xt Xfx Merc 319 16gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_11-04-2025-02-04-31_614339fa91e08b20e0fcab16_6800_XT_Merc_319_Core_Box_Mockup_100b.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::062943c0",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3080_gigabyte_turbo_10g_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3080-gigabyte-turbo-10g-usada-183503.html",
+      "title_raw": "Rtx 3080 Gigabyte Turbo 10g (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_27-08-2025-09-08-25_81.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::4b599ad0",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3080_gigabyte_gaming_oc_10gb_(usada)_sc",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3080-gigabyte-gaming-oc-10gb-usada-sc-174201.html",
+      "title_raw": "Rtx 3080 Gigabyte Gaming Oc 10gb (usada) Sc",
+      "image_url": "https://statics.qloud.ar/318/thumb_25-05-2025-10-05-24_3080gigabyte.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::38393adb",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3080_palit_gaming_pro_10g_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3080-palit-gaming-pro-10g-usada-180397.html",
+      "title_raw": "Rtx 3080 Palit Gaming Pro 10g (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_13-06-2025-03-06-04_p03739_bigimage_8865f3f2d6a0ffdc.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::75c45068",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3080_gainward_phantom_10gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3080-gainward-phantom-10gb-usada-135416.html",
+      "title_raw": "Rtx 3080 Gainward Phantom 10gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_24-10-2024-12-10-56_p01094_pic_9205f7453dc7e0b5.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::433ff6c6",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6900_xt_asrock_phantom_16gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6900-xt-asrock-phantom-16gb-usada-152850.html",
+      "title_raw": "Rx 6900 Xt Asrock Phantom 16gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_16-03-2025-01-03-24_RadeonRX6900XTPhantomGamingD16GOCL1.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::1a242c7b",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3080_ti_msi_ventus_3x_12gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3080-ti-msi-ventus-3x-12gb-usada-135518.html",
+      "title_raw": "Rtx 3080 Ti Msi Ventus 3x 12gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_26-10-2024-04-10-57_102426.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::5ea2fc11",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6900_xt_msi_gaming_trio_x_16gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6900-xt-msi-gaming-trio-x-16gb-usada-135797.html",
+      "title_raw": "Rx 6900 Xt Msi Gaming Trio X 16gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_06-11-2024-03-11-20_102442.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::2f0bd5df",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3080_ti_zotac_trinity_12gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3080-ti-zotac-trinity-12gb-usada-152696.html",
+      "title_raw": "Rtx 3080 Ti Zotac Trinity 12gb (usada)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_26-01-2025-10-01-33_zt-a30810j-10p-image01.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::3225f8eb",
+      "store_id": "710tech",
+      "title_slug_id": "rx_6900_xt_16gb_asrock_formula_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rx-6900-xt-16gb-asrock-formula-usada-189153.html",
+      "title_raw": "Rx 6900 Xt 16gb Asrock Formula (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_06-12-2025-02-12-35_RadeonRX6900XTOCFormula16GBM1.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::4ae56e34",
+      "store_id": "710tech",
+      "title_slug_id": "placa_de_video_gigabyte_rtx_9060xt_gaming_oc_8gb",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/nuevo/placa-de-video-gigabyte-rtx-9060xt-gaming-oc-8gb-186482.html",
+      "title_raw": "Placa De Video Gigabyte Rtx 9060xt Gaming Oc 8gb",
+      "image_url": "https://static.nb.com.ar/i/nb_PLACA-DE-VIDEO-GIGABYTE-RADEON-RX-9060XT-GAMING-OC-8GB_ver_e22cd450f0e3f979db63440a7d4cee15.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::1b91c23e",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3090_colorful_battle_ax_24gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3090-colorful-battle-ax-24gb-usada-180405.html",
+      "title_raw": "Rtx 3090 Colorful Battle Ax 24gb (usada)",
+      "image_url": "https://cdn.qloud.ar/318/thumb_12-01-2026-07-01-35_202009290948541437.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::1fa7ec59",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3090_manli_24gb_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3090-manli-24gb-usada-182884.html",
+      "title_raw": "Rtx 3090 Manli 24gb (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_12-08-2025-03-08-19_3090.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::3a75edd0",
+      "store_id": "710tech",
+      "title_slug_id": "rtx_3090_24gb_gigabyte_eagle_(usada)",
+      "source_page_url": "https://710tech.com.ar/placas-de-video/",
+      "product_url": "https://710tech.com.ar/placas-de-video/usado/rtx-3090-24gb-gigabyte-eagle-usada-189152.html",
+      "title_raw": "Rtx 3090 24gb Gigabyte Eagle (usada)",
+      "image_url": "https://statics.qloud.ar/318/thumb_06-12-2025-02-12-17_kf-img.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:36.186Z"
+    },
+    {
+      "listing_id": "710tech::7652c975",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_amd_ryzen_5_3500x_am4_oem_(sin_caja)",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-amd-ryzen-5-3500x-am4-oem-sin-caja-191197.html",
+      "title_raw": "Procesador Amd Ryzen 5 3500x Am4 Oem (sin Caja)",
+      "image_url": "https://cdn.qloud.ar/318/21-01-2026-10-01-13_nb_procesador-amd-am4-ryzen-5-5600g_size_h680_dce82d31326563980d410c5ea5ee70ed.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::7d1d1be7",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_5_4500_am4_(nuevo)",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-5-4500-am4-nuevo-150500.html",
+      "title_raw": "Procesador Ryzen 5 4500 Am4 (nuevo)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_20-12-2024-05-12-40_Diseosinttulo95.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::7f54b85b",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_5_5500_am4_(nuevo)",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-5-5500-am4-nuevo-150501.html",
+      "title_raw": "Procesador Ryzen 5 5500 Am4 (nuevo)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_20-12-2024-05-12-36_Diseosinttulo95.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::5d21db32",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_5_8400f_am5_s-caja_s-cooler",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-5-8400f-am5-s-caja-s-cooler-187421.html",
+      "title_raw": "Procesador Ryzen 5 8400f Am5 S-caja S-cooler",
+      "image_url": "https://cdn.qloud.ar/318/thumb_21-01-2026-10-01-00_LD0006193289.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::47e24609",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_5_5600gt_am4_c-video_c-cooler",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-5-5600gt-am4-c-video-c-cooler-178180.html",
+      "title_raw": "Procesador Ryzen 5 5600gt Am4 C-video C-cooler",
+      "image_url": "https://statics.qloud.ar/318/thumb_06-06-2025-05-06-52_1708014063_ryzen_5.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::1e63142b",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_7_5700_s-video_con_cooler_(nuevo)",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-7-5700-s-video-con-cooler-nuevo-135352.html",
+      "title_raw": "Procesador Ryzen 7 5700 S-video Con Cooler (nuevo)",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_22-10-2024-10-10-08_amd_ryzen_7_57001.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::59563edc",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_5_7600_am5_c-cooler_s-video",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-5-7600-am5-c-cooler-s-video-178181.html",
+      "title_raw": "Procesador Ryzen 5 7600 Am5 C-cooler S-video",
+      "image_url": "https://statics.qloud.ar/318/06-06-2025-05-06-06_CPU666.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::4c4fab06",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_7_5700x_s-video_s-cooler",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-7-5700x-s-video-s-cooler-139062.html",
+      "title_raw": "Procesador Ryzen 7 5700x S-video S-cooler",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_14-11-2024-03-11-09_compragamer_Imganen_general_31691_Procesador_AMD_Ryzen_7_5700X_4.6GHz_Turbo_AM4_-_No_incluye_Cooler_e7fde1dd-grn.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::77ccb7c2",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_7_8700f_am5_c-cooler_s-video",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-7-8700f-am5-c-cooler-s-video-181640.html",
+      "title_raw": "Procesador Ryzen 7 8700f Am5 C-cooler S-video",
+      "image_url": "https://statics.qloud.ar/318/thumb_23-07-2025-02-07-46_Captura-de-pantalla-2024-06-05-143119.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::14f7bde0",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_7_7700_am5_s-caja_s-cooler",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-7-7700-am5-s-caja-s-cooler-187423.html",
+      "title_raw": "Procesador Ryzen 7 7700 Am5 S-caja S-cooler",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-11-2025-03-11-36_procesador-amd-ryzen-7-7700-am5-oem-sin-caja.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::7642e691",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_7_7800x3d_am5_s-caja_s-cooler",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-7-7800x3d-am5-s-caja-s-cooler-187424.html",
+      "title_raw": "Procesador Ryzen 7 7800x3d Am5 S-caja S-cooler",
+      "image_url": "https://statics.qloud.ar/318/thumb_05-11-2025-03-11-22_24295.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::3db83b50",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_7_7800x3d_am5_c-video_s-cooler",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-7-7800x3d-am5-c-video-s-cooler-165838.html",
+      "title_raw": "Procesador Ryzen 7 7800x3d Am5 C-video S-cooler",
+      "image_url": "https://statics.qloud.com.ar/318/thumb_14-04-2025-04-04-22_Disenosintitulo2.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::4c1df040",
+      "store_id": "710tech",
+      "title_slug_id": "procesador_ryzen_7_9800x3d_am5_c-video_s-cooler",
+      "source_page_url": "https://710tech.com.ar/procesadores/",
+      "product_url": "https://710tech.com.ar/procesadores/amd/procesador-ryzen-7-9800x3d-am5-c-video-s-cooler-178184.html",
+      "title_raw": "Procesador Ryzen 7 9800x3d Am5 C-video S-cooler",
+      "image_url": "https://statics.qloud.ar/318/thumb_06-06-2025-05-06-26_WATERAORUS3.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:42.795Z"
+    },
+    {
+      "listing_id": "710tech::6fc8f4c2",
+      "store_id": "710tech",
+      "title_slug_id": "fan_cooler_sentey_f80_argb_120mm_1800_rpm",
+      "source_page_url": "https://710tech.com.ar/refrigeracion-/",
+      "product_url": "https://710tech.com.ar/refrigeracion-/cooler/fan-cooler-sentey-f80-argb-120mm-1800-rpm-183297.html",
+      "title_raw": "Fan Cooler Sentey F80 Argb 120mm 1800 Rpm",
+      "image_url": "https://statics.qloud.ar/318/thumb_21-08-2025-05-08-32_14-08-2025-03-08-08_0000000000000812366022318.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:48.489Z"
+    },
+    {
+      "listing_id": "710tech::0531fc19",
+      "store_id": "710tech",
+      "title_slug_id": "cpu_cooler_air_thermaltake_ux500_argb_5v_mb_sync_black",
+      "source_page_url": "https://710tech.com.ar/refrigeracion-/",
+      "product_url": "https://710tech.com.ar/refrigeracion-/cooler/cpu-cooler-air-thermaltake-ux500-argb-5v-mb-sync-black-187416.html",
+      "title_raw": "Cpu Cooler Air Thermaltake Ux500 Argb 5v Mb Sync Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_04-11-2025-04-11-25_87d57ad7dae92b0eb73be54a8b910bb9.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:48.489Z"
+    },
+    {
+      "listing_id": "710tech::43995855",
+      "store_id": "710tech",
+      "title_slug_id": "cooler_fan_corsair_rs120_argb_x3_pack_black",
+      "source_page_url": "https://710tech.com.ar/refrigeracion-/",
+      "product_url": "https://710tech.com.ar/refrigeracion-/cooler/cooler-fan-corsair-rs120-argb-x3-pack-black-185781.html",
+      "title_raw": "Cooler Fan Corsair Rs120 Argb X3 Pack Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_03-10-2025-02-10-55_fanscorsair.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:48.489Z"
+    },
+    {
+      "listing_id": "710tech::70a88de9",
+      "store_id": "710tech",
+      "title_slug_id": "water_cooling_raptor_aqua_pro_240_display_2x_cpu_cooler_240mm",
+      "source_page_url": "https://710tech.com.ar/refrigeracion-/",
+      "product_url": "https://710tech.com.ar/refrigeracion-/water-cooling/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-190864.html",
+      "title_raw": "Water Cooling Raptor Aqua Pro 240 Display 2x Cpu Cooler 240mm",
+      "image_url": "https://cdn.qloud.ar/318/thumb_13-01-2026-02-01-41_0000000000417907177290417907-1.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:48.489Z"
+    },
+    {
+      "listing_id": "710tech::70e05e79",
+      "store_id": "710tech",
+      "title_slug_id": "water_cooling_raptor_aqua_pro_360_display_3x_cpu_cooler_360mm",
+      "source_page_url": "https://710tech.com.ar/refrigeracion-/",
+      "product_url": "https://710tech.com.ar/refrigeracion-/water-cooling/water-cooling-raptor-aqua-pro-360-display-3x-cpu-cooler-360mm-190865.html",
+      "title_raw": "Water Cooling Raptor Aqua Pro 360 Display 3x Cpu Cooler 360mm",
+      "image_url": "https://cdn.qloud.ar/318/thumb_12-01-2026-07-01-07_0417908_1.webp",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:48.490Z"
+    },
+    {
+      "listing_id": "710tech::4d803a8c",
+      "store_id": "710tech",
+      "title_slug_id": "cpu_cooler_thermaltake_astria_600_air_6_pipe_sync",
+      "source_page_url": "https://710tech.com.ar/refrigeracion-/",
+      "product_url": "https://710tech.com.ar/refrigeracion-/cooler/cpu-cooler-thermaltake-astria-600-air-6-pipe-sync-187417.html",
+      "title_raw": "Cpu Cooler Thermaltake Astria 600 Air 6 Pipe Sync",
+      "image_url": "https://statics.qloud.ar/318/thumb_04-11-2025-04-11-15_cl-p121-ca12sw-a_01.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:48.490Z"
+    },
+    {
+      "listing_id": "710tech::6df45ee7",
+      "store_id": "710tech",
+      "title_slug_id": "water_cooling_msi_mag_coreliquid_e360_3x_360mm",
+      "source_page_url": "https://710tech.com.ar/refrigeracion-/",
+      "product_url": "https://710tech.com.ar/refrigeracion-/water-cooling/water-cooling-msi-mag-coreliquid-e360-3x-360mm-180282.html",
+      "title_raw": "Water Cooling Msi Mag Coreliquid E360 3x 360mm",
+      "image_url": "https://statics.qloud.ar/318/thumb_10-06-2025-07-06-19_watercooler-360mm-msi-mag-coreliquid-e360-0.jpg",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:48.490Z"
+    },
+    {
+      "listing_id": "710tech::153f3588",
+      "store_id": "710tech",
+      "title_slug_id": "water_cooling_msi_mag_coreliquid_p13_360mm_black",
+      "source_page_url": "https://710tech.com.ar/refrigeracion-/",
+      "product_url": "https://710tech.com.ar/refrigeracion-/water-cooling/water-cooling-msi-mag-coreliquid-p13-360mm-black-189143.html",
+      "title_raw": "Water Cooling Msi Mag Coreliquid P13 360mm Black",
+      "image_url": "https://statics.qloud.ar/318/thumb_06-12-2025-09-12-03_102425.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:48.490Z"
+    },
+    {
+      "listing_id": "710tech::495ab4bf",
+      "store_id": "710tech",
+      "title_slug_id": "water_cooling_msi_mag_coreliquid_p13_white_360mm",
+      "source_page_url": "https://710tech.com.ar/refrigeracion-/",
+      "product_url": "https://710tech.com.ar/refrigeracion-/water-cooling/water-cooling-msi-mag-coreliquid-p13-white-360mm-189144.html",
+      "title_raw": "Water Cooling Msi Mag Coreliquid P13 White 360mm",
+      "image_url": "https://statics.qloud.ar/318/thumb_06-12-2025-10-12-18_102428.png",
+      "price": null,
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:21:48.490Z"
+    }
+  ]
+}

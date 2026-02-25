@@ -1,0 +1,16 @@
+{
+  "store_name": "Maximus",
+  "store_id": "maximus",
+  "store_url": "https://www.maximus.com.ar",
+  "store_image": "/images/stores/maximus.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": []
+}

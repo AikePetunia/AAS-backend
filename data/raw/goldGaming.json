@@ -1,0 +1,2033 @@
+{
+  "store_name": "Gold Gaming",
+  "store_id": "goldgaming",
+  "store_url": "https://www.goldgaming.com.ar/",
+  "store_image": "/images/stores/goldgaming.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": [
+    {
+      "listing_id": "goldgaming::1c17b1d2",
+      "store_id": "goldgaming",
+      "title_slug_id": "silver_fox_-_dots_universales",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/silver-fox-dots-universales-40-pcs",
+      "title_raw": "Silver Fox - Dots Universales",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/33957_1_600x600_crop_center.webp?v=1741548511",
+      "price": {
+        "raw": "$15.999",
+        "value": 15999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::0b2fbd13",
+      "store_id": "goldgaming",
+      "title_slug_id": "x-raypad_u9_ultra_8mm",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/x-raypad-u9-ultra-8mm",
+      "title_raw": "X-Raypad U9 Ultra 8mm",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/36308_1_600x600_crop_center.webp?v=1760624592",
+      "price": {
+        "raw": "$12.999",
+        "value": 12999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::5c4ab317",
+      "store_id": "goldgaming",
+      "title_slug_id": "x-raypad_u9_air_6.5mm",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/x-raypad-u9-air-6-5mm",
+      "title_raw": "X-Raypad U9 Air 6.5mm",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/36306_1_600x600_crop_center.webp?v=1760624500",
+      "price": {
+        "raw": "$12.999",
+        "value": 12999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::3d2c594f",
+      "store_id": "goldgaming",
+      "title_slug_id": "x-raypad_u9_air_8mm",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/x-raypad-u9-air-8mm",
+      "title_raw": "X-Raypad U9 Air 8mm",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/36307_1_600x600_crop_center.webp?v=1760624721",
+      "price": {
+        "raw": "$12.999",
+        "value": 12999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::4b915738",
+      "store_id": "goldgaming",
+      "title_slug_id": "x-raypad_meteorite_glass",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/x-raypad-meteorite-glass",
+      "title_raw": "X-Raypad Meteorite Glass",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/METEORITE-GLASS-MOUSE-SKATE-BLINK-DOTS-CAT-EYE_8f203a9c-3898-4e9a-b46b-9c3473a01041_600x600_crop_center.jpg?v=1760624874",
+      "price": {
+        "raw": "$15.999",
+        "value": 15999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::6c771513",
+      "store_id": "goldgaming",
+      "title_slug_id": "gateron_spark_switch_magnetico",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/gateron-spark-switch-magnetico",
+      "title_raw": "Gateron Spark Switch Magnetico",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/GATERON-Magnetic-Spark-Switch9_600x600_crop_center.webp?v=1756217244",
+      "price": {
+        "raw": "$3.000",
+        "value": 3000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::340c7c70",
+      "store_id": "goldgaming",
+      "title_slug_id": "gitoper_arm_sleeve",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/gitoper-arm-sleeve",
+      "title_raw": "GITOPER Arm Sleeve",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/GITOPER_2D_Artwork_Anime-inspired_Gaming_Pro_Arm_Gaming_Sleeve_1_600x600_crop_center.webp?v=1770221775",
+      "price": {
+        "raw": "$25.999",
+        "value": 25999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::728092ef",
+      "store_id": "goldgaming",
+      "title_slug_id": "keycaps_pbt_anime_b&w",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/keycaps-pbt-anime-b-w",
+      "title_raw": "Keycaps PBT Anime B&W",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/ef20ffbd5d44e052b247cbc3e2b29cf9_600x600_crop_center.jpg?v=1763258914",
+      "price": {
+        "raw": "$50.999",
+        "value": 50999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::4a3af913",
+      "store_id": "goldgaming",
+      "title_slug_id": "keycaps_pbt_sea",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/keycaps-pbt-sea",
+      "title_raw": "Keycaps PBT Sea",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/15a42735407e584e400b1f7aad725233_600x600_crop_center.jpg?v=1763258953",
+      "price": {
+        "raw": "$50.999",
+        "value": 50999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::413d1011",
+      "store_id": "goldgaming",
+      "title_slug_id": "mount_tai_gt_he_switches",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/gateron-spark-switch-magnetico-copy",
+      "title_raw": "Mount Tai GT HE Switches",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/4_900x_72361413-1c57-411b-ac23-ac892cd83854_600x600_crop_center.webp?v=1759757815",
+      "price": {
+        "raw": "$3.000",
+        "value": 3000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::03212e31",
+      "store_id": "goldgaming",
+      "title_slug_id": "ws_flux_switch",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/ws-flux-switch",
+      "title_raw": "WS Flux Switch",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/DSC09905_db4c7bc6-4907-40c6-a72d-3466297d6b91_600x600_crop_center.webp?v=1756993864",
+      "price": {
+        "raw": "$4.499",
+        "value": 4499,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::17bc38f8",
+      "store_id": "goldgaming",
+      "title_slug_id": "atk_pink_keycaps",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/atk-pink-keycaps",
+      "title_raw": "ATK Pink Keycaps",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/ea1809cbd788a494639fafa729384a56_600x600_crop_center.webp?v=1769036385",
+      "price": {
+        "raw": "$55.999",
+        "value": 55999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::57bf1075",
+      "store_id": "goldgaming",
+      "title_slug_id": "keycaps_pbt_china",
+      "source_page_url": "https://goldgaming.com.ar/collections/accesorios",
+      "product_url": "https://goldgaming.com.ar/products/keycaps-pbt-china",
+      "title_raw": "Keycaps PBT China",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/1d1498c70e4fa923aae646ddcdd9b062_600x600_crop_center.jpg?v=1763259001",
+      "price": {
+        "raw": "$50.999",
+        "value": 50999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.357Z"
+    },
+    {
+      "listing_id": "goldgaming::498d2eb4",
+      "store_id": "goldgaming",
+      "title_slug_id": "dreamgamer_thunder_speed_glasspad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dreamgamer-thunder-speed-glasspad",
+      "title_raw": "Dreamgamer Thunder Speed Glasspad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-08-16at14.50.13_79bc354f_600x600_crop_center.jpg?v=1755366699",
+      "price": {
+        "raw": "$149.999",
+        "value": 149999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.926Z"
+    },
+    {
+      "listing_id": "goldgaming::45676e62",
+      "store_id": "goldgaming",
+      "title_slug_id": "dreamgamer_float_control_glasspad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dreamgamer-float-control-glasspad-1",
+      "title_raw": "Dreamgamer Float Control Glasspad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-08-16at14.50.13_79bc354f_bf53ff32-f2f7-48d3-95d4-82099ce77250_600x600_crop_center.jpg?v=1764691910",
+      "price": {
+        "raw": "$155.999",
+        "value": 155999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.926Z"
+    },
+    {
+      "listing_id": "goldgaming::1aa7ecc5",
+      "store_id": "goldgaming",
+      "title_slug_id": "dreamgamer_snakes_speed_glasspad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dreamgamer-snakes-control-glasspad",
+      "title_raw": "Dreamgamer Snakes Speed Glasspad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-08-16at14.59.43_1f6abbf9_600x600_crop_center.jpg?v=1755367211",
+      "price": {
+        "raw": "$155.999",
+        "value": 155999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.926Z"
+    },
+    {
+      "listing_id": "goldgaming::5322c803",
+      "store_id": "goldgaming",
+      "title_slug_id": "hachiwaregaming_x_花刃v2",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/hachiwaregaming-x-%E8%8A%B1%E5%88%83v2",
+      "title_raw": "HachiwareGaming x 花刃v2",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/1_a11ccc94-8b97-469f-82eb-5363cf3cfba5_600x600_crop_center.webp?v=1759182611",
+      "price": {
+        "raw": "$75.999",
+        "value": 75999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::1e1fa6d3",
+      "store_id": "goldgaming",
+      "title_slug_id": "wlmouse_qisha",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/wlmouse-qisha",
+      "title_raw": "WLMouse Qisha",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/0b1ddb1c716068399cd806fecce780c8_600x600_crop_center.webp?v=1769959912",
+      "price": {
+        "raw": "$85.999",
+        "value": 85999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::1fe59cd1",
+      "store_id": "goldgaming",
+      "title_slug_id": "zhenhuo_x_wolves_solid",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/zhenhuo-x-wolves-solid",
+      "title_raw": "Zhenhuo x Wolves Solid",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2026-01-13at16.01.35_600x600_crop_center.jpg?v=1768332338",
+      "price": {
+        "raw": "$85.999",
+        "value": 85999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::3c7cb284",
+      "store_id": "goldgaming",
+      "title_slug_id": "atk_duckbill_mousepad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/atk-duckbill-mousepad",
+      "title_raw": "ATK Duckbill Mousepad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/8b9ff15ba2634431aa85886b9492077d_600x600_crop_center.webp?v=1767739580",
+      "price": {
+        "raw": "$75.999",
+        "value": 75999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::408b1066",
+      "store_id": "goldgaming",
+      "title_slug_id": "dreamgamer_una_v1",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dreamgamer-una-v1",
+      "title_raw": "Dreamgamer Una V1",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-08-16at14.43.35_ade18150_600x600_crop_center.jpg?v=1755366407",
+      "price": {
+        "raw": "$70.999",
+        "value": 70999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::320bd8bf",
+      "store_id": "goldgaming",
+      "title_slug_id": "unusual_neko",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/unusual-nexo-mousepad",
+      "title_raw": "Unusual Neko",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/34226_1_600x600_crop_center.webp?v=1745941322",
+      "price": {
+        "raw": "$38.999",
+        "value": 38999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::12d7c380",
+      "store_id": "goldgaming",
+      "title_slug_id": "dreamgamer_heroine",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dreamgamer-heroine",
+      "title_raw": "Dreamgamer Heroine",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/image-1080-2_600x600_crop_center.webp?v=1768667851",
+      "price": {
+        "raw": "$75.999",
+        "value": 75999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::37905097",
+      "store_id": "goldgaming",
+      "title_slug_id": "zenhuo_summer_land",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/zenhuo-summer-land-1",
+      "title_raw": "Zenhuo Summer Land",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/0d935cd5851dba7342db949906d34066_600x600_crop_center.webp?v=1759349704",
+      "price": {
+        "raw": "$55.999",
+        "value": 55999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::4b6b4e79",
+      "store_id": "goldgaming",
+      "title_slug_id": "dysphoria_yuri",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dysphoria-yuri",
+      "title_raw": "Dysphoria Yuri",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/Screenshot_4_600x600_crop_center.png?v=1753637827",
+      "price": {
+        "raw": "$55.999",
+        "value": 55999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::5868e3a5",
+      "store_id": "goldgaming",
+      "title_slug_id": "zhenhuo_manjusaka_gris",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/zhenhuo-manjusaka-gris",
+      "title_raw": "Zhenhuo Manjusaka Gris",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2026-01-13at16.01.35_2_600x600_crop_center.jpg?v=1768331912",
+      "price": {
+        "raw": "$85.999",
+        "value": 85999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::25a9b279",
+      "store_id": "goldgaming",
+      "title_slug_id": "padsmith_crucible_v2",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/padsmith-crucible-v2",
+      "title_raw": "Padsmith Crucible V2",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/Crucible_V2_-_Gray_SCR_-_Product_Listing_234a5e7b-e0a0-47e7-a25e-aa212207af28_600x600_crop_center.webp?v=1770220929",
+      "price": {
+        "raw": "$85.999",
+        "value": 85999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::408b1068",
+      "store_id": "goldgaming",
+      "title_slug_id": "dreamgamer_una_v3",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dreamgamer-una-v3",
+      "title_raw": "Dreamgamer Una V3",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-08-16at14.38.51_d20b7456_600x600_crop_center.jpg?v=1755366276",
+      "price": {
+        "raw": "$70.999",
+        "value": 70999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::1184d25b",
+      "store_id": "goldgaming",
+      "title_slug_id": "dysphoria_sailor_mika",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dysphoria-sailor-mika",
+      "title_raw": "Dysphoria Sailor Mika",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/Screenshot_5_600x600_crop_center.png?v=1753637768",
+      "price": {
+        "raw": "$55.999",
+        "value": 55999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::37dc178a",
+      "store_id": "goldgaming",
+      "title_slug_id": "hachiwaregaming_x_dream_glasspad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/hachiwaregaming-x-dream-glasspad",
+      "title_raw": "HachiwareGaming x Dream Glasspad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/dream_600x600_crop_center.webp?v=1770220181",
+      "price": {
+        "raw": "$155.999",
+        "value": 155999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::32aef7ac",
+      "store_id": "goldgaming",
+      "title_slug_id": "dysphoria_maki_glasspad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dysphoria-maki-glasspad",
+      "title_raw": "Dysphoria Maki Glasspad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/G32MMSoWAAAOz-v_600x600_crop_center.jpg?v=1767739299",
+      "price": {
+        "raw": "$195.999",
+        "value": 195999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::5ba2ccb4",
+      "store_id": "goldgaming",
+      "title_slug_id": "utopia_black_blade_v1.5",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/utopia-blackblade-v1-5",
+      "title_raw": "Utopia Black Blade V1.5",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/2a8aa461-d073-4ed4-a030-dad17ca08255_600x600_crop_center.jpg?v=1759182994",
+      "price": {
+        "raw": "$75.999",
+        "value": 75999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::634a7a12",
+      "store_id": "goldgaming",
+      "title_slug_id": "utopia_sakurai_v2",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/utopia-sakurai-v2",
+      "title_raw": "Utopia Sakurai V2",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/V1_330d7cd1-8438-4317-afff-fa849045f882_600x600_crop_center.webp?v=1759182793",
+      "price": {
+        "raw": "$75.999",
+        "value": 75999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::2ac9f04c",
+      "store_id": "goldgaming",
+      "title_slug_id": "wlmouse_ma-gic_mousepad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/wlmouse-ma-gic-mousepad",
+      "title_raw": "WLMouse MA-GIC Mousepad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/e57405535be48f7def820d24cf5f888f_600x600_crop_center.webp?v=1770386967",
+      "price": {
+        "raw": "$85.999",
+        "value": 85999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::24be2254",
+      "store_id": "goldgaming",
+      "title_slug_id": "gitoper_g2_pro_black",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/gitoper-g2-pro-black",
+      "title_raw": "GITOPER G2 Pro Black",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/gitoper-G2-_pro-_XL-_gaming-_mouse_-pad_-black_08_e4c6bee5-eb8e-48f6-a253-2a1ffb1bb4fc_600x600_crop_center.webp?v=1770221726",
+      "price": {
+        "raw": "$80.999",
+        "value": 80999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::17bb3473",
+      "store_id": "goldgaming",
+      "title_slug_id": "dysphoria_rin_white_glasspad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dysphoria-rin-white",
+      "title_raw": "Dysphoria Rin White Glasspad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/G0pCNJSbwAAvV3H_600x600_crop_center.jpg?v=1770220740",
+      "price": {
+        "raw": "$195.999",
+        "value": 195999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::3eabda1d",
+      "store_id": "goldgaming",
+      "title_slug_id": "zhenhuo_land_silver",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/zhenhuo-land-silver",
+      "title_raw": "Zhenhuo Land Silver",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/5821a61e15f5802f58712f14a49f1cf2_b0012608-b019-4dd1-b57e-1d702038a781_600x600_crop_center.webp?v=1762627261",
+      "price": {
+        "raw": "$62.999",
+        "value": 62999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::7d695705",
+      "store_id": "goldgaming",
+      "title_slug_id": "zenhuo_summer_manjusaka",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/zenhuo-summer-land",
+      "title_raw": "Zenhuo Summer Manjusaka",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/863caadf169d2187a037789af8778e96_600x600_crop_center.webp?v=1759349669",
+      "price": {
+        "raw": "$55.999",
+        "value": 55999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::6df4c53f",
+      "store_id": "goldgaming",
+      "title_slug_id": "dysphoria_rin_black_glasspad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dysphoria-rin-black-glasspad",
+      "title_raw": "Dysphoria Rin Black Glasspad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/G0pCNJSbgAA8ljJ_600x600_crop_center.jpg?v=1770220790",
+      "price": {
+        "raw": "$195.999",
+        "value": 195999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::58047406",
+      "store_id": "goldgaming",
+      "title_slug_id": "dysphoria_sayo_glasspad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/dysphoria-sayo-glasspad",
+      "title_raw": "Dysphoria Sayo Glasspad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/99178104_1_600x600_crop_center.webp?v=1770220601",
+      "price": {
+        "raw": "$195.999",
+        "value": 195999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::7d6974ef",
+      "store_id": "goldgaming",
+      "title_slug_id": "zenhuo_summer_lime",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/zenhuo-summer-lime",
+      "title_raw": "Zenhuo Summer Lime",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/bae27d58c93ac6be79fce081df218bbf_600x600_crop_center.webp?v=1759349608",
+      "price": {
+        "raw": "$55.999",
+        "value": 55999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::4ae65555",
+      "store_id": "goldgaming",
+      "title_slug_id": "soulrose_desire",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/soulrose-desire",
+      "title_raw": "SoulRose Desire",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-08-01at11.12.58_ded0955a_600x600_crop_center.jpg?v=1754057589",
+      "price": {
+        "raw": "$65.999",
+        "value": 65999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::376465ef",
+      "store_id": "goldgaming",
+      "title_slug_id": "zhenhuo_land_leila",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/zhenhuo-land-leila",
+      "title_raw": "Zhenhuo Land Leila",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/96ff2e56cd7cb4bd4573507fe384422f_600x600_crop_center.webp?v=1762627291",
+      "price": {
+        "raw": "$62.999",
+        "value": 62999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::0283d638",
+      "store_id": "goldgaming",
+      "title_slug_id": "aimstar_blum_blossom",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/aimstar-blum-blossom",
+      "title_raw": "Aimstar Blum Blossom",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-08-01at11.40.04_c749a74a_600x600_crop_center.jpg?v=1754059214",
+      "price": {
+        "raw": "$70.999",
+        "value": 70999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::4c359448",
+      "store_id": "goldgaming",
+      "title_slug_id": "aimstar_broken_dreams",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/aimstar-broken-dreams",
+      "title_raw": "Aimstar Broken Dreams",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-08-01at11.42.10_57e88259_600x600_crop_center.jpg?v=1754059349",
+      "price": {
+        "raw": "$70.999",
+        "value": 70999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::2c2f7dc9",
+      "store_id": "goldgaming",
+      "title_slug_id": "soulrose_vernal",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/soulrose-vernal",
+      "title_raw": "SoulRose Vernal",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-08-01at11.15.49_501783a6_600x600_crop_center.jpg?v=1754057880",
+      "price": {
+        "raw": "$60.999",
+        "value": 60999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::6c1c334b",
+      "store_id": "goldgaming",
+      "title_slug_id": "gitoper_aether_pray",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/gitoper-aether-pray",
+      "title_raw": "GITOPER AETHER PRAY",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/DSC02819_600x600_crop_center.webp?v=1771177512",
+      "price": {
+        "raw": "$80.999",
+        "value": 80999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::76762187",
+      "store_id": "goldgaming",
+      "title_slug_id": "gitoper_g2_pro_orange",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/gitoper-g2-pro-orange",
+      "title_raw": "GITOPER G2 Pro Orange",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/gitoper-G2-_pro-_XL-_gaming-_mouse_-pad_-orange_08_0c5809b5-93e8-4e63-8845-eb078a7559fe_600x600_crop_center.webp?v=1770221655",
+      "price": {
+        "raw": "$80.999",
+        "value": 80999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::3023aa7d",
+      "store_id": "goldgaming",
+      "title_slug_id": "gitoper_type_ii_anime",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/gitoper-type-ii-anime",
+      "title_raw": "GITOPER TYPE II Anime",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/GITOPER_TYPE_II_Artwork_Anime_Gaming_Mouse_Pad_Waterproof_Surface_3_600x600_crop_center.webp?v=1770221446",
+      "price": {
+        "raw": "$80.999",
+        "value": 80999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::38334474",
+      "store_id": "goldgaming",
+      "title_slug_id": "gitoper_type_iii_anime",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/gitoper-type-iii-anime",
+      "title_raw": "GITOPER TYPE III Anime",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/gitoper-anime-mouse-pad_senbon_royal_girls_third_Form_Type-III_-Control_697f1cb2-b93e-498b-9bfe-aa8a9027694d_600x600_crop_center.webp?v=1770221345",
+      "price": {
+        "raw": "$80.999",
+        "value": 80999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::27556694",
+      "store_id": "goldgaming",
+      "title_slug_id": "gitoper_type_i_anime",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/gitoper-type-i-anime",
+      "title_raw": "GITOPER TYPE I Anime",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/gitoper-2D-artwork_-anime-inspired_-gaming_-mouse_pad-setsuna_control_first_form_d7dd1717-aadf-4af8-a861-b238649fe594_600x600_crop_center.webp?v=1770221313",
+      "price": {
+        "raw": "$80.999",
+        "value": 80999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::6f12324b",
+      "store_id": "goldgaming",
+      "title_slug_id": "padsmith_genesis",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/padsmith-genesis",
+      "title_raw": "Padsmith Genesis",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/Genesis_-_Gray_SCR_-_Product_Listing_811690d2-e577-4401-b5d5-9e0b3ee665d3_600x600_crop_center.webp?v=1770221057",
+      "price": {
+        "raw": "$85.999",
+        "value": 85999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::36b4fe23",
+      "store_id": "goldgaming",
+      "title_slug_id": "padsmith_empress_v2_glasspad",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/padsmith-empress-v2-glasspad",
+      "title_raw": "Padsmith Empress V2 Glasspad",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/PinkRender1-Media_large_12d94ea2-1b7d-4c50-92f9-44ba16213e96_600x600_crop_center.webp?v=1770220884",
+      "price": {
+        "raw": "$155.999",
+        "value": 155999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::53b4457b",
+      "store_id": "goldgaming",
+      "title_slug_id": "zhenhuo_land_red",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/zhenhuo-land-red",
+      "title_raw": "Zhenhuo Land Red",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/164f53f170255af9d627d09f91659130_6f709f37-aa48-4747-9bd3-a58ebdbbdede_600x600_crop_center.webp?v=1762627232",
+      "price": {
+        "raw": "$62.999",
+        "value": 62999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::634a7a11",
+      "store_id": "goldgaming",
+      "title_slug_id": "utopia_sakurai_v1",
+      "source_page_url": "https://goldgaming.com.ar/collections/mousepads",
+      "product_url": "https://goldgaming.com.ar/products/utopia-sakurai-v1",
+      "title_raw": "Utopia Sakurai V1",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/V1_600x600_crop_center.webp?v=1759182833",
+      "price": {
+        "raw": "$75.999",
+        "value": 75999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:36.927Z"
+    },
+    {
+      "listing_id": "goldgaming::5a0e8901",
+      "store_id": "goldgaming",
+      "title_slug_id": "mchose_a7_v2_pro",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/mchose-a7-v2-pro",
+      "title_raw": "Mchose A7 V2 Pro",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/mchose-official-mouse-a7-v2-pro-black-mchose-a7-v2-series-lightweight-all-round-wireless-gaming-mouse-1200359730_600x600_crop_center.webp?v=1767740879",
+      "price": {
+        "raw": "$95.999",
+        "value": 95999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::5f697721",
+      "store_id": "goldgaming",
+      "title_slug_id": "mchose_k7_ultra",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/mchose-k7-ultra",
+      "title_raw": "Mchose K7 Ultra",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/mchose-official-mouse-black-pre-order-mchose-k7-ultra-lightweight-wireless-gaming-mouse-1174256639_600x600_crop_center.webp?v=1767740685",
+      "price": {
+        "raw": "$140.999",
+        "value": 140999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::1c89fc0f",
+      "store_id": "goldgaming",
+      "title_slug_id": "eweadn_s9",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/eweadn-s9",
+      "title_raw": "EWEADN S9",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/EWEADN_S9_White_600x600_crop_center.webp?v=1769035872",
+      "price": {
+        "raw": "$75.999",
+        "value": 75999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::6f06e65f",
+      "store_id": "goldgaming",
+      "title_slug_id": "atk_duckbill",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/atk-duckbill",
+      "title_raw": "ATK Duckbill",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/36cc12c6f77a628f78acec4c509abdd7_2_600x600_crop_center.webp?v=1767740345",
+      "price": {
+        "raw": "$155.999",
+        "value": 155999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::10d48ac3",
+      "store_id": "goldgaming",
+      "title_slug_id": "wlmouse_beast_x_pro",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/wlmouse-beast-x-pro",
+      "title_raw": "WLMouse Beast x Pro",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/m_f9d300c1-1a74-47ee-90bd-417680eb0603_600x600_crop_center.webp?v=1769959693",
+      "price": {
+        "raw": "$209.999",
+        "value": 209999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::53601933",
+      "store_id": "goldgaming",
+      "title_slug_id": "mchose_a7x_ultra",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/mchose-a7x-ultra",
+      "title_raw": "Mchose A7X Ultra",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/mchose-official-mouse-white-mchose-a7x-ultra-magnesium-alloy-wireless-gaming-mouse-1200359828_1_600x600_crop_center.webp?v=1769036905",
+      "price": {
+        "raw": "$180.999",
+        "value": 180999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::7941c4c9",
+      "store_id": "goldgaming",
+      "title_slug_id": "ninjutso_ten_air",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/ninjutso-ten-air",
+      "title_raw": "Ninjutso Ten Air",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/Ten-Ultra_d03bec41-b28d-4f51-8c4e-8184cecfc38c_600x600_crop_center.webp?v=1769036496",
+      "price": {
+        "raw": "$165.999",
+        "value": 165999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::3a2cc930",
+      "store_id": "goldgaming",
+      "title_slug_id": "eweadn_s9_ultra+",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/eweadn-s9-ultra",
+      "title_raw": "EWEADN S9 Ultra+",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/EWEADN_S9_Ultimate_Flame_Gold_600x600_crop_center.webp?v=1769036035",
+      "price": {
+        "raw": "$105.999",
+        "value": 105999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::0f877141",
+      "store_id": "goldgaming",
+      "title_slug_id": "wlmouse_huan",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/wlmouse-huan",
+      "title_raw": "WLMouse Huan",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/d989fb3d858de6f43d8f71c126e55425_1_600x600_crop_center.webp?v=1769959801",
+      "price": {
+        "raw": "$222.999",
+        "value": 222999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::3f92a8d0",
+      "store_id": "goldgaming",
+      "title_slug_id": "atk_x_ipi_ghost",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/atk-ghost",
+      "title_raw": "ATK x IPI Ghost",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/1500_9207a22b-fff4-4701-b3ac-0090dfd22d21_600x600_crop_center.webp?v=1770234949",
+      "price": {
+        "raw": "$145.999",
+        "value": 145999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::69916a90",
+      "store_id": "goldgaming",
+      "title_slug_id": "atk_x_leviatan_f1_v2_extreme",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/atk-x-leviatan-f1-v2-extreme",
+      "title_raw": "ATK x Leviatan F1 V2 Extreme",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/1500_649110c8-f4d8-4f98-96d9-4327b7bc9a84_600x600_crop_center.webp?v=1769036243",
+      "price": {
+        "raw": "$155.999",
+        "value": 155999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::567e5645",
+      "store_id": "goldgaming",
+      "title_slug_id": "incott_029",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/incott-029",
+      "title_raw": "Incott 029",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/00c38ab0947aee76e43644e689b83bd0_600x600_crop_center.webp?v=1770235243",
+      "price": {
+        "raw": "$95.999",
+        "value": 95999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::748699ec",
+      "store_id": "goldgaming",
+      "title_slug_id": "wlmouse_huan_ma-gic",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/wlmouse-huan-ma-gic",
+      "title_raw": "WLMouse Huan MA-GIC",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/magic_600x600_crop_center.webp?v=1770386668",
+      "price": {
+        "raw": "$255.999",
+        "value": 255999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::2183351f",
+      "store_id": "goldgaming",
+      "title_slug_id": "atk_f1_v2_ultimate",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/atk-f1-v2-ultimate",
+      "title_raw": "ATK F1 V2 Ultimate",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/1500_1aaebee8-b65f-4d5f-94b9-d43be42e54fd_2_600x600_crop_center.webp?v=1770235591",
+      "price": {
+        "raw": "$135.999",
+        "value": 135999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::450cfb0d",
+      "store_id": "goldgaming",
+      "title_slug_id": "rapoo_vt0_max",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/rapoo-vt0-max",
+      "title_raw": "Rapoo VT0 Max",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/1761199830-Frame-1572_600x600_crop_center.webp?v=1767743611",
+      "price": {
+        "raw": "$115.999",
+        "value": 115999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::3ed7a0b6",
+      "store_id": "goldgaming",
+      "title_slug_id": "vgn_y2_pro_max",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/vgn-y2-pro-max",
+      "title_raw": "VGN Y2 Pro Max",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/Y2_____Main_0000_bb937ba5-7a8d-48c4-9f0d-cbc775f3cda3_600x600_crop_center.webp?v=1770235400",
+      "price": {
+        "raw": "$85.999",
+        "value": 85999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::045162bd",
+      "store_id": "goldgaming",
+      "title_slug_id": "jamesdonkey_rsr7",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/jamesdonkey-rsr7",
+      "title_raw": "Jamesdonkey RSR7",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/3c1f45959a53975ed63c629407b8cb8f_600x600_crop_center.webp?v=1769036160",
+      "price": {
+        "raw": "$115.999",
+        "value": 115999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::031b624d",
+      "store_id": "goldgaming",
+      "title_slug_id": "atk_x1_v2_ultimate",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/atk-x1-v2-ultimate",
+      "title_raw": "ATK X1 V2 Ultimate",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/1500_0500658e-0f18-4b51-a380-7697554ea959_600x600_crop_center.webp?v=1770235560",
+      "price": {
+        "raw": "$135.999",
+        "value": 135999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::5ea62faf",
+      "store_id": "goldgaming",
+      "title_slug_id": "rapoo_vto_air_max",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/rapoo-vto-air-max",
+      "title_raw": "Rapoo VTO Air Max",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/tw-11134207-81zth-mgyve8zkxpn088-3c629c647eedddfda317668503656385-1024-1024_600x600_crop_center.webp?v=1767743854",
+      "price": {
+        "raw": "$115.999",
+        "value": 115999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::3ae1e382",
+      "store_id": "goldgaming",
+      "title_slug_id": "wlmouse_beast_x_pro_celadon",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/wlmouse-beast-x-pro-celadon",
+      "title_raw": "WLMouse Beast x Pro Celadon",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/max_eef74345-9ac3-4cd6-babf-da87f6bc14f0_600x600_crop_center.webp?v=1770234799",
+      "price": {
+        "raw": "$235.999",
+        "value": 235999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::448e2784",
+      "store_id": "goldgaming",
+      "title_slug_id": "rapoo_vt9_max",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/rapoo-vt9-max",
+      "title_raw": "Rapoo VT9 Max",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/1761186786-Frame-1340_600x600_crop_center.png?v=1767743897",
+      "price": {
+        "raw": "$115.999",
+        "value": 115999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::3b5789c0",
+      "store_id": "goldgaming",
+      "title_slug_id": "wlmouse_beast_x_max_celadon",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/wlmouse-beast-x-mini-celadon",
+      "title_raw": "WLMouse Beast x Max Celadon",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/max_4b215b5f-0a06-4d3f-8f48-582113aa7e2e_600x600_crop_center.webp?v=1770234840",
+      "price": {
+        "raw": "$235.999",
+        "value": 235999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::53b65c75",
+      "store_id": "goldgaming",
+      "title_slug_id": "rapoo_vt3s_max",
+      "source_page_url": "https://goldgaming.com.ar/collections/mouse",
+      "product_url": "https://goldgaming.com.ar/products/rapoo-vt3s-max",
+      "title_raw": "Rapoo VT3S Max",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/VT3PRO-BK-1_600x600_crop_center.webp?v=1767743746",
+      "price": {
+        "raw": "$115.999",
+        "value": 115999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:38.461Z"
+    },
+    {
+      "listing_id": "goldgaming::5b6d7386",
+      "store_id": "goldgaming",
+      "title_slug_id": "irok_mercury68",
+      "source_page_url": "https://goldgaming.com.ar/collections/teclados",
+      "product_url": "https://goldgaming.com.ar/products/irok-mercury68-teclado-magnetico",
+      "title_raw": "IROK Mercury68",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/H37ce8d5c39654c89a90ee08552d1dbbaF_600x600_crop_center.jpg?v=1747404370",
+      "price": {
+        "raw": "$87.999",
+        "value": 87999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:39.984Z"
+    },
+    {
+      "listing_id": "goldgaming::302b7d91",
+      "store_id": "goldgaming",
+      "title_slug_id": "irok_mars75_pro",
+      "source_page_url": "https://goldgaming.com.ar/collections/teclados",
+      "product_url": "https://goldgaming.com.ar/products/irok-mars75-pro",
+      "title_raw": "IROK Mars75 Pro",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/H11dd3a43d9d34b42a9ecb2dca882435dX_600x600_crop_center.jpg?v=1758045998",
+      "price": {
+        "raw": "$138.999",
+        "value": 138999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:39.984Z"
+    },
+    {
+      "listing_id": "goldgaming::668638ae",
+      "store_id": "goldgaming",
+      "title_slug_id": "irok_mercury68_max",
+      "source_page_url": "https://goldgaming.com.ar/collections/teclados",
+      "product_url": "https://goldgaming.com.ar/products/irok-mercury68-max",
+      "title_raw": "IROK Mercury68 Max",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/H8966e7beb8aa4d4ab5575564b0b0d1feM_600x600_crop_center.jpg?v=1760715419",
+      "price": {
+        "raw": "$110.999",
+        "value": 110999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:39.984Z"
+    },
+    {
+      "listing_id": "goldgaming::545e420a",
+      "store_id": "goldgaming",
+      "title_slug_id": "irok_nd63_ultra",
+      "source_page_url": "https://goldgaming.com.ar/collections/teclados",
+      "product_url": "https://goldgaming.com.ar/products/sin-nombre-22sept_9-20",
+      "title_raw": "IROK ND63 Ultra",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/H858182aa1d124b4da04c330de88e77f5d_600x600_crop_center.jpg?v=1758636083",
+      "price": {
+        "raw": "$105.999",
+        "value": 105999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:39.984Z"
+    },
+    {
+      "listing_id": "goldgaming::4c29f795",
+      "store_id": "goldgaming",
+      "title_slug_id": "irok_mg63",
+      "source_page_url": "https://goldgaming.com.ar/collections/teclados",
+      "product_url": "https://goldgaming.com.ar/products/irok-mg63",
+      "title_raw": "IROK MG63",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/H9760f7855e644d1d87ef3bd88b1a647e0_600x600_crop_center.png?v=1767741150",
+      "price": {
+        "raw": "$165.999",
+        "value": 165999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:39.984Z"
+    },
+    {
+      "listing_id": "goldgaming::1f518701",
+      "store_id": "goldgaming",
+      "title_slug_id": "m6pro+_pcb",
+      "source_page_url": "https://goldgaming.com.ar/collections/teclados",
+      "product_url": "https://goldgaming.com.ar/products/m6pro-pcb-teclado-magnetico",
+      "title_raw": "M6Pro+ PCB",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/WhatsAppImage2025-05-28at12.35.15_fbd9a57e_600x600_crop_center.jpg?v=1748446582",
+      "price": {
+        "raw": "$145.999",
+        "value": 145999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:39.984Z"
+    },
+    {
+      "listing_id": "goldgaming::2b58241a",
+      "store_id": "goldgaming",
+      "title_slug_id": "aula_ag60_pro",
+      "source_page_url": "https://goldgaming.com.ar/collections/teclados",
+      "product_url": "https://goldgaming.com.ar/products/aula-ag60-pro",
+      "title_raw": "Aula AG60 Pro",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/AULAAG60Series_Grey_600x600_crop_center.webp?v=1769037043",
+      "price": {
+        "raw": "$215.999",
+        "value": 215999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:39.984Z"
+    },
+    {
+      "listing_id": "goldgaming::7441bf17",
+      "store_id": "goldgaming",
+      "title_slug_id": "m6pro+_single_mode_pcb",
+      "source_page_url": "https://goldgaming.com.ar/collections/teclados",
+      "product_url": "https://goldgaming.com.ar/products/m6pro-single-mode-pcb",
+      "title_raw": "M6Pro+ Single Mode PCB",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/1_600x600_crop_center.jpg?v=1752889057",
+      "price": {
+        "raw": "$180.999",
+        "value": 180999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:39.984Z"
+    },
+    {
+      "listing_id": "goldgaming::3a67a44e",
+      "store_id": "goldgaming",
+      "title_slug_id": "nexus61_pcb",
+      "source_page_url": "https://goldgaming.com.ar/collections/teclados",
+      "product_url": "https://goldgaming.com.ar/products/nexus61-pcb",
+      "title_raw": "Nexus61 PCB",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/NEc_A6al_600x600_crop_center.jpg?v=1759182048",
+      "price": {
+        "raw": "$70.999",
+        "value": 70999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:39.984Z"
+    },
+    {
+      "listing_id": "goldgaming::01530af7",
+      "store_id": "goldgaming",
+      "title_slug_id": "kz_edx_lite_transparentes",
+      "source_page_url": "https://goldgaming.com.ar/collections/audio",
+      "product_url": "https://goldgaming.com.ar/products/kz-edx-lite-transparentes",
+      "title_raw": "KZ EDX Lite Transparentes",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/D_NQ_NP_2X_777981-MLA89461386371_082025-F_600x600_crop_center.webp?v=1767744184",
+      "price": {
+        "raw": "$21.000",
+        "value": 21000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:41.512Z"
+    },
+    {
+      "listing_id": "goldgaming::3a438ae9",
+      "store_id": "goldgaming",
+      "title_slug_id": "kz_pro_cyan",
+      "source_page_url": "https://goldgaming.com.ar/collections/audio",
+      "product_url": "https://goldgaming.com.ar/products/kz-pro-cyan",
+      "title_raw": "KZ Pro Cyan",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/D_NQ_NP_2X_656807-MLA99448815602_112025-F_600x600_crop_center.webp?v=1767744028",
+      "price": {
+        "raw": "$25.999",
+        "value": 25999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:41.512Z"
+    },
+    {
+      "listing_id": "goldgaming::30339805",
+      "store_id": "goldgaming",
+      "title_slug_id": "kz_d-fi_tunning_edition",
+      "source_page_url": "https://goldgaming.com.ar/collections/audio",
+      "product_url": "https://goldgaming.com.ar/products/kz-d-fi-tunning-edition",
+      "title_raw": "KZ D-FI Tunning Edition",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/kz-dfi-13-01_600x600_crop_center.webp?v=1767744357",
+      "price": {
+        "raw": "$55.999",
+        "value": 55999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:41.512Z"
+    },
+    {
+      "listing_id": "goldgaming::5fffa405",
+      "store_id": "goldgaming",
+      "title_slug_id": "kz_dc_black",
+      "source_page_url": "https://goldgaming.com.ar/collections/audio",
+      "product_url": "https://goldgaming.com.ar/products/kz-dc-black",
+      "title_raw": "KZ DC Black",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/D_Q_NP_619359-MLU74051506634_012024-O_600x600_crop_center.webp?v=1767744439",
+      "price": {
+        "raw": "$50.999",
+        "value": 50999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:41.512Z"
+    },
+    {
+      "listing_id": "goldgaming::3b6b3241",
+      "store_id": "goldgaming",
+      "title_slug_id": "kz_eda_transparentes",
+      "source_page_url": "https://goldgaming.com.ar/collections/audio",
+      "product_url": "https://goldgaming.com.ar/products/kz-eda-transparentes",
+      "title_raw": "KZ Eda Transparentes",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/D_NQ_NP_2X_680648-MLA100048823071_122025-F_600x600_crop_center.webp?v=1767744137",
+      "price": {
+        "raw": "$45.999",
+        "value": 45999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:41.512Z"
+    },
+    {
+      "listing_id": "goldgaming::1156dc59",
+      "store_id": "goldgaming",
+      "title_slug_id": "kz_edc_x_gris",
+      "source_page_url": "https://goldgaming.com.ar/collections/audio",
+      "product_url": "https://goldgaming.com.ar/products/kz-edc-x-gris",
+      "title_raw": "KZ EDC X Gris",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/D_NQ_NP_2X_867122-MLA52922395334_122022-F_600x600_crop_center.webp?v=1767744280",
+      "price": {
+        "raw": "$45.999",
+        "value": 45999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:41.512Z"
+    },
+    {
+      "listing_id": "goldgaming::5b6d7386",
+      "store_id": "goldgaming",
+      "title_slug_id": "irok_mercury68",
+      "source_page_url": "https://goldgaming.com.ar/collections/irok",
+      "product_url": "https://goldgaming.com.ar/products/irok-mercury68-teclado-magnetico",
+      "title_raw": "IROK Mercury68",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/H37ce8d5c39654c89a90ee08552d1dbbaF_600x600_crop_center.jpg?v=1747404370",
+      "price": {
+        "raw": "$87.999",
+        "value": 87999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.620Z"
+    },
+    {
+      "listing_id": "goldgaming::302b7d91",
+      "store_id": "goldgaming",
+      "title_slug_id": "irok_mars75_pro",
+      "source_page_url": "https://goldgaming.com.ar/collections/irok",
+      "product_url": "https://goldgaming.com.ar/products/irok-mars75-pro",
+      "title_raw": "IROK Mars75 Pro",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/H11dd3a43d9d34b42a9ecb2dca882435dX_600x600_crop_center.jpg?v=1758045998",
+      "price": {
+        "raw": "$138.999",
+        "value": 138999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.620Z"
+    },
+    {
+      "listing_id": "goldgaming::545e420a",
+      "store_id": "goldgaming",
+      "title_slug_id": "irok_nd63_ultra",
+      "source_page_url": "https://goldgaming.com.ar/collections/irok",
+      "product_url": "https://goldgaming.com.ar/products/sin-nombre-22sept_9-20",
+      "title_raw": "IROK ND63 Ultra",
+      "image_url": "https://goldgaming.com.ar/cdn/shop/files/H858182aa1d124b4da04c330de88e77f5d_600x600_crop_center.jpg?v=1758636083",
+      "price": {
+        "raw": "$105.999",
+        "value": 105999,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.620Z"
+    }
+  ]
+}

@@ -1,0 +1,878 @@
+{
+  "store_name": "Herrero Gamer 2",
+  "store_id": "herrerogamer2",
+  "store_url": "https://herrerogamer2.mitiendanube.com/",
+  "store_image": "/images/stores/herrerogamer2.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": [
+    {
+      "listing_id": "herrerogamer2::2213278b",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "lonchera_electrica_termica",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/lonchera-electrica-termica/",
+      "title_raw": "Lonchera Electrica termica",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/lonchera-electrica-termica/\"\n        },\n        \"name\": \"Lonchera Electrica termica\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/proyecto-nuevo4-3745b3ad17a12c798217628837477919-480-0.webp\",\n        \"description\": \"Buenas, Les traemos Un Productazo Vianda térmica eléctrica, de la marca MegaStar BA60 Perfecto para almorzar como se debe, con la comida caliente, Totalmente...\",\n                                    \"weight\": {\n                \"@type\": \"QuantitativeValue\",\n                \"unitCode\": \"KGM\",\n                \"value\": \"0.2\"\n            },\n                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/lonchera-electrica-termica/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"25999\",\n                            \"availability\": \"http://schema.org/InStock\",\n                \"inventoryLevel\": {\n                    \"@type\": \"QuantitativeValue\",\n                    \"value\": \"5\"\n                },\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:14.006Z"
+    },
+    {
+      "listing_id": "herrerogamer2::4b2a928d",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "consola_sf2000",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/consola-sf2000/",
+      "title_raw": "Consola SF2000",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/consola-sf2000/\"\n        },\n        \"name\": \"Consola SF2000\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/61fbuhu-xcl-_ac_sl1100_-1-46c339a72a96a6192b17301354664693-480-0.webp\",\n        \"description\": \"Consola Portatil con +10.000 juegos instalados listos para jugar Viene con catalogo de : Mame/Family/SN /Sega/Gameboy/GC/GA Color: Blanco. Incluye: Joystick ...\",\n                \"sku\": \"100\",\n                                    \"weight\": {\n                \"@type\": \"QuantitativeValue\",\n                \"unitCode\": \"KGM\",\n                \"value\": \"0.2\"\n            },\n                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/consola-sf2000/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"100000\",\n                            \"availability\": \"http://schema.org/InStock\",\n                \"inventoryLevel\": {\n                    \"@type\": \"QuantitativeValue\",\n                    \"value\": \"5\"\n                },\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:14.006Z"
+    },
+    {
+      "listing_id": "herrerogamer2::09ba6e35",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_honda_civic",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-honda-civic-n2oz5/",
+      "title_raw": "Silla Gamer Premium Honda Civic",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-honda-civic-n2oz5/\"\n        },\n        \"name\": \"Silla Gamer Premium Honda Civic\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20260113_091415-5d1ccba9c6cfd4247017688428329572-480-0.webp\",\n        \"description\": \"Contamos con mas de 5 años de experiencia  siendo pioneros y lideres en venta de sillas gamers hechas con butacas de auto adaptadas mediante herreria, al Uti...\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-honda-civic-n2oz5/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:14.006Z"
+    },
+    {
+      "listing_id": "herrerogamer2::77c35858",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_citroen_c3",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "title_raw": "Silla Gamer Premium citroen C3",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-citroen-c3-10sf7/\"\n        },\n        \"name\": \"Silla Gamer Premium citroen C3\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/c3-facha-5e3ed1c6030460006717688427299717-480-0.webp\",\n        \"description\": \"Contamos con mas de 5 años de experiencia  siendo pioneros y lideres en venta de sillas gamers hechas con butacas de auto adaptadas mediante herreria, al Uti...\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-citroen-c3-10sf7/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:14.007Z"
+    },
+    {
+      "listing_id": "herrerogamer2::23f218d9",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "escritorios_personalizados_gaming",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/escritorios-personalizados-gaming/",
+      "title_raw": "Escritorios Personalizados Gaming",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/escritorios-personalizados-gaming/\"\n        },\n        \"name\": \"Escritorios Personalizados Gaming\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/whatsapp-image-2025-05-05-at-14-28-29-12176e64374dfb013c17464731388225-480-0.webp\",\n        \"description\": \"    -&amp;gt;PARA CONSULTAR PRESUPUESTO PULSE ACA&amp;lt;- En Herrero Gamer no solo hacemos sillas gamers.Con más de 3 años de experiencia, nos especializamos en la ...\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/escritorios-personalizados-gaming/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:14.007Z"
+    },
+    {
+      "listing_id": "herrerogamer2::18d221a6",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_renault_kwid",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-ford-ka-cuero/",
+      "title_raw": "Silla Gamer Premium Renault Kwid",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-ford-ka-cuero/\"\n        },\n        \"name\": \"Silla Gamer Premium Renault Kwid\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251229_160843-d2cc0af23b4ac1fe7d17688419317218-480-0.webp\",\n        \"description\": \"Contamos con mas de 5 años de experiencia  siendo pioneros y lideres en venta de sillas gamers hechas con butacas de auto adaptadas mediante herreria, al Uti...\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-ford-ka-cuero/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:14.007Z"
+    },
+    {
+      "listing_id": "herrerogamer2::010862ee",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_edicion_limitada_bmw_120i",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/",
+      "title_raw": "Silla Gamer edicion limitada BMW 120i",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/\"\n        },\n        \"name\": \"Silla Gamer edicion limitada BMW 120i\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20260113_090210-f8e154db58aed8a40e17688421503830-480-0.webp\",\n        \"description\": \"Contamos con mas de 5 años de experiencia siendo pioneros y lideres en venta de sillas gamers hechas con butacas de auto adaptadas mediante herreria, al Util...\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:14.007Z"
+    },
+    {
+      "listing_id": "herrerogamer2::2ff85b3f",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "ruedas_reforzadas_con_frenos",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/ruedas-reforzadas-con-frenos/",
+      "title_raw": "Ruedas reforzadas con frenos",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/ruedas-reforzadas-con-frenos/\"\n        },\n        \"name\": \"Ruedas reforzadas con frenos\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/71jvytruzxl-_ac_sl1500_-4fc594599b70cc565817605498566717-480-0.webp\",\n        \"description\": \"Contamos con mas de 4 años de experiencia haciendo Sillas Gamer con la comodidad de las butacas de auto Descripcion del Repuesto:  Ruedas reforzadas Incluye ...\",\n                                    \"weight\": {\n                \"@type\": \"QuantitativeValue\",\n                \"unitCode\": \"KGM\",\n                \"value\": \"0.2\"\n            },\n                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/ruedas-reforzadas-con-frenos/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"29999\",\n                            \"availability\": \"http://schema.org/InStock\",\n                \"inventoryLevel\": {\n                    \"@type\": \"QuantitativeValue\",\n                    \"value\": \"4\"\n                },\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:14.007Z"
+    },
+    {
+      "listing_id": "herrerogamer2::4b2a928d",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "consola_sf2000",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//consolas-retro/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/consola-sf2000/",
+      "title_raw": "Consola SF2000",
+      "image_url": "https://dcdn-us.mitiendanube.com/stores/004/906/761/products/61fbuhu-xcl-_ac_sl1100_-1-46c339a72a96a6192b17301354664693-480-0.webp",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/consola-sf2000/\"\n        },\n        \"name\": \"Consola SF2000\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/61fbuhu-xcl-_ac_sl1100_-1-46c339a72a96a6192b17301354664693-480-0.webp\",\n        \"description\": \"Consola Portatil con +10.000 juegos instalados listos para jugar Viene con catalogo de : Mame/Family/SN /Sega/Gameboy/GC/GA Color: Blanco. Incluye: Joystick ...\",\n                \"sku\": \"100\",\n                                    \"weight\": {\n                \"@type\": \"QuantitativeValue\",\n                \"unitCode\": \"KGM\",\n                \"value\": \"0.2000\"\n            },\n                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/consola-sf2000/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"100000\",\n                            \"availability\": \"http://schema.org/InStock\",\n                \"inventoryLevel\": {\n                    \"@type\": \"QuantitativeValue\",\n                    \"value\": \"5\"\n                },\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:14.967Z"
+    },
+    {
+      "listing_id": "herrerogamer2::4eb2963f",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_peugeot_208_linea_nueva",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-peugeot-208-linea-nueva-182ws/",
+      "title_raw": "Silla Gamer Premium Peugeot 208 Linea Nueva",
+      "image_url": "https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20250307_140755-bb7a30b1eb3747ae7f17688431259719-480-0.webp",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-peugeot-208-linea-nueva-182ws/\"\n        },\n        \"name\": \"Silla Gamer Premium Peugeot 208 Linea Nueva\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20250307_140755-bb7a30b1eb3747ae7f17688431259719-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Peugeot 208 Linea Nueva por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-peugeot-208-linea-nueva-182ws/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::629dd23e",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_fiat_mobi",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-mobi-15wjq/",
+      "title_raw": "Silla Gamer Premium Fiat Mobi",
+      "image_url": "https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20250227_111329-dabca60fa675bf99a417688430520960-480-0.webp",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-mobi-15wjq/\"\n        },\n        \"name\": \"Silla Gamer Premium Fiat Mobi\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20250227_111329-dabca60fa675bf99a417688430520960-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Fiat Mobi por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-mobi-15wjq/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::0b07245d",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_volkswagen_up",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-volkswagen-up-1re7e/",
+      "title_raw": "Silla Gamer Premium Volkswagen UP",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-volkswagen-up-1re7e/\"\n        },\n        \"name\": \"Silla Gamer Premium Volkswagen UP\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20230920_153951-b3411e103738e5076e17688429772641-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Volkswagen UP por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-volkswagen-up-1re7e/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::09ba6e35",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_honda_civic",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-honda-civic-n2oz5/",
+      "title_raw": "Silla Gamer Premium Honda Civic",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-honda-civic-n2oz5/\"\n        },\n        \"name\": \"Silla Gamer Premium Honda Civic\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20260113_091415-5d1ccba9c6cfd4247017688428329572-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Honda Civic por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-honda-civic-n2oz5/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::77c35858",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_citroen_c3",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "title_raw": "Silla Gamer Premium citroen C3",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-citroen-c3-10sf7/\"\n        },\n        \"name\": \"Silla Gamer Premium citroen C3\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/c3-facha-5e3ed1c6030460006717688427299717-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium citroen C3 por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-citroen-c3-10sf7/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::2aa9f350",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_fiat_estrada_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-estrada-outlet/",
+      "title_raw": "Silla gamer Fiat estrada outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-estrada-outlet/\"\n        },\n        \"name\": \"Silla gamer Fiat estrada outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251212_143034-3234477ccdcb4e490e17661740964957-480-0.webp\",\n        \"description\": \"Comprá online Silla gamer Fiat estrada outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-estrada-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::5949e617",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_chevrolet_corsa_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-chevrolet-corsa-outlet1/",
+      "title_raw": "Silla gamer Chevrolet Corsa outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-chevrolet-corsa-outlet1/\"\n        },\n        \"name\": \"Silla gamer Chevrolet Corsa outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20250627_152319-8c0ebeb80fa207002417661736046379-480-0.webp\",\n        \"description\": \"Comprá online Silla gamer Chevrolet Corsa outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-chevrolet-corsa-outlet1/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::002a2d23",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_honda_fit_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-honda-fit-outlet/",
+      "title_raw": "Silla gamer Honda Fit outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-honda-fit-outlet/\"\n        },\n        \"name\": \"Silla gamer Honda Fit outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251023_145413-710d65e28141a7ef5417661735550567-480-0.webp\",\n        \"description\": \"Comprá online Silla gamer Honda Fit outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-honda-fit-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::0da2c704",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_chevrolet_corsa_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-chevrolet-corsa-outlet/",
+      "title_raw": "Silla gamer Chevrolet Corsa outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-chevrolet-corsa-outlet/\"\n        },\n        \"name\": \"Silla gamer Chevrolet Corsa outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251023_151711-3969a9974c03a77db817661715185598-480-0.webp\",\n        \"description\": \"Comprá online Silla gamer Chevrolet Corsa outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-chevrolet-corsa-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::010862ee",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_edicion_limitada_bmw_120i",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/",
+      "title_raw": "Silla Gamer edicion limitada BMW 120i",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/\"\n        },\n        \"name\": \"Silla Gamer edicion limitada BMW 120i\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20260113_090210-f8e154db58aed8a40e17688421503830-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer edicion limitada BMW 120i por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.919Z"
+    },
+    {
+      "listing_id": "herrerogamer2::73a5a762",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_toyota_corolla_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-toyota-corolla-outlet/",
+      "title_raw": "Silla Gamer Toyota Corolla outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-toyota-corolla-outlet/\"\n        },\n        \"name\": \"Silla Gamer Toyota Corolla outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20241023_123223-325f2162c5c77dc5c117600278499945-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Toyota Corolla outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                    \"weight\": {\n                \"@type\": \"QuantitativeValue\",\n                \"unitCode\": \"KGM\",\n                \"value\": \"10\"\n            },\n                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-toyota-corolla-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.920Z"
+    },
+    {
+      "listing_id": "herrerogamer2::34901cbd",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_ford_ka_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//butacas-gamers/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-ford-ka-outlet/",
+      "title_raw": "Silla Gamer Ford ka outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-ford-ka-outlet/\"\n        },\n        \"name\": \"Silla Gamer Ford ka outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251023_145849-b9f66a0b34a12e2e6d17661712690322-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Ford ka outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-ford-ka-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:15.920Z"
+    },
+    {
+      "listing_id": "herrerogamer2::002a2d23",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_honda_fit_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-honda-fit-outlet/",
+      "title_raw": "Silla gamer Honda Fit outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-honda-fit-outlet/\"\n        },\n        \"name\": \"Silla gamer Honda Fit outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251023_145413-710d65e28141a7ef5417661735550567-480-0.webp\",\n        \"description\": \"Comprá online Silla gamer Honda Fit outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-honda-fit-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:22.445Z"
+    },
+    {
+      "listing_id": "herrerogamer2::2aa9f350",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_fiat_estrada_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-estrada-outlet/",
+      "title_raw": "Silla gamer Fiat estrada outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-estrada-outlet/\"\n        },\n        \"name\": \"Silla gamer Fiat estrada outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251212_143034-3234477ccdcb4e490e17661740964957-480-0.webp\",\n        \"description\": \"Comprá online Silla gamer Fiat estrada outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-estrada-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:22.445Z"
+    },
+    {
+      "listing_id": "herrerogamer2::629dd23e",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_fiat_mobi",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-mobi-15wjq/",
+      "title_raw": "Silla Gamer Premium Fiat Mobi",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-mobi-15wjq/\"\n        },\n        \"name\": \"Silla Gamer Premium Fiat Mobi\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20250227_111329-dabca60fa675bf99a417688430520960-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Fiat Mobi por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-mobi-15wjq/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:22.445Z"
+    },
+    {
+      "listing_id": "herrerogamer2::34901cbd",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_ford_ka_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-ford-ka-outlet/",
+      "title_raw": "Silla Gamer Ford ka outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-ford-ka-outlet/\"\n        },\n        \"name\": \"Silla Gamer Ford ka outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251023_145849-b9f66a0b34a12e2e6d17661712690322-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Ford ka outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-ford-ka-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:22.445Z"
+    },
+    {
+      "listing_id": "herrerogamer2::010862ee",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_edicion_limitada_bmw_120i",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/",
+      "title_raw": "Silla Gamer edicion limitada BMW 120i",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/\"\n        },\n        \"name\": \"Silla Gamer edicion limitada BMW 120i\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20260113_090210-f8e154db58aed8a40e17688421503830-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer edicion limitada BMW 120i por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:22.445Z"
+    },
+    {
+      "listing_id": "herrerogamer2::0b07245d",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_volkswagen_up",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-volkswagen-up-1re7e/",
+      "title_raw": "Silla Gamer Premium Volkswagen UP",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-volkswagen-up-1re7e/\"\n        },\n        \"name\": \"Silla Gamer Premium Volkswagen UP\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20230920_153951-b3411e103738e5076e17688429772641-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Volkswagen UP por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-volkswagen-up-1re7e/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:22.445Z"
+    },
+    {
+      "listing_id": "herrerogamer2::4eb2963f",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_peugeot_208_linea_nueva",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-peugeot-208-linea-nueva-182ws/",
+      "title_raw": "Silla Gamer Premium Peugeot 208 Linea Nueva",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-peugeot-208-linea-nueva-182ws/\"\n        },\n        \"name\": \"Silla Gamer Premium Peugeot 208 Linea Nueva\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20250307_140755-bb7a30b1eb3747ae7f17688431259719-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Peugeot 208 Linea Nueva por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-peugeot-208-linea-nueva-182ws/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:22.445Z"
+    },
+    {
+      "listing_id": "herrerogamer2::73a5a762",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_toyota_corolla_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-toyota-corolla-outlet/",
+      "title_raw": "Silla Gamer Toyota Corolla outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-toyota-corolla-outlet/\"\n        },\n        \"name\": \"Silla Gamer Toyota Corolla outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20241023_123223-325f2162c5c77dc5c117600278499945-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Toyota Corolla outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                    \"weight\": {\n                \"@type\": \"QuantitativeValue\",\n                \"unitCode\": \"KGM\",\n                \"value\": \"10\"\n            },\n                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-toyota-corolla-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:22.445Z"
+    },
+    {
+      "listing_id": "herrerogamer2::010862ee",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_edicion_limitada_bmw_120i",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-ford-ka-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/",
+      "title_raw": "Silla Gamer edicion limitada BMW 120i",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/\"\n        },\n        \"name\": \"Silla Gamer edicion limitada BMW 120i\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20260113_090210-f8e154db58aed8a40e17688421503830-480-0.webp\",\n        \"description\": \"Contamos con mas de 5 años de experiencia siendo pioneros y lideres en venta de sillas gamers hechas con butacas de auto adaptadas mediante herreria, al Util...\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-premium-jepp-renegate-cuero/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:24.893Z"
+    },
+    {
+      "listing_id": "herrerogamer2::23f218d9",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "escritorios_personalizados_gaming",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-ford-ka-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/escritorios-personalizados-gaming/",
+      "title_raw": "Escritorios Personalizados Gaming",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/escritorios-personalizados-gaming/\"\n        },\n        \"name\": \"Escritorios Personalizados Gaming\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/whatsapp-image-2025-05-05-at-14-28-29-12176e64374dfb013c17464731388225-480-0.webp\",\n        \"description\": \"    -&amp;gt;PARA CONSULTAR PRESUPUESTO PULSE ACA&amp;lt;- En Herrero Gamer no solo hacemos sillas gamers.Con más de 3 años de experiencia, nos especializamos en la ...\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/escritorios-personalizados-gaming/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:24.893Z"
+    },
+    {
+      "listing_id": "herrerogamer2::4b2a928d",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "consola_sf2000",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-ford-ka-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/consola-sf2000/",
+      "title_raw": "Consola SF2000",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/consola-sf2000/\"\n        },\n        \"name\": \"Consola SF2000\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/61fbuhu-xcl-_ac_sl1100_-1-46c339a72a96a6192b17301354664693-480-0.webp\",\n        \"description\": \"Consola Portatil con +10.000 juegos instalados listos para jugar Viene con catalogo de : Mame/Family/SN /Sega/Gameboy/GC/GA Color: Blanco. Incluye: Joystick ...\",\n                \"sku\": \"100\",\n                                    \"weight\": {\n                \"@type\": \"QuantitativeValue\",\n                \"unitCode\": \"KGM\",\n                \"value\": \"0.2\"\n            },\n                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/consola-sf2000/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"100000\",\n                            \"availability\": \"http://schema.org/InStock\",\n                \"inventoryLevel\": {\n                    \"@type\": \"QuantitativeValue\",\n                    \"value\": \"5\"\n                },\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:24.893Z"
+    },
+    {
+      "listing_id": "herrerogamer2::18d221a6",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_renault_kwid",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-gamer-premium-ford-ka-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-ford-ka-cuero/",
+      "title_raw": "Silla Gamer Premium Renault Kwid",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-ford-ka-cuero/\"\n        },\n        \"name\": \"Silla Gamer Premium Renault Kwid\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251229_160843-d2cc0af23b4ac1fe7d17688419317218-480-0.webp\",\n        \"description\": \"Contamos con mas de 5 años de experiencia  siendo pioneros y lideres en venta de sillas gamers hechas con butacas de auto adaptadas mediante herreria, al Uti...\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-ford-ka-cuero/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:24.893Z"
+    },
+    {
+      "listing_id": "herrerogamer2::0da2c704",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_chevrolet_corsa_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-premium-jepp-renegate-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-chevrolet-corsa-outlet/",
+      "title_raw": "Silla gamer Chevrolet Corsa outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-chevrolet-corsa-outlet/\"\n        },\n        \"name\": \"Silla gamer Chevrolet Corsa outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251023_151711-3969a9974c03a77db817661715185598-480-0.webp\",\n        \"description\": \"Comprá online Silla gamer Chevrolet Corsa outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-chevrolet-corsa-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:25.841Z"
+    },
+    {
+      "listing_id": "herrerogamer2::77c35858",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_citroen_c3",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-premium-jepp-renegate-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-citroen-c3-10sf7/",
+      "title_raw": "Silla Gamer Premium citroen C3",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-citroen-c3-10sf7/\"\n        },\n        \"name\": \"Silla Gamer Premium citroen C3\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/c3-facha-5e3ed1c6030460006717688427299717-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium citroen C3 por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-citroen-c3-10sf7/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:25.841Z"
+    },
+    {
+      "listing_id": "herrerogamer2::34901cbd",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_ford_ka_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-premium-jepp-renegate-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-ford-ka-outlet/",
+      "title_raw": "Silla Gamer Ford ka outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-ford-ka-outlet/\"\n        },\n        \"name\": \"Silla Gamer Ford ka outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251023_145849-b9f66a0b34a12e2e6d17661712690322-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Ford ka outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-ford-ka-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:25.841Z"
+    },
+    {
+      "listing_id": "herrerogamer2::4eb2963f",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_peugeot_208_linea_nueva",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-premium-jepp-renegate-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-peugeot-208-linea-nueva-182ws/",
+      "title_raw": "Silla Gamer Premium Peugeot 208 Linea Nueva",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-peugeot-208-linea-nueva-182ws/\"\n        },\n        \"name\": \"Silla Gamer Premium Peugeot 208 Linea Nueva\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20250307_140755-bb7a30b1eb3747ae7f17688431259719-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Peugeot 208 Linea Nueva por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-peugeot-208-linea-nueva-182ws/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:25.841Z"
+    },
+    {
+      "listing_id": "herrerogamer2::73a5a762",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_toyota_corolla_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-premium-jepp-renegate-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-toyota-corolla-outlet/",
+      "title_raw": "Silla Gamer Toyota Corolla outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-toyota-corolla-outlet/\"\n        },\n        \"name\": \"Silla Gamer Toyota Corolla outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20241023_123223-325f2162c5c77dc5c117600278499945-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Toyota Corolla outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                    \"weight\": {\n                \"@type\": \"QuantitativeValue\",\n                \"unitCode\": \"KGM\",\n                \"value\": \"10\"\n            },\n                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-toyota-corolla-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:25.841Z"
+    },
+    {
+      "listing_id": "herrerogamer2::09ba6e35",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_honda_civic",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-premium-jepp-renegate-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-honda-civic-n2oz5/",
+      "title_raw": "Silla Gamer Premium Honda Civic",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-honda-civic-n2oz5/\"\n        },\n        \"name\": \"Silla Gamer Premium Honda Civic\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20260113_091415-5d1ccba9c6cfd4247017688428329572-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Honda Civic por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-premium-honda-civic-n2oz5/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:25.841Z"
+    },
+    {
+      "listing_id": "herrerogamer2::629dd23e",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_premium_fiat_mobi",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-premium-jepp-renegate-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-mobi-15wjq/",
+      "title_raw": "Silla Gamer Premium Fiat Mobi",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-mobi-15wjq/\"\n        },\n        \"name\": \"Silla Gamer Premium Fiat Mobi\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20250227_111329-dabca60fa675bf99a417688430520960-480-0.webp\",\n        \"description\": \"Comprá online Silla Gamer Premium Fiat Mobi por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-mobi-15wjq/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:25.841Z"
+    },
+    {
+      "listing_id": "herrerogamer2::2aa9f350",
+      "store_id": "herrerogamer2",
+      "title_slug_id": "silla_gamer_fiat_estrada_outlet",
+      "source_page_url": "https://herrerogamer2.mitiendanube.com//productos/silla-premium-jepp-renegate-cuero/",
+      "product_url": "https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-estrada-outlet/",
+      "title_raw": "Silla gamer Fiat estrada outlet",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "price": {
+        "raw": "{\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"Product\",\n        \"mainEntityOfPage\": {\n            \"@type\": \"WebPage\",\n            \"@id\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-estrada-outlet/\"\n        },\n        \"name\": \"Silla gamer Fiat estrada outlet\",\n        \"image\": \"https://dcdn-us.mitiendanube.com/stores/004/906/761/products/20251212_143034-3234477ccdcb4e490e17661740964957-480-0.webp\",\n        \"description\": \"Comprá online Silla gamer Fiat estrada outlet por $0,00. Hacé tu pedido y pagalo online.\",\n                                \"offers\": {\n            \"@type\": \"Offer\",\n            \"url\": \"https://herrerogamer2.mitiendanube.com/productos/silla-gamer-fiat-estrada-outlet/\",\n            \"priceCurrency\": \"ARS\",\n            \"price\": \"0\",\n                        \"seller\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Herrerogamer\"\n            }\n        }\n    }",
+        "value": null,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:10:25.841Z"
+    }
+  ]
+}

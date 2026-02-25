@@ -1,0 +1,1025 @@
+{
+  "store_name": "Rocket Hard",
+  "store_id": "rockethard",
+  "store_url": "https://www.rockethard.com.ar",
+  "store_image": "/images/stores/rockethard.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": [
+    {
+      "listing_id": "rockethard::70bd0de8",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_overtech_500w_gx6500",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-overtech-500w-gx6500-162519.html",
+      "title_raw": "Fuente Overtech 500w Gx6500",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-15462545.jpg",
+      "price": {
+        "raw": "$26.116",
+        "value": 26116,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.149Z"
+    },
+    {
+      "listing_id": "rockethard::0879b334",
+      "store_id": "rockethard",
+      "title_slug_id": "outlet_fuente_gigabyte_650w_80+_bronce",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente-garage/outlet-fuente-gigabyte-650w-80+-bronce-162389.html",
+      "title_raw": "Outlet Fuente Gigabyte 650w 80+ Bronce",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-15222755.png",
+      "price": {
+        "raw": "$63.069",
+        "value": 63069,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::106df30d",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_evolabs_600w_power_series_evops-600",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-evolabs-600w-power-series-evops-600-163277.html",
+      "title_raw": "Fuente Evolabs 600w Power Series Evops-600",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-18810368.jpg",
+      "price": {
+        "raw": "$64.521",
+        "value": 64521,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::0fd5a85b",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_aureox_arxgp_500w",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-aureox-arxgp-500w-160857.html",
+      "title_raw": "Fuente Aureox Arxgp 500w",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11860303.jpg",
+      "price": {
+        "raw": "$64.611",
+        "value": 64611,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::755e693c",
+      "store_id": "rockethard",
+      "title_slug_id": "procesador_amd_athlon_3000g_wraith_cooler_am4",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/procesador-amd/procesador-amd-athlon-3000g-wraith-cooler-am4-160969.html",
+      "title_raw": "Procesador Amd Athlon 3000g Wraith Cooler Am4",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11991144.jpg",
+      "price": {
+        "raw": "$67.623",
+        "value": 67623,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::5d943a0e",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_evolabs_500w_power_series_evops-500",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-evolabs-500w-power-series-evops-500-163335.html",
+      "title_raw": "Fuente Evolabs 500w Power Series Evops-500",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-19408372.jpg",
+      "price": {
+        "raw": "$70.346",
+        "value": 70346,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::6654c8e5",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_ssd_patriot_240gb_burst_elite_2.5_sata",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-ssd-patriot-240gb-burst-elite-25-sata-163262.html",
+      "title_raw": "Disco Ssd Patriot 240gb Burst Elite 2.5 Sata",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-18477034.png",
+      "price": {
+        "raw": "$71.734",
+        "value": 71734,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::30abed8e",
+      "store_id": "rockethard",
+      "title_slug_id": "outlet_fuente_xpg_pylon_650w_80+_bronce",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente-garage/outlet-fuente-xpg-pylon-650w-80+-bronce-163216.html",
+      "title_raw": "Outlet Fuente Xpg Pylon 650w 80+ Bronce",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-18068763.png",
+      "price": {
+        "raw": "$73.051",
+        "value": 73051,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::1ab51cc2",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_solido_ssd_512gb_m.2_nvme_2241_oem_(samsung,micron,western_digital,kioxia,sk_hynix,union_memory)",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-solido-ssd-512gb-m2-nvme-2241-oem-samsungmicronwestern-digitalkioxiask-hynixunion-memory-163272.html",
+      "title_raw": "Disco Solido Ssd 512gb M.2 Nvme 2241 Oem (samsung,micron,western Digital,kioxia,sk Hynix,union Memory)",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-18624455.png",
+      "price": {
+        "raw": "$75.397",
+        "value": 75397,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::35f7f621",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_cooler_master_elite_nex_600w_230v_a/wo_cable_80+_white",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-cooler-master-elite-nex-600w-230v-a-wo-cable-80+-white-161854.html",
+      "title_raw": "Fuente Cooler Master Elite Nex 600w 230v A/wo Cable 80+ White",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-14013837.png",
+      "price": {
+        "raw": "$76.046",
+        "value": 76046,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::2c8ef1dd",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_aureox_arxgp_600w",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-aureox-arxgp-600w-160858.html",
+      "title_raw": "Fuente Aureox Arxgp 600w",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11860293.jpg",
+      "price": {
+        "raw": "$76.136",
+        "value": 76136,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::314b9e5c",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_ssd_m.2_hiksemi_256gb_wave",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-ssd-m2-hiksemi-256gb-wave-163006.html",
+      "title_raw": "Disco Ssd M.2 Hiksemi 256gb Wave",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-17304642.png",
+      "price": {
+        "raw": "$77.309",
+        "value": 77309,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::67f06760",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_ssd_hiksemi_wave_240gb_sata",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-ssd-hiksemi-wave-240gb-sata-161966.html",
+      "title_raw": "Disco Ssd Hiksemi Wave 240gb Sata",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-14182096.png",
+      "price": {
+        "raw": "$81.711",
+        "value": 81711,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::31ff6b32",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_ssd_hiksemi_240gb_wave_sata_bulk",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-ssd-hiksemi-240gb-wave-sata-bulk-163240.html",
+      "title_raw": "Disco Ssd Hiksemi 240gb Wave Sata Bulk",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-18323410.png",
+      "price": {
+        "raw": "$81.711",
+        "value": 81711,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::3a7406a3",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_cooler_master_elite_nex_w700_230v_a/wo_cable_80+_white",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-cooler-master-elite-nex-w700-230v-a-wo-cable-80+-white-161855.html",
+      "title_raw": "Fuente Cooler Master Elite Nex W700 230v A/wo Cable 80+ White",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-14013816.jpg",
+      "price": {
+        "raw": "$83.915",
+        "value": 83915,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::4c435c9f",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_thermaltake_600w_smart_80_plus_white",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-thermaltake-600w-smart-80-plus-white-161403.html",
+      "title_raw": "Fuente Thermaltake 600w Smart 80 Plus White",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-13134059.jpg",
+      "price": {
+        "raw": "$84.794",
+        "value": 84794,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::65bb2d84",
+      "store_id": "rockethard",
+      "title_slug_id": "procesador_intel_celeron_g5905_c/video_integrada_c/cooler_s1200",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/procesador-intel/procesador-intel-celeron-g5905-c-video-integrada-c-cooler-s1200-159712.html",
+      "title_raw": "Procesador Intel Celeron G5905 C/video Integrada C/cooler S1200",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11374662.jpg",
+      "price": {
+        "raw": "$87.970",
+        "value": 87970,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::07dcd1b7",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_coolermaster_mwe_bronze_750_v3_fr_ar/wo_cord",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-coolermaster-mwe-bronze-750-v3-fr-ar-wo-cord-162762.html",
+      "title_raw": "Fuente Coolermaster Mwe Bronze 750 V3 Fr Ar/wo Cord",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-16525074.png",
+      "price": {
+        "raw": "$89.142",
+        "value": 89142,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::1056da22",
+      "store_id": "rockethard",
+      "title_slug_id": "mother_asus_prime_a520m-k",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/motherboard-amd/mother-asus-prime-a520m-k-160842.html",
+      "title_raw": "Mother Asus Prime A520m-k",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11828742.jpg",
+      "price": {
+        "raw": "$89.501",
+        "value": 89501,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::2b5d1e6d",
+      "store_id": "rockethard",
+      "title_slug_id": "memoria_ram_ddr4_axle_8gb_3200mt_udimm",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/memoria-ddr4/memoria-ram-ddr4-axle-8gb-3200mt-udimm-163260.html",
+      "title_raw": "Memoria Ram Ddr4 Axle 8gb 3200mt Udimm",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-18460436.jpg",
+      "price": {
+        "raw": "$89.584",
+        "value": 89584,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::5700e3be",
+      "store_id": "rockethard",
+      "title_slug_id": "memoria_ram_ddr4_hiksemi_8gb_3200mhz_hiker",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/memoria-ddr4/memoria-ram-ddr4-hiksemi-8gb-3200mhz-hiker-161770.html",
+      "title_raw": "Memoria Ram Ddr4 Hiksemi 8gb 3200mhz Hiker",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-13915324.jpg",
+      "price": {
+        "raw": "$92.816",
+        "value": 92816,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::6274da8b",
+      "store_id": "rockethard",
+      "title_slug_id": "memoria_ram_ddr4_aimerican_8gb_3200mt_cl22",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/memoria-ddr4/memoria-ram-ddr4-aimerican-8gb-3200mt-cl22-163161.html",
+      "title_raw": "Memoria Ram Ddr4 Aimerican 8gb 3200mt Cl22",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-17850506.png",
+      "price": {
+        "raw": "$94.540",
+        "value": 94540,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::7f11d60c",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_ssd_american_memory_480gb_m.2_sata_oem",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-ssd-american-memory-480gb-m2-sata-oem-163298.html",
+      "title_raw": "Disco Ssd American Memory 480gb M.2 Sata Oem",
+      "image_url": "https://statics.qloud.com.ar/153/thumb_07-12-2025-12-12-23_AMERICANMEMORI22.jpg",
+      "price": {
+        "raw": "$95.468",
+        "value": 95468,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::00ac4eef",
+      "store_id": "rockethard",
+      "title_slug_id": "mother_asrock_h510_pro_btc+_s1200_mineria",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/motherboard-intel/mother-asrock-h510-pro-btc+-s1200-mineria-159579.html",
+      "title_raw": "Mother Asrock H510 Pro Btc+ S1200 Mineria",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11362661.png",
+      "price": {
+        "raw": "$99.446",
+        "value": 99446,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::623212a9",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_rigido_seagate_skyhawk_1tb_sata_3",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/disco-rigido/disco-rigido-seagate-skyhawk-1tb-sata-3-162106.html",
+      "title_raw": "Disco Rigido Seagate Skyhawk 1tb Sata 3",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-14540309.jpg",
+      "price": {
+        "raw": "$101.634",
+        "value": 101634,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::494f6b55",
+      "store_id": "rockethard",
+      "title_slug_id": "mother_asus_prime_h510m-r_r2.0_lga1200",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/motherboard-intel/mother-asus-prime-h510m-r-r20-lga1200-159588.html",
+      "title_raw": "Mother Asus Prime H510m-r R2.0 Lga1200",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11363790.jpg",
+      "price": {
+        "raw": "$101.966",
+        "value": 101966,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::4b3cffdd",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_rigido_seagate_barracuda_1tb_sata_3",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/disco-rigido/disco-rigido-seagate-barracuda-1tb-sata-3--159449.html",
+      "title_raw": "Disco Rigido Seagate Barracuda 1tb Sata 3",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11417723.jpg",
+      "price": {
+        "raw": "$102.210",
+        "value": 102210,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::4b94e5ec",
+      "store_id": "rockethard",
+      "title_slug_id": "memoria_ram_kingston_fury_beast_ddr4_8gb_3200_mhz",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/memoria-ddr4/memoria-ram-kingston-fury-beast-ddr4-8gb-3200-mhz-161140.html",
+      "title_raw": "Memoria Ram Kingston Fury Beast Ddr4 8gb 3200 Mhz",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-12422973.jpg",
+      "price": {
+        "raw": "$105.844",
+        "value": 105844,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::0a15ecfc",
+      "store_id": "rockethard",
+      "title_slug_id": "memoria_ram_kingston_fury_beast_ddr4_8gb_3600mt/s",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/memoria-ddr4/memoria-ram-kingston-fury-beast-ddr4-8gb-3600mt-s-163017.html",
+      "title_raw": "Memoria Ram Kingston Fury Beast Ddr4 8gb 3600mt/s",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-17335925.jpg",
+      "price": {
+        "raw": "$105.943",
+        "value": 105943,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::44b58790",
+      "store_id": "rockethard",
+      "title_slug_id": "memoria_ram_kingston_fury_beast_ddr4_8gb_3200mhz_rgb",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/memoria-ddr4/memoria-ram-kingston-fury-beast-ddr4-8gb-3200mhz-rgb-161987.html",
+      "title_raw": "Memoria Ram Kingston Fury Beast Ddr4 8gb 3200mhz Rgb",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-14234933.jpg",
+      "price": {
+        "raw": "$113.584",
+        "value": 113584,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::1d6118b4",
+      "store_id": "rockethard",
+      "title_slug_id": "procesador_amd_ryzen_3_3200g_c/video_integrado_c/cooler_am4",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/procesador-amd/procesador-amd-ryzen-3-3200g-c-video-integrado-c-cooler-am4-159695.html",
+      "title_raw": "Procesador Amd Ryzen 3 3200g C/video Integrado C/cooler Am4",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11374026.jpg",
+      "price": {
+        "raw": "$113.786",
+        "value": 113786,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::1456e6b9",
+      "store_id": "rockethard",
+      "title_slug_id": "procesador_amd_ryzen_5_3400g_c/video_integrado_c/cooler_am4",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/procesador-amd/procesador-amd-ryzen-5-3400g-c-video-integrado-c-cooler-am4-163264.html",
+      "title_raw": "Procesador Amd Ryzen 5 3400g C/video Integrado C/cooler Am4",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-18501863.png",
+      "price": {
+        "raw": "$118.175",
+        "value": 118175,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::6a061ac9",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_corsair_cx750_750w_80_plus_bronze",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-corsair-cx750-750w-80-plus-bronze-161580.html",
+      "title_raw": "Fuente Corsair Cx750 750w 80 Plus Bronze",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-13465104.png",
+      "price": {
+        "raw": "$120.402",
+        "value": 120402,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::4a957eac",
+      "store_id": "rockethard",
+      "title_slug_id": "procesador_amd_ryzen_3_4100_am4_s/v",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/procesador-amd/procesador-amd-ryzen-3-4100-am4-s-v-159696.html",
+      "title_raw": "Procesador Amd Ryzen 3 4100 Am4 S/v",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11374034.png",
+      "price": {
+        "raw": "$121.324",
+        "value": 121324,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::2156f001",
+      "store_id": "rockethard",
+      "title_slug_id": "memoria_adata_sodimm_ddr4_8gb_3200_g22_sgn",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/memoria-ddr4/memoria-adata-sodimm-ddr4-8gb-3200-g22-sgn-163188.html",
+      "title_raw": "Memoria Adata Sodimm Ddr4 8gb 3200 G22 Sgn",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-17979521.jpg",
+      "price": {
+        "raw": "$121.407",
+        "value": 121407,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::27f52daf",
+      "store_id": "rockethard",
+      "title_slug_id": "motherboard_asus_prime_h610m-f_d4_r2.0_lga_1700_dd",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/motherboard-intel/motherboard-asus-prime-h610m-f-d4-r20-lga-1700-dd-163490.html",
+      "title_raw": "Motherboard Asus Prime H610m-f D4 R2.0 Lga 1700 Dd",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-20066264.png",
+      "price": {
+        "raw": "$122.087",
+        "value": 122087,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::2895da66",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_ssd_hiksemi_480gb_wave_sata",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-ssd-hiksemi-480gb-wave-sata-161885.html",
+      "title_raw": "Disco Ssd Hiksemi 480gb Wave Sata",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-14045356.png",
+      "price": {
+        "raw": "$125.023",
+        "value": 125023,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::5a3d231f",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_ssd_480gb_kingston_a400_7mm",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-ssd-480gb-kingston-a400-7mm-159462.html",
+      "title_raw": "Disco Ssd 480gb Kingston A400 7mm",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11374862.jpg",
+      "price": {
+        "raw": "$125.650",
+        "value": 125650,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::2aa05362",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_ssd_m.2_hiksemi_512gb_wave_pcie_3.0",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-ssd-m2-hiksemi-512gb-wave-pcie-30-161889.html",
+      "title_raw": "Disco Ssd M.2 Hiksemi 512gb Wave Pcie 3.0",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-14045451.jpg",
+      "price": {
+        "raw": "$128.126",
+        "value": 128126,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::7ee180a1",
+      "store_id": "rockethard",
+      "title_slug_id": "memoria_ram_kingston_fury_beast_rgb_8gb_3600mts_ddr4",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/memoria-ddr4/memoria-ram-kingston-fury-beast-rgb-8gb-3600mts-ddr4-163198.html",
+      "title_raw": "Memoria Ram Kingston Fury Beast Rgb 8gb 3600mts Ddr4",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-17987508.jpeg",
+      "price": {
+        "raw": "$129.943",
+        "value": 129943,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::7d7aee47",
+      "store_id": "rockethard",
+      "title_slug_id": "motherboard_asus_prime_a620m-k-csm_(am5)",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/motherboard-amd/motherboard-asus-prime-a620m-k-csm-am5-162626.html",
+      "title_raw": "Motherboard Asus Prime A620m-k-csm (am5)",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-15938293.jpg",
+      "price": {
+        "raw": "$133.277",
+        "value": 133277,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::7b25ea1a",
+      "store_id": "rockethard",
+      "title_slug_id": "motherboard_asus_prime_h610m-k_lga_1700_ddr5",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/motherboard-intel/motherboard-asus-prime-h610m-k-lga-1700-ddr5-163491.html",
+      "title_raw": "Motherboard Asus Prime H610m-k Lga 1700 Ddr5",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-20066310.jpeg",
+      "price": {
+        "raw": "$133.473",
+        "value": 133473,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::19813f43",
+      "store_id": "rockethard",
+      "title_slug_id": "disco_ssd_wd_green_480gb_sata",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/ssd/disco-ssd-wd-green-480gb-sata-159464.html",
+      "title_raw": "Disco Ssd Wd Green 480gb Sata",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11374878.png",
+      "price": {
+        "raw": "$136.407",
+        "value": 136407,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::2e2ddcfc",
+      "store_id": "rockethard",
+      "title_slug_id": "mother_asus_prime_a520m-a_ii_am4",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/motherboard-amd/mother-asus-prime-a520m-a-ii-am4-159581.html",
+      "title_raw": "Mother Asus Prime A520m-a Ii Am4",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-11364094.png",
+      "price": {
+        "raw": "$136.863",
+        "value": 136863,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::10401f76",
+      "store_id": "rockethard",
+      "title_slug_id": "mother_gigabyte_(am5)_a620m_h_1.2",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/motherboard-amd/mother-gigabyte-am5-a620m-h-12-162523.html",
+      "title_raw": "Mother Gigabyte (am5) A620m H 1.2",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-15518049.jpg",
+      "price": {
+        "raw": "$137.633",
+        "value": 137633,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::380397e3",
+      "store_id": "rockethard",
+      "title_slug_id": "mother_asus_prime_a620m-k_am5",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/motherboard-amd/mother-asus-prime-a620m-k-am5-160996.html",
+      "title_raw": "Mother Asus Prime A620m-k Am5",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-12120488.jpg",
+      "price": {
+        "raw": "$137.991",
+        "value": 137991,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::30e8cb43",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_formula_v_line_apmm-750gm_750w_80_plus_gold_full_modular",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-formula-v-line-apmm-750gm-750w-80-plus-gold-full-modular-163138.html",
+      "title_raw": "Fuente Formula V Line Apmm-750gm 750w 80 Plus Gold Full Modular",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-17747065.jpg",
+      "price": {
+        "raw": "$144.904",
+        "value": 144904,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    },
+    {
+      "listing_id": "rockethard::380d260e",
+      "store_id": "rockethard",
+      "title_slug_id": "fuente_corsair_rme750_750w_80+_gold/platinum_5.1",
+      "source_page_url": "https://rockethard.com.ar/hardware/",
+      "product_url": "https://rockethard.com.ar/hardware/fuente/fuente-corsair-rme750-750w-80+-gold-platinum-51-162899.html",
+      "title_raw": "Fuente Corsair Rme750 750w 80+ Gold/platinum 5.1",
+      "image_url": "https://app.contabilium.com/files/explorer/48428/Productos-Servicios/concepto-16892792.png",
+      "price": {
+        "raw": "$150.602",
+        "value": 150602,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T18:45:41.150Z"
+    }
+  ]
+}

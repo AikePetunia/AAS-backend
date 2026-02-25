@@ -1,0 +1,2726 @@
+{
+  "store_name": "Kenshin Anime Store",
+  "store_id": "kenshinanimestore",
+  "store_url": "https://www.kenshinanimestore.com",
+  "store_image": "/images/stores/kenshinanimestore.png",
+  "trust_factor_manual": 70,
+  "seller_type": [
+    "componentes"
+  ],
+  "tags": [
+    "gaming",
+    "argentina",
+    "componentes"
+  ],
+  "products": [
+    {
+      "listing_id": "kenshinanimestore::050d4069",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "kunai_naruto_pvc",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/389959-accesorios-kunai-naruto-pvc",
+      "title_raw": "KUNAI NARUTO PVC",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$2.500",
+        "value": 2500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::1d1516d8",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "shuriken",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/389960-accesorios-shuriken",
+      "title_raw": "SHURIKEN",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$2.500",
+        "value": 2500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::3ef9bac9",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "kunai_minato",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/389961-accesorios-kunai-minato",
+      "title_raw": "KUNAI MINATO",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$2.500",
+        "value": 2500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::284e64ec",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "colgantes_para_compartir_deadpool_wolverine_marvel_metal",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/485940-accesorios-colgantes-para-compartir-deadpool-wolverine-marvel-metal",
+      "title_raw": "COLGANTES PARA COMPARTIR DEADPOOL WOLVERINE MARVEL METAL",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$6.500",
+        "value": 6500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::4a98ded6",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "colgantes_para_compartir_shingeki_no_kyojin_metal",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/485941-accesorios-colgantes-para-compartir-shingeki-no-kyojin-metal",
+      "title_raw": "COLGANTES PARA COMPARTIR SHINGEKI NO KYOJIN METAL",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$6.500",
+        "value": 6500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::2747cab6",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "gorra_tela_flash_bordada_original_dc",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/486135-accesorios-gorra-tela-flash-bordada-original-dc",
+      "title_raw": "GORRA TELA FLASH BORDADA ORIGINAL DC",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$15.000",
+        "value": 15000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::227be66b",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "gorra_ravenclawn_original_harry_potter",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/486138-accesorios-gorra-ravenclawn-original-harry-potter",
+      "title_raw": "GORRA RAVENCLAWN ORIGINAL HARRY POTTER",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$15.000",
+        "value": 15000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::7bb32094",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "gorra_capitan_america_original_marvel",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/486139-accesorios-gorra-capitan-america-original-marvel",
+      "title_raw": "GORRA CAPITAN AMERICA ORIGINAL MARVEL",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$15.000",
+        "value": 15000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::05c33091",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "llavero_esfera_del_dragon_(por_unidad)_dragon_ball",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/510184-accesorios-llavero-esfera-del-dragon-por-unidad-ball",
+      "title_raw": "LLAVERO ESFERA DEL DRAGON (POR UNIDAD) DRAGON BALL",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$6.500",
+        "value": 6500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::57bfae1c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "bufanda_gryffindor_adulto_licencia_oficial_harry_potter",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/521559-accesorios-bufanda-gryffindor-adulto-licencia-oficial-harry-potter",
+      "title_raw": "BUFANDA GRYFFINDOR ADULTO LICENCIA OFICIAL HARRY POTTER",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::75b87bea",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "bufanda_slytherin_adulto_licencia_oficial_harry_potter",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/521560-accesorios-bufanda-slytherin-adulto-licencia-oficial-harry-potter",
+      "title_raw": "BUFANDA SLYTHERIN ADULTO LICENCIA OFICIAL HARRY POTTER",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::1c1a011e",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "monedero_sapo_naruto_c/u",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/528455-accesorios-monedero-sapo-naruto-c-u",
+      "title_raw": "MONEDERO SAPO NARUTO C/U",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$6.500",
+        "value": 6500,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::340a1bdc",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "cartas_clown_sakura_cardcaptor",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/531968-accesorios-cartas-clown-sakura-cardcaptor",
+      "title_raw": "CARTAS CLOWN SAKURA CARDCAPTOR",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$23.000",
+        "value": 23000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::3da02225",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "pack_esferas_del_dragon_x_7_dragon_ball",
+      "source_page_url": "https://www.kenshinanimestore.com/accesorios",
+      "product_url": "https://www.kenshinanimestore.com/531972-accesorios-pack-esferas-del-dragon-x-7-ball",
+      "title_raw": "PACK ESFERAS DEL DRAGON X 7 DRAGON BALL",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$36.000",
+        "value": 36000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:35.702Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::358c3cee",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "mascara_jeppers_creepers_terror_horror_de_latex",
+      "source_page_url": "https://www.kenshinanimestore.com/mascaras",
+      "product_url": "https://www.kenshinanimestore.com/531798-mascaras-mascara-jeppers-creepers-terror-horror-de-latex",
+      "title_raw": "MASCARA JEPPERS CREEPERS TERROR HORROR DE LATEX",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$39.000",
+        "value": 39000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:46.366Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::37d9ad0e",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "mascara_de_latex_michael_myers",
+      "source_page_url": "https://www.kenshinanimestore.com/mascaras",
+      "product_url": "https://www.kenshinanimestore.com/533504-mascaras-mascara-de-latex-michael-myers",
+      "title_raw": "MASCARA DE LATEX MICHAEL MYERS",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$45.000",
+        "value": 45000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:46.366Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::361c0a31",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "mascara_de_dr._peste_(sin_sombrero,_opcional)",
+      "source_page_url": "https://www.kenshinanimestore.com/mascaras",
+      "product_url": "https://www.kenshinanimestore.com/533505-mascaras-mascara-de-dr-peste-sin-sombrero-opcional",
+      "title_raw": "MASCARA DE DR. PESTE (SIN SOMBRERO, OPCIONAL)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:46.366Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::0bfb309d",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "mascara_eddie_the_head_iron_maiden_en_latex",
+      "source_page_url": "https://www.kenshinanimestore.com/mascaras",
+      "product_url": "https://www.kenshinanimestore.com/536904-mascaras-mascara-eddie-the-head-iron-maiden-en-latex",
+      "title_raw": "MASCARA EDDIE THE HEAD IRON MAIDEN EN LATEX",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$40.000",
+        "value": 40000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:46.366Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::57711c3b",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "mascara_orco_en_latex",
+      "source_page_url": "https://www.kenshinanimestore.com/mascaras",
+      "product_url": "https://www.kenshinanimestore.com/536905-mascaras-mascara-orco-en-latex",
+      "title_raw": "MASCARA ORCO EN LATEX",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$55.000",
+        "value": 55000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:46.366Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::12f35d5d",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "mascara_leatherface_the_texas_chain_saw_massacre_en_latex",
+      "source_page_url": "https://www.kenshinanimestore.com/mascaras",
+      "product_url": "https://www.kenshinanimestore.com/536906-mascaras-mascara-leatherface-the-texas-chain-saw-massacre-en-latex",
+      "title_raw": "MASCARA LEATHERFACE THE TEXAS CHAIN SAW MASSACRE EN LATEX",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$45.000",
+        "value": 45000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:46.366Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::1d197cbf",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_pikachu_pokemon_con_pokebola_(23_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493845-peluches-peluche-pikachu-pokemon-con-pokebola-23-cm",
+      "title_raw": "Peluche PIKACHU Pokemon con pokebola (23 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$20.000",
+        "value": 20000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::30911cf0",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_charizard_pokemon_(20_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493847-peluches-peluche-charizard-pokemon-20-cm",
+      "title_raw": "Peluche CHARIZARD Pokemon (20 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$15.000",
+        "value": 15000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::0ce2c68a",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_dragonite_pokemon_(20_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493848-peluches-peluche-dragonite-pokemon-20-cm",
+      "title_raw": "Peluche DRAGONITE Pokemon (20 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$15.000",
+        "value": 15000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::71f040a7",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_gengar_pokemon_(20_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493923-peluches-peluche-gengar-pokemon-20-cm",
+      "title_raw": "Peluche GENGAR Pokemon (20 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$15.000",
+        "value": 15000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::672b90a1",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_genshin_impact_klee_(21_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493925-peluches-peluche-genshin-impact-klee-21-cm",
+      "title_raw": "Peluche GENSHIN IMPACT KLEE (21 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$12.000",
+        "value": 12000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::0ad88165",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_genshin_impact_itto_(21_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493926-peluches-peluche-genshin-impact-itto-21-cm",
+      "title_raw": "Peluche GENSHIN IMPACT ITTO (21 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$12.000",
+        "value": 12000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::79447597",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_genshin_impact_albedo_(21_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493927-peluches-peluche-genshin-impact-albedo-21-cm",
+      "title_raw": "Peluche GENSHIN IMPACT ALBEDO (21 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$12.000",
+        "value": 12000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::584ae737",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_genshin_impact_ganyu_(21_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493928-peluches-peluche-genshin-impact-ganyu-21-cm",
+      "title_raw": "Peluche GENSHIN IMPACT GANYU (21 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$12.000",
+        "value": 12000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::5f3be659",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_genshin_impact_gi_paimon_(21_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493929-peluches-peluche-genshin-impact-gi-paimon-21-cm",
+      "title_raw": "Peluche GENSHIN IMPACT GI PAIMON (21 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$12.000",
+        "value": 12000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::5eca9649",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_capibara_(30_cm)_carpincho",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493930-peluches-peluche-capibara-30-cm-carpincho",
+      "title_raw": "Peluche CAPIBARA (30 cm) Carpincho",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$35.000",
+        "value": 35000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::796bba99",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_naruto_(20_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493931-peluches-peluche-naruto-20-cm",
+      "title_raw": "Peluche NARUTO (20 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$13.000",
+        "value": 13000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::1984e53c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_kero_(20_cm)_sakura_cardcaptor",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493932-peluches-peluche-kero-20-cm-sakura-cardcaptor",
+      "title_raw": "Peluche KERO (20 cm) Sakura Cardcaptor",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$18.000",
+        "value": 18000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::48b0e27c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_boruto_(22_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493936-peluches-peluche-boruto-22-cm",
+      "title_raw": "Peluche BORUTO (22 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$15.000",
+        "value": 15000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6d470f96",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_hatsune_miku_(25_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493937-peluches-peluche-hatsune-miku-25-cm",
+      "title_raw": "Peluche Hatsune MIKU (25 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::4b7861a8",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_labubu_(20_cm)",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/493938-peluches-peluche-labubu-20-cm",
+      "title_raw": "Peluche LABUBU (20 cm)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$15.000",
+        "value": 15000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::7266957d",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peluche_mofusand_23cm_amarillo",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/528440-peluches-peluche-mofusand-23cm-amarillo",
+      "title_raw": "PELUCHE MOFUSAND 23cm Amarillo",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$18.000",
+        "value": 18000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::1c683c2b",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "gato_mofusand_23cm_gris",
+      "source_page_url": "https://www.kenshinanimestore.com/peluches",
+      "product_url": "https://www.kenshinanimestore.com/528441-peluches-gato-mofusand-23cm-gris",
+      "title_raw": "GATO MOFUSAND 23CM GRIS",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$18.000",
+        "value": 18000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:49.439Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::5639833b",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "dc_multiverse_shazam_6\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/319787-figuras-de-accion-dc-multiverse-shazam-6",
+      "title_raw": "DC MULTIVERSE SHAZAM 6\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$55.000",
+        "value": 55000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::56b99232",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "superman_dark_nights_death_metal_7\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/321173-figuras-de-accion-superman-dark-nights-death-metal-7",
+      "title_raw": "SUPERMAN DARK NIGHTS DEATH METAL 7\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$60.000",
+        "value": 60000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::663b3d2c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_mego_35_cm",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/323860-figuras-de-accion-batman-mego-35-cm",
+      "title_raw": "BATMAN MEGO 35 CM",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$65.000",
+        "value": 65000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6680a2c5",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "barbara_kean_gotham_rise_of_the_villains_6_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/323861-figuras-de-accion-barbara-kean-gotham-rise-of-the-villains-6-pulgadas",
+      "title_raw": "BARBARA KEAN GOTHAM RISE OF THE VILLAINS 6 PULGADAS",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$55.000",
+        "value": 55000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::487181ab",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_mattel_dc_multiverse_justice_league_6\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/449265-figuras-de-accion-batman-mattel-dc-multiverse-justice-league-6",
+      "title_raw": "BATMAN MATTEL DC MULTIVERSE JUSTICE LEAGUE 6\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$60.000",
+        "value": 60000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::33183c87",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_dark_nights_death_metal_7\"_mcfarlane",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/449384-figuras-de-accion-batman-dark-nights-death-metal-7-mcfarlane",
+      "title_raw": "BATMAN DARK NIGHTS DEATH METAL 7\" MCFARLANE",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$75.000",
+        "value": 75000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::0b545c33",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "taza_recta_joker_ceramica_(9,7cm_alto_x_8,5cm_diam.)",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/485841-tazones-tazas-vasos-taza-recta-joker-ceramica-9-7cm-alto-x-8-5cm-diam",
+      "title_raw": "TAZA RECTA JOKER CERAMICA (9,7CM ALTO X 8,5CM DIAM.)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$9.000",
+        "value": 9000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::04fb1f52",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_missions_two_face_6_pulgadas_dc_comics_mattel",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/486066-figuras-de-accion-batman-missions-two-face-6-pulgadas-dc-comics-mattel",
+      "title_raw": "BATMAN MISSIONS TWO FACE 6 PULGADAS DC COMICS MATTEL",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$35.000",
+        "value": 35000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::0f9e4cea",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "the_flash_flashpoint_page_punchers_dc_direct_figura_de_3_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/486067-figuras-de-accion-the-flash-flashpoint-page-punchers-dc-direct-figura-3-pulgadas",
+      "title_raw": "THE FLASH FLASHPOINT PAGE PUNCHERS DC DIRECT FIGURA DE 3 PULGADAS",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$38.000",
+        "value": 38000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::5ada708f",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "billetera_batman_importada",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/488476-billeteras-billetera-batman-importada",
+      "title_raw": "BILLETERA BATMAN IMPORTADA",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$18.000",
+        "value": 18000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::14aae189",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "tazon_taza_de_batman_(7,5cm_alto_x_11,5cm_diametro)_ceramica",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/488644-tazones-tazas-vasos-tazon-taza-de-batman-7-5cm-alto-x-11-5cm-diametro-ceramic",
+      "title_raw": "TAZON TAZA DE BATMAN (7,5CM ALTO X 11,5CM DIAMETRO) CERAMICA",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$11.000",
+        "value": 11000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::3850e86d",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_-_dark_nights_death_metal_-_dc_multiverse_-_mcfarlane_toys_7\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/496147-figuras-de-accion-batman-dark-nights-death-metal-dc-multiverse-mcfarlane-toys-7",
+      "title_raw": "Batman - Dark Nights Death Metal - DC Multiverse - Mcfarlane Toys 7\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$85.000",
+        "value": 85000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::0dc0f14c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "the_batman_who_laughs_and_robins_of_earth_22_mcfarlane_dc_multiverse",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/506925-figuras-de-accion-the-batman-who-laughs-and-robins-of-earth-22-mcfarlane-dc-multi",
+      "title_raw": "THE BATMAN WHO LAUGHS AND ROBINS OF EARTH 22 MCFARLANE DC MULTIVERSE",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$300.000",
+        "value": 300000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::3da34d4a",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_dark_detective_mcfarlane_7\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/507176-figuras-de-accion-batman-dark-detective-mcfarlane-7",
+      "title_raw": "BATMAN DARK DETECTIVE MCFARLANE 7\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$65.000",
+        "value": 65000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::11565769",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "the_joker:_the_dark_knight_returns_mcfarlane_7\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/507210-figuras-de-accion-the-joker-dark-knight-returns-mcfarlane-7",
+      "title_raw": "THE JOKER: THE DARK KNIGHT RETURNS MCFARLANE 7\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$85.000",
+        "value": 85000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::297b7aa2",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_blackest_night_7\"_mcfarlane_dc_multiverse",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/507575-figuras-de-accion-batman-blackest-night-7-mcfarlane-dc-multiverse",
+      "title_raw": "BATMAN BLACKEST NIGHT 7\" MCFARLANE DC MULTIVERSE",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$85.000",
+        "value": 85000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::4bac9332",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "peacemaker_unmasked_7\"_dc_multiverse_the_suicide_squad_mcfarlane",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/507577-figuras-de-accion-peacemaker-unmasked-7-dc-multiverse-the-suicide-squad-mcfarlan",
+      "title_raw": "PEACEMAKER UNMASKED 7\" DC MULTIVERSE THE SUICIDE SQUAD MCFARLANE",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$85.000",
+        "value": 85000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::114c4421",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_vs_hush_7\"_dc_multiverse_mcfarlanepack_x_2_figuras",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/515053-figuras-de-accion-batman-vs-hush-7-dc-multiverse-mcfarlanepack-x-2",
+      "title_raw": "BATMAN VS HUSH 7\" DC MULTIVERSE MCFARLANEPACK X 2 FIGURAS",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$150.000",
+        "value": 150000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::1e620ef6",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "mcfarlane_toys_dc_multiverse_batgirl_(gotham_knights)_7\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/519917-figuras-de-accion-mcfarlane-toys-dc-multiverse-batgirl-gotham-knights-7",
+      "title_raw": "McFarlane Toys DC Multiverse Batgirl (Gotham Knights) 7\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$75.000",
+        "value": 75000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6178571e",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman:_the_dark_knight_returns_7_pulgadas_mcfarlane_dc_multiverse_build_a_horse_baf",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/532892-figuras-de-accion-batman-the-dark-knight-returns-7-pulgadas-mcfarlane-dc-multive",
+      "title_raw": "BATMAN: THE DARK KNIGHT RETURNS 7 PULGADAS MCFARLANE DC MULTIVERSE BUILD A HORSE BAF",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$85.000",
+        "value": 85000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::73d1f486",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "kenner,_batman_returns:_the_penguin's_umbrella_jet_vehicle_&_figure_1994_jet_el_pinguino",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/533547-figuras-de-accion-kenner-batman-returns-the-penguins-umbrella-jet-vehicle-fi",
+      "title_raw": "Kenner, Batman Returns: The Penguin's Umbrella Jet Vehicle & Figure 1994 Jet El Pinguino",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$150.000",
+        "value": 150000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::74f9ca77",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "mcfarlane_dc_superman_deluxe_theatrical_edition_'superman_y_crypto'_7_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/540732-figuras-de-accion-mcfarlane-dc-superman-deluxe-theatrical-edition-superman-y-cr",
+      "title_raw": "McFarlane DC Superman Deluxe Theatrical Edition 'Superman y Crypto' 7 pulgadas",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$180.000",
+        "value": 180000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::67443bbf",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "multiverse_black_adam_movie_hawkman_7\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/319759-figuras-de-accion-multiverse-black-adam-movie-hawkman-7",
+      "title_raw": "MULTIVERSE BLACK ADAM MOVIE HAWKMAN 7\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$60.000",
+        "value": 60000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::5f8b8104",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_multiverse_the_last_knight_on_earth_7\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/449380-figuras-de-accion-batman-multiverse-the-last-knight-on-earth-7",
+      "title_raw": "BATMAN MULTIVERSE THE LAST KNIGHT ON EARTH 7\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$60.000",
+        "value": 60000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::5ef1b4de",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "batman_the_last_knight_on_earth_omega_7\"_mcfarlane",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/dc",
+      "product_url": "https://www.kenshinanimestore.com/449383-figuras-de-accion-batman-the-last-knight-on-earth-omega-7-mcfarlane",
+      "title_raw": "BATMAN THE LAST KNIGHT ON EARTH OMEGA 7\" MCFARLANE",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$60.000",
+        "value": 60000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:58.381Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::0bea6049",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "masters_of_the_universe_-_revelation_stinkor",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/he-man",
+      "product_url": "https://www.kenshinanimestore.com/295744-figuras-de-accion-masters-of-the-universe-revelation-stinkor",
+      "title_raw": "MASTERS OF THE UNIVERSE - REVELATION STINKOR",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$65.000",
+        "value": 65000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:59.723Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::08a362d7",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "masters_of_the_universe_origins_clam_champ",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/he-man",
+      "product_url": "https://www.kenshinanimestore.com/321174-figuras-de-accion-masters-of-the-universe-origins-clam-champ",
+      "title_raw": "MASTERS OF THE UNIVERSE ORIGINS CLAM CHAMP",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$65.000",
+        "value": 65000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:59.723Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::762929cc",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "masters_of_the_universe_origins_retro_play_buzz_off",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/he-man",
+      "product_url": "https://www.kenshinanimestore.com/321179-figuras-de-accion-masters-of-the-universe-origins-retro-play-buzz-off",
+      "title_raw": "MASTERS OF THE UNIVERSE ORIGINS RETRO PLAY BUZZ OFF",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$55.000",
+        "value": 55000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:59.723Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::2cbf5329",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "master_of_the_universe_revelation_skelegod_(2021)_mattel",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/he-man",
+      "product_url": "https://www.kenshinanimestore.com/450742-figuras-de-accion-master-of-the-universe-revelation-skelegod-2021-mattel",
+      "title_raw": "MASTER OF THE UNIVERSE REVELATION SKELEGOD (2021) MATTEL",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$75.000",
+        "value": 75000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:59.723Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::166a630f",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "masters_of_the_universe_classics_flogg_7\"_mattel",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/he-man",
+      "product_url": "https://www.kenshinanimestore.com/455220-figuras-de-accion-masters-of-the-universe-classics-flogg-7-mattel",
+      "title_raw": "MASTERS OF THE UNIVERSE CLASSICS FLOGG 7\" MATTEL",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$90.000",
+        "value": 90000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:59.723Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::512f3b82",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "motu_man-at-arms_7_pulgadas_masters_of_the_universe_revelation",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/he-man",
+      "product_url": "https://www.kenshinanimestore.com/532798-figuras-de-accion-motu-man-at-arms-7-pulgadas-masters-of-the-universe-revelation",
+      "title_raw": "MOTU Man-At-Arms 7 Pulgadas Masters of the Universe Revelation",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$85.000",
+        "value": 85000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:05:59.723Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::397772af",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_soldados_hydra",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/300229-figuras-de-accion-marvel-legends-soldados-hydra",
+      "title_raw": "MARVEL LEGENDS SOLDADOS HYDRA",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-d-nq-np-816999-mla46784488366-072021-o-525.jpg",
+      "price": {
+        "raw": "$100.000",
+        "value": 100000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::330a3b72",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "alcancia_de_thanos",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/307190-alcancia-de-thanos",
+      "title_raw": "ALCANCIA DE THANOS",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-077764683428-6556.jpg",
+      "price": {
+        "raw": "$100.000",
+        "value": 100000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::69bb3409",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "wolverine_the_uncanny_x-men_6\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/319766-figuras-de-accion-wolverine-the-uncanny-x-men-6",
+      "title_raw": "WOLVERINE THE UNCANNY X-MEN 6\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-s-l640-1077.jpg",
+      "price": {
+        "raw": "$55.000",
+        "value": 55000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6864d6ac",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_rock_python_6\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/319988-figuras-de-accion-marvel-legends-rock-python-6",
+      "title_raw": "MARVEL LEGENDS ROCK PYTHON 6\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-sc7e2f32303c344868dd0d2ca2a9cead9n-9370.jpg",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::7fffd325",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "iron_man_marvel_legends_1st_appearance_7\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/322448-figuras-de-accion-iron-man-marvel-legends-1st-appearance-7",
+      "title_raw": "IRON MAN MARVEL LEGENDS 1ST APPEARANCE 7\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-712c4satcbl-ac-sl1200-787x-2911.jpg",
+      "price": {
+        "raw": "$95.000",
+        "value": 95000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::57fceb25",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "punisher_marvel_legends_serie_iv_toy_biz_2003",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/322449-figuras-de-accion-punisher-marvel-legends-serie-iv-toy-biz-2003",
+      "title_raw": "PUNISHER MARVEL LEGENDS SERIE IV TOY BIZ 2003",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-punisherr-7986.jpg",
+      "price": {
+        "raw": "$95.000",
+        "value": 95000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6a849b82",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_x-force_marvel's_boom-boom",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/323862-figuras-de-accion-marvel-legends-x-force-marvels-boom-boom",
+      "title_raw": "MARVEL LEGENDS X-FORCE MARVEL'S BOOM-BOOM",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-6000200360722-6908.jpg",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::728869b3",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "night_thrasher_6\"_marvel_legends",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/323928-figuras-de-accion-night-thrasher-6-marvel-legends",
+      "title_raw": "NIGHT THRASHER 6\" MARVEL LEGENDS",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-819cwvvhl-ac-uf894-1000-ql80-7272.jpg",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::0ccbe07c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_sunfire_6\"_hasbro",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/323930-figuras-de-accion-marvel-legends-sunfire-6-hasbro",
+      "title_raw": "MARVEL LEGENDS SUNFIRE 6\" HASBRO",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-img1-ecom-100-1326.jpg",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::1680762e",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_black_phanter_shuri_6\"_hasbro",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/323934-figuras-de-accion-marvel-legends-black-phanter-shuri-6-hasbro",
+      "title_raw": "MARVEL LEGENDS BLACK PHANTER SHURI 6\" HASBRO",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-55882f1b-d43b-4018-8e19-85f814c59b00-8616.jpg",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::44c0867c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_retro_falcon_kenner_hasbro_3,75\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/323936-figuras-de-accion-marvel-legends-retro-falcon-kenner-hasbro-3-75",
+      "title_raw": "MARVEL LEGENDS RETRO FALCON KENNER HASBRO 3,75\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-81pzv-ql7ol-ac-sl1500-7886.jpg",
+      "price": {
+        "raw": "$26.000",
+        "value": 26000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::4a7fa81e",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "alpha_flight_marvel_legends_6\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/323937-figuras-de-accion-alpha-flight-marvel-legends-6",
+      "title_raw": "ALPHA FLIGHT MARVEL LEGENDS 6\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147-producto-298a713a-f523-4898-b6fa-30cf5dd1c0f6-2145.jpg",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::55ced1bc",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_retro_mr_fantastic_kenner_hasbro_3,75\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/450717-figuras-de-accion-marvel-legends-retro-mr-fantastic-kenner-hasbro-3-75",
+      "title_raw": "MARVEL LEGENDS RETRO MR FANTASTIC KENNER HASBRO 3,75\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/52061-producto-mr-fantastic-3624.jpg",
+      "price": {
+        "raw": "$26.000",
+        "value": 26000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::42364179",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_retro_black_panther_kenner_hasbro_3,75\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/450720-figuras-de-accion-marvel-legends-retro-black-panther-kenner-hasbro-3-75",
+      "title_raw": "MARVEL LEGENDS RETRO BLACK PANTHER KENNER HASBRO 3,75\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/99664-producto-18280.jpg",
+      "price": {
+        "raw": "$26.000",
+        "value": 26000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::2272f102",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_retro_dark_phoenix_kenner_hasbro_3,75\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/450721-figuras-de-accion-marvel-legends-retro-dark-phoenix-kenner-hasbro-3-75",
+      "title_raw": "MARVEL LEGENDS RETRO DARK PHOENIX KENNER HASBRO 3,75\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/31239-producto-marvel-legends-retro-375-dark-phoenix-figure-jpg-pagespeed-ce-ub5.jpg",
+      "price": {
+        "raw": "$26.000",
+        "value": 26000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::48b8c4bb",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_scorpion_7\"_hasbro",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/455221-figuras-de-accion-marvel-legends-scorpion-7-hasbro",
+      "title_raw": "MARVEL LEGENDS SCORPION 7\" HASBRO",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/40296-producto-marvel-legends-scorpion-figure-packaged-e1555903367860-416x691.jpg",
+      "price": {
+        "raw": "$70.000",
+        "value": 70000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::261d73ca",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "she_hulk_7\"_marvel_legends_hasbro",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/455228-figuras-de-accion-she-hulk-7-marvel-legends-hasbro",
+      "title_raw": "SHE HULK 7\" MARVEL LEGENDS HASBRO",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/88314-producto-87335b.jpg",
+      "price": {
+        "raw": "$65.000",
+        "value": 65000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::7153179a",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "ant-man_marvel_avengers_hasbro_5\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/455231-figuras-de-accion-ant-man-marvel-avengers-hasbro-5",
+      "title_raw": "ANT-MAN MARVEL AVENGERS HASBRO 5\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/51233-producto-marvel-avengers-endgame-6-inch-figure-assortment-ant-man-in-pck.jpg",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::58c7d70c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "chitauri_marvel_avengers_5\"_hasbro",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/455232-figuras-de-accion-chitauri-marvel-avengers-5-hasbro",
+      "title_raw": "CHITAURI MARVEL AVENGERS 5\" HASBRO",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/36810-producto-marvel-avengers-endgame-6-inch-figure-assortment-chitauri-in-pck.jpg",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::2f0133c2",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "alcancia_venom_original_monogram_16_cm_alto",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/483994-alcancia-venom-original-monogram-16-cm-alto",
+      "title_raw": "ALCANCIA VENOM ORIGINAL MONOGRAM 16 CM ALTO",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/44593-producto-venom.jpg",
+      "price": {
+        "raw": "$80.000",
+        "value": 80000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::496bccb5",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "alcancia_wolverine_original_marvel_monogram_18_cm_alto",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/484002-alcancia-wolverine-original-marvel-monogram-18-cm-alto",
+      "title_raw": "ALCANCIA WOLVERINE ORIGINAL MARVEL MONOGRAM 18 CM ALTO",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/22647-producto-wolverine.jpg",
+      "price": {
+        "raw": "$80.000",
+        "value": 80000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6019c9e4",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "alcancia_thor_marvel_original_18_cm",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/484007-alcancia-thor-marvel-original-18-cm",
+      "title_raw": "ALCANCIA THOR MARVEL ORIGINAL 18 CM",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/2536-producto-thor.jpg",
+      "price": {
+        "raw": "$80.000",
+        "value": 80000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::270ab72a",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "alcancia_iron-man_original_marvel_18_cm_altura",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/484018-alcancia-iron-man-original-marvel-18-cm-altura",
+      "title_raw": "ALCANCIA IRON-MAN ORIGINAL MARVEL 18 CM ALTURA",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/35055-producto-ironman.jpg",
+      "price": {
+        "raw": "$80.000",
+        "value": 80000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::2f1b2cd5",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "alcancia_thanos_original_marvel_busto_18_cm_altura",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/484019-alcancia-thanos-original-marvel-busto-18-cm-altura",
+      "title_raw": "ALCANCIA THANOS ORIGINAL MARVEL BUSTO 18 CM ALTURA",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/24640-producto-alcancia-thanos.jpg",
+      "price": {
+        "raw": "$80.000",
+        "value": 80000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::68e7bb19",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "sugar_man_baf_marvel_legends_series_hasbro",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/485538-figuras-de-accion-sugar-man-baf-marvel-legends-series-hasbro",
+      "title_raw": "SUGAR MAN BAF MARVEL LEGENDS SERIES HASBRO",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/94351-producto-sugar-1.jpg",
+      "price": {
+        "raw": "$100.000",
+        "value": 100000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::364c9c5c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "molten-man_baf_marvel_legends_series_22_cm_aprox",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/485540-figuras-de-accion-molten-man-baf-marvel-legends-series-22-cm-aprox",
+      "title_raw": "MOLTEN-MAN BAF MARVEL LEGENDS SERIES 22 CM APROX",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/55130-producto-molten1.jpg",
+      "price": {
+        "raw": "$90.000",
+        "value": 90000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::5ad42ed8",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "tazon_taza_de_venom_(7,5cm_alto_x_11,5cm_diametro)_ceramica",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/485728-tazones-tazas-vasos-tazon-taza-de-venom-7-5cm-alto-x-11-5cm-diametro-ceramica",
+      "title_raw": "TAZON TAZA DE VENOM (7,5CM ALTO X 11,5CM DIAMETRO) CERAMICA",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/29205-producto-tazavenom.jpg",
+      "price": {
+        "raw": "$11.000",
+        "value": 11000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6896bbe6",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_classic_spiderman_marvels_rose_7_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/485884-figuras-de-accion-marvel-classic-spiderman-marvels-rose-7-pulgadas",
+      "title_raw": "MARVEL CLASSIC SPIDERMAN MARVELS ROSE 7 PULGADAS",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/4781-producto-spiderman-rose.jpg",
+      "price": {
+        "raw": "$75.000",
+        "value": 75000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::635208dc",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "nightcrawler_x-men_united_marvel_2003_12_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/486046-figuras-de-accion-nightcrawler-x-men-united-marvel-2003-12-pulgadas",
+      "title_raw": "NIGHTCRAWLER X-MEN UNITED MARVEL 2003 12 PULGADAS",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/29178-producto-nightcrawler4.jpg",
+      "price": {
+        "raw": "$80.000",
+        "value": 80000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::29dfce80",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "fantastic_four_psycho-man_(4_fantasticos_psycho-man)_hasbro_6\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/486055-figuras-de-accion-fantastic-four-psycho-man-4-fantasticos-psycho-man-hasbro-6",
+      "title_raw": "FANTASTIC FOUR PSYCHO-MAN (4 FANTASTICOS PSYCHO-MAN) HASBRO 6\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/5860-producto-fantastic-psicho.jpg",
+      "price": {
+        "raw": "$55.000",
+        "value": 55000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::04e043e0",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "alcancia_thanos_busto_17_cm_altura",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/486079-alcancia-thanos-busto-17-cm-altura",
+      "title_raw": "ALCANCIA THANOS BUSTO 17 CM ALTURA",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/36983-producto-thanos-alc.jpg",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6a87ecf1",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "loki_marvel_legends_series_6\"_hasbro_original",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/486143-figuras-de-accion-loki-marvel-legends-series-6-hasbro-original",
+      "title_raw": "LOKI MARVEL LEGENDS SERIES 6\" HASBRO ORIGINAL",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/79638-producto-loki3.jpg",
+      "price": {
+        "raw": "$60.000",
+        "value": 60000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::7ba62935",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "billetera_pvc_/_simil_cuero_capitan_america_escudo_importada",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/487284-billeteras-billetera-pvc-simil-cuero-capitan-america-escudo-importada",
+      "title_raw": "BILLETERA PVC / SIMIL CUERO CAPITAN AMERICA ESCUDO IMPORTADA",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/16235-producto-billeteraescudo.jpg",
+      "price": {
+        "raw": "$12.000",
+        "value": 12000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::4b4e7505",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "marvel_legends_star-lord_thor_love_and_thunder_7\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/507574-figuras-de-accion-marvel-legends-star-lord-thor-love-and-thunder-7",
+      "title_raw": "MARVEL LEGENDS STAR-LORD THOR LOVE AND THUNDER 7\"",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/17407-producto-starlord2.jpg",
+      "price": {
+        "raw": "$70.000",
+        "value": 70000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::0d5d273c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "kraven_marvel_legends_6_pulgadas_hasbro_spider-man_classic",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/543926-figuras-de-accion-kraven-marvel-legends-6-pulgadas-hasbro-spider-man-classic",
+      "title_raw": "KRAVEN Marvel Legends 6 pulgadas Hasbro Spider-man Classic",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/8721-producto-kraven.jpg",
+      "price": {
+        "raw": "$120.000",
+        "value": 120000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::4479ff11",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "spiderman_ben_reilly_marvel_comics_hasbro_6_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/543936-figuras-de-accion-spiderman-ben-reilly-marvel-comics-hasbro-6-pulgadas",
+      "title_raw": "Spiderman Ben Reilly Marvel Comics Hasbro 6 pulgadas",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/4455-producto-spiderman6.jpg",
+      "price": {
+        "raw": "$110.000",
+        "value": 110000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::31430bde",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "spiderman_marvel_comics_classic_hasbro_6_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/544337-figuras-de-accion-spiderman-marvel-comics-classic-hasbro-6-pulgadas",
+      "title_raw": "Spiderman Marvel Comics Classic Hasbro 6 pulgadas",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/3196-producto-spiderman9.jpg",
+      "price": {
+        "raw": "$110.000",
+        "value": 110000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::7806b119",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "spiderman_kraven_marvel_comics_classic_hasbro_6_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/544338-figuras-de-accion-spiderman-kraven-marvel-comics-classic-hasbro-6-pulgadas",
+      "title_raw": "Spiderman Kraven Marvel Comics Classic Hasbro 6 pulgadas",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/4378-producto-kraven.jpg",
+      "price": {
+        "raw": "$110.000",
+        "value": 110000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::1a303138",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "billetera_pvc_/_simil_cuero_deadpool_importada",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/486261-billeteras-billetera-pvc-simil-cuero-deadpool-importada",
+      "title_raw": "BILLETERA PVC / SIMIL CUERO DEADPOOL IMPORTADA",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/1592-producto-billeteradeadpoll.jpg",
+      "price": {
+        "raw": "$12.000",
+        "value": 12000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::2413c0d7",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "billetera_pvc_/_simil_cuero_capitan_america_importada",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-de-accion/marvel",
+      "product_url": "https://www.kenshinanimestore.com/487266-billeteras-billetera-pvc-simil-cuero-capitan-america-importada",
+      "title_raw": "BILLETERA PVC / SIMIL CUERO CAPITAN AMERICA IMPORTADA",
+      "image_url": "https://www.kenshinanimestore.com/img/Public/1147/80783-producto-billeteracapitan.jpg",
+      "price": {
+        "raw": "$12.000",
+        "value": 12000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:01.087Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::242ab66a",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "star_wars_rose_3,75\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/454779-figuras-loose-sueltas-star-wars-rose-3-75",
+      "title_raw": "STAR WARS ROSE 3,75\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$15.000",
+        "value": 15000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::5b110768",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "star_wars_gasgano_episodio_1_escala_3,75\"",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/454786-figuras-loose-sueltas-star-wars-gasgano-episodio-1-escala-3-75",
+      "title_raw": "STAR WARS GASGANO EPISODIO 1 ESCALA 3,75\"",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$18.000",
+        "value": 18000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::68e7bb19",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "sugar_man_baf_marvel_legends_series_hasbro",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/485538-figuras-de-accion-sugar-man-baf-marvel-legends-series-hasbro",
+      "title_raw": "SUGAR MAN BAF MARVEL LEGENDS SERIES HASBRO",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$100.000",
+        "value": 100000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::364c9c5c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "molten-man_baf_marvel_legends_series_22_cm_aprox",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/485540-figuras-de-accion-molten-man-baf-marvel-legends-series-22-cm-aprox",
+      "title_raw": "MOLTEN-MAN BAF MARVEL LEGENDS SERIES 22 CM APROX",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$90.000",
+        "value": 90000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::635208dc",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "nightcrawler_x-men_united_marvel_2003_12_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/486046-figuras-de-accion-nightcrawler-x-men-united-marvel-2003-12-pulgadas",
+      "title_raw": "NIGHTCRAWLER X-MEN UNITED MARVEL 2003 12 PULGADAS",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$80.000",
+        "value": 80000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::3dfe67c3",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "one_piece_luffy_17_cm_v4",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/486072-figuras-loose-sueltas-one-piece-luffy-17-cm-v4",
+      "title_raw": "ONE PIECE LUFFY 17 CM V4",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$17.000",
+        "value": 17000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::7400dbf5",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "power_ranger_amarillo_metalizado_1995_mighty_morphin_bandai_20_cm",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/487120-figuras-de-accion-power-ranger-amarillo-metalizado-1995-mighty-morphin-bandai-20",
+      "title_raw": "POWER RANGER AMARILLO METALIZADO 1995 MIGHTY MORPHIN BANDAI 20 CM",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$45.000",
+        "value": 45000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::2842e0a3",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "star_wars_black_series_mace_windu_6\"_hasbro_loose",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/531960-figuras-de-accion-star-wars-black-series-mace-windu-6-hasbro-loose",
+      "title_raw": "STAR WARS BLACK SERIES MACE WINDU 6\" HASBRO LOOSE",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$60.000",
+        "value": 60000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6ca52d0c",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "star_wars_black_series_plo_koon_6\"_hasbro_loose",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/531962-figuras-de-accion-star-wars-black-series-plo-koon-6-hasbro-loose",
+      "title_raw": "STAR WARS BLACK SERIES PLO KOON 6\" HASBRO LOOSE",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$60.000",
+        "value": 60000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::410e1850",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "star_wars_black_series_kit_fisto_6\"_hasbro_loose",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/531963-figuras-de-accion-star-wars-black-series-kit-fisto-6-hasbro-loose",
+      "title_raw": "STAR WARS BLACK SERIES KIT FISTO 6\" HASBRO LOOSE",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$60.000",
+        "value": 60000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::756dc36e",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "death_note_figura_ryuk_con_base_18_cm",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/531964-figuras-de-accion-death-note-figura-ryuk-con-base-18-cm",
+      "title_raw": "DEATH NOTE FIGURA RYUK CON BASE 18 CM",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$30.000",
+        "value": 30000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::6c4f2231",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "figura_dragon_ball_goku_en_nube_14_cm_sin_caja",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/531965-figuras-de-accion-figura-dragon-ball-goku-en-nube-14-cm-sin-caja",
+      "title_raw": "FIGURA DRAGON BALL GOKU EN NUBE 14 CM SIN CAJA",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::01d1d4e7",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "figura_dragon_ball_goku_en_nube_14_cm_sin_caja_v2",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/531966-figuras-de-accion-figura-dragon-ball-goku-en-nube-14-cm-sin-caja-v2",
+      "title_raw": "FIGURA DRAGON BALL GOKU EN NUBE 14 CM SIN CAJA V2",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::10804565",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "figura_dragon_ball_goku_en_nube_14_cm_sin_caja_v3",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/531967-figuras-de-accion-figura-dragon-ball-goku-en-nube-14-cm-sin-caja-v3",
+      "title_raw": "FIGURA DRAGON BALL GOKU EN NUBE 14 CM SIN CAJA V3",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$25.000",
+        "value": 25000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.040Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::69958698",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "figuras_de_shrek_originales_burro_gato_con_botas_(las_3_figuras_juntas)",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/533420-figuras-loose-sueltas-de-shrek-originales-burro-gato-con-botas-las-3-juntas",
+      "title_raw": "FIGURAS DE SHREK ORIGINALES BURRO GATO CON BOTAS (LAS 3 FIGURAS JUNTAS)",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$120.000",
+        "value": 120000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.041Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::73d1f486",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "kenner,_batman_returns:_the_penguin's_umbrella_jet_vehicle_&_figure_1994_jet_el_pinguino",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/533547-figuras-de-accion-kenner-batman-returns-the-penguins-umbrella-jet-vehicle-fi",
+      "title_raw": "Kenner, Batman Returns: The Penguin's Umbrella Jet Vehicle & Figure 1994 Jet El Pinguino",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$150.000",
+        "value": 150000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.041Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::08944d8d",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "ghostbusters_egon_spengler_1988_toy_kenner_5_pulgadas_cazafantasmas_vintage",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/535371-figuras-loose-sueltas-ghostbusters-egon-spengler-1988-toy-kenner-5-pulga",
+      "title_raw": "Ghostbusters Egon Spengler 1988 Toy Kenner 5 pulgadas Cazafantasmas Vintage",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.041Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::1d9fcb32",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "janine_ghostbusters_cazafantasmas_vintage_1989_kenner_5_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/535372-figuras-de-accion-janine-ghostbusters-cazafantasmas-vintage-1989-kenner-5-pulgada",
+      "title_raw": "Janine Ghostbusters Cazafantasmas Vintage 1989 Kenner 5 pulgadas",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.041Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::52622ad3",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "ghostbusters_super_fright_features_ray_stantz_kenner_1989_cazafantasmas_5_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/535373-figuras-de-accion-ghostbusters-super-fright-features-ray-stantz-kenner-198",
+      "title_raw": "Ghostbusters Super Fright Features Ray Stantz Kenner 1989 Cazafantasmas 5 pulgadas",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.041Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::76398d6e",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "egon_spengler_ghostbusters_kenner_vintage_figura_1984_cazafantasmas_5_pulgadas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/535374-figuras-de-accion-egon-spengler-ghostbusters-kenner-vintage-figura-1984-cazafanta",
+      "title_raw": "Egon Spengler Ghostbusters Kenner Vintage Figura 1984 Cazafantasmas 5 pulgadas",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.041Z"
+    },
+    {
+      "listing_id": "kenshinanimestore::613c3416",
+      "store_id": "kenshinanimestore",
+      "title_slug_id": "winston_ghostbusters_kenner_figura_1984_vintage_5_pulgadas_cazafantasmas",
+      "source_page_url": "https://www.kenshinanimestore.com/figuras-loose-sueltas",
+      "product_url": "https://www.kenshinanimestore.com/535376-figuras-de-accion-winston-ghostbusters-kenner-figura-1984-vintage-5-pulgad",
+      "title_raw": "Winston Ghostbusters Kenner Figura 1984 Vintage 5 pulgadas Cazafantasmas",
+      "image_url": "https://www.kenshinanimestore.com/img/noPhoto.png",
+      "price": {
+        "raw": "$50.000",
+        "value": 50000,
+        "currency": "ARS"
+      },
+      "stock_raw": null,
+      "stock_status": "in_stock",
+      "product_tags": [],
+      "extra_info": {
+        "installments_raw": null
+      },
+      "scraped_at": "2026-02-19T19:06:08.041Z"
+    }
+  ]
+}
