@@ -23,10 +23,6 @@ I'll try my best to not put ads on the page, or sponsored brands and be transpar
 - Scikit-learn, LMM, and re-learned python
 - Express
 
-## ✨ Creator
-
-Made by [Venuss](https://venuss.me) 🇦🇷
-
 ### utils
 - ` npm init playwright@latest `
 - I'm not giving the for the moment de constPages with pages data. You can see constPages info on past commits.
@@ -35,3 +31,6 @@ Made by [Venuss](https://venuss.me) 🇦🇷
 https://designengineer.io/
 https://www.figma.com/make/aImGfPjsMQ987v2dFUtdGo/AAS?p=f&t=6UAo3sfHFHKxR8Av-0
 
+## ✨ Creator
+
+Made by [Venuss](https://venuss.me) 🇦🇷
