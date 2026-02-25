@@ -34,3 +34,5 @@ https://www.figma.com/make/aImGfPjsMQ987v2dFUtdGo/AAS?p=f&t=6UAo3sfHFHKxR8Av-0
 ## ✨ Creator
 
 Made by [Venuss](https://venuss.me) 🇦🇷
+
+see Licenses 
