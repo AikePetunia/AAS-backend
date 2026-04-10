@@ -2,11 +2,11 @@ import { siteConfigs } from "../constPages.mjs";
 import fs from "fs/promises";
 
 export async function writeStoresDump() {
-	const results = {};
-			console.log("Writing all stores info to dump...");
+	console.log("Writing all stores info to dump...");
+	const stores = {};
 	try {
 		for (const [siteKey, config] of Object.entries(siteConfigs)) {
-			results[siteKey] = {
+			stores = {
 				store_name: config.store_name,
 				store_id: config.store_id,
 				store_url: config.store_url,
@@ -14,9 +14,10 @@ export async function writeStoresDump() {
 				trust_factor_manual: config.trust_factor_manual,
 				seller_type: config.seller_type,
 				tags: config.tags,
+				
 			};
 		}
-		await fs.writeFile(`./data/dumps/storesDump.json`, JSON.stringify(results, null, 2));
+		await fs.writeFile(`./data/dumps/storesDump.json`, JSON.stringify({stores}, null, 2));
 	} catch (e) {
 		console.log("Error writing stores dump:", e);
 	}
