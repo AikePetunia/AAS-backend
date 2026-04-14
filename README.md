@@ -18,10 +18,6 @@ I'll try my best to not put ads on the page, or sponsored brands and be transpar
 - [ ] Get functional selectors for pages
 - [ ] GET (/stores), GET (/allProducts), GET (/storeName)
 
-## Used / learnt
-
-- Scikit-learn, LMM, and re-learned python
-- Express
 
 ### utils
 - ` npm init playwright@latest `
