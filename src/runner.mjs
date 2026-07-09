@@ -17,7 +17,7 @@ async function main() {
 
 
 async function runOnce() {
-	const resPerStore = {};''
+	const resPerStore = {};
 	const storeToTest = null; // it's by entry name. Use null for ignoring
 	const storePathLimitTest = 2;
 

@@ -1,6 +1,6 @@
 # Aike armar un setup (AAS)
 
-> This project is part of my personal learning journey. I'm not an expert developer, sorry for bad code or others, I'm a human learning.
+> This project is part of my personal learning journey. I'm not an expert developer, sorry for bad code or others, I'm a human learning. 
 
 > ⚠️ This tool scrapes public product listings. It does not access private data or databases.
 
@@ -15,6 +15,7 @@ I'll try my best to not put ads on the page, or sponsored brands and be transpar
 ## General Roadmap (2026, backend)
 
 - [x] Get clean paths per store (this is for categories)
+- [ ] General loop of scrapping + faster scrapping
 - [ ] Get functional selectors for pages
 - [ ] GET (/stores), GET (/allProducts), GET (/storeName)
 

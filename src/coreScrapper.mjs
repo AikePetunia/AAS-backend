@@ -85,13 +85,15 @@ export class Scraper {
 						.map((product) => {
 							const titleRaw = product.querySelector(sel.title_raw)?.innerText?.trim();
 							const productUrl = product.querySelector(sel.product_url)?.href;
+							
+							if (!titleRaw || !productUrl) return null;
+							
 							const imageUrl = product.querySelector(sel.image_url)?.src;
 							const priceRaw = product.querySelector(sel.price)?.innerText?.trim();
 							const installmentsRaw =
 								product.querySelector(sel.installments)?.innerText?.trim() || null;
 							const stock_raw = product.querySelector(sel.stock_status)?.innerText?.trim() || null;
 
-							if (!titleRaw || !productUrl) return null;
 
 							const dedupeKey = `${storeId}::${productUrl}`;
 

@@ -56,7 +56,8 @@ expected answer:
       {
         "listing_id": "armytech::5921",
         "store_id": "armytech",
-        "group_id": "g_thermal_paste_pastermax_b30_white",
+        "store_name": "Army tech"
+        "group_id": "g_thermal_paste_pastermax_b30_white", // todo
         "source_page_url": "https://www.armytech.com.ar/refrigeracion/",
         "product_url": "https://www.armytech.com.ar/refrigeracion/5921-pasta-termica-pastermax-b30-blanca.html",
         "title_raw": "Pasta Térmica Pastermax B30 Blanca",
@@ -66,8 +67,8 @@ expected answer:
           "value": 3330.89,
           "currency": "ARS"
         },
-        "stock_status": "in_stock",
         "stock_raw": "Stock disponible",
+        "stock_status": "in_stock",
         "product_tags": ["pc_components", "cooling", "thermal_paste"], // manual (?)
         "extra": {
           "installments": null
