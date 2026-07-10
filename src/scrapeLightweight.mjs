@@ -28,7 +28,7 @@ export async function scrapeCategoryLightweight(url, config) {
 			const titleRaw = $(element).find(config.selectors.title_raw).text().trim();
 			const productUrl = $(element).find(config.selectors.product_url).attr("href");
 
-			if (!titleRaw || !productUrl) return; // return en un .each() de Cheerio es como un 'continue'
+			if (!titleRaw || !productUrl) return;
 
 			const imageUrl = $(element).find(config.selectors.imageUrl)?.attr("src");
 			const priceText = $(element).find(config.selectors.price).text().trim();
@@ -60,15 +60,15 @@ export async function scrapeCategoryLightweight(url, config) {
 				scraped_at: new Date().toISOString(),
 			});
 		});
-
 		return products;
 	} catch (error) {
 		// Axios guarda el status en error.response.status si el server respondió con error
 		const status = error.response ? error.response.status : "Network/Timeout";
-		console.error(`[${status}] Fallo en la extracción de ${url}:`, error.message);
+		console.error(`[${status}] failed extracting ${url}:`, error.message);
 		return [];
 	}
 }
+
 function parsePrice(priceStr) {
 	if (!priceStr) return null;
 	const raw = priceStr;
@@ -84,6 +84,7 @@ function hashCode(str) {
 	}
 	return Math.abs(hash).toString(16).padStart(8, "0");
 }
+
 /*
 expected answer: 
       "store_name": "ArmyTech", 

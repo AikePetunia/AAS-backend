@@ -1,153 +1,59 @@
-import { Scraper } from "./coreScrapper.mjs";
-import { siteConfigs } from "./constPages.mjs";
+import pLimit from "p-limit";
+import { scrapeCategoryLightweight } from "./scrapeLightweight.mjs";
+import { sitesInformation } from "./constPages.mjs";
 import { writeStoresDump } from "./output/writeStoresDump.mjs";
 import fs from "fs/promises";
+import { all } from "axios";
 
-const ONE_HOUR_LOOP = 60 * 60 * 1000;
+const limit = pLimit(3);
+const storesEntries = Object.entries(sitesInformation); // esto es el nombre de la tienda en su config (armyTech: new SiteConfig)
+const allProducts = [];
+const storeToTest = null; // it's by entry name. Use null for ignoring
+const storeAmountToTest = 10;
+const storePagesToTest = 999;
+const failedStores = [];
 
-const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+let i = 0;
 
-async function main() {
-	while (true) {
-		await runOnce();
-		console.log(`Sleeping ${ONE_HOUR_LOOP / 1000}s...`);
-		await sleep(ONE_HOUR_LOOP);
+// entra tienda por tienda, y dentro de cada tienda entra categoría por categoría
+for (const [storeName, config] of storesEntries) {
+	// testeo cantidad de tiendas
+	if (i >= storeAmountToTest) break;
+	// testeo individual
+	if (storeToTest && storeName !== storeToTest) {
+		continue;
 	}
-}
 
+	const storeTasks = [];
+	const storeToAccess = config.store_url;
+	let j = 0;
 
-async function runOnce() {
-	const resPerStore = {};
-	const storeToTest = null; // it's by entry name. Use null for ignoring
-	const storePathLimitTest = 2;
+	for (const categoryPath of config.pages) {
+		// testeo rutas
+		if (j >= storePagesToTest) break;
 
-	const resAllProducts = {};
-	const storeLimitTest = -1; // -1 no limit
-	const MAX_CONCURRENT_STORES = 3; // do not use more bc it goes boom
-	const noProductsStores = [];
+		const fullCategoryUrl = storeToAccess + categoryPath;
+		storeTasks.push(limit(() => scrapeCategoryLightweight(fullCategoryUrl, config)));
+		j++;
+	}
 
-	await writeStoresDump();
-
-	try {
-		const storeEntries = Object.entries(siteConfigs);
-		if (storeToTest) {
-			const config = siteConfigs[storeToTest];
-			console.log(`Testing single store: ${storeToTest}`);
-			if (!config) {
-				console.error(`Store with id "${storeToTest}" not found in siteConfigs.`);
-				return;
-			}
-			await testStoreSelectors(
-				storePathLimitTest,
-				storeToTest,
-				config,
-				resPerStore,
-				resAllProducts
-			);
-			return;
-		}
-
-		for (let i = 0; i < storeEntries.length; i += MAX_CONCURRENT_STORES) {
-			if (storeLimitTest != -1 && Object.keys(resPerStore).length >= storeLimitTest) {
-				console.log(`Reached the limit of ${storeLimitTest} sites. Stopping further scraping.`);
-				break;
-			}
-
-			const batch = storeEntries.slice(i, i + MAX_CONCURRENT_STORES);
-			const promises = batch.map(async ([siteName, config]) => {
-				console.log(`Starting scrape of ${siteName}...`);
-
-				const scraper = new Scraper(config);
-				const products = await scraper.scrapeProducts();
-				return { siteName, products, config };
-			});
-
-			const results = await Promise.all(promises);
-
-			for (const result of results) {
-				resPerStore[result.siteName] = {
-					store_name: result.config.store_name,
-					store_id: result.config.store_id,
-					store_url: result.config.store_url,
-					store_image: result.config.store_image,
-					trust_factor_manual: result.config.trust_factor_manual,
-					seller_type: result.config.seller_type,
-					tags: result.config.tags,
-					products: result.products,
-				};
-
-				resAllProducts[result.siteName] = result.products;
-
-				if (resPerStore[result.siteName].products.length === 0) {
-					noProductsStores.push(result.siteName);
-				}
-
-				await fs.writeFile(
-					`./data/raw/${result.siteName}.json`,
-					JSON.stringify(resPerStore[result.siteName], null, 2)
-				);
-
-				console.log(
-					`Finished scraping ${result.siteName}. Results saved to ${result.siteName}.json`
-				);
-
-				await fs.writeFile(
-					`./data/raw/latest/allProducts.json`,
-					JSON.stringify(resAllProducts, null, 2)
-				);
-
-				await fs.writeFile(`./data/failedStores.json`, JSON.stringify(noProductsStores, null, 2));
-			}
-		}
-
-		const snapshotTs = new Date().toISOString().replace(/[:.]/g, "-");
+	// escribimos resultados por tienda
+	let storeResults = await Promise.all(storeTasks);
+	const storeProducts = storeResults.flat();
+	if (storeProducts.length != 0) {
 		await fs.writeFile(
-			`./data/snapshots/allProducts-${snapshotTs}.json`,
-			JSON.stringify(resAllProducts, null, 2)
+			`./data/raw/latest/${storeName}.json`,
+			JSON.stringify(storeProducts, null, 2)
 		);
-
-		console.log("finished scraping");
-		process.exit(0);
-	} catch (error) {
-		console.error("Error during scraping:", error);
-		process.exit(1);
+	} else {
+		failedStores.push(storeName);
+		await fs.writeFile(`./data/failedStores.json`, JSON.stringify(failedStores, null, 2));
 	}
+
+	allProducts.push(...storeProducts);
+	i++;
 }
 
-async function testStoreSelectors(
-	storePathLimitTest,
-	storeToTest,
-	config,
-	resPerStore,
-	resAllProducts
-) {
-	console.log(`Testing scrape of ${storeToTest}...`);
-
-	const scraper = new Scraper(config);
-	const products = await scraper.scrapeProducts(storePathLimitTest);
-
-	resPerStore[storeToTest] = {
-		store_name: config.store_name,
-		store_id: config.store_id,
-		store_url: config.store_url,
-		store_image: config.store_image,
-		trust_factor_manual: config.trust_factor_manual,
-		seller_type: config.seller_type,
-		tags: config.tags,
-		products,
-	};
-
-	resAllProducts[storeToTest] = products;
-
-	await fs.writeFile(
-		`./data/tests/${storeToTest}-testing.json`,
-		JSON.stringify(resPerStore[storeToTest], null, 2)
-	);
-
-	console.log(
-		`Finished "testing" selectors for ${storeToTest}. Results saved to ${storeToTest}.json`
-	);
-	return;
-}
-
-main();
+await writeStoresDump();
+console.log("writting all products...");
+await fs.writeFile(`./data/raw/latest/allProducts.json`, JSON.stringify(allProducts, null, 2));
