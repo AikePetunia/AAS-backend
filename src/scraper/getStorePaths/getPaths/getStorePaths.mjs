@@ -9,7 +9,7 @@ import fs from "fs/promises";
  * Outputs:
  * 	dataset.csv -> comma separated paths for dataset (training AI)
  * 	paths.json -> paths per domain for classification (for later classification)
- * 	domainsWithoutPaths.json -> list of domains where no paths where found
+ * 	StoresWithoutPaths.json -> list of Stores where no paths where found
  *
  */
 
@@ -18,9 +18,13 @@ const stats = {
 	failedPagesNames: new Set(),
 	processedPages: 0,
 };
-
-// this is manual sadly
-const getPaths = [
+/*
+1. getStorePaths
+2. pathsClassification.py !!!!
+3. json con paths clasificados
+4. actualizar constPages
+*/
+const stores = [
 	"https://nextgames.com.ar/",
 	"https://www.turtech.com.ar",
 	"https://gorilagames.com/",
@@ -84,7 +88,7 @@ const getPaths = [
 	"https://www.shopgamer.com.ar",
 	"https://www.tiendatrade.com.ar",
 	"https://goldgaming.com.ar/",
-	// new ones (13/8/25)
+	//  new ones (13/8/25)
 	"https://modex.com.ar/",
 	"https://herrerogamer2.mitiendanube.com/",
 	"https://www.makenametal.com.ar/",
@@ -94,14 +98,16 @@ const getPaths = [
 	"https://www.shibuyacomicstore.com.ar/",
 ];
 
-async function main() {
+const RESULTS_DIRECTORY = "./src/scraper/getStorePaths/resultPaths/";
+
+export async function getStorePaths() {
 	try {
 		const allResults = {};
 		const errors = [];
 
-		for (const page of getPaths) {
+		for (const page of stores) {
 			try {
-				console.log(`Processing ${page} (${++stats.processedPages}/${getPaths.length})`);
+				console.log(`Processing ${page} (${++stats.processedPages}/${stores.length})`);
 				const result = await extractPathsOnPage(page);
 				const filteredPaths = result[page].filter((path) => path.length > 2 && path.length < 50);
 
@@ -119,8 +125,8 @@ async function main() {
 			}
 		}
 
-		setDomainsWithPaths(allResults);
-		setDomainsWithoutPaths(allResults);
+		setStoresWithPaths(allResults);
+		setStoresWithoutPaths(allResults);
 
 		console.log("Summary Extracting paths:");
 		console.log(`Total pages processed: ${stats.processedPages}`);
@@ -135,11 +141,12 @@ async function main() {
 		console.error("Fatal error during execution:", error);
 		process.exit(1);
 	}
+	console.log("Finished paths from stores");
 }
 
-async function setDomainsWithPaths(allResults) {
+async function setStoresWithPaths(allResults) {
 	if (Object.keys(allResults).length > 0) {
-		// await fs.mkdir("./resultPaths", { recursive: true });
+		// await fs.mkdir(RESULTS_DIRECTORY, { recursive: true });
 		// setPathsDataset(allResults); // dataset alredy classified.
 		setPathsToClassify(allResults);
 	}
@@ -151,17 +158,20 @@ async function setPathsDataset(allResults) {
 		allPaths.push(...paths);
 	}
 	const csvContent = allPaths.join(", \n");
-	await fs.writeFile("./resultPaths/pathsDataset.csv", csvContent);
+	await fs.writeFile(RESULTS_DIRECTORY + "pathsDataset.csv", csvContent);
 }
 
 async function setPathsToClassify(allResults) {
-	await fs.writeFile("./resultPaths/pathsToClassify.json", JSON.stringify(allResults, null, 2));
+	await fs.writeFile(
+		RESULTS_DIRECTORY + "storePathsToClassify.json",
+		JSON.stringify(allResults, null, 2)
+	);
 }
 
-async function setDomainsWithoutPaths() {
+async function setStoresWithoutPaths() {
 	if (stats.failedPagesNames.size > 0) {
 		await fs.writeFile(
-			"./resultPaths/domainsWithoutPaths.json",
+			RESULTS_DIRECTORY + "storesWithoutPaths.json",
 			JSON.stringify(Array.from(stats.failedPagesNames), null, 2)
 		);
 	}
@@ -269,4 +279,4 @@ function sanitizePath(rawPath) {
 		.trim();
 }
 
-main();
+getStorePaths();

@@ -1,4 +1,4 @@
-export class SiteConfig {
+export class storesConfig {
 	constructor({
 		store_name,
 		store_id,

@@ -7,13 +7,13 @@ lerna-debug.log*
 data
 
 node_modules
-dist
 dist-ssr
 *.local
 src/assets 
 
 # Editor directories and files
-.vscode/*
+.vscode
+.venv
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -23,12 +23,5 @@ src/assets
 *.sln
 *.sw?
 constPages.mjs
-
-# Playwright
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
-
-# Playwright
-/playwright/.auth/
+.agents
+.env

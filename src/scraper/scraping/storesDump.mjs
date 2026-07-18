@@ -1,11 +1,11 @@
-import { sitesInformation } from "../constPages.mjs";
+import { storesInformation } from "../config/storesInformation.mjs";
 import fs from "fs/promises";
 
-export async function writeStoresDump() {
+export async function storesDump() {
 	console.log("Writing all stores info to dump...");
 	let stores = {};
 	try {
-		for (const [siteKey, config] of Object.entries(sitesInformation)) {
+		for (const [siteKey, config] of Object.entries(storesInformation)) {
 			stores = {
 				store_name: config.store_name,
 				store_id: config.store_id,

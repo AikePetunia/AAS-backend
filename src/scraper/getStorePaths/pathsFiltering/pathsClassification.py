@@ -19,7 +19,7 @@ spec.loader.exec_module(tokenizers_module)
 model = joblib.load("./training/models/modelForPaths.pkl")
 vectorizer = joblib.load("./training/models/vectorizerForPaths.pkl")
 
-with open('../extractPagesInfo/resultPaths/pathsToClassify.json', 'r', encoding="utf-8") as f:
+with open('../getPaths/resultPaths/storePathsToClassify.json', 'r', encoding="utf-8") as f:
     data = json.load(f)
 
 rows = []
@@ -53,7 +53,7 @@ for _, row in df.iterrows():
 
 grouped_list = list(grouped.values()) # no name at the beggining if it's a list and not a diccionary
 
-with open("response/classified/classifiedPaths.json", "w", encoding="utf-8") as f:
+with open("./response/classifiedStoresPaths.json", "w", encoding="utf-8") as f:
     json.dump(grouped_list, f, indent=4, ensure_ascii=False)
 
 print("classified all paths")

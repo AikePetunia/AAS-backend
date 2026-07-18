@@ -14,7 +14,7 @@ const scraperClient = axios.create({
 	},
 });
 
-export async function scrapeCategoryLightweight(url, config) {
+export async function scrapeStore(url, config) {
 	try {
 		const response = await scraperClient.get(url);
 		const html = response.data;
