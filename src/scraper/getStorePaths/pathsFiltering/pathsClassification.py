@@ -16,10 +16,10 @@ tokenizers_module = importlib.util.module_from_spec(spec)
 sys.modules["tokenizers"] = tokenizers_module
 spec.loader.exec_module(tokenizers_module)
 
-model = joblib.load("./training/models/modelForPaths.pkl")
-vectorizer = joblib.load("./training/models/vectorizerForPaths.pkl")
+model = joblib.load("./src/scraper/getStorePaths/pathsFiltering//training/models/modelForPaths.pkl")
+vectorizer = joblib.load("./src/scraper/getStorePaths/pathsFiltering//training/models/vectorizerForPaths.pkl")
 
-with open('../getPaths/resultPaths/storePathsToClassify.json', 'r', encoding="utf-8") as f:
+with open('./src/scraper/getStorePaths/resultPaths/storePathsToClassify.json', 'r', encoding="utf-8") as f:
     data = json.load(f)
 
 rows = []
@@ -53,7 +53,7 @@ for _, row in df.iterrows():
 
 grouped_list = list(grouped.values()) # no name at the beggining if it's a list and not a diccionary
 
-with open("./response/classifiedStoresPaths.json", "w", encoding="utf-8") as f:
+with open("./src/scraper/getStorePaths/pathsFiltering/response/classifiedStoresPaths.json", "w", encoding="utf-8") as f:
     json.dump(grouped_list, f, indent=4, ensure_ascii=False)
 
 print("classified all paths")

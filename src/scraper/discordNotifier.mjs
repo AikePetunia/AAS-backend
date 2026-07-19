@@ -33,15 +33,19 @@ export async function sendDiscordNotification({ type, taskName, status, stats = 
 	if (status === "success") {
 		switch (taskName) {
 			case "getStorePaths":
-				statsText = `Sucess: ${stats.sucessStores}\n Failed: ${stats.failed}`;
-				break;
-
+				statsText =
+					"```\n" + `Success : ${stats.sucessStores}\n` + `Failed  : ${stats.failed}\n` + "```";
 			case "storesDump":
-				statsText = `Stores Information: ${stats.storesInfo}`;
+				statsText = "```\n" + `Stores : ${stats.storesInfo}\n` + "```";
 				break;
 
 			case "scrapeStores":
-				statsText = `All products information: ${stats.storesInfo}`;
+				statsText =
+					"```\n" +
+					`Products scraped : ${stats.allProducts}\n` +
+					`With products    : ${stats.storesWithProducts}\n` +
+					`Without products : ${stats.storeWithoutProducts}\n` +
+					"```";
 				break;
 
 			default:
@@ -60,18 +64,17 @@ export async function sendDiscordNotification({ type, taskName, status, stats = 
 		embeds: [
 			{
 				title: `Cron Job Finished: ${status.toUpperCase()}`,
-				description: "Details:",
 				color: embedColor,
 				fields: [
 					{
-						name: "Task Done:",
-						value: taskName,
-						inline: true,
+						name: "Executed Task",
+						value: `\`${taskName}\``,
+						inline: false,
 					},
 					{
-						name: "Stats",
+						name: "Execution Statistics",
 						value: statsText,
-						inline: true,
+						inline: false,
 					},
 				],
 				timestamp: new Date().toISOString(),

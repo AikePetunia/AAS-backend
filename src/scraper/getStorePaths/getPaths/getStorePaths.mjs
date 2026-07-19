@@ -279,4 +279,3 @@ function sanitizePath(rawPath) {
 		.trim();
 }
 
-getStorePaths();
