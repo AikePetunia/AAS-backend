@@ -8,7 +8,6 @@ import { scrapeStores } from "./scraping/scrapeStores.mjs";
 import { storesDump } from "./scraping/storesDump.mjs";
 import { sendDiscordNotification } from "./discordNotifier.mjs";
 
-
 function setCronJobs() {
 	// ==========================================
 	// Franja 7:30-22:00 cada 3 horas.
@@ -43,6 +42,8 @@ function setCronJobs() {
 	// ==========================================
 	cron.schedule("0 1,4,7 * * *", scrapeStoresTask);
 }
+
+
 
 const STORES_PATHS = "./src/scraper/getStorePaths/resultPaths/";
 const execPromise = promisify(exec);
@@ -169,4 +170,10 @@ const pathsClassificationTask = async () => {
 };
 
 
-setCronJobs();
+// setCronJobs();
+async function inmediateJob() {
+	// await getStorePathsTask();
+	// await getStoresDumpTask();
+	await scrapeStoresTask();
+}
+inmediateJob()

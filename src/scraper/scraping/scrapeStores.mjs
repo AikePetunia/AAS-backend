@@ -4,12 +4,13 @@ import { storesInformation } from "../config/storesInformation.mjs";
 import fs from "fs/promises";
 import { all } from "axios";
 
-const limit = pLimit(3);
+// ¿Como soluciono los 429?
+const limit = pLimit(1);
 const storesEntries = Object.entries(storesInformation); // esto es el nombre de la tienda en su config (armyTech: new SiteConfig)
 const allProducts = [];
 const storeToTest = null; // it's by entry name. Use null for ignoring
-const storeAmountToTest = 15;
-const storePagesToTest = 15;
+const storeAmountToTest = 999;
+const storePagesToTest = 999;
 const failedStores = [];
 let i = 0;
 
