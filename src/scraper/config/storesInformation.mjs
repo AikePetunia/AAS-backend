@@ -1043,7 +1043,7 @@ export const storesInformation = {
 		},
 		timeout: 30000,
 	}),
-	// todo: Update Info.
+	// todo: Update Info since here
 	GamingCity: new storesConfig({
 		store_name: "Gaming City",
 		store_id: "gamingcity",

@@ -1,35 +1,41 @@
-# Aike armar un setup (AAS)
 
-> This project is part of my personal learning journey. I'm not an expert developer, sorry for bad code or others, I'm a human learning. 
+> **Motor de extracción y comparación de datos enfocado en el ecosistema de hardware en Argentina.**
 
-> ⚠️ This tool scrapes public product listings. It does not access private data or databases.
+AAS es un proyecto open-source diseñado para trackear, comparar y encontrar los mejores precios de componentes, periféricos y mobiliario de setup en tiendas argentinas. El objetivo principal es aportar valor a la comunidad priorizando la transparencia, la confianza y la accesibilidad de la información.
 
-> ⚠️ This page parts from the idea of [HardGamers](https://www.hardgamers.com.ar/), but with QOL stuff. It's not my intention to compete.
+*⚠️ Aviso Legal: El motor extrae exclusivamente información de dominio público. No accede a bases de datos privadas ni compromete información sensible.*
 
-A web scraping project focused on finding the best prices related to a setup enviroment across Argentinian stores.
+## Estado del Proyecto: Alpha
 
-Intended on argentinians citizens for saving money and time.
+El motor de scraping se encuentra en desarrollo y sujeto a mejoras iterativas de rendimiento. 
+- **Tiendas operativas:** 34/64 integradas.
+- **Arquitectura:** Frontend y Backend completamente desacoplados. 
+  - 🔗 [Repositorio del Frontend](https://github.com/AikePetunia/AAS-Frontend)
+  
+## Criterios y Filosofía Core
 
-I'll try my best to not put ads on the page, or sponsored brands and be transparent with the costs. ><
+* **Transparencia Absoluta:** El mejor precio y la confianza real tienen prioridad. Cero anuncios, cero posts patrocinados. 
+* **Open Source & Comunidad:** El código es abierto. Cualquier Pull Request, mejora de rendimiento o crítica constructiva es bienvenida para mejorar la herramienta.
 
-## General Roadmap (2026, backend)
+## Próximos Pasos
 
-- [x] Get clean paths per store (this is for categories)
-- [ ] General loop of scrapping + faster scrapping
-- [ ] Get functional selectors for pages
-- [ ] GET (/stores), GET (/allProducts), GET (/storeName)
+- [x] Desacoplamiento de arquitectura.
+- [x] Extracción base de +30 tiendas.
+- [ ] **Sistema de Reputación (Trust Fact):** Actualmente el factor de confianza es manual (basada en reviews de Google, Reddit y experiencia de la comunidad, y puesto por mi). El objetivo es implementar un sistema de reputación escalable y fuertemente moderado.
+- [ ] Mejoras en la evasión de bloqueos y optimización de selectores.
 
+*(Nota: Los archivos de configuración de extracción y mapeo de selectores se mantienen privados por cuestiones de seguridad y para dificultar la ingeniería inversa).*
 
-### utils
-- ` npm init playwright@latest `
-- I'm not giving the for the moment de constPages with pages data. You can see constPages info on past commits.
-- https://miro.com/app/board/uXjVGGZlam0=/share_link_id=870584074040
+## Contribuciones y Apoyo
 
-https://designengineer.io/
-https://www.figma.com/make/aImGfPjsMQ987v2dFUtdGo/AAS?p=f&t=6UAo3sfHFHKxR8Av-0
+El objetivo de AAS es puramente comunitario. Si querés apoyar los costos de mantenimiento de la infraestructura, podés hacerlo aquí:
 
-## ✨ Creator
+☕ [Apoyar el proyecto en Ko-fi](https://ko-fi.com/aikemilanesa)
+🧉 Apoyar en pesos *(Próximamente)*
+💬 Discord: *(Próximamente)*
 
-Made by [Venuss](https://venuss.me) 🇦🇷
+Cuando estén costos de mantenimiento se harán transparentes para evitar 
 
-see Licenses 
+---
+✨ **Creado con amor por [https://aike.tech/](Aike)**
+Revisar el archivo `LICENSE` para más detalles.
