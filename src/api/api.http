@@ -1,0 +1,25 @@
+### 
+GET http://localhost:3000/products
+
+### 
+GET http://localhost:3000/products/4e13b38c-7ebf-11f1-9cf6-047c16ce5f6d
+
+### 
+GET http://localhost:3000/products?genre=something
+
+### 
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+  "sql": "SELECT * FROM users",
+  
+}
+
+### 
+PATCH http://localhost:3000/products/dcdd0fad-a94c-4810-8acc-5f108d3b18c3
+Content-Type: application/json
+
+{
+  "year": 2022
+}
