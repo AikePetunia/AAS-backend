@@ -10,6 +10,8 @@ node_modules
 dist-ssr
 *.local
 src/assets 
+meilisearch
+data.ms
 
 # Editor directories and files
 .vscode
@@ -25,4 +27,3 @@ src/assets
 constPages.mjs
 .agents
 .env
-meilisearch
