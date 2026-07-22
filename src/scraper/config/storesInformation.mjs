@@ -8,12 +8,13 @@ store_role:
 "accesorios",
 "oficina"
  */
+// Las paginas a veces son troll y muestran productos sin stock.
 export const storesInformation = {
 	armyTech: new storesConfig({
 		store_name: "ArmyTech",
 		store_id: "armytech",
 		store_url: "https://www.armytech.com.ar",
-		trust_factor_manual: 90,
+		trust_factor: 90,
 		store_role: ["componentes", "perifericos"],
 		tags: ["buenos aires", "armados", "calidad", "royal kludge"],
 		pages: [
@@ -197,7 +198,7 @@ export const storesInformation = {
 		store_name: "Venex",
 		store_id: "venex",
 		store_url: "https://www.venex.com.ar",
-		trust_factor_manual: 100,
+		trust_factor: 100,
 		store_role: ["componentes", "perifericos"],
 		tags: ["gaming", "armados", "cordoba", "buenos aires", "laptops"],
 		pages: [
@@ -344,7 +345,7 @@ export const storesInformation = {
 		store_name: "Maximus",
 		store_id: "maximus",
 		store_url: "https://www.maximus.com.ar",
-		trust_factor_manual: 80,
+		trust_factor: 80,
 		store_role: ["componentes", "perifericos", "oficina"],
 		tags: ["CABA", "armados", "laptops"],
 		pages: [
@@ -373,7 +374,7 @@ export const storesInformation = {
 		store_name: "CompraGamer",
 		store_id: "compragamer",
 		store_url: "https://compragamer.com/productos?",
-		trust_factor_manual: 100,
+		trust_factor: 100,
 		store_role: ["componentes", "perifericos", "oficina", "setup"],
 		tags: ["calidad", "buenos aires", "componentes", "precio", "velocidad", "laptops", "mayorista"],
 		pages: ["cate=6"],
@@ -390,7 +391,7 @@ export const storesInformation = {
 		store_name: "NGTech",
 		store_id: "ngtech",
 		store_url: "https://www.ngtechnologies.com.ar",
-		trust_factor_manual: 95,
+		trust_factor: 95,
 		store_role: ["componentes", "perifericos"],
 		tags: ["buenos aires", "calidad", "armados", "precio", "laptops"],
 		pages: [
@@ -438,7 +439,7 @@ export const storesInformation = {
 		store_name: "Not mid",
 		store_id: "notmid",
 		store_url: "https://notmid.ar/",
-		trust_factor_manual: 100,
+		trust_factor: 100,
 		store_role: ["setup", "perifericos", "accesorios"],
 		tags: [
 			"setup",
@@ -490,7 +491,7 @@ export const storesInformation = {
 		store_name: "Slot-One",
 		store_id: "slotone",
 		store_url: "https://www.slot-one.com.ar",
-		trust_factor_manual: 65,
+		trust_factor: 65,
 		store_role: ["setup", "componentes", "oficina", "perifericos"],
 		tags: ["outlet", "CABA", "armados", "variedad"],
 		pages: [
@@ -595,7 +596,7 @@ export const storesInformation = {
 		store_name: "Puerto Minero",
 		store_id: "puertominero",
 		store_url: "https://www.puertominero.com.ar",
-		trust_factor_manual: 85,
+		trust_factor: 85,
 		store_role: ["setup", "componentes", "accesorios"],
 		tags: ["caba", "outlet", "comprador", "laptops"],
 		pages: ["/productos"],
@@ -612,7 +613,7 @@ export const storesInformation = {
 		store_name: "710Tech",
 		store_id: "710tech",
 		store_url: "https://www.710tech.com.ar/",
-		trust_factor_manual: 55,
+		trust_factor: 55,
 		store_role: ["componentes", "perifericos"],
 		tags: ["componentes", "CABA", "outlet", "armados", "consolas"],
 		pages: [
@@ -646,7 +647,7 @@ export const storesInformation = {
 		store_name: "37 Bytes",
 		store_id: "bytes37",
 		store_url: "https://www.37bytes.com.ar/",
-		trust_factor_manual: 80,
+		trust_factor: 80,
 		store_role: ["componentes", "setup", "perifericos"],
 		tags: ["componentes", "laptops", "apple", "cordoba"],
 		pages: [
@@ -699,7 +700,7 @@ export const storesInformation = {
 		store_name: "Dinobyte",
 		store_id: "dinobyte",
 		store_url: "https://dinobyte.ar",
-		trust_factor_manual: 65,
+		trust_factor: 65,
 		store_role: ["componentes", "perifericos", "setup", "oficina"],
 		tags: ["CABA", "armados", "laptops", "gopro", "apple", "consolas"],
 		pages: [
@@ -801,7 +802,7 @@ export const storesInformation = {
 		store_name: "Full H4rd",
 		store_id: "fullh4rd",
 		store_url: "https://fullh4rd.com.ar/",
-		trust_factor_manual: 83,
+		trust_factor: 83,
 		store_role: ["componentes", "perifericos", "setup"],
 		tags: ["CABA", "laptops", "armados"],
 		pages: [
@@ -903,7 +904,7 @@ export const storesInformation = {
 		store_name: "Gaming Point",
 		store_id: "gamingpoint",
 		store_url: "https://gamingpoint.com.ar/",
-		trust_factor_manual: 85,
+		trust_factor: 85,
 		store_role: ["componentes", "perifericos", "setup", "accesorios"],
 		tags: ["armados", "buenos aires", "laptops", "combos", "consolas"],
 		pages: [
@@ -984,7 +985,7 @@ export const storesInformation = {
 		store_name: "Gamers Point",
 		store_id: "gamerspoint",
 		store_url: "https://www.gamerspoint.com.ar/",
-		trust_factor_manual: 90,
+		trust_factor: 90,
 		store_role: ["componentes", "perifericos", "setup"],
 		tags: ["caba", "laptops"],
 		pages: [
@@ -1048,7 +1049,7 @@ export const storesInformation = {
 		store_name: "Gaming City",
 		store_id: "gamingcity",
 		store_url: "https://www.gamingcity.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1110,7 +1111,7 @@ export const storesInformation = {
 		store_name: "Gezatek",
 		store_id: "gezatek",
 		store_url: "https://www.gezatek.com.ar/tienda/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1184,7 +1185,7 @@ export const storesInformation = {
 		store_name: "GoldenTech Store",
 		store_id: "goldentech",
 		store_url: "https://goldentechstore.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1296,7 +1297,7 @@ export const storesInformation = {
 		store_name: "HF Tecnologia",
 		store_id: "hftecnologia",
 		store_url: "https://hftecnologia.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1351,7 +1352,7 @@ export const storesInformation = {
 		store_name: "Acuario Insumos",
 		store_id: "acuarioinsumos",
 		store_url: "https://www.insumosacuario.com.ar/",
-		trust_factor_manual: 10,
+		trust_factor: 10,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1387,7 +1388,7 @@ export const storesInformation = {
 		store_name: "WIZ TECH",
 		store_id: "wiztech",
 		store_url: "https://wiztech.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: ["catalogo"],
@@ -1404,7 +1405,7 @@ export const storesInformation = {
 		store_name: "Xt-PC",
 		store_id: "xtpc",
 		store_url: "https://www.xt-pc.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1495,7 +1496,7 @@ export const storesInformation = {
 		store_name: "Empeño Gamer",
 		store_id: "empeniogamer",
 		store_url: "https://empeniogamer.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["setup", "componentes"],
 		tags: ["setup"],
 		pages: [
@@ -1562,7 +1563,7 @@ export const storesInformation = {
 		store_name: "HardCore",
 		store_id: "hardcore",
 		store_url: "https://hardcorecomputacion.com.ar/categoria-producto/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1653,7 +1654,7 @@ export const storesInformation = {
 		store_name: "Hyper Gaming",
 		store_id: "hypergaming",
 		store_url: "https://www.hypergaming.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1686,7 +1687,7 @@ export const storesInformation = {
 		store_name: "IgnaTech",
 		store_id: "ignatech",
 		store_url: "https://www.ignatech.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1715,7 +1716,7 @@ export const storesInformation = {
 		store_name: "Integrados Argentinos",
 		store_id: "integradosargentinos",
 		store_url: "https://www.integradosargentinos.com/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -1852,11 +1853,11 @@ export const storesInformation = {
 			"/productos/",
 		],
 		selectors: {
-			productWrapper: ".ui-search-result__wrapper",
-			title_raw: ".poly-component__title",
-			price: ".andes-money-amount__fraction",
-			product_url: ".poly-component__title",
-			image_url: ".poly-component__picture",
+			productWrapper: ".js-product-item-private",
+			title_raw: ".js-item-name",
+			price: ".js-price-display",
+			product_url: ".js-product-item-image-link-private",
+			image_url: ".js-product-item-image-private",
 		},
 		timeout: 30000,
 	}),
@@ -1865,7 +1866,7 @@ export const storesInformation = {
 		store_name: "Katech",
 		store_id: "katech",
 		store_url: "https://katech.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2074,7 +2075,7 @@ export const storesInformation = {
 		store_name: "Liontech Gaming",
 		store_id: "liontech",
 		store_url: "https://www.liontech-gaming.com/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2105,7 +2106,7 @@ export const storesInformation = {
 		store_name: "Max Tecno",
 		store_id: "maxtecno",
 		store_url: "https://maxtecno.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2223,7 +2224,7 @@ export const storesInformation = {
 		store_name: "Megasoft",
 		store_id: "megasoft",
 		store_url: "https://www.megasoftargentina.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2270,7 +2271,7 @@ export const storesInformation = {
 		store_name: "Mexx",
 		store_id: "mexx",
 		store_url: "https://www.mexx.com.ar/productos-rubro/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2349,7 +2350,7 @@ export const storesInformation = {
 		store_name: "Noxie Store",
 		store_id: "noxiestore",
 		store_url: "https://www.noxiestore.com/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2384,7 +2385,7 @@ export const storesInformation = {
 		store_name: "Peak Computacion",
 		store_id: "peakcomputacion",
 		store_url: "https://www.peakcomputacion.com",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2441,7 +2442,7 @@ export const storesInformation = {
 		store_name: "Rocket Hard",
 		store_id: "rockethard",
 		store_url: "https://www.rockethard.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: ["/productos", "/hardware/"],
@@ -2460,7 +2461,7 @@ export const storesInformation = {
 		store_name: "SCP Hardstore",
 		store_id: "scphardstore",
 		store_url: "https://www.scphardstore.com",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2567,7 +2568,7 @@ export const storesInformation = {
 		store_name: "ShopGamer",
 		store_id: "shopgamer",
 		store_url: "https://www.shopgamer.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2808,7 +2809,7 @@ export const storesInformation = {
 		store_name: "The Gamer Shop",
 		store_id: "thegamershop",
 		store_url: "https://www.thegamershop.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: ["/productos"],
@@ -2826,7 +2827,7 @@ export const storesInformation = {
 		store_name: "Tiendatrade",
 		store_id: "tiendatrade",
 		store_url: "https://www.tiendatrade.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: ["/productos"],
@@ -2843,7 +2844,7 @@ export const storesInformation = {
 		store_name: "Turtech",
 		store_id: "turtech",
 		store_url: "https://www.turtech.com.ar",
-		trust_factor_manual: 82,
+		trust_factor: 82,
 		store_role: ["componentes", "perifericos", "oficina"],
 		tags: ["hardware", "Buenos Aires", "palermo", "precios_competitivos"],
 		pages: ["/productos"],
@@ -2860,7 +2861,7 @@ export const storesInformation = {
 		store_name: "Urano Stream",
 		store_id: "universoGamer",
 		store_url: "https://universosgamers.com.ar/",
-		trust_factor_manual: 20,
+		trust_factor: 20,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2904,7 +2905,7 @@ export const storesInformation = {
 		store_name: "gorilaGames",
 		store_id: "gorilagames",
 		store_url: "https://www.gorilagames.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -2997,7 +2998,7 @@ export const storesInformation = {
 		store_name: "Next Games",
 		store_id: "nextgames",
 		store_url: "https://www.nextgames.com.ar",
-		trust_factor_manual: 88,
+		trust_factor: 88,
 		store_role: ["componentes", "perifericos"],
 		tags: ["gaming", "buenos aires", "CABA", "perifericos", "envios_rapidos"],
 		pages: [
@@ -3100,7 +3101,7 @@ export const storesInformation = {
 		store_name: "Alltek",
 		store_id: "alltek",
 		store_url: "https://www.alltek.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -3220,7 +3221,7 @@ export const storesInformation = {
 		store_name: "Insumax Informatica",
 		store_id: "insumaxinformatica",
 		store_url: "https://www.insumaxinformatica.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -3495,7 +3496,7 @@ export const storesInformation = {
 		store_name: "CompuCordoba",
 		store_id: "compucordoba",
 		store_url: "https://www.compucordoba.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -3666,12 +3667,11 @@ export const storesInformation = {
 			"/Marca/xtech",
 		],
 		selectors: {
-			productWrapper: ".products-list__item",
-			title_raw: ".product-card__name h2",
-			price: ".product-card__prices",
-			product_url: ".product-card__name a",
-			image_url: ".product-image__img",
-			stock_raw: ".product-card__availability .text-success",
+productWrapper: ".product-card",
+title_raw:" .card-title",
+price: ".card-price",
+product_url: "a.card-link",
+image_url: ".card-image"
 		},
 		timeout: 30000,
 	}),
@@ -3679,7 +3679,7 @@ export const storesInformation = {
 		store_name: "Macroinsumos",
 		store_id: "macroinsumos",
 		store_url: "https://www.macroinsumos.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -3783,7 +3783,7 @@ export const storesInformation = {
 		store_name: "Store La Plata",
 		store_id: "storelaplata",
 		store_url: "https://www.storelaplata.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes", "consolas"],
 		pages: [
@@ -3896,7 +3896,7 @@ export const storesInformation = {
 		store_name: "CellPlay",
 		store_id: "cellplay",
 		store_url: "https://www.cellplay.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -4055,7 +4055,7 @@ export const storesInformation = {
 		store_name: "Hydra Xtreme",
 		store_id: "hydraxtreme",
 		store_url: "https://www.hydraxtreme.com",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -4132,7 +4132,7 @@ export const storesInformation = {
 		store_name: "Casa Tecno",
 		store_id: "casatecno",
 		store_url: "https://www.casatecno.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -4260,7 +4260,7 @@ export const storesInformation = {
 		store_name: "Epocas Videogames",
 		store_id: "epocasvideogames",
 		store_url: "https://www.epocasvideogames.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -4367,7 +4367,7 @@ export const storesInformation = {
 		store_name: "GZ Tienda",
 		store_id: "gztienda",
 		store_url: "https://www.gztienda.com.ar",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -4542,7 +4542,7 @@ export const storesInformation = {
 		store_name: "Games Argentina",
 		store_id: "gamesargentina",
 		store_url: "https://www.gamesargentina.com",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: ["/productos"],
@@ -4552,7 +4552,6 @@ export const storesInformation = {
 			price: ".js-price-display",
 			product_url: ".product-item-link",
 			image_url: ".js-product-item-image-private img",
-			stock_raw: ".js-stock-label-private",
 		},
 		timeout: 30000,
 	}),
@@ -4560,7 +4559,7 @@ export const storesInformation = {
 		store_name: "Eleven Games AR",
 		store_id: "elevengamesar",
 		store_url: "https://www.elevengamesar.com",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -4712,7 +4711,7 @@ export const storesInformation = {
 		store_name: "Kenshin Anime Store",
 		store_id: "kenshinanimestore",
 		store_url: "https://www.kenshinanimestore.com",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -4766,7 +4765,7 @@ export const storesInformation = {
 		store_name: "Herrero Gamer 2",
 		store_id: "herrerogamer2",
 		store_url: "https://herrerogamer2.mitiendanube.com/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -4817,7 +4816,7 @@ export const storesInformation = {
 		store_name: "Onicaps",
 		store_id: "onicaps",
 		store_url: "https://www.onicaps.online/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -4898,7 +4897,7 @@ export const storesInformation = {
 		store_name: "Cuadros Modernos",
 		store_id: "cuadrosmodernos",
 		store_url: "https://www.cuadrosmodernos.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -5316,7 +5315,7 @@ export const storesInformation = {
 		store_name: "Shibuya Comic Store",
 		store_id: "shibuyacomicstore",
 		store_url: "https://www.shibuyacomicstore.com.ar/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -5561,7 +5560,7 @@ export const storesInformation = {
 		store_name: "Smart Tucuman",
 		store_id: "smarttucuman",
 		store_url: "https://smarttucuman.com/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [
@@ -5637,7 +5636,7 @@ export const storesInformation = {
 		store_name: "Manabi games",
 		store_id: "manabigames",
 		store_url: "https://manabigames.org/",
-		trust_factor_manual: 70,
+		trust_factor: 70,
 		store_role: ["componentes"],
 		tags: ["componentes"],
 		pages: [

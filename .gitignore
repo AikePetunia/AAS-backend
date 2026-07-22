@@ -25,3 +25,4 @@ src/assets
 constPages.mjs
 .agents
 .env
+meilisearch
