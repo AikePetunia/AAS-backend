@@ -1,6 +1,6 @@
 import cors from "cors";
 
-export const corsMiddleware = ({ acceptedOrigins = ACCEPTED_ORIGINS } = {}) => {
+export const corsMiddleware = ({ acceptedOrigins = ACCEPTED_ORIGINS } = {}) =>
 	cors({
 		origin: (origin, callback) => {
 			if (acceptedOrigins.includes(origin)) {
@@ -14,4 +14,3 @@ export const corsMiddleware = ({ acceptedOrigins = ACCEPTED_ORIGINS } = {}) => {
 			return callback(new Error("Not allowed by CORS"));
 		},
 	});
-};
