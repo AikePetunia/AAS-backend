@@ -22,8 +22,8 @@ const storesEntries = Object.entries(storesInformation); // esto es el nombre de
 const allProducts = [];
 const storeRuns = [];
 const storeToTest = null; // it's by entry name. Use null for ignoring
-const storeAmountToTest = 999;
-const storePagesToTest = 999;
+const storeAmountToTest = 99;
+const storePagesToTest = 99;
 const failedStores = [];
 let i = 0; 
 const globalSeen = new Set();
@@ -82,15 +82,36 @@ export async function scrapeStores() {
 	missing > 30.
 	*/
 
-	const { data: dbProducts, error } = await supabase.from("products").upsert(allProducts).select();
-	console.log("data", dbProducts.length);
+	// inserto datos a supabase.
+	const { data, error } = await supabase.from("products").upsert(allProducts).select();
+	if (error) throw error;
+
+	// hago products + datos stores, para darselos al indice de meilisearch
+	const { data: dbProducts, error: errorM } = await supabase
+		.from("products")
+		.select(`*, stores!fk_store ( trust_factor )`);
+	if (errorM) throw errorM;
+
+	const productsForMeili = dbProducts.map((product) => ({
+		...product,
+		trust_factor: product.stores?.trust_factor,
+	}));
+
 	console.log("indexing to meilisearch...");
-	const index = meilisearch.index("dbProducts");
-	const task = await index.addDocuments(dbProducts, { primaryKey: "listing_id" });
-	await meilisearch.tasks.waitForTask(task, { timeOutMs: 120000 });
+	const index = meilisearch.index("products");
 
-	console.log("succesfully index to meilisearch");
+	const enqueuedTask = await index.addDocuments(productsForMeili, { primaryKey: "listing_id" });
+	const finishedTask = await meilisearch.tasks.waitForTask(enqueuedTask.taskUid, {
+		timeOutMs: 120000,
+	});
 
+	if (finishedTask.status !== "succeeded") {
+		console.error("Meilisearch task failed:", finishedTask.error);
+		throw new Error("Fallo la indexacion en Meilisearch");
+	}
+	console.log(
+		`indexado ${finishedTask.detail?.receivedDocuments} docs, indexados: ${finishedTask.details?.indexedDocuments}`
+	);
 	if (error) {
 		console.error(error);
 		throw new Error("Fallo el upsert en la DB");

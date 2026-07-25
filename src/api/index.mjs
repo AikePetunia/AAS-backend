@@ -112,12 +112,14 @@ app.get("/products", async (req, res) => {
 		console.log("userq", userQ);
 		const currentOffset = parseInt(req.query.offset) || 0;
 
-		const index = meilisearch.index("products123");
+		const index = meilisearch.index("productsFromJson3"); // change it
 		const searchResults = await index.search(userQ, {
-			limit: 999,
+			limit: 50,
 			attributesToRetrieve: [
 				"listing_id",
 				"store_id",
+				"store_name",
+				"store_image",
 				"trust_factor",
 				"store_url",
 				"product_url",

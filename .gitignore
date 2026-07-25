@@ -24,6 +24,8 @@ data.ms
 *.njsproj
 *.sln
 *.sw?
-constPages.mjs
 .agents
 .env
+src/scraper/config
+src/scraper/config/storesConfig.mjs
+src/scraper/scraperCron.mjs

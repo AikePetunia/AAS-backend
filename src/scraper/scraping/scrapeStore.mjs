@@ -33,7 +33,7 @@ export async function scrapeStore(url, config, seen = new Set(), runId = Date.no
 			const priceText = $(element).find(config.selectors.price).text().trim();
 			const installmentRaw = $(element).find(config.selectors.installmentRaw)?.text().trim();
 
-			const listing_id = `${storeId}::${hashCode(productUrl)}`;
+			const listing_id = `${storeId}_${hashCode(productUrl)}`;
 			if (seen.has(listing_id)) {
 				return;
 			}
