@@ -34,7 +34,7 @@ export async function sendDiscordNotification({ type, taskName, status, stats = 
 		switch (taskName) {
 			case "getStorePaths":
 				statsText =
-					"```\n" + `Success : ${stats.sucessStores}\n` + `Failed  : ${stats.failed}\n` + "```";
+					"```\n" + `Success in: ${stats.sucessStores}\n` + `Failed  : ${stats.failed}\n` + "```";
 			case "storesDump":
 				statsText = "```\n" + `Stores : ${stats.storesInfo}\n` + "```";
 				break;
