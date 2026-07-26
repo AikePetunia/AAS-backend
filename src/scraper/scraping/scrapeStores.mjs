@@ -9,8 +9,6 @@ import { Meilisearch } from "meilisearch";
 
 dotenv.config();
 
-
-
 const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SECRET_KEY);
 const meilisearch = new Meilisearch({
 	host: process.env.MEILISEARCH_URL,
@@ -22,8 +20,8 @@ const storesEntries = Object.entries(storesInformation); // esto es el nombre de
 const allProducts = [];
 const storeRuns = [];
 const storeToTest = null; // it's by entry name. Use null for ignoring
-const storeAmountToTest = 99;
-const storePagesToTest = 99;
+const storeAmountToTest = 999;
+const storePagesToTest = 999;
 const failedStores = [];
 let i = 0; 
 const globalSeen = new Set();
@@ -143,4 +141,3 @@ export async function scrapeStores() {
 
 	await fs.writeFile(`./data/raw/latest/allProducts.json`, JSON.stringify(allProducts, null, 2));
 }
-await scrapeStores();

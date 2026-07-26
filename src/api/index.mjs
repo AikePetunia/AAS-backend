@@ -112,9 +112,11 @@ app.get("/products", async (req, res) => {
 		console.log("userq", userQ);
 		const currentOffset = parseInt(req.query.offset) || 0;
 
-		const index = meilisearch.index("productsFromJson3"); // change it
+		const index = meilisearch.index("products"); 
 		const searchResults = await index.search(userQ, {
-			limit: 50,
+			limit: 500, // CHANGE THIS
+			offset: currentOffset,
+			sort: ["last_price:asc"],
 			attributesToRetrieve: [
 				"listing_id",
 				"store_id",
@@ -127,10 +129,10 @@ app.get("/products", async (req, res) => {
 				"title_raw",
 				"last_price",
 			],
-			offset: currentOffset,
 		});
 		res.json(searchResults);
 	} catch (e) {
+		console.log("error", e);
 		res.status(500).json({ error: "Error interno del servidor" });
 	}
 });
