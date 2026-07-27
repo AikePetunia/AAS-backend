@@ -42,7 +42,7 @@ app.get("/stores", async (req, res) => {
 		const index = meilisearch.index("stores");
 		const currentOffset = parseInt(req.query.offset) || 0;
 		const searchResults = await index.search(userQ, {
-			limit: 999,
+			limit: 70,
 			attributesToRetrieve: ["store_id", "store_name", "store_image", "trust_factor"],
 			offset: currentOffset,
 		});
@@ -76,8 +76,9 @@ app.get("/stores/:id", async (req, res) => {
 			.from("stores")
 			.select(
 				`*,
-                products (
+                products!fk_store (
                     listing_id,
+					store_id,
                     product_url,
                     image_url,
                     title_raw,
@@ -114,7 +115,7 @@ app.get("/products", async (req, res) => {
 
 		const index = meilisearch.index("products"); 
 		const searchResults = await index.search(userQ, {
-			limit: 500, // CHANGE THIS
+			limit: 25, // CHANGE THIS
 			offset: currentOffset,
 			sort: ["last_price:asc"],
 			attributesToRetrieve: [
