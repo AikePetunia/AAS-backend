@@ -115,7 +115,7 @@ app.get("/products", async (req, res) => {
 
 		const index = meilisearch.index("products"); 
 		const searchResults = await index.search(userQ, {
-			limit: 25, // CHANGE THIS
+			limit: 25,
 			offset: currentOffset,
 			sort: ["last_price:asc"],
 			attributesToRetrieve: [
