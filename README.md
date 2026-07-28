@@ -17,6 +17,9 @@ El motor de scraping se encuentra en desarrollo y sujeto a mejoras iterativas de
 * **Transparencia Absoluta:** El mejor precio y la confianza real tienen prioridad. Cero anuncios, cero posts patrocinados. 
 * **Open Source & Comunidad:** El código es abierto. Cualquier Pull Request, mejora de rendimiento o crítica constructiva es bienvenida para mejorar la herramienta.
 
+Podés ver el como se pensó la arquitectura desde acá:
+https://excalidraw.com/#json=JarbxLFhH4YzyCK9IYybR,KXsfPkmWHcrQT04ktMQmMw
+
 ## Próximos Pasos
 
 - [x] Desacoplamiento de arquitectura.

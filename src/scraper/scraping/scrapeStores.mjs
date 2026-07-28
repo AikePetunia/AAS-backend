@@ -1,5 +1,6 @@
 import pLimit from "p-limit";
-import { scrapeStore } from "./scrapeStore.mjs";
+import { cheerioAxiosScraping } from "./cheerioAxiosScraping.mjs";
+import { fetchScraping } from "./fetchScraping.mjs";
 import { storesInformation } from "../config/storesInformation.mjs";
 import fs from "fs/promises";
 import { all } from "axios";
@@ -14,17 +15,17 @@ const meilisearch = new Meilisearch({
 	host: process.env.MEILISEARCH_URL,
 	apiKey: process.env.MEILISEARCH_ADMIN_API_KEY,
 });
-// ¿Como soluciono los 429?
+
 const limit = pLimit(5);
 const storesEntries = Object.entries(storesInformation); // esto es el nombre de la tienda en su config (armyTech: new SiteConfig)
 const allProducts = [];
 const storeRuns = [];
 const storeToTest = null; // it's by entry name. Use null for ignoring
 const storeAmountToTest = 999;
-const storePagesToTest = 999;
+const storePagesToTest = 1;
 const failedStores = [];
-let i = 0; 
 const globalSeen = new Set();
+let i = 0;
 
 // entra tienda por tienda, y dentro de cada tienda entra categoría por categoría
 export async function scrapeStores() {
@@ -33,32 +34,38 @@ export async function scrapeStores() {
 		if (storeToTest && storeName !== storeToTest) {
 			continue;
 		}
-
-		const storeTasks = [];
-		const storeToAccess = config.store_url;
 		const runId = Date.now();
-		let j = 0;
+		const storeTasks = [];
+		// AXIOS, interceptar fetch (SPA)
+		if (config.public_fetching_url) {
+			console.log("tienda con public fetching", config.store_name);
 
-		storeRuns.push({ store_id: config.store_id, run_id: runId });
+			storeTasks.push(limit(() => fetchScraping(config, runId)));
+		} else {
+			// CHEERIO + AXIOS - PLAYWIRGHT METHOD (2-3) (Entrar página por página, extraer. SSR)
+			const storeToAccess = config.store_url;
+			let j = 0;
 
-		for (const categoryPath of config.pages) {
-			// testeo rutas
-			if (j >= storePagesToTest) break;
+			storeRuns.push({ store_id: config.store_id, run_id: runId });
 
-			const fullCategoryUrl = storeToAccess + categoryPath;
-			storeTasks.push(limit(() => scrapeStore(fullCategoryUrl, config, globalSeen, runId)));
-			j++;
+			for (const categoryPath of config.pages) {
+				// testeo rutas
+				if (j >= storePagesToTest) break;
+
+				let fullCategoryUrl = storeToAccess + categoryPath;
+				storeTasks.push(
+					limit(() => cheerioAxiosScraping(fullCategoryUrl, config, globalSeen, runId))
+				);
+				j++;
+			}
 		}
-
 		// escribimos resultados por tienda
 		let storeResults = await Promise.all(storeTasks);
 		const storeProducts = storeResults.flat();
 		if (storeProducts.length != 0) {
-			await fs.writeFile(
-				`./data/raw/latest/${storeName}.json`,
-				JSON.stringify(storeProducts, null, 2)
-			);
+			await fs.writeFile(`./data/raw/${storeName}.json`, JSON.stringify(storeProducts, null, 2));
 		} else {
+			// no extrajo ni 1 solo producto
 			failedStores.push(storeName);
 			await fs.writeFile(`./data/failedStores.json`, JSON.stringify(failedStores, null, 2));
 		}
@@ -67,28 +74,24 @@ export async function scrapeStores() {
 		i++;
 	}
 
-	/*
-	Por tienda, tiene un "id de sesion", si en esa sesion, un producto no volvio a aparecer, incrementa missing.
-
-	->Criterios para desaparecer del front un producto:
-	last_scraped_at > 1 día y missing > 5..
-	Esto hace que un producto no este más en stock.
-
-	->Criterio para sacar un producto de la DB
-	como no cago plata para mantener un DB cara xd, voy a tomar de criterio.
-	last_scraped_at > 7 día
-	missing > 30.
-	*/
-
 	// inserto datos a supabase.
 	const { data, error } = await supabase.from("products").upsert(allProducts).select();
-	if (error) throw error;
 
+	await index_products();
+	await increment_missing();
+	await purge_products();
+
+	await fs.writeFile(`./data/raw/allProducts.json`, JSON.stringify(allProducts, null, 2));
+}
+
+await scrapeStores();
+
+async function index_products() {
 	// hago products + datos stores, para darselos al indice de meilisearch
-	const { data: dbProducts, error: errorM } = await supabase
+	const { data: dbProducts, error: error } = await supabase
 		.from("products")
 		.select(`*, stores!fk_store ( trust_factor )`);
-	if (errorM) throw errorM;
+	if (error) throw error;
 
 	const productsForMeili = dbProducts.map((product) => ({
 		...product,
@@ -115,6 +118,22 @@ export async function scrapeStores() {
 		throw new Error("Fallo el upsert en la DB");
 	}
 	console.log("inserted to db");
+}
+
+/*
+	Por tienda, tiene un "id de sesion", si en esa sesion, un producto no volvio a aparecer, incrementa missing.
+
+	->Criterios para desaparecer del front un producto:
+	last_scraped_at > 1 día y missing > 5..
+	Esto hace que un producto no este más en stock.
+
+	->Criterio para sacar un producto de la DB
+	como no cago plata para mantener un DB cara xd, voy a tomar de criterio.
+	last_scraped_at > 7 día
+	missing > 30.
+	*/
+
+async function increment_missing() {
 	console.log("updating missing counters...");
 	for (const run of storeRuns) {
 		const { error: rpcError } = await supabase.rpc("increment_missingv2", {
@@ -125,9 +144,11 @@ export async function scrapeStores() {
 		if (rpcError) {
 			console.error(`Error incrementando missing para tienda ${run.store_id}:`, rpcError);
 		}
-		console.log("missing counters updated");
 	}
+	console.log("missing counters updated");
+}
 
+async function purge_products() {
 	try {
 		console.log("trying to delete old products...");
 		const { data, error } = await supabase.rpc("purge_products", {
@@ -138,6 +159,4 @@ export async function scrapeStores() {
 	} catch (e) {
 		console.log("error deleting product.");
 	}
-
-	await fs.writeFile(`./data/raw/latest/allProducts.json`, JSON.stringify(allProducts, null, 2));
 }

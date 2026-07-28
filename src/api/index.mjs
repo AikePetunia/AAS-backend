@@ -106,6 +106,8 @@ app.get("/stores/:id", async (req, res) => {
 
 // SEARCH
 //localhost:3000/products?q=${product}offset=${offset}
+// siempre me trae en asc, deberia de tener los filtros y uno comun.
+// pensemos esto simplemente con el filtro de asc y listo.
 app.get("/products", async (req, res) => {
 	try {
 		console.log("TRYING GETTING products");
@@ -115,7 +117,7 @@ app.get("/products", async (req, res) => {
 
 		const index = meilisearch.index("products"); 
 		const searchResults = await index.search(userQ, {
-			limit: 25,
+			limit: 999,
 			offset: currentOffset,
 			sort: ["last_price:asc"],
 			attributesToRetrieve: [
@@ -130,7 +132,7 @@ app.get("/products", async (req, res) => {
 				"title_raw",
 				"last_price",
 			],
-		});
+		}); 
 		res.json(searchResults);
 	} catch (e) {
 		console.log("error", e);
@@ -140,6 +142,7 @@ app.get("/products", async (req, res) => {
 
 // Todo: complete product info.
 // app.get("/products/:id")
+// todo: Añadir sinonimos.
 
 server.listen(port, () => {
 	console.log(`server open on http://localhost:${port}`);

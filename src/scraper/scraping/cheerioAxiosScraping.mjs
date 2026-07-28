@@ -1,6 +1,12 @@
+// ========================================================
+// 2. La opción intermedia
+// Obtengo todas las rutas (getStorePaths), luego Axios + Cheerio, entran página por pagina.
+// Usado tiendas basadas en: Tiendanube, WooCommerce, Shopify, PrestaShop
+// ========================================================
+
 import * as cheerio from "cheerio";
 import axios from "axios";
-
+import { parsePrice, hashCode } from "./utils/utils.mjs";
 const scraperClient = axios.create({
 	timeout: 15000, // 15 segundos máximo antes de abortar si el server no responde
 	headers: {
@@ -14,8 +20,9 @@ const scraperClient = axios.create({
 	},
 });
 
-export async function scrapeStore(url, config, seen = new Set(), runId = Date.now()) {
+export async function cheerioAxiosScraping(url, config, seen = new Set(), runId = Date.now()) {
 	try {
+		console.log("Extrayendo productos desde:", url);
 		const response = await scraperClient.get(url);
 		const html = response.data;
 
@@ -67,20 +74,3 @@ export async function scrapeStore(url, config, seen = new Set(), runId = Date.no
 		return [];
 	}
 }
-
-function parsePrice(priceStr) {
-	if (!priceStr) return null;
-	const raw = priceStr;
-	const value = parseInt(priceStr.replace(/\$/g, "").replace(/\./g, "").replace(/,/g, "."), 10);
-	return value;
-}
-
-function hashCode(str) {
-	let hash = 0;
-	for (const char of str) {
-		hash = (hash << 5) - hash + char.charCodeAt(0);
-		hash |= 0;
-	}
-	return Math.abs(hash).toString(16).padStart(8, "0");
-}
-
