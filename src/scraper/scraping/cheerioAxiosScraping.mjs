@@ -34,11 +34,11 @@ export async function cheerioAxiosScraping(url, config, seen = new Set(), runId 
 			const titleRaw = $(element).find(config.selectors.title_raw).text().trim();
 			const productUrl = $(element).find(config.selectors.product_url).attr("href");
 
-			if (!titleRaw || !productUrl) return;
+			if (!titleRaw || !productUrl) return null;
 
 			const imageUrl = $(element).find(config.selectors.image_url)?.attr("src");
 			const priceText = $(element).find(config.selectors.price).text().trim();
-			const installmentRaw = $(element).find(config.selectors.installmentRaw)?.text().trim();
+			//const installmentRaw = $(element).find(config.selectors.installmentRaw)?.text().trim();
 
 			const listing_id = `${storeId}_${hashCode(productUrl)}`;
 			if (seen.has(listing_id)) {

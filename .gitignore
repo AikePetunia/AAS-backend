@@ -29,3 +29,10 @@ data.ms
 src/scraper/config
 src/scraper/config/storesConfig.mjs
 src/scraper/scraperCron.mjs
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
