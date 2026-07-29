@@ -4288,7 +4288,7 @@ async function index_products() {
 	await index.updateStopWords(['ramen']);
 
 	console.log(
-		`indexado ${finishedTask.detail?.receivedDocuments} docs, indexados: ${finishedTask.details?.indexedDocuments}`
+		`indexado  ${finishedTask.detail?.receivedDocuments} docs, indexados: ${finishedTask.details?.indexedDocuments}`
 	);
 	if (error) {
 		console.error(error);
