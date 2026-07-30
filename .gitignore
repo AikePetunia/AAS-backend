@@ -36,3 +36,4 @@ src/scraper/scraperCron.mjs
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+*CLAUDE.mjs

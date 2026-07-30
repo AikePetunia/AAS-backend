@@ -10,13 +10,10 @@ import { parsePrice, hashCode } from "./utils/utils.mjs";
 const scraperClient = axios.create({
 	timeout: 15000, // 15 segundos máximo antes de abortar si el server no responde
 	headers: {
-		"User-Agent":
-			"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-		Accept:
-			"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+		"User-Agent": "AAS/0.1 [https://aike.tech, discord: venus.s.s]",
+		Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 		"Accept-Language": "es-ES,es;q=0.9",
-		Referer: "https://google.com",
-		"Upgrade-Insecure-Requests": "1",
+		Connection: "keep-alive",
 	},
 });
 

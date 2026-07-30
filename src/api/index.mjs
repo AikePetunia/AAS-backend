@@ -108,18 +108,53 @@ app.get("/stores/:id", async (req, res) => {
 //localhost:3000/products?q=${product}offset=${offset}
 // siempre me trae en asc, deberia de tener los filtros y uno comun.
 // pensemos esto simplemente con el filtro de asc y listo.
+
+/*
+
+Tener el filtro como: 
+sort: ["last_price:asc"]
+Meilisearch dice:  "Ignorar relevancia. Tirarme todo lo que haya matcheado (sea por sinónimo, prefijo o lo que sea), desde el más barato al más caro".
+permitiendo que siempre le de basura a cualquier tipo de busqueda. Más si es default.
+La manera de configurar esto de manera correcta es con los tags de productos.  */
+
 app.get("/products", async (req, res) => {
 	try {
-		console.log("TRYING GETTING products");
 		const userQ = req.query.q;
-		console.log("userq", userQ);
+		const sort = req.query.sort;
 		const currentOffset = parseInt(req.query.offset) || 0;
+		const limit = parseInt(req.query.limit) || 20;
+		/*
+		! filtros por:
+		* store_id 			 /products?q={search}&store_id=armytech
+		* trust_factor  	 /products?q={search}&sort=trust_factor:desc
+		* el precio: [
+		*  "precio más bajo",			 /products?q=mouse&sort=last_price:desc
+		*  "precio mas alto", 		     /products?q=ram&sort=last_price:asc
+		*  "rango de precio[MIN, MAX]"   /products?q={search}&price_min=100000&price_max=250000
+		 ]
+		todos:
+		* categoria de producto <- No implementado en ningún lado
+		* Marca de producto
+		*/
 
-		const index = meilisearch.index("products"); 
-		const searchResults = await index.search(userQ, {
-			limit: 999,
+		// los query params van separados por &
+		const filters = [];
+		if (req.query.store_id) {
+			console.log("filtrando por store_id");
+			filters.push(`store_id = "${req.query.store_id}"`);
+		}
+		if (req.query.price_min) {
+			console.log("filtrando por un precio minimo");
+			filters.push(`last_price >= ${req.query.price_min}`);
+		}
+		if (req.query.price_max) {
+			console.log("filtrando por precio máximo");
+			filters.push(`last_price <= ${req.query.price_max}`);
+		}
+
+		const options = {
+			limit,
 			offset: currentOffset,
-			sort: ["last_price:asc"],
 			attributesToRetrieve: [
 				"listing_id",
 				"store_id",
@@ -132,17 +167,23 @@ app.get("/products", async (req, res) => {
 				"title_raw",
 				"last_price",
 			],
-		}); 
+		};
+
+		if (filters.length) {
+			options.filter = filters.join(" AND ");
+		}
+		if (sort) {
+			options.sort = [sort];
+		}
+
+		const index = meilisearch.index("products");
+		const searchResults = await index.search(userQ, options);
 		res.json(searchResults);
 	} catch (e) {
 		console.log("error", e);
 		res.status(500).json({ error: "Error interno del servidor" });
 	}
 });
-
-// Todo: complete product info.
-// app.get("/products/:id")
-// todo: Añadir sinonimos.
 
 server.listen(port, () => {
 	console.log(`server open on http://localhost:${port}`);

@@ -19,10 +19,7 @@ const stats = {
 	processedPages: 0,
 };
 /*
-1. getStorePaths
-2. pathsClassification.py !!!!
-3. json con paths clasificados
-4. actualizar constPages
+todo: Complementar con robots.txt
 */
 const stores = [
 	"https://nextgames.com.ar/",

@@ -3,6 +3,8 @@ import { hashCode, parsePrice } from "./utils/utils.mjs";
 export class PlaywrightScraping {
 	constructor(config, runId = Date.now(), seen = new Set()) {
 		this.config = config;
+		this.runId = runId;
+		this.seen = seen;
 	}
 
 	async initialize() {
@@ -11,7 +13,7 @@ export class PlaywrightScraping {
 	}
 
 	async scrapeProducts() {
-		const products = [];
+		let allProducts = [];
 		const storeId = this.config.store_id;
 
 		try {
@@ -19,19 +21,21 @@ export class PlaywrightScraping {
 
 			for (const page of this.config.pages) {
 				const categoryUrl = this.buildUrl(page);
-				// console.log(`Scraping ${this.config.store_name}: ${url}`);
 
 				try {
-					await this.page.goto(categoryUrl, {
-						waitUntil: "networkidle",
-					});
+					try {
+						await this.page.goto(categoryUrl, { waitUntil: "networkidle", timeout: 15000 });
+					} catch {
+						await this.page.goto(categoryUrl, { waitUntil: "domcontentloaded" });
+						await this.page.waitForTimeout(2000);
+					}
 
-					const products = await this.extractProductsFromPage(categoryUrl);
+					const products = await this.extractProductsFromPage(categoryUrl, storeId);
 					if (!products.length) break;
 
-					products = products.concat(products);
+					allProducts = allProducts.concat(products);
 				} catch (error) {
-					console.error(`Error in ${this.config.name}:`, error);
+					console.error(`Error in ${this.config.store_name}:`, error);
 					break;
 				}
 			}
@@ -39,13 +43,13 @@ export class PlaywrightScraping {
 			await this.browser.close();
 		}
 
-		return products;
+		return allProducts;
 	}
 
-	async extractProductsFromPage(categoryUrl) {
+	async extractProductsFromPage(categoryUrl, storeId) {
 		const { selectors } = this.config;
 
-		return this.page.$$eval(
+		const rawProducts = await this.page.$$eval(
 			selectors.productWrapper,
 			(products, sel) => {
 				return products
@@ -58,37 +62,39 @@ export class PlaywrightScraping {
 						const imageUrl = product.querySelector(sel.image_url)?.src;
 						const priceText = product.querySelector(sel.price)?.innerText?.trim();
 
-						const listing_id = `${selectors.store_id}_${hashCode(productUrl)}`;
-						if (seen.has(listing_id)) {
-							return;
-						}
-						seen.add(listing_id);
-
-						return {
-							listing_id: listing_id,
-							store_id: selectors.store_id,
-							source_page_url: categoryUrl,
-							product_url: productUrl,
-							title_raw: title_raw,
-							image_url: imageUrl,
-							stock_status: true, // en db sería true or false.
-							product_tags: [],
-							last_price: parsePrice(priceText),
-							last_scraped_at: new Date().toISOString(),
-							missing: 0,
-							last_run_id: runId,
-						};
+						return { title_raw, productUrl, imageUrl, priceText };
 					})
 					.filter((product) => product !== null);
 			},
 			selectors
 		);
+
+		return rawProducts
+			.map((raw) => {
+				const listing_id = `${storeId}_${hashCode(raw.productUrl)}`;
+				if (this.seen.has(listing_id)) return null;
+				this.seen.add(listing_id);
+
+				return {
+					listing_id,
+					store_id: storeId,
+					source_page_url: categoryUrl,
+					product_url: raw.productUrl,
+					title_raw: raw.title_raw,
+					image_url: raw.imageUrl,
+					stock_status: true,
+					product_tags: [],
+					last_price: parsePrice(raw.priceText),
+					last_scraped_at: new Date().toISOString(),
+					missing: 0,
+					last_run_id: this.runId,
+				};
+			})
+			.filter((product) => product !== null);
 	}
 
 	buildUrl(category) {
-		const { store_url, pagination } = this.config;
-		const categoryUrl = `${store_url}${category}`;
-
-		return categoryUrl;
+		const { store_url } = this.config;
+		return `${store_url}${category}`;
 	}
 }

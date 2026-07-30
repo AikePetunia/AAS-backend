@@ -39,14 +39,13 @@ export async function storesDump() {
 		console.log("Inserted to DB");
 
 		console.log("indexing on meilisearch...");
-		const index = meilisearch.index("stores");
-		const task = await index.addDocuments(dbStores, { primaryKey: "store_id" });
-		await meilisearch.tasks.waitForTask(task, { timeOutMs: 120000 });
+		// const index = meilisearch.index("stores");
+		// const task = await index.addDocuments(dbStores, { primaryKey: "store_id" });
+		// await meilisearch.tasks.waitForTask(task, { timeOutMs: 120000 });
 
 		console.log("saving local..");
 		await fs.writeFile(`./data/dumps/storesDump.json`, JSON.stringify(stores, null, 2));
 		console.log("json saved.");
-
 	} catch (e) {
 		console.log("Error writing stores dump:", e);
 	}

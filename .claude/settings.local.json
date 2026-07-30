@@ -26,7 +26,13 @@
       "Bash(node src/scraper/scraping/scrapeStoresCLAUDE.mjs megasoft)",
       "Bash(node src/scraper/scraping/scrapeStoresCLAUDE.mjs manabigames)",
       "Bash(awk '/smarttucuman: new storesConfig/,0' /home/aike/code/AAS-backend/src/scraper/config/storesInformationCLAUDE.mjs)",
-      "Bash(timeout 60 node src/scraper/scraping/scrapeStoresCLAUDE.mjs hfTecnologia)"
+      "Bash(timeout 60 node src/scraper/scraping/scrapeStoresCLAUDE.mjs hfTecnologia)",
+      "Bash(rtk ls *)",
+      "Bash(find / -iname \"agents.md\" -not -path \"*/node_modules/*\")",
+      "Read(//home/aike/code/AAS-backend/**)",
+      "Bash(node -e ' *)",
+      "Bash(node /tmp/claude-1000/-home-aike-code-AAS-backend-src-scraper-config/8537dbe6-4a78-4715-80af-01d0e3108267/scratchpad/diagnose.mjs)",
+      "Bash(node --input-type=module -e \"import\\('./src/scraper/scraping/playwrightScraping.mjs'\\).then\\(\\(\\)=>console.log\\('OK'\\)\\)\")"
     ]
   }
 }
