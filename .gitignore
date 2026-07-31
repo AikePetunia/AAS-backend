@@ -26,9 +26,14 @@ data.ms
 *.sw?
 .agents
 .env
+# Configs
 src/scraper/config
 src/scraper/config/storesConfig.mjs
 src/scraper/scraperCron.mjs
+*CLAUDE.mjs
+
+# images
+/src/api/images
 
 # Playwright
 /test-results/
@@ -36,4 +41,3 @@ src/scraper/scraperCron.mjs
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
-*CLAUDE.mjs

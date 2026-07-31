@@ -1,8 +1,9 @@
 import axios from "axios";
 import { getValueByPath, getFirstValue, hashCode } from "./utils/utils.mjs";
+import { convertImage } from "./utils/convertImage.mjs";
 
 const client = axios.create({
-	timeout: 15000, // 15 segundos máximo antes de abortar si el server no responde
+	timeout: 30000,
 	headers: {
 		"User-Agent": "AAS/0.1 [https://aike.tech, discord: venus.s.s]",
 		Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -59,8 +60,10 @@ export async function fetchScraping(config, runId) {
 			} else {
 				imageUrl = image_url + getValueByPath(product, image_required_key) + image_extension;
 			}
-
+			// dedupes keys doesn't exist (Endpoint doesn't give multiple same products.)
 			const listing_id = `${store_id}_${hashCode(productUrl)}`;
+
+			convertImage(imageUrl, listing_id);
 
 			products.push({
 				listing_id: listing_id,

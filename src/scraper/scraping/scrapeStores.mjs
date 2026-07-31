@@ -12,7 +12,11 @@ import { Meilisearch } from "meilisearch";
 
 dotenv.config();
 
-const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SECRET_KEY);
+const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SECRET_KEY, {
+	connectTimeout: 30000,
+	headersTimeout: 30000,
+	bodyTimeout: 30000,
+});
 const meilisearch = new Meilisearch({
 	host: process.env.MEILISEARCH_URL,
 	apiKey: process.env.MEILISEARCH_ADMIN_API_KEY,
@@ -60,6 +64,7 @@ export async function scrapeStores() {
 
 			storeRuns.push({ store_id: config.store_id, run_id: runId });
 
+				j++;
 			for (const categoryPath of config.pages) {
 				// testeo rutas
 				if (j >= storePagesToTest) break;
@@ -143,9 +148,6 @@ async function index_products() {
 		throw new Error("Fallo la indexacion en Meilisearch");
 	}
 
-	console.log(
-		`indexado  ${finishedTask.detail?.receivedDocuments} docs, indexados: ${finishedTask.details?.indexedDocuments}`
-	);
 	if (error) {
 		console.error(error);
 		throw new Error("Fallo el upsert en la DB");

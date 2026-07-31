@@ -61,7 +61,7 @@ app.get("/stores/:id", async (req, res) => {
 		console.log("id leido", storeId);
 		//paginado
 		const page = parseInt(req.query.page) || 1;
-		const limit = 10;
+		const limit = 999;
 		const from = (page - 1) * limit;
 		const to = from + limit - 1;
 
@@ -122,7 +122,7 @@ app.get("/products", async (req, res) => {
 		const userQ = req.query.q;
 		const sort = req.query.sort;
 		const currentOffset = parseInt(req.query.offset) || 0;
-		const limit = parseInt(req.query.limit) || 20;
+		const limit = parseInt(req.query.limit) || 999;
 		/*
 		! filtros por:
 		* store_id 			 /products?q={search}&store_id=armytech

@@ -1,5 +1,7 @@
 import { chromium } from "playwright";
 import { hashCode, parsePrice } from "./utils/utils.mjs";
+import { convertImage } from "./utils/convertImage.mjs";
+
 export class PlaywrightScraping {
 	constructor(config, runId = Date.now(), seen = new Set()) {
 		this.config = config;
@@ -24,7 +26,7 @@ export class PlaywrightScraping {
 
 				try {
 					try {
-						await this.page.goto(categoryUrl, { waitUntil: "networkidle", timeout: 15000 });
+						await this.page.goto(categoryUrl, { waitUntil: "networkidle", timeout: 30000 });
 					} catch {
 						await this.page.goto(categoryUrl, { waitUntil: "domcontentloaded" });
 						await this.page.waitForTimeout(2000);
@@ -61,6 +63,7 @@ export class PlaywrightScraping {
 
 						const imageUrl = product.querySelector(sel.image_url)?.src;
 						const priceText = product.querySelector(sel.price)?.innerText?.trim();
+						convertImage(imageUrl, listing_id);
 
 						return { title_raw, productUrl, imageUrl, priceText };
 					})

@@ -7,8 +7,9 @@
 import * as cheerio from "cheerio";
 import axios from "axios";
 import { parsePrice, hashCode } from "./utils/utils.mjs";
+import { convertImage } from "./utils/convertImage.mjs";
 const scraperClient = axios.create({
-	timeout: 15000, // 15 segundos máximo antes de abortar si el server no responde
+	timeout: 30000, // 15 segundos máximo antes de abortar si el server no responde
 	headers: {
 		"User-Agent": "AAS/0.1 [https://aike.tech, discord: venus.s.s]",
 		Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -42,6 +43,8 @@ export async function cheerioAxiosScraping(url, config, seen = new Set(), runId 
 				return;
 			}
 			seen.add(listing_id);
+
+			convertImage(imageUrl, listing_id);
 
 			products.push({
 				listing_id: listing_id,
