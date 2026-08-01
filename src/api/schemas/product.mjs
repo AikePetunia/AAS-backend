@@ -29,9 +29,7 @@ const productSchema = z.object({
 			required_error: "El nombre del producto es obligatorio.",
 		})
 		.min(3, "El nombre tiene que contener mas de 3 carácteres"),
-	image_url: z.string().url({
-		invalid_type_error: "El link de la imagen tiene que ser una URL",
-	}),
+
 	stock_status: z.boolean({ required_error: "El producto debe o no existir." }),
 	product_tags: z.array(z.string()),
 	last_price: z.number().max(10000000, "El precio máximo es 10m."), // el producto más caro que vi, es de 10m so, ese será el limite de momento hasta que la maldita inflacion

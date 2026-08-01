@@ -1,6 +1,10 @@
 import axios from "axios";
 import { getValueByPath, getFirstValue, hashCode } from "./utils/utils.mjs";
 import { convertImage } from "./utils/convertImage.mjs";
+import path from "path";
+import { fileURLToPath } from "url";
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const client = axios.create({
 	timeout: 30000,
@@ -64,7 +68,17 @@ export async function fetchScraping(config, runId) {
 			const listing_id = `${store_id}_${hashCode(productUrl)}`;
 
 			convertImage(imageUrl, listing_id);
+			const image_local = path.join(
+				__dirname,
+				"..",
+				"..",
+				"api",
+				"images",
+				"products",
+				listing_id + ".avif"
+			);
 
+			console.log("image_url", image_local);
 			products.push({
 				listing_id: listing_id,
 				store_id: store_id,

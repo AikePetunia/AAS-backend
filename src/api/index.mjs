@@ -1,26 +1,28 @@
 import express from "express";
 import { createServer } from "node:http";
-import { createClient } from "@supabase/supabase-js";
 import { corsMiddleware } from "./middlewares/cors.mjs";
+import { createClient } from "@supabase/supabase-js";
+import { createStoreRouter } from "./router/store.mjs";
+import { createProductRouter } from "./router/product.mjs";
+import dotenv from "dotenv";
 import path from "path";
 import { fileURLToPath } from "url";
-import dotenv from "dotenv";
 import { Meilisearch } from "meilisearch";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.join(__dirname, "../../.env") });
 
-// Front-end -> Express -> Guarda en Supabase -> copia a Meilisearch.
-export const meilisearch = new Meilisearch({
+const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SECRET_KEY);
+// Front-end -> Express -> Guarda en supabase -> copia a Meilisearch.
+const meilisearch = new Meilisearch({
 	host: process.env.MEILISEARCH_URL,
 	apiKey: process.env.MEILISEARCH_ADMIN_API_KEY,
 });
 
-const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SECRET_KEY);
 const app = express();
 const server = createServer(app);
-
 const port = process.env.PORT || 3000;
+
 app.use(express.json());
 app.disable("x-powered-by");
 
@@ -30,160 +32,10 @@ app.use(
 	})
 );
 
-// ==========================
-// STORES
-// ==========================
-// SEARCH
-app.get("/stores", async (req, res) => {
-	try {
-		console.log("TRYING GETTING STORES");
-		const userQ = req.query.q;
+app.use("/stores", createStoreRouter({ supabase, meilisearch }));
+app.use("/stores/:id", createStoreRouter({ supabase, meilisearch }));
 
-		const index = meilisearch.index("stores");
-		const currentOffset = parseInt(req.query.offset) || 0;
-		const searchResults = await index.search(userQ, {
-			limit: 70,
-			attributesToRetrieve: ["store_id", "store_name", "store_image", "trust_factor"],
-			offset: currentOffset,
-		});
-		res.json(searchResults);
-	} catch (e) {
-		res.status(500).json({ error: "Error interno del servidor" });
-	}
-});
-
-// Stores completo + Productos
-// detalle de la tienda, contiene sus productos + paginado
-//http://localhost:3000/stores/armytech?page=1 ... http://localhost:3000/stores/armytech?page=2
-app.get("/stores/:id", async (req, res) => {
-	try {
-		const storeId = req.params.id;
-		console.log("id leido", storeId);
-		//paginado
-		const page = parseInt(req.query.page) || 1;
-		const limit = 999;
-		const from = (page - 1) * limit;
-		const to = from + limit - 1;
-
-		//fecha para stock
-		const dateLimit = new Date();
-		dateLimit.setDate(dateLimit.getDate() - 3);
-		const dateLimitIso = dateLimit.toISOString();
-
-		// dame los datos completos de la tienda y sus productos relacionados.
-		// limitado a 10 productos.
-		const { data, error } = await supabase
-			.from("stores")
-			.select(
-				`*,
-                products!fk_store (
-                    listing_id,
-					store_id,
-                    product_url,
-                    image_url,
-                    title_raw,
-                    last_price
-                )
-            `
-			)
-			.eq("store_id", storeId)
-			.lt("products.missing", 5) // producto 5 veces que no se vio, "no existe".
-			.gte("products.last_scraped_at", dateLimitIso)
-			.range(from, to, { foreignTable: "products" })
-			.single();
-
-		if (error) throw error;
-		res.json(data);
-	} catch (e) {
-		console.error("ERROR REAL DE SUPABASE:", e);
-		res.status(500).json({ error: "error interno del servidor" });
-	}
-});
-
-// ==========================
-// Products
-// ==========================
-
-// SEARCH
-//localhost:3000/products?q=${product}offset=${offset}
-// siempre me trae en asc, deberia de tener los filtros y uno comun.
-// pensemos esto simplemente con el filtro de asc y listo.
-
-/*
-
-Tener el filtro como: 
-sort: ["last_price:asc"]
-Meilisearch dice:  "Ignorar relevancia. Tirarme todo lo que haya matcheado (sea por sinónimo, prefijo o lo que sea), desde el más barato al más caro".
-permitiendo que siempre le de basura a cualquier tipo de busqueda. Más si es default.
-La manera de configurar esto de manera correcta es con los tags de productos.  */
-
-app.get("/products", async (req, res) => {
-	try {
-		const userQ = req.query.q;
-		const sort = req.query.sort;
-		const currentOffset = parseInt(req.query.offset) || 0;
-		const limit = parseInt(req.query.limit) || 999;
-		/*
-		! filtros por:
-		* store_id 			 /products?q={search}&store_id=armytech
-		* trust_factor  	 /products?q={search}&sort=trust_factor:desc
-		* el precio: [
-		*  "precio más bajo",			 /products?q=mouse&sort=last_price:desc
-		*  "precio mas alto", 		     /products?q=ram&sort=last_price:asc
-		*  "rango de precio[MIN, MAX]"   /products?q={search}&price_min=100000&price_max=250000
-		 ]
-		todos:
-		* categoria de producto <- No implementado en ningún lado
-		* Marca de producto
-		*/
-
-		// los query params van separados por &
-		const filters = [];
-		if (req.query.store_id) {
-			console.log("filtrando por store_id");
-			filters.push(`store_id = "${req.query.store_id}"`);
-		}
-		if (req.query.price_min) {
-			console.log("filtrando por un precio minimo");
-			filters.push(`last_price >= ${req.query.price_min}`);
-		}
-		if (req.query.price_max) {
-			console.log("filtrando por precio máximo");
-			filters.push(`last_price <= ${req.query.price_max}`);
-		}
-
-		const options = {
-			limit,
-			offset: currentOffset,
-			attributesToRetrieve: [
-				"listing_id",
-				"store_id",
-				"store_name",
-				"store_image",
-				"trust_factor",
-				"store_url",
-				"product_url",
-				"image_url",
-				"title_raw",
-				"last_price",
-			],
-		};
-
-		if (filters.length) {
-			options.filter = filters.join(" AND ");
-		}
-		if (sort) {
-			options.sort = [sort];
-		}
-
-		const index = meilisearch.index("products");
-		const searchResults = await index.search(userQ, options);
-		res.json(searchResults);
-	} catch (e) {
-		console.log("error", e);
-		res.status(500).json({ error: "Error interno del servidor" });
-	}
-});
+app.use("/products", createProductRouter({ meilisearch }));
 
 server.listen(port, () => {
 	console.log(`server open on http://localhost:${port}`);
