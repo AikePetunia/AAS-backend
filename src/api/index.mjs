@@ -28,7 +28,12 @@ app.disable("x-powered-by");
 
 app.use(
 	corsMiddleware({
-		acceptedOrigins: ["http://localhost:8080", "http://localhost:5173", "http://localhost:1234"],
+		acceptedOrigins: [
+			"http://localhost:8080",
+			"http://localhost:3000",
+			"http://localhost:5173",
+			"http://localhost:1234",
+		],
 	})
 );
 

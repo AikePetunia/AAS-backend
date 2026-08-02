@@ -1,11 +1,30 @@
 import { Router } from "express";
 import fs from "node:fs";
-import path from "path";
-import { fileURLToPath } from "url";
+import {
+	getProductImage,
+	getHostedProductImageUrl,
+	getHostedStoreImageUrl,
+} from "../utils/images.mjs";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const IMAGES_DIR = path.join(__dirname, "..", "images", "products");
+let productSearchSettingsReady = false;
+
+async function ensureProductSearchSettings(index) {
+	if (productSearchSettingsReady) return;
+
+	await index.updateSettings({
+		filterableAttributes: [
+			"store_id",
+			"last_price",
+			"category",
+			"trust_factor",
+			"missing",
+			"last_scraped_at",
+		],
+		sortableAttributes: ["last_price", "missing"],
+	});
+
+	productSearchSettingsReady = true;
+}
 
 export const createProductRouter = ({ meilisearch }) => {
 	const productController = Router();
@@ -32,7 +51,11 @@ export const createProductRouter = ({ meilisearch }) => {
 			*/
 
 			// los query params van separados por &
-			const filters = [];
+			const dateLimit = new Date();
+			dateLimit.setDate(dateLimit.getDate() - 3);
+			const dateLimitIso = dateLimit.toISOString();
+
+			const filters = ["missing < 1", `last_scraped_at >= "${dateLimitIso}"`];
 			if (req.query.store_id) {
 				console.log("filtrando por store_id");
 				filters.push(`store_id = "${req.query.store_id}"`);
@@ -45,7 +68,6 @@ export const createProductRouter = ({ meilisearch }) => {
 				console.log("filtrando por precio máximo");
 				filters.push(`last_price <= ${req.query.price_max}`);
 			}
-
 			const options = {
 				limit,
 				offset: currentOffset,
@@ -53,7 +75,7 @@ export const createProductRouter = ({ meilisearch }) => {
 					"listing_id",
 					"store_id",
 					"store_name",
-					"store_image",
+					"store_image_url",
 					"trust_factor",
 					"image_url",
 					"store_url",
@@ -62,21 +84,20 @@ export const createProductRouter = ({ meilisearch }) => {
 					"last_price",
 				],
 			};
-
-			if (filters.length) {
-				options.filter = filters.join(" AND ");
-			}
+			options.filter = filters.join(" AND ");
 			if (sort) {
 				options.sort = [sort];
 			}
 
 			const index = meilisearch.index("products");
+			await ensureProductSearchSettings(index);
 			const searchResults = await index.search(userQ, options);
 			const hits = Array.isArray(searchResults.hits) ? searchResults.hits : [];
 
 			const enrichedHits = hits.map((product) => ({
 				...product,
-				image_url: getHostedImageUrl(req, product.listing_id),
+				store_image_url: getHostedStoreImageUrl(req, product.store_id),
+				image_url: getHostedProductImageUrl(req, product.listing_id),
 				original_image_url: product.image_url,
 			}));
 
@@ -92,7 +113,7 @@ export const createProductRouter = ({ meilisearch }) => {
 
 	productController.get("/images/:listing_id", async (req, res) => {
 		const listingId = req.params.listing_id;
-		const imagePath = getImage(listingId);
+		const imagePath = getProductImage(listingId);
 
 		if (!fs.existsSync(imagePath)) {
 			return res.status(404).json({ error: "Imagen no encontrada" });
@@ -104,12 +125,3 @@ export const createProductRouter = ({ meilisearch }) => {
 	return productController;
 };
 
-function getImage(listing_id) {
-	return path.join(IMAGES_DIR, `${listing_id}.avif`);
-}
-
-function getHostedImageUrl(req, listing_id) {
-	const host = req.get("host") || "localhost:3000";
-	const protocol = req.protocol || "http";
-	return `${protocol}://${host}/products/images/${encodeURIComponent(listing_id)}`;
-}

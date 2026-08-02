@@ -1,8 +1,25 @@
 import { Router } from "express";
+import fs from "node:fs";
+import {
+	getHostedProductImageUrl,
+	getHostedStoreImageUrl,
+	getStoreImage,
+} from "../utils/images.mjs";
 
 //http://localhost:3000/stores/armytech?page=1 ... http://localhost:3000/stores/armytech?page=2
 export const createStoreRouter = ({ supabase, meilisearch }) => {
 	const storesRouter = Router();
+
+	storesRouter.get("/images/:store_id", async (req, res) => {
+		const storeId = req.params.store_id;
+		const imagePath = getStoreImage(storeId);
+
+		if (!fs.existsSync(imagePath)) {
+			return res.status(404).json({ error: "Imagen de la tienda no encontrada" });
+		}
+
+		res.sendFile(imagePath);
+	});
 
 	// obtiene todas las tiendas
 	storesRouter.get("/", async (req, res) => {
@@ -15,7 +32,16 @@ export const createStoreRouter = ({ supabase, meilisearch }) => {
 				attributesToRetrieve: ["store_id", "store_name", "trust_factor"],
 				offset: currentOffset,
 			});
-			res.json(searchResults);
+
+			const enrichedHits = (searchResults.hits || []).map((store) => ({
+				...store,
+				store_image_url: getHostedStoreImageUrl(req, store.store_id),
+			}));
+
+			res.json({
+				...searchResults,
+				hits: enrichedHits,
+			});
 		} catch (e) {
 			res.status(500).json({ error: "Error interno del servidor" });
 		}
@@ -24,7 +50,6 @@ export const createStoreRouter = ({ supabase, meilisearch }) => {
 	storesRouter.get("/:id", async (req, res) => {
 		try {
 			const storeId = req.params.id;
-			console.log("id leido", storeId);
 			//paginado
 			const page = parseInt(req.query.page) || 1;
 			const limit = 999;
@@ -58,7 +83,16 @@ export const createStoreRouter = ({ supabase, meilisearch }) => {
 				.single();
 
 			if (error) throw error;
-			res.json(data);
+
+			const enrichedData = {
+				...data,
+				store_image_url: getHostedStoreImageUrl(req, data.store_id),
+				products: (data.products || []).map((product) => ({
+					...product,
+					image_url: getHostedProductImageUrl(req, product.listing_id),
+				})),
+			};
+			res.json(enrichedData);
 		} catch (e) {
 			console.error("ERROR REAL DE SUPABASE:", e);
 			res.status(500).json({ error: "error interno del servidor" });
