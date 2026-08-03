@@ -38,12 +38,13 @@ export const createProductRouter = ({ meilisearch }) => {
 
 			/*
 			! filtros por:
-			* store_id 			 /products?q={search}&store_id=armytech
-			* trust_factor  	 /products?q={search}&sort=trust_factor:desc
+			* store_id 			 		     /products?q={search}&store_id=armytech
+			* trust_factor  	 			 /products?q={search}&sort=trust_factor:desc
+		    * relevande  					 /products?q={search}
 			* el precio: [
 			*  "precio más bajo",			 /products?q=mouse&sort=last_price:desc
 			*  "precio mas alto", 		     /products?q=ram&sort=last_price:asc
-			*  "rango de precio[MIN, MAX]"   /products?q={search}&price_min=100000&price_max=250000
+			*  "rango de precio[MIN, MAX]"   /products?q={search}&minPrice=100000&maxPrice=250000
 			]
 			todos:
 			* categoria de producto <- No implementado en ningún lado
@@ -54,20 +55,31 @@ export const createProductRouter = ({ meilisearch }) => {
 			const dateLimit = new Date();
 			dateLimit.setDate(dateLimit.getDate() - 3);
 			const dateLimitIso = dateLimit.toISOString();
-
 			const filters = ["missing < 1", `last_scraped_at >= "${dateLimitIso}"`];
+			const priceFilters = [];
+			const priceMin = Number.parseInt(req.query.minPrice, 10);
+			const priceMax = Number.parseInt(req.query.maxPrice, 10);
+
+			/*
 			if (req.query.store_id) {
 				console.log("filtrando por store_id");
 				filters.push(`store_id = "${req.query.store_id}"`);
 			}
-			if (req.query.price_min) {
+			*/
+
+			if (!Number.isNaN(priceMin)) {
 				console.log("filtrando por un precio minimo");
-				filters.push(`last_price >= ${req.query.price_min}`);
+				filters.push(`last_price >= ${priceMin}`);
 			}
-			if (req.query.price_max) {
+			if (!Number.isNaN(priceMax)) {
 				console.log("filtrando por precio máximo");
-				filters.push(`last_price <= ${req.query.price_max}`);
+				filters.push(`last_price <= ${priceMax}`);
 			}
+
+			if (priceFilters.length > 0) {
+				filters.push(`(${priceFilters.join(" AND ")})`);
+			}
+
 			const options = {
 				limit,
 				offset: currentOffset,
@@ -88,6 +100,8 @@ export const createProductRouter = ({ meilisearch }) => {
 			if (sort) {
 				options.sort = [sort];
 			}
+
+			console.log("options", options);
 
 			const index = meilisearch.index("products");
 			await ensureProductSearchSettings(index);

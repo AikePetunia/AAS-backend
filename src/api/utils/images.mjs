@@ -1,3 +1,4 @@
+import fs from "node:fs";
 import path from "path";
 import { fileURLToPath } from "url";
 
@@ -13,15 +14,24 @@ export function getStoreImage(store_id) {
 	return path.join(path.join(IMAGES_DIR, `stores/${store_id}.webp`));
 }
 
-export function getHostedProductImageUrl(req, listing_id) {
+function buildHostedUrl(req, route, identifier) {
+	if (!identifier) return null;
+
 	const host = req.get("host") || "localhost:3000";
 	const protocol = req.protocol || "http";
-	return `${protocol}://${host}/products/images/${encodeURIComponent(listing_id)}`;
+	return `${protocol}://${host}/${route}/${encodeURIComponent(identifier)}`;
+}
+
+export function getHostedProductImageUrl(req, listing_id) {
+	const imagePath = getProductImage(listing_id);
+	if (!fs.existsSync(imagePath)) return null;
+
+	return buildHostedUrl(req, "products/images", listing_id);
 }
 
 export function getHostedStoreImageUrl(req, store_id) {
-	const host = req.get("host") || "localhost:3000";
-	const protocol = req.protocol || "http";
-	console.log(`${protocol}://${host}/stores/images/${encodeURIComponent(store_id)}`);
-	return `${protocol}://${host}/stores/images/${encodeURIComponent(store_id)}`;
+	const imagePath = getStoreImage(store_id);
+	if (!fs.existsSync(imagePath)) return null;
+
+	return buildHostedUrl(req, "stores/images", store_id);
 }
