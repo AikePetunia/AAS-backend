@@ -37,8 +37,8 @@ const storesEntries = Object.entries(storesInformation); // esto es el nombre de
 const allProducts = [];
 const storeRuns = [];
 const storeToTest = null; // it's by entry name. Use null for ignoring
-const storeAmountToTest = 1;
-const storePagesToTest = 1;
+const storeAmountToTest = 999;
+const storePagesToTest = 999;
 const failedStores = await loadFailedStores();
 const globalSeen = new Set();
 let i = 0;
@@ -50,7 +50,6 @@ export async function scrapeStores() {
 		if (storeToTest && storeName !== storeToTest) continue;
 
 		const runId = Date.now();
-		let storeProducts = [];
 		const storeTasks = [];
 
 		// ! Solo axios interceptando un fetch.
@@ -61,14 +60,9 @@ export async function scrapeStores() {
 			console.log("cheerio + axios con", storeName);
 			const storeToAccess = config.store_url;
 			let j = 0;
-
 			storeRuns.push({ store_id: config.store_id, run_id: runId });
-
-				j++;
 			for (const categoryPath of config.pages) {
-				// testeo rutas
 				if (j >= storePagesToTest) break;
-
 				let fullCategoryUrl = storeToAccess + categoryPath;
 				storeTasks.push(
 					limit(() => cheerioAxiosScraping(fullCategoryUrl, config, globalSeen, runId))
@@ -79,13 +73,9 @@ export async function scrapeStores() {
 
 		// escribimos resultados por tienda
 		let storeResults = await Promise.all(storeTasks);
-		storeProducts = storeResults.flat();
+		let storeProducts = storeResults.flat();
 
-		if (
-			storeProducts.length != 0 &&
-			!config.public_fetching_url &&
-			!failedStores.includes(storeName)
-		) {
+		if (storeProducts.length != 0 && !config.public_fetching_url) {
 			console.log("Cheerio no trajo nada, pruebo Playwright con", storeName);
 			const scraper = new PlaywrightScraping(config, runId, globalSeen);
 			storeProducts = await scraper.scrapeProducts();
@@ -94,10 +84,8 @@ export async function scrapeStores() {
 		if (storeProducts.length != 0) {
 			await fs.writeFile(`./data/raw/${storeName}.json`, JSON.stringify(storeProducts, null, 2));
 		} else {
-			if (!failedStores.includes(storeName)) {
-				failedStores.push(storeName);
-				await fs.writeFile(`./data/failedStores.json`, JSON.stringify(failedStores, null, 2));
-			}
+			failedStores.push(storeName);
+			await fs.writeFile(`./data/failedStores.json`, JSON.stringify(failedStores, null, 2));
 		}
 
 		allProducts.push(...storeProducts);

@@ -82,6 +82,16 @@ const stores = [
 	"https://www.onicaps.online/",
 	"https://www.cuadrosmodernos.com.ar/",
 	"https://www.shibuyacomicstore.com.ar/",
+	// new ones,
+	"https://sortilegiosfrikis.com.ar/",
+	"https://realiti.com.ar/?",
+	"https://www.compugarden.com.ar/",
+	"https://beings.com.ar/",
+	"https://clickgaming.com.ar/",
+	"https://hypergaming.com.ar/",
+	"https://portalstore.com.ar/",
+	"https://logg.com.ar/",
+	"https://www.shopgamer.com.ar/",
 ];
 
 const RESULTS_DIRECTORY = "./src/scraper/getStorePaths/resultPaths/";
