@@ -11,7 +11,7 @@ import { convertImage } from "./utils/convertImage.mjs";
 const scraperClient = axios.create({
 	timeout: 30000, // 15 segundos máximo antes de abortar si el server no responde
 	headers: {
-		"User-Agent": "AAS/0.1 [https://aike.tech, discord: venus.s.s]",
+		"User-Agent": "ARmar/0.1 [https://aike.tech, discord: venus.s.s]",
 		Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 		"Accept-Language": "es-ES,es;q=0.9",
 		Connection: "keep-alive",

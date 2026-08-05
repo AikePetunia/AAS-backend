@@ -108,7 +108,6 @@ export async function scrapeStores() {
 	await purge_products();
 }
 
-await scrapeStores();
 
 async function index_products() {
 	// hago products + datos stores, para darselos al indice de meilisearch

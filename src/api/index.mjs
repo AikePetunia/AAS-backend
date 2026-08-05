@@ -37,8 +37,8 @@ app.use(
 	})
 );
 
-app.use("/stores", createStoreRouter({ supabase, meilisearch }));
-app.use("/stores/:id", createStoreRouter({ supabase, meilisearch }));
+app.use("/stores", createStoreRouter({ supabase }));
+app.use("/stores/:id", createStoreRouter({ supabase }));
 
 app.use("/products", createProductRouter({ meilisearch }));
 

@@ -59,7 +59,7 @@ export async function sendDiscordNotification({ type, taskName, status, stats = 
 	const embedColor = status === "success" ? 3066993 : 15158332;
 
 	const payload = {
-		username: "[AAS] Tasks notifier",
+		username: "[ARmar] Tasks notifier",
 		avatar_url: "https://aas-frontend.vercel.app/assets/eye-D1xYL9FF.gif",
 		embeds: [
 			{
@@ -79,7 +79,7 @@ export async function sendDiscordNotification({ type, taskName, status, stats = 
 				],
 				timestamp: new Date().toISOString(),
 				footer: {
-					text: "AAS Task Manager",
+					text: "ARmar Task Manager",
 				},
 			},
 		],

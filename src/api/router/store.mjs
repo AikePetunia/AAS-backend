@@ -7,7 +7,7 @@ import {
 } from "../utils/images.mjs";
 
 //http://localhost:3000/stores/armytech?page=1 ... http://localhost:3000/stores/armytech?page=2
-export const createStoreRouter = ({ supabase, meilisearch }) => {
+export const createStoreRouter = ({ supabase }) => {
 	const storesRouter = Router();
 
 	storesRouter.get("/images/:store_id", async (req, res) => {
@@ -24,23 +24,39 @@ export const createStoreRouter = ({ supabase, meilisearch }) => {
 	// obtiene todas las tiendas
 	storesRouter.get("/", async (req, res) => {
 		try {
-			const userQ = req.query.q;
-			const index = meilisearch.index("stores");
+			const userQ = typeof req.query.q === "string" ? req.query.q.trim() : "";
 			const currentOffset = parseInt(req.query.offset) || 0;
-			const searchResults = await index.search(userQ, {
-				limit: 70,
-				attributesToRetrieve: ["store_id", "store_name", "trust_factor"],
-				offset: currentOffset,
-			});
+			const limit = 70;
 
-			const enrichedHits = (searchResults.hits || []).map((store) => ({
+			let query = supabase
+				.from("stores")
+				.select("store_id, store_name, trust_factor", { count: "exact" });
+
+			if (userQ) {
+				// los comodines y comas rompen el filtro de postgrest, los saco del texto.
+				const safeQ = userQ.replace(/[%,()\\]/g, " ");
+				query = query.ilike("store_name", `%${safeQ}%`);
+			}
+
+			const { data, count, error } = await query
+				.order("trust_factor", { ascending: false, nullsFirst: false })
+				.order("store_id", { ascending: true })
+				.range(currentOffset, currentOffset + limit - 1);
+
+			if (error) throw error;
+
+			const enrichedHits = (data || []).map((store) => ({
 				...store,
 				store_image_url: getHostedStoreImageUrl(req, store.store_id),
 			}));
 
 			res.json({
-				...searchResults,
 				hits: enrichedHits,
+				query: userQ,
+				offset: currentOffset,
+				limit,
+				estimatedTotalHits: count ?? enrichedHits.length,
+				totalHits: count ?? enrichedHits.length,
 			});
 		} catch (e) {
 			res.status(500).json({ error: "Error interno del servidor" });
@@ -52,7 +68,7 @@ export const createStoreRouter = ({ supabase, meilisearch }) => {
 			const storeId = req.params.id;
 			//paginado
 			const page = parseInt(req.query.page) || 1;
-			const limit = 999;
+			const limit = 30;
 			const from = (page - 1) * limit;
 			const to = from + limit - 1;
 
