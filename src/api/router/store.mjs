@@ -82,7 +82,13 @@ export const createStoreRouter = ({ supabase }) => {
 			const { data, error } = await supabase
 				.from("stores")
 				.select(
-					`*,
+					`
+					store_id,
+					store_name,
+					store_url,
+					trust_factor,
+					store_role,
+					tags,
                 products!fk_store (
                     listing_id,
 					store_id,

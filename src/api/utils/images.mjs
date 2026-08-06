@@ -7,10 +7,14 @@ const __dirname = path.dirname(__filename);
 const IMAGES_DIR = path.join(__dirname, "..", "images");
 
 export function getProductImage(listing_id) {
+	if (!/^[a-zA-Z0-9_-]+$/.test(listing_id)) return null;
+
 	return path.join(IMAGES_DIR, `products/${listing_id}.avif`);
 }
 
 export function getStoreImage(store_id) {
+	if (!/^[a-zA-Z0-9_-]+$/.test(store_id)) return null; 
+
 	return path.join(path.join(IMAGES_DIR, `stores/${store_id}.webp`));
 }
 

@@ -33,8 +33,14 @@ export const createProductRouter = ({ meilisearch }) => {
 		try {
 			const userQ = req.query.q;
 			const sort = req.query.sort;
-			const currentOffset = parseInt(req.query.offset) || 0;
-			const limit = parseInt(req.query.limit) || 20;
+			let currentOffset = parseInt(req.query.offset) || 0;
+			if (currentOffset > 30) {
+				currentOffset = 20;
+			}
+			let limit = parseInt(req.query.limit) || 20;
+			if (limit > 30) {
+				limit = 20;
+			} 
 
 			/*
 			! filtros por:
@@ -53,10 +59,10 @@ export const createProductRouter = ({ meilisearch }) => {
 
 			// los query params van separados por &
 			const dateLimit = new Date();
-			dateLimit.setDate(dateLimit.getDate() - 999);
+			dateLimit.setDate(dateLimit.getDate() - 5);
 			const dateLimitIso = dateLimit.toISOString();
 			// hacer un filtro para excluir paginas que son de decoracion (shibuya) o armadoras de pcs.
-			const filters = ["missing < 999", `last_scraped_at >= "${dateLimitIso}"`];
+			const filters = ["missing < 10", `last_scraped_at >= "${dateLimitIso}"`];
 			const priceFilters = [];
 			const priceMin = Number.parseInt(req.query.minPrice, 10);
 			const priceMax = Number.parseInt(req.query.maxPrice, 10);

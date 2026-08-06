@@ -8,10 +8,12 @@ import dotenv from "dotenv";
 import path from "path";
 import { fileURLToPath } from "url";
 import { Meilisearch } from "meilisearch";
+import { limiter } from "./middlewares/rate-limit.mjs";
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.join(__dirname, "../../.env") });
-
+const ALLOWED_ORIGINS = process.env.ALLOWED_ORIGINS;
 const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SECRET_KEY);
 // Front-end -> Express -> Guarda en supabase -> copia a Meilisearch.
 const meilisearch = new Meilisearch({
@@ -24,21 +26,16 @@ const server = createServer(app);
 const port = process.env.PORT || 3000;
 
 app.use(express.json());
+app.use(limiter);
 app.disable("x-powered-by");
 
 app.use(
 	corsMiddleware({
-		acceptedOrigins: [
-			"http://localhost:8080",
-			"http://localhost:3000",
-			"http://localhost:5173",
-			"http://localhost:1234",
-		],
+		acceptedOrigins: ALLOWED_ORIGINS,
 	})
 );
 
 app.use("/stores", createStoreRouter({ supabase }));
-app.use("/stores/:id", createStoreRouter({ supabase }));
 
 app.use("/products", createProductRouter({ meilisearch }));
 
