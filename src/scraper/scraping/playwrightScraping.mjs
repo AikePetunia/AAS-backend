@@ -63,7 +63,6 @@ export class PlaywrightScraping {
 
 						const imageUrl = product.querySelector(sel.image_url)?.src;
 						const priceText = product.querySelector(sel.price)?.innerText?.trim();
-						convertImage(imageUrl, listing_id);
 
 						return { title_raw, productUrl, imageUrl, priceText };
 					})
@@ -78,6 +77,9 @@ export class PlaywrightScraping {
 				if (this.seen.has(listing_id)) return null;
 				this.seen.add(listing_id);
 
+				if (raw.imageUrl) {
+					convertImage(raw.imageUrl, listing_id);
+				}
 				return {
 					listing_id,
 					store_id: storeId,

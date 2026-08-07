@@ -5,6 +5,7 @@ import {
 	getHostedStoreImageUrl,
 	getStoreImage,
 } from "../utils/images.mjs";
+import { sanitizeSearchQuery, sanitizeStoreId, sanitizeInteger } from "../utils/safeQuery.mjs";
 
 //http://localhost:3000/stores/armytech?page=1 ... http://localhost:3000/stores/armytech?page=2
 export const createStoreRouter = ({ supabase }) => {
@@ -14,7 +15,7 @@ export const createStoreRouter = ({ supabase }) => {
 		const storeId = req.params.store_id;
 		const imagePath = getStoreImage(storeId);
 
-		if (!fs.existsSync(imagePath)) {
+		if (!imagePath || !fs.existsSync(imagePath)) {
 			return res.status(404).json({ error: "Imagen de la tienda no encontrada" });
 		}
 
@@ -24,8 +25,12 @@ export const createStoreRouter = ({ supabase }) => {
 	// obtiene todas las tiendas
 	storesRouter.get("/", async (req, res) => {
 		try {
-			const userQ = typeof req.query.q === "string" ? req.query.q.trim() : "";
-			const currentOffset = parseInt(req.query.offset) || 0;
+			const userQ = sanitizeSearchQuery(req.query.q);
+			const currentOffset = sanitizeInteger(req.query.offset, {
+				min: 0,
+				max: 100000,
+				fallback: 0,
+			});
 			const limit = 70;
 
 			let query = supabase
@@ -33,9 +38,7 @@ export const createStoreRouter = ({ supabase }) => {
 				.select("store_id, store_name, trust_factor", { count: "exact" });
 
 			if (userQ) {
-				// los comodines y comas rompen el filtro de postgrest, los saco del texto.
-				const safeQ = userQ.replace(/[%,()\\]/g, " ");
-				query = query.ilike("store_name", `%${safeQ}%`);
+				query = query.ilike("store_name", `%${userQ}%`);
 			}
 
 			const { data, count, error } = await query
@@ -65,9 +68,12 @@ export const createStoreRouter = ({ supabase }) => {
 
 	storesRouter.get("/:id", async (req, res) => {
 		try {
-			const storeId = req.params.id;
+			const storeId = sanitizeStoreId(req.params.id);
+			if (!storeId) {
+				return res.status(400).json({ error: "store_id inválido" });
+			}
 			//paginado
-			const page = parseInt(req.query.page) || 1;
+			const page = sanitizeInteger(req.query.page, { min: 1, max: 100000, fallback: 1 });
 			const limit = 30;
 			const from = (page - 1) * limit;
 			const to = from + limit - 1;

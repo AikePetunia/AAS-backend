@@ -2,15 +2,11 @@ import { storesInformation } from "../config/storesInformation.mjs";
 import { createClient } from "@supabase/supabase-js";
 import dotenv from "dotenv";
 import fs from "fs/promises";
-import { Meilisearch } from "meilisearch";
 
 dotenv.config();
 
 const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SECRET_KEY);
-const meilisearch = new Meilisearch({
-	host: process.env.MEILISEARCH_URL,
-	apiKey: process.env.MEILISEARCH_ADMIN_API_KEY,
-});
+
 
 export async function storesDump() {
 	console.log("Writing all stores info to dump...");

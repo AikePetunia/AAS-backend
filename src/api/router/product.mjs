@@ -5,117 +5,133 @@ import {
 	getHostedProductImageUrl,
 	getHostedStoreImageUrl,
 } from "../utils/images.mjs";
+import {
+	sanitizeSearchQuery,
+	toSearchTokens,
+	sanitizeStoreId,
+	sanitizeInteger,
+	sanitizeSort,
+} from "../utils/safeQuery.mjs";
 
-let productSearchSettingsReady = false;
+const MAX_PRICE = 10000000; // el producto más caro que vi es de 10m
+const MAX_MISSING = 10; // producto 10 veces que no se vio, "no esta en stock"
+const STOCK_DAYS = 5; // ultima vez visto hace 5 días
+const MAX_LIMIT = 1000;
+const MAX_OFFSET = 100000;
 
-async function ensureProductSearchSettings(index) {
-	if (productSearchSettingsReady) return;
+const PRODUCT_SELECT = `
+	listing_id,
+	store_id,
+	product_url,
+	title_raw,
+	last_price,
+	image_url,
+	stores!fk_store!inner (
+		store_name,
+		store_url,
+		trust_factor
+	)
+`;
 
-	await index.updateSettings({
-		filterableAttributes: [
-			"store_id",
-			"last_price",
-			"category",
-			"trust_factor",
-			"missing",
-			"last_scraped_at",
-		],
-		sortableAttributes: ["last_price", "missing"],
-	});
-
-	productSearchSettingsReady = true;
-}
-
-export const createProductRouter = ({ meilisearch }) => {
+export const createProductRouter = ({ supabase }) => {
 	const productController = Router();
 
 	productController.get("/", async (req, res) => {
+		const startedAt = Date.now();
 		try {
-			const userQ = req.query.q;
-			const sort = req.query.sort;
-			let currentOffset = parseInt(req.query.offset) || 0;
-			if (currentOffset > 30) {
-				currentOffset = 20;
-			}
-			let limit = parseInt(req.query.limit) || 20;
+			let currentOffset = sanitizeInteger(req.query.offset, {
+				min: 0,
+				max: MAX_OFFSET,
+				fallback: 0,
+			});
+
+			let limit = sanitizeInteger(req.query.limit, { min: 1, max: MAX_LIMIT, fallback: 20 });
 			if (limit > 30) {
 				limit = 20;
-			} 
+			}
 
 			/*
 			! filtros por:
 			* store_id 			 		     /products?q={search}&store_id=armytech
 			* trust_factor  	 			 /products?q={search}&sort=trust_factor:desc
-		    * relevande  					 /products?q={search}
+		    * relevance  					 /products?q={search}
 			* el precio: [
 			*  "precio más bajo",			 /products?q=mouse&sort=last_price:desc
 			*  "precio mas alto", 		     /products?q=ram&sort=last_price:asc
 			*  "rango de precio[MIN, MAX]"   /products?q={search}&minPrice=100000&maxPrice=250000
 			]
 			todos:
-			* categoria de producto <- No implementado en ningún lado
+			* categoria de producto <- No implementado en ningún lado xd
 			* Marca de producto
 			*/
 
-			// los query params van separados por &
+			const userQ = sanitizeSearchQuery(req.query.q);
+			const searchTokens = toSearchTokens(userQ);
+
+			const storeId = sanitizeStoreId(req.query.store_id);
+			if (storeId === false) {
+				return res.status(400).json({ error: "store_id inválido" });
+			}
+
+			const priceMin = sanitizeInteger(req.query.minPrice, { min: 0, max: MAX_PRICE });
+			const priceMax = sanitizeInteger(req.query.maxPrice, { min: 0, max: MAX_PRICE });
+			const sort = sanitizeSort(req.query.sort);
+
 			const dateLimit = new Date();
-			dateLimit.setDate(dateLimit.getDate() - 5);
+			dateLimit.setDate(dateLimit.getDate() - STOCK_DAYS);
 			const dateLimitIso = dateLimit.toISOString();
-			// hacer un filtro para excluir paginas que son de decoracion (shibuya) o armadoras de pcs.
-			const filters = ["missing < 10", `last_scraped_at >= "${dateLimitIso}"`];
-			const priceFilters = [];
-			const priceMin = Number.parseInt(req.query.minPrice, 10);
-			const priceMax = Number.parseInt(req.query.maxPrice, 10);
 
-			if (!Number.isNaN(priceMin)) {
-				console.log("filtrando por un precio minimo");
-				filters.push(`last_price >= ${priceMin}`);
-			}
-			if (!Number.isNaN(priceMax)) {
-				console.log("filtrando por precio máximo");
-				filters.push(`last_price <= ${priceMax}`);
+			// todo: hacer un filtro para excluir paginas que son de decoracion (shibuya) o armadoras de pcs.
+			let query = supabase
+				.from("products")
+				.select(PRODUCT_SELECT, { count: "exact" })
+				.lt("missing", MAX_MISSING)
+				.gte("last_scraped_at", dateLimitIso);
+
+			// el titulo tiene que contener todas las palabras buscadas
+			for (const token of searchTokens) {
+				query = query.ilike("title_raw", `%${token}%`);
 			}
 
-			if (priceFilters.length > 0) {
-				filters.push(`(${priceFilters.join(" AND ")})`);
+			if (storeId) {
+				query = query.eq("store_id", storeId);
+			}
+			if (priceMin !== null) {
+				query = query.gte("last_price", priceMin);
+			}
+			if (priceMax !== null) {
+				query = query.lte("last_price", priceMax);
 			}
 
-			const options = {
-				limit,
-				offset: currentOffset,
-				attributesToRetrieve: [
-					"listing_id",
-					"store_id",
-					"store_name",
-					"store_image_url",
-					"trust_factor",
-					"image_url",
-					"store_url",
-					"product_url",
-					"title_raw",
-					"last_price",
-				],
-			};
-			options.filter = filters.join(" AND ");
 			if (sort) {
-				options.sort = [sort];
+				query = query.order(sort.column, { ascending: sort.ascending, nullsFirst: false });
+			} else {
+				query = query.order("stores(trust_factor)", { ascending: false, nullsFirst: false });
 			}
+			query = query.order("listing_id", { ascending: true });
 
-			const index = meilisearch.index("products");
-			await ensureProductSearchSettings(index);
-			const searchResults = await index.search(userQ, options);
-			const hits = Array.isArray(searchResults.hits) ? searchResults.hits : [];
+			const { data, count, error } = await query.range(currentOffset, currentOffset + limit - 1);
+			if (error) throw error;
 
-			const enrichedHits = hits.map((product) => ({
+			// datos igual q meilisearch para no cambiar la manera en que se consume desde el front
+			const enrichedHits = (data || []).map(({ stores, ...product }) => ({
 				...product,
+				store_name: stores?.store_name ?? null,
+				store_url: stores?.store_url ?? null,
+				trust_factor: stores?.trust_factor ?? null,
 				store_image_url: getHostedStoreImageUrl(req, product.store_id),
 				image_url: getHostedProductImageUrl(req, product.listing_id),
 				original_image_url: product.image_url,
 			}));
 
 			res.json({
-				...searchResults,
 				hits: enrichedHits,
+				query: userQ,
+				processingTimeMs: Date.now() - startedAt,
+				limit,
+				offset: currentOffset,
+				estimatedTotalHits: count ?? enrichedHits.length,
+				totalHits: count ?? enrichedHits.length,
 			});
 		} catch (e) {
 			console.log("error", e);
@@ -127,7 +143,7 @@ export const createProductRouter = ({ meilisearch }) => {
 		const listingId = req.params.listing_id;
 		const imagePath = getProductImage(listingId);
 
-		if (!fs.existsSync(imagePath)) {
+		if (!imagePath || !fs.existsSync(imagePath)) {
 			return res.status(404).json({ error: "Imagen no encontrada" });
 		}
 
@@ -136,4 +152,3 @@ export const createProductRouter = ({ meilisearch }) => {
 
 	return productController;
 };
-

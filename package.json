@@ -11,6 +11,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@aws-sdk/client-s3": "3.1105.0",
 		"@supabase/ssr": "0.12.3",
 		"@supabase/supabase-js": "2.110.8",
 		"axios": "^1.18.1",
@@ -19,7 +20,6 @@
 		"dotenv": "17.4.2",
 		"express": "5.2.1",
 		"express-rate-limit": "8.6.2",
-		"meilisearch": "0.60.0",
 		"node-cron": "4.6.0",
 		"p-limit": "^7.3.0",
 		"sharp": "^0.35.3",

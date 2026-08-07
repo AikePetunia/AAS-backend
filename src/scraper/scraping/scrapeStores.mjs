@@ -6,9 +6,7 @@ import fs from "fs/promises";
 import { all } from "axios";
 import { createClient } from "@supabase/supabase-js";
 import dotenv from "dotenv";
-import { meilisearchConfig } from "../config/meilisearchConfig.mjs";
 import { PlaywrightScraping } from "./playwrightScraping.mjs";
-import { Meilisearch } from "meilisearch";
 
 dotenv.config();
 
@@ -16,10 +14,6 @@ const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SEC
 	connectTimeout: 30000,
 	headersTimeout: 30000,
 	bodyTimeout: 30000,
-});
-const meilisearch = new Meilisearch({
-	host: process.env.MEILISEARCH_URL,
-	apiKey: process.env.MEILISEARCH_ADMIN_API_KEY,
 });
 
 async function loadFailedStores() {
@@ -37,8 +31,8 @@ const storesEntries = Object.entries(storesInformation); // esto es el nombre de
 const allProducts = [];
 const storeRuns = [];
 const storeToTest = null; // it's by entry name. Use null for ignoring
-const storeAmountToTest = 999;
-const storePagesToTest = 999;
+const storeAmountToTest = 1;
+const storePagesToTest = 1;
 const failedStores = await loadFailedStores();
 const globalSeen = new Set();
 let i = 0;
@@ -93,7 +87,7 @@ export async function scrapeStores() {
 		i++;
 	}
 
-	// inserto datos a supabase y indexo en meilisearch.
+	// inserto datos a supabase
 	const uniqueProductsByListingId = [
 		...new Map(allProducts.map((product) => [product.listing_id, product])).values(),
 	];
@@ -103,45 +97,11 @@ export async function scrapeStores() {
 		.select();
 	if (error) throw error;
 
-	await index_products();
 	await increment_missing();
 	await purge_products();
 }
 
-
-async function index_products() {
-	// hago products + datos stores, para darselos al indice de meilisearch
-	const { data: dbProducts, error: error } = await supabase
-		.from("products")
-		.select(`*, stores!fk_store ( trust_factor )`);
-	if (error) throw error;
-
-	const productsForMeili = dbProducts.map((product) => ({
-		...product,
-		trust_factor: product.stores?.trust_factor,
-	}));
-
-	console.log("indexing to meilisearch...");
-	const index = meilisearch.index("products");
-	await meilisearchConfig(index, meilisearch);
-
-	const enqueuedTask = await index.addDocuments(productsForMeili, { primaryKey: "listing_id" });
-	const finishedTask = await meilisearch.tasks.waitForTask(enqueuedTask.taskUid, {
-		timeOutMs: 120000,
-	});
-
-	if (finishedTask.status !== "succeeded") {
-		console.error("Meilisearch task failed:", finishedTask.error);
-		throw new Error("Fallo la indexacion en Meilisearch");
-	}
-
-	if (error) {
-		console.error(error);
-		throw new Error("Fallo el upsert en la DB");
-	}
-	console.log("inserted to db");
-}
-
+await scrapeStores();
 /*
 	Por tienda, tiene un "id de sesion", si en esa sesion, un producto no volvio a aparecer, incrementa missing.
 
